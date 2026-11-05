@@ -8,13 +8,20 @@ O caso de estudo é o Brentford na Premier League 2024-25.
 
 Requer [uv](https://docs.astral.sh/uv/).
 
-**Os dados não fazem parte deste repositório.** Os termos de uso das fontes e a autorização para redistribuir a base ainda não foram verificados. Sem os três arquivos abaixo em `data/raw/`, não é possível gerar a base nem abrir o dashboard:
+**Os dados e as métricas ficam em uma [pasta do Google Drive](https://drive.google.com/drive/folders/1XLrhqb36JVIoV7jH9huuAS4NhRbaabQG), e não neste repositório.** Os termos de uso das fontes e a autorização para redistribuir a base ainda não foram verificados, então use esses arquivos só para acompanhar o projeto.
 
-- `fbref_jogadores.csv`
-- `fbref_goleiros.csv`
-- `transfermarkt_jogadores.csv`
+Baixe os arquivos e coloque cada um no caminho indicado:
 
-Com os arquivos no lugar:
+| Arquivo | Caminho no projeto | Conteúdo |
+|---|---|---|
+| `fbref_jogadores.csv` | `data/raw/` | Estatísticas dos jogadores de linha |
+| `fbref_goleiros.csv` | `data/raw/` | Estatísticas dos goleiros |
+| `transfermarkt_jogadores.csv` | `data/raw/` | Valores de mercado |
+| `players.csv` | `data/processed/` | Base unificada, com notas e preço esperado |
+| `coverage.json` | `data/processed/` | Cobertura por clube e modelo de preço |
+| `facts.json` | `article/` | Métricas e resultados do estudo de caso |
+
+Os três arquivos de `data/raw/` são obrigatórios: sem eles, não é possível gerar a base nem abrir o dashboard. Com eles no lugar:
 
 ```bash
 uv sync
@@ -66,5 +73,5 @@ As indicações são um ponto de partida para o scouting, e não recomendações
 
 ## Fontes e créditos
 
-- **Dados:** FBref e Transfermarkt, copiados do repositório [TailUFPB/Esportes-2025](https://github.com/TailUFPB/Esportes-2025), commit `be2711a`. Esse repositório é privado, então o link exige acesso. Os dados não são distribuídos aqui porque os termos de uso das fontes ainda precisam ser verificados.
+- **Dados:** FBref e Transfermarkt, copiados do repositório [TailUFPB/Esportes-2025](https://github.com/TailUFPB/Esportes-2025), commit `be2711a`. Esse repositório é privado, então o link exige acesso. Os termos de uso das fontes ainda precisam ser verificados.
 - **Pesos e escala da nota:** classe `FootballRating` do mesmo projeto, da Diretoria de Esportes da TAIL.
