@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" role="img" aria-label="Mercado com orçamento limitado">
+  <g fill="none" stroke="#c6f135" stroke-width="3.5">
+    <rect x="3" y="10" width="62" height="44" rx="4"/>
+    <line x1="34" y1="10" x2="34" y2="54"/>
+    <circle cx="34" cy="32" r="9"/>
+    <rect x="3" y="21" width="10" height="22"/>
+    <rect x="55" y="21" width="10" height="22"/>
+  </g>
+  <circle cx="34" cy="32" r="2.5" fill="#c6f135"/>
+  <text x="78" y="29" font-family="'Barlow Condensed', Arial Narrow, sans-serif" font-size="24" font-weight="700" fill="#eef5ef">MERCADO</text>
+  <text x="78" y="52" font-family="'Barlow Condensed', Arial Narrow, sans-serif" font-size="20" font-weight="600" fill="#c6f135">ORÇAMENTO LIMITADO</text>
+</svg>
