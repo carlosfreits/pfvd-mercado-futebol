@@ -5,7 +5,12 @@ __pycache__/
 .~lock.*
 
 # Dados de terceiros: termos de uso e autorização ainda não verificados.
-data/
+# Só data/open/ é versionada, por ter licença aberta declarada (CC0).
+data/*
+!data/open/
+
+# Chaves de API.
+.env
 
 # Materiais de apresentação e rascunhos ficam só na máquina local.
 presentation/

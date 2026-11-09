@@ -1,0 +1,41 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at,gk_games,gk_minutes
+Bernd Leno,Germany,GK,GK,Fulham FC,34,1992,190cm,tm_72476,38,3420,38.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,38,3420
+Martin Dúbravka,Slovakia,GK,GK,Burnley FC,37,1989,191cm,tm_74960,35,3150,35.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,35,3150
+Stefan Ortega,Germany,GK,GK,Nottingham Forest,34,1992,185cm,tm_85941,3,270,3.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,270
+Karl Darlow,Wales,GK,GK,Leeds United,36,1990,190cm,tm_99397,22,1980,22.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,22,1980
+Alisson,Brazil,GK,GK,Liverpool FC,34,1992,193cm,tm_105470,26,2340,26.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,26,2340
+Sam Johnstone,England,GK,GK,Wolverhampton Wanderers,33,1993,193cm,tm_110864,12,1080,12.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,12,1080
+Emiliano Martínez,Argentina,GK,GK,Aston Villa,34,1992,195cm,tm_111873,32,2835,31.5,0,1,1,2,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,32,2835
+Alphonse Areola,France,GK,GK,West Ham United,33,1993,195cm,tm_120629,20,1800,20.0,0,1,1,0,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09,20,1800
+Marco Bizot,Netherlands,GK,GK,Aston Villa,35,1991,193cm,tm_124884,7,585,6.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,7,585
+Matz Sels,Belgium,GK,GK,Nottingham Forest,34,1992,188cm,tm_127202,31,2667,29.63,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,31,2667
+Jordan Pickford,England,GK,GK,Everton FC,32,1994,185cm,tm_130164,38,3420,38.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,38,3420
+Daniel Bentley,England,GK,GK,Wolverhampton Wanderers,33,1993,193cm,tm_136401,3,270,3.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,270
+Nick Pope,England,GK,GK,Newcastle United,34,1992,198cm,tm_192080,27,2417,26.86,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,27,2417
+Kepa Arrizabalaga,Spain,GK,GK,Arsenal FC,32,1994,188cm,tm_192279,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Angus Gunn,Scotland,GK,GK,Nottingham Forest,30,1996,196cm,tm_201574,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,45
+Freddie Woodman,England,GK,GK,Liverpool FC,29,1997,188cm,tm_226049,3,212,2.36,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,212
+José Sá,Portugal,GK,GK,Wolverhampton Wanderers,33,1993,192cm,tm_249994,23,2070,23.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,23,2070
+Dean Henderson,England,GK,GK,Crystal Palace,29,1997,188cm,tm_258919,37,3330,37.0,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,37,3330
+David Raya,Spain,GK,GK,Arsenal FC,31,1995,186cm,tm_262749,37,3330,37.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,37,3330
+Guglielmo Vicario,Italy,GK,GK,Tottenham Hotspur,30,1996,194cm,tm_286047,31,2790,31.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,31,2790
+Walter Benítez,Argentina,GK,GK,Crystal Palace,33,1993,191cm,tm_296802,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Gianluigi Donnarumma,Italy,GK,GK,Manchester City,27,1999,196cm,tm_315858,34,3060,34.0,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Altay Bayındır,Türkiye,GK,GK,Manchester United,28,1998,198cm,tm_336077,6,540,6.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,6,540
+Caoimhín Kelleher,Ireland,GK,GK,Brentford FC,28,1998,188cm,tm_340918,37,3330,37.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,37,3330
+Lucas Perri,Brazil,GK,GK,Leeds United,29,1997,197cm,tm_352041,16,1440,16.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,16,1440
+Mads Hermansen,Denmark,GK,GK,West Ham United,26,2000,187cm,tm_400536,18,1620,18.0,0,1,1,0,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09,18,1620
+Robert Sánchez,Spain,GK,GK,Chelsea FC,29,1997,197cm,tm_403151,35,3041,33.79,0,1,1,3,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,35,3041
+Aaron Ramsdale,England,GK,GK,Newcastle United,28,1998,190cm,tm_427568,12,1003,11.14,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,12,1003
+John Victor,Brazil,GK,GK,Nottingham Forest,30,1996,197cm,tm_432914,5,438,4.87,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,5,438
+Djordje Petrovic,Serbia,GK,GK,AFC Bournemouth,27,1999,194cm,tm_465555,38,3420,38.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,38,3420
+Hákon Valdimarsson,Iceland,GK,GK,Brentford FC,25,2001,195cm,tm_488935,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Giorgi Mamardashvili,Georgia,GK,GK,Liverpool FC,26,2000,197cm,tm_502676,10,868,9.64,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,868
+Senne Lammens,Belgium,GK,GK,Manchester United,24,2002,193cm,tm_503883,32,2880,32.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,32,2880
+Bart Verbruggen,Netherlands,GK,GK,Brighton & Hove Albion,24,2002,193cm,tm_565093,38,3420,38.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,38,3420
+James Trafford,England,GK,GK,Manchester City,24,2002,192cm,tm_566799,4,360,4.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,4,360
+Filip Jørgensen,Denmark,GK,GK,Chelsea FC,24,2002,192cm,tm_585323,5,378,4.2,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,5,378
+Melker Ellborg,Sweden,GK,GK,Sunderland AFC,23,2003,191cm,tm_605426,3,270,3.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,270
+Robin Roefs,Netherlands,GK,GK,Sunderland AFC,23,2003,193cm,tm_646991,35,3150,35.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,35,3150
+Antonín Kinský,Czech Republic,GK,GK,Tottenham Hotspur,23,2003,190cm,tm_725912,7,630,7.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,7,630
+Max Weiß,Germany,GK,GK,Burnley FC,22,2004,190cm,tm_829299,3,270,3.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,270

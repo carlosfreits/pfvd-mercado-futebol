@@ -1,0 +1,523 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at
+Thiago Silva,Brazil,DF,DF (CB),FC Porto,42,1984,181cm,tm_29241,8,576,6.4,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Moutinho,Portugal,MF,MF (CM),SC Braga,40,1986,170cm,tm_29364,31,2194,24.38,1,1,2,6,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+José Fonte,Portugal,DF,DF (CB),Casa Pia AC,43,1983,191cm,tm_33829,18,1439,15.99,1,0,1,3,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Nenê,Brazil,FW,FW (AM),Avs Futebol,43,1983,183cm,tm_45717,21,351,3.9,4,1,5,2,0,1.03,0.26,1.28,transfermarkt_datasets,False,2026-11-09
+Nicolás Otamendi,Argentina,DF,DF (CB),SL Benfica,38,1988,182cm,tm_54781,30,2605,28.94,2,3,5,7,0,0.07,0.1,0.17,transfermarkt_datasets,False,2026-11-09
+Pizzi,Portugal,MF,MF (AM),GD Estoril Praia,37,1989,177cm,tm_64339,23,647,7.19,0,5,5,0,0,0.0,0.7,0.7,transfermarkt_datasets,False,2026-11-09
+David Simão,Portugal,MF,MF (CM),FC Arouca,36,1990,183cm,tm_70359,12,660,7.33,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luuk de Jong,Netherlands,FW,FW (AM),FC Porto,36,1990,188cm,tm_72522,5,257,2.86,1,0,1,1,0,0.35,0.0,0.35,transfermarkt_datasets,False,2026-11-09
+Nélson Oliveira,Portugal,FW,FW (AM),Vitória Guimarães SC,35,1991,186cm,tm_72768,26,1315,14.61,3,0,3,3,0,0.21,0.0,0.21,transfermarkt_datasets,False,2026-11-09
+João Aurélio,Portugal,DF,DF (FB),CD Nacional,38,1988,182cm,tm_84711,21,1322,14.69,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sergi Gómez,Spain,DF,DF (CB),FC Alverca,34,1992,185cm,tm_92947,29,2484,27.6,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jakub Brabec,Czech Republic,DF,DF (CB),Rio Ave FC,34,1992,186cm,tm_112948,25,2150,23.89,1,0,1,4,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Bebeto,Brazil,DF,DF (FB),CD Tondela,36,1990,174cm,tm_124548,24,1901,21.12,3,0,3,5,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Hélder Tavares,Cape Verde,MF,MF (CM),CD Tondela,37,1989,178cm,tm_134608,20,589,6.54,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Buatu,Angola,DF,DF (CB),Gil Vicente FC,33,1993,187cm,tm_137313,31,2745,30.5,1,2,3,4,0,0.03,0.07,0.1,transfermarkt_datasets,False,2026-11-09
+Paulo Oliveira,Portugal,DF,DF (CB),SC Braga,34,1992,187cm,tm_139336,17,819,9.1,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tomané,Portugal,FW,FW (AM),Avs Futebol,34,1992,186cm,tm_139393,29,2025,22.5,4,1,5,5,0,0.18,0.04,0.22,transfermarkt_datasets,False,2026-11-09
+Bruma,Portugal,FW,FW (WM),SL Benfica,32,1994,173cm,tm_139396,3,19,0.21,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ivan Cavaleiro,Angola,FW,FW (WM),CD Tondela,33,1993,175cm,tm_149716,13,852,9.47,2,0,2,1,0,0.21,0.0,0.21,transfermarkt_datasets,False,2026-11-09
+André Geraldes,Portugal,DF,DF (FB),Casa Pia AC,35,1991,181cm,tm_154319,26,1995,22.17,0,0,0,9,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aderllan Santos,Brazil,DF,DF (CB),Avs Futebol,37,1989,193cm,tm_159142,17,1032,11.47,1,0,1,2,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Frederico Venâncio,Portugal,DF,DF (CB),CD Santa Clara,33,1993,186cm,tm_169681,22,1731,19.23,1,1,2,6,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Rony Lopes,Portugal,FW,FW (WM),CD Tondela,31,1995,174cm,tm_174694,16,1042,11.58,4,2,6,3,0,0.35,0.17,0.52,transfermarkt_datasets,False,2026-11-09
+Gonçalo Paciência,Portugal,FW,FW (AM),CD Santa Clara,32,1994,184cm,tm_181547,12,499,5.54,3,0,3,3,0,0.54,0.0,0.54,transfermarkt_datasets,False,2026-11-09
+Seba Pérez,Colombia,MF,MF (DM),Casa Pia AC,33,1993,175cm,tm_182108,27,1567,17.41,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Seko Fofana,Cote d'Ivoire,MF,MF (CM),FC Porto,31,1995,185cm,tm_182893,12,276,3.07,3,1,4,1,0,0.98,0.33,1.3,transfermarkt_datasets,False,2026-11-09
+Bas Kuipers,Netherlands,DF,DF (FB),FC Arouca,32,1994,180cm,tm_187188,17,1352,15.02,1,2,3,3,0,0.07,0.13,0.2,transfermarkt_datasets,False,2026-11-09
+André Sousa,Portugal,MF,MF (CM),CD Nacional,36,1990,181cm,tm_187860,12,125,1.39,0,2,2,1,0,0.0,1.44,1.44,transfermarkt_datasets,False,2026-11-09
+Florian Grillitsch,Austria,MF,MF (DM),SC Braga,31,1995,186cm,tm_195736,20,1129,12.54,1,1,2,3,0,0.08,0.08,0.16,transfermarkt_datasets,False,2026-11-09
+Rúben Semedo,Portugal,DF,DF (CB),Avs Futebol,32,1994,191cm,tm_197602,9,782,8.69,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rafa Soares,Portugal,DF,DF (FB),FC Famalicão,31,1995,177cm,tm_198006,24,1708,18.98,1,3,4,4,0,0.05,0.16,0.21,transfermarkt_datasets,False,2026-11-09
+João Afonso,Portugal,DF,DF (CB),CD Tondela,36,1990,188cm,tm_211107,13,608,6.76,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fredrik Aursnes,Norway,MF,MF (CM),SL Benfica,31,1995,181cm,tm_223367,28,2294,25.49,3,3,6,2,0,0.12,0.12,0.24,transfermarkt_datasets,False,2026-11-09
+Rafael Barbosa,Portugal,MF,MF (AM),Avs Futebol,30,1996,173cm,tm_225151,13,648,7.2,1,2,3,3,0,0.14,0.28,0.42,transfermarkt_datasets,False,2026-11-09
+João Novais,Portugal,MF,MF (CM),Rio Ave FC,33,1993,183cm,tm_228940,2,44,0.49,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas João,Angola,FW,FW (AM),CD Nacional,33,1993,193cm,tm_234787,19,240,2.67,0,1,1,1,0,0.0,0.37,0.37,transfermarkt_datasets,False,2026-11-09
+Tiago Silva,Portugal,MF,MF (CM),Vitória Guimarães SC,33,1993,172cm,tm_236997,4,287,3.19,1,0,1,3,0,0.31,0.0,0.31,transfermarkt_datasets,False,2026-11-09
+Rafa Silva,Portugal,FW,FW (AM),SL Benfica,33,1993,172cm,tm_238055,16,920,10.22,5,0,5,0,0,0.49,0.0,0.49,transfermarkt_datasets,False,2026-11-09
+Cassiano,Brazil,FW,FW (AM),Casa Pia AC,37,1989,184cm,tm_238367,31,1884,20.93,6,0,6,5,0,0.29,0.0,0.29,transfermarkt_datasets,False,2026-11-09
+Jan Bednarek,Poland,DF,DF (CB),FC Porto,30,1996,189cm,tm_243028,32,2680,29.78,2,0,2,8,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+João Graça,Portugal,MF,MF (CM),Rio Ave FC,31,1995,177cm,tm_257707,8,59,0.66,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Carvalho,Portugal,MF,MF (AM),GD Estoril Praia,29,1997,172cm,tm_258005,33,2798,31.09,6,12,18,8,0,0.19,0.39,0.58,transfermarkt_datasets,False,2026-11-09
+Ricardo Horta,Portugal,FW,FW (WM),SC Braga,32,1994,173cm,tm_261927,28,2150,23.89,14,6,20,3,0,0.59,0.25,0.84,transfermarkt_datasets,False,2026-11-09
+Kiki,Portugal,DF,DF (FB),Avs Futebol,32,1994,181cm,tm_270055,27,1530,17.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Héctor Hernández,Spain,FW,FW (AM),Gil Vicente FC,31,1995,180cm,tm_273738,9,351,3.9,2,1,3,1,0,0.51,0.26,0.77,transfermarkt_datasets,False,2026-11-09
+Sandro Lima,Brazil,FW,FW (AM),FC Alverca,36,1990,186cm,tm_284739,29,1426,15.84,5,2,7,2,0,0.32,0.13,0.44,transfermarkt_datasets,False,2026-11-09
+Fran Navarro,Spain,FW,FW (AM),SC Braga,28,1998,179cm,tm_284883,29,1275,14.17,6,1,7,2,0,0.42,0.07,0.49,transfermarkt_datasets,False,2026-11-09
+Xeka,Portugal,MF,MF (CM),GD Estoril Praia,32,1994,185cm,tm_290256,12,654,7.27,1,0,1,1,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Rochinha,Portugal,FW,FW (WM),FC Famalicão,31,1995,169cm,tm_290336,1,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nuno Santos,Portugal,DF,DF (FB),Sporting CP,31,1995,177cm,tm_290391,4,57,0.63,0,1,1,0,0,0.0,1.59,1.59,transfermarkt_datasets,False,2026-11-09
+Pedro Pacheco,Portugal,DF,DF (CB),CD Santa Clara,29,1997,189cm,tm_290508,3,187,2.08,1,0,1,0,0,0.48,0.0,0.48,transfermarkt_datasets,False,2026-11-09
+Samu,Portugal,MF,MF (AM),Vitória Guimarães SC,30,1996,170cm,tm_291939,29,2039,22.66,7,3,10,4,0,0.31,0.13,0.44,transfermarkt_datasets,False,2026-11-09
+Ferro,Portugal,DF,DF (CB),GD Estoril Praia,29,1997,191cm,tm_294321,27,1634,18.16,2,0,2,4,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Dodi Lukébakio,Belgium,FW,FW (WM),SL Benfica,29,1997,184cm,tm_303259,17,745,8.28,0,5,5,1,0,0.0,0.6,0.6,transfermarkt_datasets,False,2026-11-09
+José Gomes,Portugal,DF,DF (FB),CD Nacional,30,1996,185cm,tm_305946,27,2314,25.71,1,5,6,3,0,0.04,0.19,0.23,transfermarkt_datasets,False,2026-11-09
+Andre Green,England,FW,FW (WM),Avs Futebol,28,1998,180cm,tm_309841,5,195,2.17,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bruno Lourenço,Portugal,MF,MF (AM),Avs Futebol,28,1998,179cm,tm_314942,7,233,2.59,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ricardo Mangas,Portugal,DF,DF (FB),Sporting CP,28,1998,179cm,tm_314944,15,875,9.72,2,1,3,3,0,0.21,0.1,0.31,transfermarkt_datasets,False,2026-11-09
+Pedro Amaral,Portugal,DF,DF (FB),GD Estoril Praia,29,1997,178cm,tm_319623,27,1855,20.61,0,2,2,3,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Vangelis Pavlidis,Greece,FW,FW (AM),SL Benfica,28,1998,186cm,tm_324503,33,2669,29.66,22,4,26,3,0,0.74,0.13,0.88,transfermarkt_datasets,False,2026-11-09
+Yann Karamoh,France,FW,FW (WM),FC Porto,28,1998,184cm,tm_324804,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jérémy Livolant,France,FW,FW (WM),Casa Pia AC,28,1998,175cm,tm_324806,33,2780,30.89,3,8,11,2,0,0.1,0.26,0.36,transfermarkt_datasets,False,2026-11-09
+Gil Dias,Portugal,FW,FW (WM),FC Famalicão,30,1996,186cm,tm_329723,33,2507,27.86,4,8,12,8,0,0.14,0.29,0.43,transfermarkt_datasets,False,2026-11-09
+Abdu Conté,Portugal,DF,DF (FB),Casa Pia AC,28,1998,183cm,tm_337798,22,1429,15.88,0,2,2,1,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Pedro Ferreira,Portugal,MF,MF (DM),CD Santa Clara,28,1998,183cm,tm_337799,31,1969,21.88,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Javi Sánchez,Spain,DF,DF (CB),FC Arouca,29,1997,189cm,tm_340853,15,1227,13.63,0,1,1,6,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Jaume Grau,Spain,MF,MF (CM),Avs Futebol,29,1997,184cm,tm_340864,18,1326,14.73,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ponck,Cape Verde,DF,DF (CB),Avs Futebol,36,1990,185cm,tm_341516,16,921,10.23,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Murilo,Brazil,FW,FW (WM),Gil Vicente FC,32,1994,177cm,tm_345061,32,2592,28.8,11,4,15,3,0,0.38,0.14,0.52,transfermarkt_datasets,False,2026-11-09
+Atanas Chernev,Bulgaria,DF,DF (CB),CF Estrela Amadora,24,2002,195cm,tm_351441,15,1018,11.31,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lincoln,Brazil,MF,MF (AM),FC Alverca,28,1998,178cm,tm_351738,30,2376,26.4,2,5,7,5,0,0.08,0.19,0.27,transfermarkt_datasets,False,2026-11-09
+Léo Santos,Brazil,DF,DF (CB),CD Nacional,28,1998,186cm,tm_351894,31,2719,30.21,3,2,5,12,0,0.1,0.07,0.17,transfermarkt_datasets,False,2026-11-09
+Witi,Mozambique,FW,FW (WM),CD Nacional,30,1996,177cm,tm_352425,26,935,10.39,1,1,2,3,0,0.1,0.1,0.19,transfermarkt_datasets,False,2026-11-09
+Jordan,United States,FW,FW (AM),CD Tondela,30,1996,191cm,tm_355369,22,1239,13.77,1,0,1,3,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Florentino,Portugal,MF,MF (DM),SL Benfica,27,1999,184cm,tm_357162,3,35,0.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Filipe Soares,Portugal,MF,MF (AM),CD Nacional,27,1999,180cm,tm_357163,18,754,8.38,1,0,1,3,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Leandro Barreiro,Luxembourg,MF,MF (CM),SL Benfica,26,2000,174cm,tm_357233,31,1750,19.44,3,5,8,1,0,0.15,0.26,0.41,transfermarkt_datasets,False,2026-11-09
+Rodrigo Pinho,Brazil,FW,FW (AM),CF Estrela Amadora,35,1991,185cm,tm_366278,29,1185,13.17,4,1,5,5,0,0.3,0.08,0.38,transfermarkt_datasets,False,2026-11-09
+Nuno Santos,Portugal,MF,MF (AM),Vitória Guimarães SC,27,1999,179cm,tm_367468,5,223,2.48,0,1,1,0,0,0.0,0.4,0.4,transfermarkt_datasets,False,2026-11-09
+Rodrigo Abascal,Uruguay,DF,DF (CB),Vitória Guimarães SC,32,1994,190cm,tm_367652,27,2272,25.24,1,2,3,6,0,0.04,0.08,0.12,transfermarkt_datasets,False,2026-11-09
+Pablo Rosario,Dominican Republic,MF,MF (DM),FC Porto,29,1997,188cm,tm_370791,22,1364,15.16,2,1,3,6,0,0.13,0.07,0.2,transfermarkt_datasets,False,2026-11-09
+Lenny Vallier,France,DF,DF (FB),CD Nacional,27,1999,178cm,tm_371148,14,751,8.34,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Guilherme Schettine,Brazil,FW,FW (AM),Moreirense FC,31,1995,184cm,tm_371245,15,995,11.06,9,1,10,1,0,0.81,0.09,0.9,transfermarkt_datasets,False,2026-11-09
+Sergio Bermejo,Spain,FW,FW (WM),Gil Vicente FC,29,1997,170cm,tm_372051,16,392,4.36,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maracás,Brazil,DF,DF (CB),Moreirense FC,32,1994,184cm,tm_373187,29,2594,28.82,4,0,4,9,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Paulo Moreira,Portugal,MF,MF (CM),CF Estrela Amadora,26,2000,176cm,tm_375392,29,2379,26.43,3,2,5,7,0,0.11,0.08,0.19,transfermarkt_datasets,False,2026-11-09
+Marc Gual,Spain,FW,FW (AM),Rio Ave FC,30,1996,186cm,tm_376486,10,153,1.7,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matheus Reis,Brazil,DF,DF (FB),Sporting CP,31,1995,183cm,tm_379249,9,360,4.0,0,2,2,0,0,0.0,0.5,0.5,transfermarkt_datasets,False,2026-11-09
+Kerem Aktürkoğlu,Türkiye,FW,FW (WM),SL Benfica,28,1998,172cm,tm_382528,1,23,0.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gonçalo Costa,Portugal,DF,DF (FB),GD Estoril Praia,26,2000,179cm,tm_383014,16,561,6.23,0,1,1,2,0,0.0,0.16,0.16,transfermarkt_datasets,False,2026-11-09
+Kikas,Portugal,FW,FW (AM),CF Estrela Amadora,28,1998,177cm,tm_383807,17,1212,13.47,6,1,7,0,0,0.45,0.07,0.52,transfermarkt_datasets,False,2026-11-09
+Ricard Sánchez,Spain,DF,DF (FB),GD Estoril Praia,26,2000,175cm,tm_388545,26,1981,22.01,2,4,6,9,0,0.09,0.18,0.27,transfermarkt_datasets,False,2026-11-09
+Jandro Orellana,Spain,MF,MF (DM),GD Estoril Praia,26,2000,176cm,tm_388548,19,1316,14.62,0,1,1,2,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Kobamelo Kodisang,South Africa,FW,FW (WM),Avs Futebol,27,1999,168cm,tm_390478,4,114,1.27,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jonathan Panzo,England,DF,DF (CB),Rio Ave FC,26,2000,188cm,tm_392777,14,1095,12.17,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Felix Bacher,Austria,DF,DF (CB),GD Estoril Praia,26,2000,190cm,tm_394134,34,3060,34.0,2,0,2,4,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Rafik Guitane,Algeria,FW,FW (WM),GD Estoril Praia,27,1999,170cm,tm_394328,30,1837,20.41,3,5,8,3,0,0.15,0.24,0.39,transfermarkt_datasets,False,2026-11-09
+Marios Vrousai,Greece,DF,DF (FB),Rio Ave FC,28,1998,183cm,tm_395632,31,2532,28.13,1,2,3,3,0,0.04,0.07,0.11,transfermarkt_datasets,False,2026-11-09
+Toni Borevković,Croatia,DF,DF (CB),Vitória Guimarães SC,29,1997,193cm,tm_396342,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Diogo Calila,Mozambique,DF,DF (FB),CD Santa Clara,28,1998,180cm,tm_396429,23,991,11.01,1,0,1,4,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Liziero,Brazil,MF,MF (CM),CD Nacional,28,1998,177cm,tm_401526,28,2347,26.08,0,4,4,6,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Yaya Sithole,South Africa,MF,MF (CM),CD Tondela,27,1999,186cm,tm_401736,26,1542,17.13,1,0,1,6,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Luquinhas,Brazil,FW,FW (WM),CD Santa Clara,30,1996,169cm,tm_402825,9,209,2.32,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dario Špikić,Croatia,FW,FW (WM),Rio Ave FC,27,1999,183cm,tm_403290,30,1798,19.98,2,3,5,1,0,0.1,0.15,0.25,transfermarkt_datasets,False,2026-11-09
+Giorgi Kochorashvili,Georgia,MF,MF (CM),Sporting CP,27,1999,178cm,tm_405564,18,593,6.59,0,1,1,0,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Ole Pohlmann,Germany,MF,MF (AM),Rio Ave FC,25,2001,183cm,tm_405690,31,1731,19.23,1,1,2,2,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Zé Pedro,Portugal,DF,DF (CB),FC Porto,29,1997,187cm,tm_406151,2,28,0.31,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Miguel Nóbrega,Portugal,DF,DF (CB),Vitória Guimarães SC,26,2000,190cm,tm_409884,13,1000,11.11,1,0,1,1,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Weverson,Brazil,DF,DF (FB),Gil Vicente FC,26,2000,185cm,tm_412367,1,26,0.29,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Francisco Trincão,Portugal,MF,MF (AM),Sporting CP,27,1999,184cm,tm_412669,34,2857,31.74,7,13,20,1,0,0.22,0.41,0.63,transfermarkt_datasets,False,2026-11-09
+Sikou Niakaté,Mali,DF,DF (CB),SC Braga,27,1999,186cm,tm_413118,11,939,10.43,0,1,1,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Alex Pinto,Portugal,DF,DF (FB),FC Arouca,28,1998,187cm,tm_415645,7,337,3.74,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jesús Ramírez,Venezuela,FW,FW (AM),CD Nacional,28,1998,187cm,tm_419936,33,2894,32.16,18,0,18,6,0,0.56,0.0,0.56,transfermarkt_datasets,False,2026-11-09
+Tom van de Looi,Netherlands,MF,MF (DM),FC Famalicão,27,1999,186cm,tm_420189,32,2753,30.59,0,0,0,9,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Justin de Haas,Netherlands,DF,DF (CB),FC Famalicão,26,2000,194cm,tm_420196,31,2790,31.0,5,0,5,7,0,0.16,0.0,0.16,transfermarkt_datasets,False,2026-11-09
+Ghislain Konan,Cote d'Ivoire,DF,DF (FB),Gil Vicente FC,31,1995,176cm,tm_422850,30,2661,29.57,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luis Suárez,Colombia,FW,FW (AM),Sporting CP,29,1997,179cm,tm_424784,32,2699,29.99,28,7,35,7,0,0.93,0.23,1.17,transfermarkt_datasets,False,2026-11-09
+Omar Richards,England,DF,DF (FB),Rio Ave FC,28,1998,174cm,tm_424881,14,702,7.8,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jakub Kiwior,Poland,DF,DF (CB),FC Porto,26,2000,189cm,tm_425918,26,2217,24.63,0,1,1,3,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Rodrigo Conceição,Portugal,DF,DF (FB),CD Tondela,26,2000,175cm,tm_426213,20,1431,15.9,1,0,1,4,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Pedro Gonçalves,Portugal,FW,FW (WM),Sporting CP,28,1998,173cm,tm_426620,27,1995,22.17,13,8,21,5,0,0.59,0.36,0.95,transfermarkt_datasets,False,2026-11-09
+Alan,Brazil,MF,MF (AM),Moreirense FC,26,2000,165cm,tm_428786,33,2706,30.07,5,5,10,8,0,0.17,0.17,0.33,transfermarkt_datasets,False,2026-11-09
+Stéphane Diarra,Cote d'Ivoire,FW,FW (WM),FC Alverca,28,1998,173cm,tm_428954,2,17,0.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jordan Holsgrove,Scotland,MF,MF (DM),GD Estoril Praia,27,1999,180cm,tm_429309,33,2835,31.5,1,8,9,8,0,0.03,0.25,0.29,transfermarkt_datasets,False,2026-11-09
+Benjamin Kimpioka,Sweden,FW,FW (WM),CD Tondela,26,2000,185cm,tm_433652,10,525,5.83,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sydney van Hooijdonk,Netherlands,FW,FW (AM),CF Estrela Amadora,26,2000,190cm,tm_439292,10,355,3.94,1,1,2,2,0,0.25,0.25,0.51,transfermarkt_datasets,False,2026-11-09
+Gaizka Larrazabal,Spain,DF,DF (FB),Casa Pia AC,29,1997,181cm,tm_439465,33,2855,31.72,5,4,9,6,0,0.16,0.13,0.28,transfermarkt_datasets,False,2026-11-09
+Jovane Cabral,Cape Verde,FW,FW (WM),CF Estrela Amadora,28,1998,174cm,tm_448466,27,1679,18.66,7,1,8,5,0,0.38,0.05,0.43,transfermarkt_datasets,False,2026-11-09
+Jefferson Encada,Guinea-Bissau,DF,DF (FB),CF Estrela Amadora,28,1998,188cm,tm_448468,26,1544,17.16,0,2,2,7,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Benny,Portugal,MF,MF (AM),Moreirense FC,29,1997,176cm,tm_450790,14,608,6.76,1,1,2,1,0,0.15,0.15,0.3,transfermarkt_datasets,False,2026-11-09
+Alexander Bah,Denmark,DF,DF (FB),SL Benfica,29,1997,183cm,tm_452607,9,474,5.27,2,0,2,2,0,0.38,0.0,0.38,transfermarkt_datasets,False,2026-11-09
+Morten Hjulmand,Denmark,MF,MF (DM),Sporting CP,27,1999,185cm,tm_461496,27,2325,25.83,3,4,7,8,0,0.12,0.15,0.27,transfermarkt_datasets,False,2026-11-09
+Issiar Dramé,Mali,DF,DF (CB),CF Estrela Amadora,27,1999,197cm,tm_461582,1,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gustavo Assunção,Brazil,MF,MF (DM),Avs Futebol,26,2000,178cm,tm_461629,10,688,7.64,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Silva,Portugal,DF,DF (CB),CD Tondela,27,1999,189cm,tm_461903,12,996,11.07,1,0,1,1,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Daniel Bragança,Portugal,MF,MF (CM),Sporting CP,27,1999,178cm,tm_461943,14,505,5.61,6,0,6,1,0,1.07,0.0,1.07,transfermarkt_datasets,False,2026-11-09
+Arjen van der Heide,Netherlands,FW,FW (WM),CD Tondela,25,2001,174cm,tm_462087,10,236,2.62,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Boris Popović,Serbia,DF,DF (CB),FC Arouca,26,2000,189cm,tm_470796,17,1158,12.87,1,0,1,3,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Cícero,Brazil,MF,MF (DM),CD Tondela,29,1997,178cm,tm_476355,18,1203,13.37,1,1,2,6,0,0.07,0.07,0.15,transfermarkt_datasets,False,2026-11-09
+Diogo Travassos,Portugal,DF,DF (FB),Moreirense FC,22,2004,178cm,tm_478317,29,2436,27.07,5,3,8,2,0,0.18,0.11,0.3,transfermarkt_datasets,False,2026-11-09
+Francisco Moura,Portugal,DF,DF (FB),FC Porto,27,1999,181cm,tm_478365,21,1320,14.67,2,2,4,5,0,0.14,0.14,0.27,transfermarkt_datasets,False,2026-11-09
+Tiago Gouveia,Portugal,FW,FW (WM),SL Benfica,25,2001,176cm,tm_479638,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Georgios Liavas,Greece,MF,MF (DM),Rio Ave FC,25,2001,181cm,tm_481676,24,780,8.67,0,1,1,2,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Gustaf Lagerbielke,Sweden,DF,DF (CB),SC Braga,26,2000,193cm,tm_485395,28,2391,26.57,2,0,2,6,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Nabil Touaizi,Morocco,MF,MF (WM),FC Alverca,25,2001,183cm,tm_487180,33,2818,31.31,1,5,6,7,0,0.03,0.16,0.19,transfermarkt_datasets,False,2026-11-09
+Tchamba,Cameroon,DF,DF (CB),Casa Pia AC,28,1998,191cm,tm_490760,5,416,4.62,1,0,1,2,0,0.22,0.0,0.22,transfermarkt_datasets,False,2026-11-09
+Nehuén Pérez,Argentina,DF,DF (CB),FC Porto,26,2000,186cm,tm_491693,6,373,4.14,1,0,1,0,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Víctor Gómez,Spain,DF,DF (FB),SC Braga,26,2000,171cm,tm_495601,32,2480,27.56,1,6,7,2,0,0.04,0.22,0.25,transfermarkt_datasets,False,2026-11-09
+Antef Tsoungui,Belgium,DF,DF (CB),GD Estoril Praia,24,2002,185cm,tm_503858,23,1372,15.24,0,0,0,8,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joe Hodge,Ireland,MF,MF (DM),CD Tondela,24,2002,172cm,tm_503975,26,1423,15.81,1,1,2,3,0,0.06,0.06,0.13,transfermarkt_datasets,False,2026-11-09
+Eduardo Quaresma,Portugal,DF,DF (CB),Sporting CP,24,2002,185cm,tm_504073,16,1186,13.18,2,2,4,2,0,0.15,0.15,0.3,transfermarkt_datasets,False,2026-11-09
+Rafael Brito,Portugal,MF,MF (DM),Casa Pia AC,24,2002,183cm,tm_504075,25,1520,16.89,2,1,3,5,0,0.12,0.06,0.18,transfermarkt_datasets,False,2026-11-09
+Tomás Araújo,Portugal,DF,DF (CB),SL Benfica,24,2002,187cm,tm_504087,23,1684,18.71,1,2,3,3,0,0.05,0.11,0.16,transfermarkt_datasets,False,2026-11-09
+André Ceitil,Portugal,MF,MF (DM),CD Tondela,31,1995,184cm,tm_512129,4,94,1.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Stephen Eustaquio,Canada,MF,MF (CM),FC Porto,30,1996,175cm,tm_512913,8,182,2.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Iván Barbero,Spain,FW,FW (AM),FC Arouca,28,1998,186cm,tm_514514,31,1904,21.16,8,2,10,5,0,0.38,0.09,0.47,transfermarkt_datasets,False,2026-11-09
+Amar Dedić,Bosnia-Herzegovina,DF,DF (FB),SL Benfica,24,2002,180cm,tm_519184,24,1903,21.14,1,5,6,3,0,0.05,0.24,0.28,transfermarkt_datasets,False,2026-11-09
+Guilherme Romão,Brazil,DF,DF (FB),CD Santa Clara,29,1997,176cm,tm_519879,12,890,9.89,0,1,1,0,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Pepê,Brazil,FW,FW (WM),FC Porto,29,1997,175cm,tm_520662,30,2244,24.93,3,4,7,2,0,0.12,0.16,0.28,transfermarkt_datasets,False,2026-11-09
+Miguel Baeza,Spain,MF,MF (AM),CD Nacional,26,2000,177cm,tm_523977,14,811,9.01,1,0,1,1,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Hidemasa Morita,Japan,MF,MF (CM),Sporting CP,31,1995,177cm,tm_524315,31,1834,20.38,1,4,5,3,0,0.05,0.2,0.25,transfermarkt_datasets,False,2026-11-09
+Orest Lebedenko,Ukraine,DF,DF (FB),Vitória Guimarães SC,28,1998,176cm,tm_524964,14,439,4.88,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alejandro Marqués,Venezuela,FW,FW (AM),GD Estoril Praia,26,2000,189cm,tm_525602,26,1145,12.72,4,0,4,1,0,0.31,0.0,0.31,transfermarkt_datasets,False,2026-11-09
+Kiki,Portugal,FW,FW (WM),Casa Pia AC,28,1998,172cm,tm_529730,1,4,0.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fotis Ioannidis,Greece,FW,FW (AM),Sporting CP,26,2000,187cm,tm_532444,13,456,5.07,3,0,3,0,0,0.59,0.0,0.59,transfermarkt_datasets,False,2026-11-09
+Lawrence Ofori,Ghana,MF,MF (CM),Moreirense FC,28,1998,169cm,tm_536081,4,208,2.31,0,1,1,0,0,0.0,0.43,0.43,transfermarkt_datasets,False,2026-11-09
+Lawrence Ofori,Ghana,MF,MF (CM),Casa Pia AC,28,1998,169cm,tm_536081,12,612,6.8,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Cedric Teguia,Spain,FW,FW (WM),Moreirense FC,25,2001,180cm,tm_536831,21,849,9.43,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Goulart,Portugal,DF,DF (CB),Casa Pia AC,26,2000,191cm,tm_537477,25,1914,21.27,1,0,1,4,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Terem Moffi,Nigeria,FW,FW (AM),FC Porto,27,1999,188cm,tm_538874,9,240,2.67,1,1,2,2,0,0.37,0.37,0.75,transfermarkt_datasets,False,2026-11-09
+Christian Marques,Portugal,DF,DF (CB),CD Tondela,23,2003,188cm,tm_539807,31,2716,30.18,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Billal Brahimi,Algeria,FW,FW (WM),CF Estrela Amadora,26,2000,183cm,tm_543051,4,89,0.99,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zaidu Sanusi,Nigeria,DF,DF (FB),FC Porto,29,1997,182cm,tm_544784,17,995,11.06,1,1,2,2,0,0.09,0.09,0.18,transfermarkt_datasets,False,2026-11-09
+Paulinho Bóia,Brazil,FW,FW (WM),CD Nacional,28,1998,171cm,tm_544895,33,2826,31.4,4,2,6,6,0,0.13,0.06,0.19,transfermarkt_datasets,False,2026-11-09
+Georgios Vagiannidis,Greece,DF,DF (FB),Sporting CP,25,2001,182cm,tm_546186,22,1279,14.21,0,4,4,4,0,0.0,0.28,0.28,transfermarkt_datasets,False,2026-11-09
+Ianis Stoica,Romania,FW,FW (WM),CF Estrela Amadora,24,2002,180cm,tm_547754,33,1674,18.6,3,3,6,4,0,0.16,0.16,0.32,transfermarkt_datasets,False,2026-11-09
+Franjo Ivanović,Croatia,FW,FW (AM),SL Benfica,23,2003,185cm,tm_548028,25,869,9.66,6,3,9,1,0,0.62,0.31,0.93,transfermarkt_datasets,False,2026-11-09
+Zeno Debast,Belgium,DF,DF (CB),Sporting CP,23,2003,191cm,tm_548193,17,1177,13.08,0,2,2,2,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Diogo Martins,Portugal,MF,MF (CM),FC Alverca,30,1996,174cm,tm_548332,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gonçalo Inácio,Portugal,DF,DF (CB),Sporting CP,25,2001,185cm,tm_549006,29,2506,27.84,2,3,5,4,0,0.07,0.11,0.18,transfermarkt_datasets,False,2026-11-09
+Rodrigo Pinheiro,Portugal,DF,DF (FB),FC Famalicão,24,2002,183cm,tm_549038,29,2572,28.58,3,2,5,5,0,0.1,0.07,0.17,transfermarkt_datasets,False,2026-11-09
+João Tomé,Portugal,DF,DF (FB),Rio Ave FC,23,2003,185cm,tm_551981,19,664,7.38,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vítor Carvalho,Brazil,MF,MF (DM),SC Braga,29,1997,186cm,tm_553062,15,1062,11.8,2,2,4,5,0,0.17,0.17,0.34,transfermarkt_datasets,False,2026-11-09
+Nelson Abbey,England,DF,DF (CB),Rio Ave FC,23,2003,187cm,tm_566677,26,2091,23.23,0,1,1,4,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Yassin Oukili,Morocco,MF,MF (CM),Casa Pia AC,25,2001,195cm,tm_566911,8,462,5.13,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jordi Escobar,Spain,FW,FW (AM),Avs Futebol,24,2002,188cm,tm_568155,5,152,1.69,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kelian Nsona,France,FW,FW (WM),Casa Pia AC,24,2002,189cm,tm_569368,10,480,5.33,1,1,2,0,0,0.19,0.19,0.38,transfermarkt_datasets,False,2026-11-09
+Yanis Begraoui,Morocco,FW,FW (AM),GD Estoril Praia,25,2001,179cm,tm_569376,34,2726,30.29,20,2,22,1,0,0.66,0.07,0.73,transfermarkt_datasets,False,2026-11-09
+Darlan,Brazil,MF,MF (DM),CD Santa Clara,28,1998,175cm,tm_570582,7,86,0.96,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maxi Araújo,Uruguay,DF,DF (FB),Sporting CP,26,2000,176cm,tm_572675,29,2215,24.61,5,4,9,9,0,0.2,0.16,0.37,transfermarkt_datasets,False,2026-11-09
+Garcia,Brazil,DF,DF (FB),FC Famalicão,24,2002,175cm,tm_574758,12,566,6.29,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Resende,Portugal,FW,FW (AM),CF Estrela Amadora,23,2003,178cm,tm_575715,2,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vasco Sousa,Portugal,MF,MF (CM),Moreirense FC,23,2003,169cm,tm_575716,9,463,5.14,1,0,1,2,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Guilherme Montóia,Portugal,DF,DF (FB),CF Estrela Amadora,23,2003,185cm,tm_575717,11,524,5.82,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bright Arrey-Mbi,Germany,DF,DF (CB),SC Braga,23,2003,187cm,tm_580193,23,1829,20.32,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tiago Esgaio,Portugal,DF,DF (FB),FC Arouca,31,1995,175cm,tm_581121,29,2464,27.38,3,5,8,10,0,0.11,0.18,0.29,transfermarkt_datasets,False,2026-11-09
+Joelson Fernandes,Portugal,FW,FW (WM),Gil Vicente FC,23,2003,172cm,tm_581140,24,1013,11.26,1,3,4,3,0,0.09,0.27,0.36,transfermarkt_datasets,False,2026-11-09
+Nile John,England,MF,MF (CM),Moreirense FC,23,2003,176cm,tm_581683,14,671,7.46,0,1,1,3,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Kiko Bondoso,Portugal,FW,FW (WM),Moreirense FC,31,1995,169cm,tm_590302,31,2014,22.38,0,4,4,0,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Tiago Manso,Portugal,DF,DF (FB),CD Tondela,27,1999,174cm,tm_592498,28,1535,17.06,1,1,2,7,0,0.06,0.06,0.12,transfermarkt_datasets,False,2026-11-09
+Yahya Kalley,The Gambia,DF,DF (FB),CF Estrela Amadora,25,2001,185cm,tm_593410,3,39,0.43,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Naïs Djouahra,France,FW,FW (WM),FC Arouca,27,1999,172cm,tm_594926,34,2744,30.49,6,3,9,2,0,0.2,0.1,0.3,transfermarkt_datasets,False,2026-11-09
+Guillem Molina,Spain,DF,DF (FB),Avs Futebol,26,2000,183cm,tm_602156,7,326,3.62,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Samuel Dahl,Sweden,DF,DF (FB),SL Benfica,23,2003,174cm,tm_605396,33,2863,31.81,1,1,2,3,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Gustavo Klismahn,Brazil,MF,MF (CM),CD Santa Clara,27,1999,179cm,tm_606719,16,1110,12.33,1,1,2,2,0,0.08,0.08,0.16,transfermarkt_datasets,False,2026-11-09
+Rodrigo Zalazar,Uruguay,MF,MF (AM),SC Braga,27,1999,175cm,tm_606752,28,1944,21.6,16,5,21,6,0,0.74,0.23,0.97,transfermarkt_datasets,False,2026-11-09
+Espen van Ee,Netherlands,MF,MF (CM),FC Arouca,23,2003,183cm,tm_607144,26,1880,20.89,2,1,3,7,0,0.1,0.05,0.14,transfermarkt_datasets,False,2026-11-09
+José Fontán,Spain,DF,DF (CB),FC Arouca,26,2000,182cm,tm_609361,30,2545,28.28,2,3,5,5,0,0.07,0.11,0.18,transfermarkt_datasets,False,2026-11-09
+Luís Esteves,Portugal,MF,MF (AM),Gil Vicente FC,28,1998,173cm,tm_609518,33,2769,30.77,4,8,12,3,0,0.13,0.26,0.39,transfermarkt_datasets,False,2026-11-09
+Sidny Lopes Cabral,Cape Verde,DF,DF (FB),SL Benfica,24,2002,176cm,tm_611855,8,356,3.96,1,3,4,1,0,0.25,0.76,1.01,transfermarkt_datasets,False,2026-11-09
+Sidny Lopes Cabral,Cape Verde,DF,DF (FB),CF Estrela Amadora,24,2002,176cm,tm_611855,15,1324,14.71,5,3,8,3,0,0.34,0.2,0.54,transfermarkt_datasets,False,2026-11-09
+Henrique Araújo,Portugal,FW,FW (AM),SL Benfica,24,2002,182cm,tm_617267,5,22,0.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zé Carlos,Portugal,DF,DF (FB),Gil Vicente FC,28,1998,178cm,tm_617679,32,2466,27.4,0,0,0,8,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pablo Gozálbez,Spain,MF,MF (AM),FC Arouca,25,2001,171cm,tm_622992,28,1062,11.8,1,2,3,4,0,0.08,0.17,0.25,transfermarkt_datasets,False,2026-11-09
+Nikolaos Athanasiou,Greece,DF,DF (FB),Rio Ave FC,25,2001,177cm,tm_623072,17,1313,14.59,0,1,1,1,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Georgiy Sudakov,Ukraine,MF,MF (AM),SL Benfica,24,2002,177cm,tm_623325,22,1422,15.8,4,2,6,2,0,0.25,0.13,0.38,transfermarkt_datasets,False,2026-11-09
+Adrian Barisic,Bosnia-Herzegovina,DF,DF (CB),SC Braga,25,2001,192cm,tm_625206,6,452,5.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kevin Höög Jansson,Sweden,MF,MF (DM),CF Estrela Amadora,26,2000,190cm,tm_626854,13,814,9.04,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gabriel Veron,Brazil,FW,FW (WM),CD Nacional,24,2002,176cm,tm_627221,13,831,9.23,1,0,1,2,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Gabriel Silva,Brazil,FW,FW (WM),CD Santa Clara,24,2002,177cm,tm_627224,29,2245,24.94,6,0,6,4,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Gorby,France,MF,MF (CM),SC Braga,24,2002,183cm,tm_631404,28,1714,19.04,1,0,1,5,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Bruno Langa,Mozambique,DF,DF (FB),CF Estrela Amadora,29,1997,178cm,tm_631472,11,895,9.94,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Brandon Aguilera,Costa Rica,MF,MF (CM),Rio Ave FC,23,2003,179cm,tm_631996,19,1378,15.31,1,0,1,4,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Miguel Puche,Spain,FW,FW (WM),FC Arouca,25,2001,180cm,tm_632901,27,711,7.9,1,1,2,4,0,0.13,0.13,0.25,transfermarkt_datasets,False,2026-11-09
+Tamás Nikitscher,Hungary,MF,MF (DM),Rio Ave FC,27,1999,193cm,tm_633056,27,1377,15.3,1,1,2,4,0,0.07,0.07,0.13,transfermarkt_datasets,False,2026-11-09
+Joel Jorquera,Spain,FW,FW (WM),Moreirense FC,26,2000,171cm,tm_633114,4,28,0.31,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kaique Rocha,Brazil,DF,DF (CB),Casa Pia AC,25,2001,195cm,tm_633377,6,497,5.52,1,0,1,0,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Xabi Huarte,Spain,MF,MF (AM),CD Tondela,25,2001,172cm,tm_634125,5,134,1.49,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Borja Sainz,Spain,FW,FW (WM),FC Porto,25,2001,174cm,tm_634461,30,1602,17.8,5,3,8,5,0,0.28,0.17,0.45,transfermarkt_datasets,False,2026-11-09
+Arnau Solà,Spain,DF,DF (FB),FC Arouca,23,2003,179cm,tm_636697,10,589,6.54,0,1,1,1,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Gustavo Mendonça,Portugal,MF,MF (CM),Avs Futebol,23,2003,176cm,tm_637788,21,1401,15.57,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Veloso,Portugal,MF,MF (CM),SL Benfica,21,2005,185cm,tm_637792,2,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rhaldney,Brazil,MF,MF (CM),FC Alverca,28,1998,184cm,tm_638269,14,995,11.06,1,0,1,4,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Ángel Algobia,Spain,MF,MF (DM),Avs Futebol,27,1999,188cm,tm_638589,21,1081,12.01,1,0,1,0,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Tidjany Touré,France,FW,FW (WM),Gil Vicente FC,24,2002,175cm,tm_641576,11,503,5.59,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maranhão,Brazil,FW,FW (WM),CD Tondela,27,1999,172cm,tm_642591,33,2472,27.47,6,3,9,7,0,0.22,0.11,0.33,transfermarkt_datasets,False,2026-11-09
+Tomás Händel,Portugal,MF,MF (DM),Vitória Guimarães SC,26,2000,180cm,tm_645588,3,270,3.0,0,1,1,0,0,0.0,0.33,0.33,transfermarkt_datasets,False,2026-11-09
+Tomás Mendes,Guinea-Bissau,MF,MF (DM),FC Alverca,22,2004,189cm,tm_646734,5,312,3.47,0,1,1,1,0,0.0,0.29,0.29,transfermarkt_datasets,False,2026-11-09
+Ángel Alarcón,Spain,FW,FW (WM),FC Porto,22,2004,175cm,tm_646739,3,57,0.63,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rafa Obrador,Spain,DF,DF (FB),SL Benfica,22,2004,181cm,tm_646747,1,68,0.76,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sabit Abdulai,Ghana,MF,MF (DM),FC Alverca,27,1999,187cm,tm_648812,17,1174,13.04,0,1,1,3,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Fabio Blanco,Spain,FW,FW (WM),Vitória Guimarães SC,22,2004,173cm,tm_648909,15,381,4.23,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amadou Dante,Mali,DF,DF (FB),FC Arouca,26,2000,178cm,tm_649087,17,832,9.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+António Silva,Portugal,DF,DF (CB),SL Benfica,23,2003,187cm,tm_650568,25,1858,20.64,1,1,2,5,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Óscar Aranda,Spain,FW,FW (WM),FC Famalicão,24,2002,181cm,tm_652332,1,16,0.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Leonardo Buta,Portugal,DF,DF (FB),Rio Ave FC,24,2002,182cm,tm_653415,3,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Léo Realpe,Ecuador,DF,DF (CB),FC Famalicão,25,2001,186cm,tm_656409,24,1697,18.86,1,1,2,2,0,0.05,0.05,0.11,transfermarkt_datasets,False,2026-11-09
+Sidney Lima,Brazil,DF,DF (CB),CD Santa Clara,29,1997,182cm,tm_657155,33,2933,32.59,1,0,1,7,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Fabiano,Brazil,DF,DF (FB),Moreirense FC,26,2000,175cm,tm_657387,7,502,5.58,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vasco Moreira,Portugal,MF,MF (DM),FC Alverca,25,2001,180cm,tm_657429,16,432,4.8,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pedro Santos,Portugal,MF,MF (CM),FC Arouca,26,2000,183cm,tm_657435,16,766,8.51,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luan Patrick,Brazil,DF,DF (CB),CF Estrela Amadora,24,2002,190cm,tm_658674,31,2685,29.83,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nodar Lominadze,Georgia,MF,MF (CM),GD Estoril Praia,24,2002,194cm,tm_658815,16,645,7.17,2,0,2,4,0,0.28,0.0,0.28,transfermarkt_datasets,False,2026-11-09
+Diego Duarte,Paraguay,FW,FW (AM),Avs Futebol,24,2002,176cm,tm_661243,27,1291,14.34,3,1,4,0,0,0.21,0.07,0.28,transfermarkt_datasets,False,2026-11-09
+Dinis Pinto,Portugal,DF,DF (FB),Moreirense FC,26,2000,178cm,tm_663254,23,2013,22.37,1,6,7,8,0,0.04,0.27,0.31,transfermarkt_datasets,False,2026-11-09
+Beni Mukendi,Angola,MF,MF (CM),Vitória Guimarães SC,24,2002,180cm,tm_666539,29,2246,24.96,1,1,2,7,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Souleymane Faye,Senegal,FW,FW (WM),Sporting CP,23,2003,179cm,tm_666971,5,84,0.93,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rodri Alonso,Spain,MF,MF (CM),Moreirense FC,23,2003,172cm,tm_668178,26,1495,16.61,3,3,6,6,0,0.18,0.18,0.36,transfermarkt_datasets,False,2026-11-09
+Alan Godoy,Spain,FW,FW (AM),CF Estrela Amadora,23,2003,178cm,tm_668277,6,300,3.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Leonardo Lelo,Portugal,DF,DF (FB),SC Braga,26,2000,175cm,tm_669956,29,1838,20.42,0,4,4,2,0,0.0,0.2,0.2,transfermarkt_datasets,False,2026-11-09
+Andreas Schjelderup,Norway,FW,FW (WM),SL Benfica,22,2004,177cm,tm_670103,28,1733,19.26,7,6,13,2,0,0.36,0.31,0.67,transfermarkt_datasets,False,2026-11-09
+Hugo Félix,Portugal,MF,MF (AM),CD Tondela,22,2004,170cm,tm_670683,26,1335,14.83,0,2,2,2,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Diogo Monteiro,Portugal,DF,DF (CB),FC Arouca,21,2005,187cm,tm_670713,8,296,3.29,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Diogo Prioste,Portugal,MF,MF (CM),SL Benfica,22,2004,179cm,tm_670718,2,21,0.23,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Noah Saviolo,Portugal,FW,FW (WM),Vitória Guimarães SC,22,2004,181cm,tm_671669,30,1961,21.79,2,5,7,3,0,0.09,0.23,0.32,transfermarkt_datasets,False,2026-11-09
+Enzo Barrenechea,Argentina,MF,MF (DM),SL Benfica,25,2001,186cm,tm_671915,26,1798,19.98,1,0,1,7,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Chiheb Labidi,Tunisia,MF,MF (CM),CD Nacional,25,2001,190cm,tm_673511,28,1622,18.02,1,1,2,6,0,0.06,0.06,0.11,transfermarkt_datasets,False,2026-11-09
+Dailon Livramento,Cape Verde,FW,FW (AM),Casa Pia AC,25,2001,185cm,tm_676411,24,940,10.44,0,1,1,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Ulisses,Brazil,DF,DF (CB),CD Nacional,27,1999,186cm,tm_678991,5,224,2.49,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nilton,Portugal,DF,DF (FB),CF Estrela Amadora,25,2001,182cm,tm_681829,1,58,0.64,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Soares,Brazil,DF,DF (FB),CD Santa Clara,28,1998,174cm,tm_684061,28,2080,23.11,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Mendes,Portugal,DF,DF (FB),Vitória Guimarães SC,26,2000,179cm,tm_684348,29,2441,27.12,1,1,2,7,0,0.04,0.04,0.07,transfermarkt_datasets,False,2026-11-09
+Welinton Torrão,Brazil,FW,FW (WM),CD Santa Clara,27,1999,183cm,tm_687361,18,669,7.43,1,2,3,1,0,0.13,0.27,0.4,transfermarkt_datasets,False,2026-11-09
+Vinícius Lopes,Brazil,FW,FW (WM),CD Santa Clara,27,1999,180cm,tm_688881,28,1540,17.11,6,1,7,7,0,0.35,0.06,0.41,transfermarkt_datasets,False,2026-11-09
+Daniel Rivas,Paraguay,DF,DF (FB),Avs Futebol,25,2001,177cm,tm_690124,26,1527,16.97,0,1,1,6,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Hevertton,Portugal,DF,DF (FB),Gil Vicente FC,25,2001,183cm,tm_695121,24,865,9.61,0,1,1,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Chiquinho,Portugal,FW,FW (WM),FC Alverca,26,2000,179cm,tm_695454,20,1495,16.61,2,5,7,5,0,0.12,0.3,0.42,transfermarkt_datasets,False,2026-11-09
+Pedro Rosas,Portugal,DF,DF (FB),Casa Pia AC,26,2000,189cm,tm_696504,9,635,7.06,0,1,1,3,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Tiago Leite,Portugal,FW,FW (AM),FC Alverca,26,2000,185cm,tm_696507,9,123,1.37,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mateja Stjepanović,Serbia,MF,MF (DM),Moreirense FC,22,2004,185cm,tm_698539,32,2412,26.8,1,0,1,6,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Clau Mendes,Guinea-Bissau,FW,FW (AM),Casa Pia AC,26,2000,186cm,tm_699501,13,280,3.11,1,0,1,1,0,0.32,0.0,0.32,transfermarkt_datasets,False,2026-11-09
+Manu Silva,Portugal,MF,MF (DM),SL Benfica,25,2001,190cm,tm_699592,9,121,1.34,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abraham Marcus,Nigeria,FW,FW (WM),CF Estrela Amadora,26,2000,178cm,tm_699632,31,2576,28.62,5,5,10,2,0,0.17,0.17,0.35,transfermarkt_datasets,False,2026-11-09
+Bernardo Schappo,Brazil,DF,DF (CB),CF Estrela Amadora,27,1999,191cm,tm_699679,26,2055,22.83,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gabri Veiga,Spain,MF,MF (AM),FC Porto,24,2002,185cm,tm_699704,31,1623,18.03,3,9,12,6,0,0.17,0.5,0.67,transfermarkt_datasets,False,2026-11-09
+Roméo Beney,Switzerland,FW,FW (WM),FC Famalicão,21,2005,187cm,tm_700479,14,194,2.16,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nor Maviram,Nigeria,DF,DF (FB),CD Tondela,25,2001,178cm,tm_700789,20,1458,16.2,2,2,4,4,0,0.12,0.12,0.25,transfermarkt_datasets,False,2026-11-09
+Geny Catamo,Mozambique,FW,FW (WM),Sporting CP,25,2001,172cm,tm_701979,29,1954,21.71,6,4,10,1,0,0.28,0.18,0.46,transfermarkt_datasets,False,2026-11-09
+Figueiredo,Brazil,FW,FW (WM),FC Alverca,25,2001,178cm,tm_703324,27,1887,20.97,6,2,8,3,0,0.29,0.1,0.38,transfermarkt_datasets,False,2026-11-09
+Max Scholze,Germany,DF,DF (FB),CF Estrela Amadora,21,2005,184cm,tm_707350,11,729,8.1,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pau Víctor,Spain,FW,FW (AM),SC Braga,25,2001,184cm,tm_707572,32,2269,25.21,10,4,14,5,0,0.4,0.16,0.56,transfermarkt_datasets,False,2026-11-09
+Hyun-ju Lee,"Korea, South",MF,MF (AM),FC Arouca,23,2003,172cm,tm_709166,30,2024,22.49,7,3,10,5,0,0.31,0.13,0.44,transfermarkt_datasets,False,2026-11-09
+Kévin Boma,Togo,DF,DF (CB),GD Estoril Praia,24,2002,193cm,tm_709727,21,1722,19.13,1,1,2,5,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Álvaro Martínez,Spain,DF,DF (FB),Moreirense FC,24,2002,181cm,tm_718577,15,812,9.02,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jonathan Mutombo,France,DF,DF (FB),Gil Vicente FC,24,2002,190cm,tm_721952,3,119,1.32,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Andreas Ntoi,Greece,DF,DF (CB),Rio Ave FC,23,2003,190cm,tm_724035,30,2347,26.08,1,2,3,9,0,0.04,0.08,0.12,transfermarkt_datasets,False,2026-11-09
+Otar Mamageishvili,Georgia,MF,MF (CM),FC Famalicão,23,2003,180cm,tm_724966,8,120,1.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Roni,Brazil,MF,MF (DM),Avs Futebol,27,1999,174cm,tm_725049,16,1317,14.63,2,0,2,3,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Cristian Devenish,Colombia,DF,DF (CB),Avs Futebol,25,2001,192cm,tm_726697,26,2165,24.06,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gonçalo Esteves,Portugal,DF,DF (FB),FC Alverca,22,2004,176cm,tm_726721,5,163,1.81,1,0,1,1,0,0.55,0.0,0.55,transfermarkt_datasets,False,2026-11-09
+Maga,Portugal,DF,DF (FB),Vitória Guimarães SC,24,2002,175cm,tm_729140,22,1576,17.51,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Santi García,Spain,MF,MF (AM),Gil Vicente FC,25,2001,188cm,tm_732096,33,2649,29.43,6,3,9,5,0,0.2,0.1,0.31,transfermarkt_datasets,False,2026-11-09
+Clayton,Brazil,FW,FW (AM),Rio Ave FC,27,1999,184cm,tm_733579,19,1602,17.8,10,4,14,6,0,0.56,0.22,0.79,transfermarkt_datasets,False,2026-11-09
+Amine El Ouazzani,Morocco,FW,FW (AM),SC Braga,25,2001,188cm,tm_735051,13,695,7.72,2,0,2,1,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+Richard Ríos,Colombia,MF,MF (DM),SL Benfica,26,2000,185cm,tm_735573,27,2284,25.38,5,4,9,9,0,0.2,0.16,0.35,transfermarkt_datasets,False,2026-11-09
+Patrick de Paula,Brazil,MF,MF (DM),GD Estoril Praia,27,1999,180cm,tm_737821,9,407,4.52,1,0,1,4,0,0.22,0.0,0.22,transfermarkt_datasets,False,2026-11-09
+Matheus Pereira,Brazil,DF,DF (FB),CD Santa Clara,26,2000,172cm,tm_739438,10,720,8.0,0,1,1,2,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+David Sousa,Brazil,DF,DF (CB),Casa Pia AC,25,2001,190cm,tm_740159,26,2265,25.17,2,0,2,13,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Alfonso Trezza,Uruguay,FW,FW (WM),FC Arouca,27,1999,166cm,tm_741517,32,2329,25.88,9,3,12,2,0,0.35,0.12,0.46,transfermarkt_datasets,False,2026-11-09
+Khayon Edwards,Jamaica,FW,FW (AM),GD Estoril Praia,23,2003,180cm,tm_741650,2,11,0.12,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jorge Meireles,Portugal,FW,FW (WM),CF Estrela Amadora,22,2004,180cm,tm_742454,22,744,8.27,0,2,2,1,0,0.0,0.24,0.24,transfermarkt_datasets,False,2026-11-09
+Fábio Ronaldo,Portugal,FW,FW (WM),CF Estrela Amadora,25,2001,178cm,tm_742506,2,128,1.42,1,0,1,0,0,0.7,0.0,0.7,transfermarkt_datasets,False,2026-11-09
+Rômulo,Brazil,DF,DF (CB),Sporting CP,22,2004,183cm,tm_743588,1,6,0.07,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Daniel Jr,Brazil,MF,MF (AM),CD Nacional,24,2002,174cm,tm_746358,17,742,8.24,0,1,1,3,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Isaac James,Nigeria,DF,DF (FB),FC Alverca,22,2004,175cm,tm_746642,19,1305,14.5,0,2,2,3,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Tiago Hernández,Uruguay,MF,MF (DM),Avs Futebol,24,2002,183cm,tm_747810,16,562,6.24,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+André Lacximicant,Portugal,FW,FW (WM),GD Estoril Praia,25,2001,188cm,tm_752442,22,1213,13.48,3,2,5,4,0,0.22,0.15,0.37,transfermarkt_datasets,False,2026-11-09
+Alan Varela,Argentina,MF,MF (DM),FC Porto,25,2001,177cm,tm_756990,30,2322,25.8,2,0,2,7,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Xander Severina,Curacao,FW,FW (WM),Casa Pia AC,25,2001,185cm,tm_778540,5,98,1.09,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tom Moustier,France,MF,MF (CM),CF Estrela Amadora,24,2002,185cm,tm_782889,10,244,2.71,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Telmo Arcanjo,Cape Verde,FW,FW (WM),Vitória Guimarães SC,25,2001,180cm,tm_791528,29,1244,13.82,1,0,1,0,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Stefan Lekovic,Serbia,DF,DF (CB),CF Estrela Amadora,22,2004,192cm,tm_797572,9,783,8.7,2,0,2,1,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Simon Elisor,France,FW,FW (AM),FC Famalicão,27,1999,185cm,tm_804661,33,2055,22.83,1,2,3,3,0,0.04,0.09,0.13,transfermarkt_datasets,False,2026-11-09
+Iyad Mohamed,Comoros,MF,MF (DM),Casa Pia AC,25,2001,191cm,tm_805065,22,948,10.53,1,0,1,5,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Rémy Vita,Comoros,DF,DF (FB),CD Tondela,25,2001,170cm,tm_805835,4,227,2.52,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alioune Ndoye,Senegal,FW,FW (AM),Vitória Guimarães SC,25,2001,191cm,tm_807124,24,952,10.58,2,2,4,2,0,0.19,0.19,0.38,transfermarkt_datasets,False,2026-11-09
+Conrad Harder,Denmark,FW,FW (AM),Sporting CP,21,2005,185cm,tm_807386,4,58,0.64,1,0,1,0,0,1.56,0.0,1.56,transfermarkt_datasets,False,2026-11-09
+MT,Brazil,DF,DF (CB),CD Santa Clara,25,2001,185cm,tm_808475,12,751,8.34,1,0,1,2,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Ismaël Gharbi,Tunisia,FW,FW (WM),SC Braga,22,2004,180cm,tm_810096,1,69,0.77,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Elias Manoel,Brazil,FW,FW (AM),CD Santa Clara,25,2001,176cm,tm_813044,15,284,3.16,3,0,3,1,0,0.95,0.0,0.95,transfermarkt_datasets,False,2026-11-09
+Makan Aïko,France,FW,FW (WM),CD Tondela,25,2001,180cm,tm_813152,18,1059,11.77,1,2,3,2,0,0.08,0.17,0.25,transfermarkt_datasets,False,2026-11-09
+Matheus Dias,Brazil,MF,MF (DM),CD Nacional,24,2002,187cm,tm_815384,31,2442,27.13,0,1,1,7,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Tiago Morais,Portugal,FW,FW (WM),Casa Pia AC,23,2003,168cm,tm_815652,19,671,7.46,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pedro Lima,Brazil,MF,MF (CM),Avs Futebol,23,2003,184cm,tm_816135,26,1897,21.08,4,2,6,4,0,0.19,0.09,0.28,transfermarkt_datasets,False,2026-11-09
+Gilberto Batista,Guinea-Bissau,DF,DF (CB),Moreirense FC,23,2003,187cm,tm_816572,28,1933,21.48,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pablo,Brazil,FW,FW (AM),Gil Vicente FC,22,2004,184cm,tm_817665,13,954,10.6,10,1,11,4,0,0.94,0.09,1.04,transfermarkt_datasets,False,2026-11-09
+Matías Rocha,Uruguay,DF,DF (CB),FC Arouca,25,2001,183cm,tm_821824,11,843,9.37,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Martín Fernández,Uruguay,MF,MF (AM),Gil Vicente FC,23,2003,171cm,tm_822141,26,685,7.61,1,1,2,2,0,0.13,0.13,0.26,transfermarkt_datasets,False,2026-11-09
+Pedro Santos,Portugal,FW,FW (WM),FC Famalicão,23,2003,178cm,tm_825835,22,696,7.73,2,3,5,2,0,0.26,0.39,0.65,transfermarkt_datasets,False,2026-11-09
+Gonzalo Calçada,Spain,FW,FW (AM),CF Estrela Amadora,25,2001,181cm,tm_826225,1,12,0.13,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fally Mayulu,France,FW,FW (AM),FC Arouca,24,2002,193cm,tm_826719,3,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Facundo Cáseres,Argentina,MF,MF (CM),Gil Vicente FC,25,2001,178cm,tm_829434,29,2200,24.44,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alisson Santos,Brazil,FW,FW (WM),Sporting CP,24,2002,177cm,tm_830365,18,180,2.0,0,2,2,0,0,0.0,1.0,1.0,transfermarkt_datasets,False,2026-11-09
+Vando Félix,Guinea-Bissau,FW,FW (WM),Vitória Guimarães SC,24,2002,179cm,tm_830452,8,334,3.71,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Romualdas Jansonas,Lithuania,FW,FW (AM),FC Arouca,21,2005,187cm,tm_832326,2,46,0.51,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Serginho,Portugal,MF,MF (CM),CD Santa Clara,27,1999,181cm,tm_836547,32,2582,28.69,4,3,7,9,0,0.14,0.1,0.24,transfermarkt_datasets,False,2026-11-09
+Luís Semedo,Portugal,FW,FW (AM),Moreirense FC,23,2003,192cm,tm_840687,21,989,10.99,3,0,3,0,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Tamble,Guinea-Bissau,FW,FW (AM),Rio Ave FC,26,2000,191cm,tm_842517,13,667,7.41,0,1,1,2,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Moudjatovic,Cote d'Ivoire,FW,FW (WM),CD Tondela,24,2002,167cm,tm_842764,16,557,6.19,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marko Milovanović,Serbia,FW,FW (AM),FC Alverca,23,2003,197cm,tm_845568,31,1535,17.06,9,2,11,3,0,0.53,0.12,0.64,transfermarkt_datasets,False,2026-11-09
+Pedro Bondo,Angola,DF,DF (FB),FC Famalicão,22,2004,172cm,tm_847484,17,1178,13.09,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Costa,Portugal,FW,FW (AM),CD Santa Clara,26,2000,185cm,tm_856423,7,64,0.71,0,1,1,0,0,0.0,1.41,1.41,transfermarkt_datasets,False,2026-11-09
+Tobías Medina,Argentina,FW,FW (WM),Rio Ave FC,22,2004,180cm,tm_856592,1,11,0.12,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Diogo Spencer,Portugal,DF,DF (FB),FC Alverca,22,2004,178cm,tm_858252,7,233,2.59,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Diogo Spencer,Portugal,DF,DF (FB),Avs Futebol,22,2004,178cm,tm_858252,13,1006,11.18,1,2,3,2,0,0.09,0.18,0.27,transfermarkt_datasets,False,2026-11-09
+Cédric Nuozzi,Belgium,FW,FW (WM),FC Alverca,20,2006,177cm,tm_859923,25,872,9.69,1,0,1,0,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Julien Lomboto,France,DF,DF (CB),Rio Ave FC,24,2002,192cm,tm_862204,7,221,2.46,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dylan Nandín,Uruguay,FW,FW (AM),FC Arouca,24,2002,186cm,tm_862352,21,920,10.22,1,2,3,2,0,0.1,0.2,0.29,transfermarkt_datasets,False,2026-11-09
+Yan Maranhão,Brazil,FW,FW (AM),Moreirense FC,24,2002,184cm,tm_862568,21,732,8.13,1,1,2,5,0,0.12,0.12,0.25,transfermarkt_datasets,False,2026-11-09
+Marvin Elimbi,France,DF,DF (CB),Gil Vicente FC,23,2003,186cm,tm_862628,28,2432,27.02,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sorriso,Brazil,FW,FW (WM),FC Famalicão,25,2001,175cm,tm_868101,33,2804,31.16,5,4,9,7,0,0.16,0.13,0.29,transfermarkt_datasets,False,2026-11-09
+Taichi Fukui,Japan,MF,MF (CM),FC Arouca,22,2004,177cm,tm_868622,33,2531,28.12,4,3,7,2,0,0.14,0.11,0.25,transfermarkt_datasets,False,2026-11-09
+Gian Cabezas,Colombia,MF,MF (CM),FC Alverca,23,2003,178cm,tm_873528,5,36,0.4,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Demir Ege Tıknaz,Türkiye,MF,MF (DM),SC Braga,22,2004,193cm,tm_875337,10,462,5.13,0,1,1,2,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Paulo Victor,Brazil,DF,DF (FB),CD Santa Clara,25,2001,184cm,tm_875511,21,1359,15.1,1,0,1,3,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Alberto Costa,Portugal,DF,DF (FB),FC Porto,23,2003,186cm,tm_877139,29,2227,24.74,1,9,10,7,0,0.04,0.36,0.4,transfermarkt_datasets,False,2026-11-09
+Gonçalo Nogueira,Portugal,MF,MF (CM),Vitória Guimarães SC,23,2003,185cm,tm_877140,23,1345,14.94,0,4,4,2,0,0.0,0.27,0.27,transfermarkt_datasets,False,2026-11-09
+Ryan Guilherme,Brazil,MF,MF (CM),Rio Ave FC,24,2002,188cm,tm_877787,12,416,4.62,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zé Vítor,Brazil,DF,DF (CB),CD Nacional,25,2001,189cm,tm_879236,30,2673,29.7,4,1,5,6,0,0.13,0.03,0.17,transfermarkt_datasets,False,2026-11-09
+Antonio Espigares,Spain,DF,DF (CB),Gil Vicente FC,22,2004,187cm,tm_886047,19,972,10.8,1,1,2,2,0,0.09,0.09,0.19,transfermarkt_datasets,False,2026-11-09
+Michel,Brazil,DF,DF (CB),Moreirense FC,23,2003,188cm,tm_887834,4,301,3.34,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Óscar Rivas,Spain,DF,DF (CB),Vitória Guimarães SC,26,2000,193cm,tm_890557,18,1620,18.0,1,0,1,1,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Jimi Gower,England,MF,MF (CM),Moreirense FC,22,2004,181cm,tm_890718,9,161,1.79,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Marques,Portugal,FW,FW (WM),Casa Pia AC,24,2002,179cm,tm_891971,13,587,6.52,1,1,2,2,0,0.15,0.15,0.31,transfermarkt_datasets,False,2026-11-09
+Leandro Antonetti,Puerto Rico,FW,FW (AM),CF Estrela Amadora,23,2003,189cm,tm_892926,12,305,3.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Eric da Silva Moreira,Germany,DF,DF (FB),Rio Ave FC,20,2006,185cm,tm_897481,3,70,0.78,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vasconcelos,Portugal,MF,MF (AM),SC Braga,21,2005,180cm,tm_898715,1,42,0.47,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Chissumba,Portugal,DF,DF (FB),FC Alverca,21,2005,180cm,tm_898721,19,1510,16.78,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rica Rocha,Portugal,MF,MF (DM),Vitória Guimarães SC,23,2003,182cm,tm_902869,2,85,0.94,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Roger Fernandes,Portugal,FW,FW (WM),SC Braga,21,2005,169cm,tm_906329,4,327,3.63,1,2,3,1,0,0.28,0.55,0.83,transfermarkt_datasets,False,2026-11-09
+Gabri Martínez,Spain,FW,FW (WM),SC Braga,23,2003,185cm,tm_906948,28,1321,14.68,1,5,6,2,0,0.07,0.34,0.41,transfermarkt_datasets,False,2026-11-09
+Zé Carlos,Portugal,MF,MF (CM),Gil Vicente FC,25,2001,172cm,tm_908936,30,1198,13.31,0,1,1,7,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Alan Núñez,Paraguay,DF,DF (FB),CD Nacional,22,2004,176cm,tm_912703,21,1672,18.58,1,2,3,2,0,0.05,0.11,0.16,transfermarkt_datasets,False,2026-11-09
+André Luiz,Brazil,FW,FW (WM),Rio Ave FC,24,2002,187cm,tm_919262,19,1501,16.68,7,6,13,3,0,0.42,0.36,0.78,transfermarkt_datasets,False,2026-11-09
+Dominik Prpić,Croatia,DF,DF (CB),FC Porto,22,2004,188cm,tm_921533,6,179,1.99,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Felipe Lima,Brazil,FW,FW (AM),FC Alverca,20,2006,187cm,tm_923299,6,46,0.51,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tunde Akinsola,Nigeria,FW,FW (WM),Avs Futebol,23,2003,175cm,tm_924447,34,2443,27.14,1,4,5,2,0,0.04,0.15,0.18,transfermarkt_datasets,False,2026-11-09
+Tiago Parente,Portugal,DF,DF (FB),GD Estoril Praia,22,2004,178cm,tm_925417,14,486,5.4,1,1,2,3,0,0.19,0.19,0.37,transfermarkt_datasets,False,2026-11-09
+Victor Froholdt,Denmark,MF,MF (CM),FC Porto,20,2006,187cm,tm_926993,34,2875,31.94,6,6,12,2,0,0.19,0.19,0.38,transfermarkt_datasets,False,2026-11-09
+Afonso Rodrigues,Portugal,FW,FW (WM),CD Tondela,24,2002,178cm,tm_927644,7,117,1.3,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Carlos Eduardo,Brazil,FW,FW (AM),Gil Vicente FC,24,2002,192cm,tm_927714,15,269,2.99,2,0,2,0,0,0.67,0.0,0.67,transfermarkt_datasets,False,2026-11-09
+Joel Silva,Portugal,MF,MF (CM),CD Nacional,23,2003,185cm,tm_929573,18,381,4.23,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Rego,Portugal,MF,MF (AM),SL Benfica,21,2005,182cm,tm_931415,8,59,0.66,1,1,2,0,0,1.52,1.52,3.03,transfermarkt_datasets,False,2026-11-09
+Ivan Lima,Portugal,FW,FW (WM),SL Benfica,21,2005,174cm,tm_931416,1,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gustavo Varela,Cape Verde,FW,FW (AM),Gil Vicente FC,21,2005,184cm,tm_931900,32,1522,16.91,6,3,9,3,0,0.35,0.18,0.53,transfermarkt_datasets,False,2026-11-09
+Antonis Papakanellos,Greece,MF,MF (AM),Rio Ave FC,21,2005,186cm,tm_933884,21,421,4.68,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kiko,Portugal,DF,DF (FB),Moreirense FC,24,2002,180cm,tm_934031,27,1850,20.56,1,0,1,5,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Martim Fernandes,Portugal,DF,DF (FB),FC Porto,20,2006,181cm,tm_935480,20,1119,12.43,1,1,2,2,0,0.08,0.08,0.16,transfermarkt_datasets,False,2026-11-09
+Gil Martins,Portugal,MF,MF (AM),Gil Vicente FC,20,2006,180cm,tm_937727,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Diogo Sousa,Portugal,MF,MF (DM),Vitória Guimarães SC,20,2006,176cm,tm_937729,22,1162,12.91,1,1,2,5,0,0.08,0.08,0.15,transfermarkt_datasets,False,2026-11-09
+Yellu Santiago,Spain,MF,MF (CM),FC Arouca,22,2004,192cm,tm_941869,5,23,0.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Iván Fresneda,Spain,DF,DF (FB),Sporting CP,22,2004,183cm,tm_946883,23,1605,17.83,1,0,1,6,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Diogo Bezerra,Brazil,FW,FW (WM),Rio Ave FC,24,2002,186cm,tm_947404,17,1267,14.08,1,2,3,3,0,0.07,0.14,0.21,transfermarkt_datasets,False,2026-11-09
+Or Israelov,Israel,DF,DF (CB),GD Estoril Praia,22,2004,187cm,tm_950442,1,17,0.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bastien Meupiyou,France,DF,DF (CB),FC Alverca,20,2006,191cm,tm_955253,30,2619,29.1,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rodrigo Mora,Portugal,MF,MF (AM),FC Porto,19,2007,168cm,tm_957653,28,1179,13.1,1,1,2,1,0,0.08,0.08,0.15,transfermarkt_datasets,False,2026-11-09
+João Simões,Portugal,MF,MF (CM),Sporting CP,19,2007,178cm,tm_958937,18,755,8.39,0,1,1,3,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Matija Mitrović,Serbia,MF,MF (CM),Vitória Guimarães SC,22,2004,182cm,tm_959979,18,703,7.81,2,0,2,2,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+Naves,Brazil,DF,DF (CB),FC Alverca,24,2002,184cm,tm_964591,32,2835,31.5,2,0,2,7,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Mathis Clairicia,France,FW,FW (AM),FC Alverca,24,2002,188cm,tm_969153,9,119,1.32,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jalen Blesa,Spain,FW,FW (AM),Rio Ave FC,25,2001,187cm,tm_973249,13,1078,11.98,7,0,7,1,0,0.58,0.0,0.58,transfermarkt_datasets,False,2026-11-09
+Brenner,Brazil,FW,FW (WM),CD Santa Clara,24,2002,171cm,tm_973703,28,1185,13.17,0,1,1,2,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Ousmane Diomande,Cote d'Ivoire,DF,DF (CB),Sporting CP,23,2003,190cm,tm_974982,17,1297,14.41,0,1,1,5,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Korede Osundina,United States,FW,FW (WM),Casa Pia AC,22,2004,183cm,tm_975138,18,697,7.74,2,0,2,1,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+Mateus Pivô,Brazil,DF,DF (FB),Avs Futebol,29,1997,185cm,tm_978615,14,1149,12.77,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Paulo Vitor,Brazil,DF,DF (CB),Vitória Guimarães SC,25,2001,190cm,tm_979625,1,4,0.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Paulo Vitor,Brazil,DF,DF (CB),Avs Futebol,25,2001,190cm,tm_979625,17,1421,15.79,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Oumar Ngom,Mauritania,MF,MF (DM),CF Estrela Amadora,22,2004,190cm,tm_980575,11,832,9.24,0,1,1,3,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Brian Mansilla,Uruguay,FW,FW (WM),FC Arouca,24,2002,176cm,tm_981058,20,317,3.52,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Karem Zoabi,Israel,FW,FW (AM),Rio Ave FC,20,2006,184cm,tm_982557,5,92,1.02,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gustavo Sá,Portugal,MF,MF (AM),FC Famalicão,22,2004,189cm,tm_982575,32,2711,30.12,4,2,6,7,0,0.13,0.07,0.2,transfermarkt_datasets,False,2026-11-09
+Thiago Balieiro,Brazil,DF,DF (CB),Vitória Guimarães SC,23,2003,190cm,tm_984093,13,1170,13.0,1,0,1,5,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Diego Rodrigues,Portugal,MF,MF (CM),SC Braga,21,2005,185cm,tm_984540,20,849,9.43,1,3,4,2,0,0.11,0.32,0.42,transfermarkt_datasets,False,2026-11-09
+Rodrigo Rêgo,Portugal,FW,FW (WM),SL Benfica,21,2005,173cm,tm_984544,3,112,1.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Francisco Petrasso,Argentina,DF,DF (CB),Rio Ave FC,24,2002,191cm,tm_985683,23,1439,15.99,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Steven Baseya,France,DF,DF (CB),FC Alverca,21,2005,190cm,tm_988468,12,514,5.71,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Brayan Medina,Colombia,DF,DF (CB),CD Tondela,24,2002,195cm,tm_989929,25,2199,24.43,0,1,1,8,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Samu Aghehowa,Spain,FW,FW (AM),FC Porto,22,2004,193cm,tm_991268,20,1413,15.7,13,1,14,2,0,0.83,0.06,0.89,transfermarkt_datasets,False,2026-11-09
+Luís Guilherme,Brazil,FW,FW (WM),Sporting CP,20,2006,175cm,tm_991800,13,634,7.04,1,0,1,0,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Andrey,Brazil,MF,MF (AM),CD Santa Clara,24,2002,183cm,tm_997076,2,145,1.61,0,1,1,0,0,0.0,0.62,0.62,transfermarkt_datasets,False,2026-11-09
+Agustín Moreira,Uruguay,FW,FW (WM),Gil Vicente FC,25,2001,174cm,tm_999072,21,1031,11.46,2,1,3,3,0,0.17,0.09,0.26,transfermarkt_datasets,False,2026-11-09
+Gianluca Prestianni,Argentina,FW,FW (WM),SL Benfica,20,2006,166cm,tm_1000674,29,1546,17.18,3,6,9,7,0,0.17,0.35,0.52,transfermarkt_datasets,False,2026-11-09
+Sidi Bane,Senegal,DF,DF (CB),Avs Futebol,22,2004,184cm,tm_1000828,9,588,6.53,1,0,1,1,0,0.15,0.0,0.15,transfermarkt_datasets,False,2026-11-09
+Tony Strata,Romania,DF,DF (FB),Vitória Guimarães SC,22,2004,177cm,tm_1004681,21,1404,15.6,1,1,2,3,0,0.06,0.06,0.13,transfermarkt_datasets,False,2026-11-09
+William Gomes,Brazil,FW,FW (WM),FC Porto,20,2006,171cm,tm_1004725,28,1167,12.97,8,1,9,5,0,0.62,0.08,0.69,transfermarkt_datasets,False,2026-11-09
+Sandro Vidigal,Portugal,FW,FW (WM),SC Braga,19,2007,172cm,tm_1006448,4,50,0.56,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Óscar Perea,Colombia,FW,FW (WM),Avs Futebol,21,2005,174cm,tm_1015624,25,1258,13.98,2,0,2,0,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Chico Gonçalves,Portugal,DF,DF (CB),CD Nacional,22,2004,188cm,tm_1020652,10,563,6.26,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tiago Brito,Portugal,MF,MF (DM),GD Estoril Praia,22,2004,190cm,tm_1020686,4,64,0.71,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Antoine Joujou,France,FW,FW (WM),FC Famalicão,23,2003,189cm,tm_1028162,23,573,6.37,3,1,4,0,0,0.47,0.16,0.63,transfermarkt_datasets,False,2026-11-09
+Omar Fayed,Egypt,DF,DF (CB),FC Arouca,23,2003,192cm,tm_1036405,8,553,6.14,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Miro,Angola,FW,FW (AM),CD Tondela,23,2003,193cm,tm_1043831,4,282,3.13,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mario Dorgeles,Cote d'Ivoire,MF,MF (WM),SC Braga,22,2004,177cm,tm_1045972,20,990,11.0,2,1,3,0,0,0.18,0.09,0.27,transfermarkt_datasets,False,2026-11-09
+Gustavo Silva,Brazil,FW,FW (WM),Vitória Guimarães SC,27,1999,180cm,tm_1047860,23,1466,16.29,5,2,7,3,0,0.31,0.12,0.43,transfermarkt_datasets,False,2026-11-09
+Watts,Portugal,FW,FW (WM),CD Nacional,21,2005,184cm,tm_1047861,7,53,0.59,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Oumar Camara,France,FW,FW (WM),Vitória Guimarães SC,19,2007,185cm,tm_1053206,30,1504,16.71,5,2,7,2,0,0.3,0.12,0.42,transfermarkt_datasets,False,2026-11-09
+Rafael Nel,Portugal,FW,FW (AM),Sporting CP,21,2005,182cm,tm_1057523,7,173,1.92,2,1,3,0,0,1.04,0.52,1.56,transfermarkt_datasets,False,2026-11-09
+Edson Mucuana,Mozambique,FW,FW (WM),Avs Futebol,23,2003,167cm,tm_1058056,1,81,0.9,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Theofanis Bakoulas,Greece,MF,MF (DM),Rio Ave FC,21,2005,175cm,tm_1060252,3,158,1.76,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mateo Flores,Spain,MF,MF (CM),FC Arouca,22,2004,178cm,tm_1061283,12,189,2.1,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jonatás Noro,Portugal,DF,DF (CB),SC Braga,21,2005,187cm,tm_1061378,1,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rudi Almeida,Portugal,FW,FW (AM),FC Famalicão,21,2005,185cm,tm_1061686,2,14,0.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gonçalo Moreira,Portugal,MF,MF (AM),SL Benfica,20,2006,171cm,tm_1061744,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mathias de Amorim,Portugal,MF,MF (CM),FC Famalicão,22,2004,174cm,tm_1061975,30,2470,27.44,4,2,6,8,0,0.15,0.07,0.22,transfermarkt_datasets,False,2026-11-09
+Deniz Gül,Türkiye,FW,FW (AM),FC Porto,22,2004,192cm,tm_1063292,29,1171,13.01,5,1,6,3,0,0.38,0.08,0.46,transfermarkt_datasets,False,2026-11-09
+Marcos Peña,Spain,MF,MF (CM),FC Famalicão,21,2005,180cm,tm_1064121,16,353,3.92,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Guilherme Neiva,Brazil,FW,FW (WM),Avs Futebol,25,2001,177cm,tm_1065761,24,923,10.26,2,3,5,2,0,0.19,0.29,0.49,transfermarkt_datasets,False,2026-11-09
+Fabrício Garcia,Cape Verde,FW,FW (WM),GD Estoril Praia,25,2001,172cm,tm_1070645,7,166,1.84,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fabrício Garcia,Cape Verde,FW,FW (WM),FC Alverca,25,2001,172cm,tm_1070645,6,71,0.79,1,0,1,0,0,1.27,0.0,1.27,transfermarkt_datasets,False,2026-11-09
+Pedro Carvalho,Portugal,DF,DF (FB),GD Estoril Praia,23,2003,169cm,tm_1072238,26,1249,13.88,0,1,1,5,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Yanis da Rocha,Portugal,MF,MF (DM),SC Braga,22,2004,189cm,tm_1073115,4,112,1.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mordomo,Portugal,FW,FW (WM),SC Braga,22,2004,181cm,tm_1074179,1,4,0.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Juanse Rodríguez,Ecuador,MF,MF (DM),CD Tondela,20,2006,175cm,tm_1074496,29,1979,21.99,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bernardo Lima,Portugal,MF,MF (CM),FC Porto,18,2008,182cm,tm_1076056,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hugo Nunes,Portugal,MF,MF (CM),Vitória Guimarães SC,24,2002,187cm,tm_1077059,1,10,0.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Eduardo Felicíssimo,Portugal,MF,MF (DM),Sporting CP,19,2007,186cm,tm_1081566,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gustavo Mancha,Brazil,DF,DF (CB),Rio Ave FC,22,2004,190cm,tm_1082582,14,1260,14.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amorim,Brazil,MF,MF (CM),FC Alverca,21,2005,177cm,tm_1082774,19,1634,18.16,2,0,2,3,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Ryan Carlos,Brazil,DF,DF (FB),CF Estrela Amadora,24,2002,172cm,tm_1082832,4,152,1.69,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pablo Ruan,Brazil,FW,FW (WM),CD Nacional,23,2003,181cm,tm_1083068,23,860,9.56,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Henrique Silva,Brazil,DF,DF (CB),CD Santa Clara,21,2005,,tm_1083239,13,1031,11.46,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+André Miranda,Portugal,FW,FW (WM),FC Porto,19,2007,180cm,tm_1083389,1,6,0.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gabriel Moscardo,Brazil,MF,MF (DM),SC Braga,21,2005,185cm,tm_1086636,23,941,10.46,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gonçalo Maia,Portugal,MF,MF (CM),Gil Vicente FC,21,2005,173cm,tm_1089809,2,4,0.04,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fernando,Brazil,FW,FW (WM),CD Santa Clara,21,2005,175cm,tm_1091608,11,583,6.48,1,2,3,0,0,0.15,0.31,0.46,transfermarkt_datasets,False,2026-11-09
+Anísio Cabral,Portugal,FW,FW (AM),SL Benfica,18,2008,187cm,tm_1092964,6,43,0.48,2,0,2,0,0,4.17,0.0,4.17,transfermarkt_datasets,False,2026-11-09
+Robinho,Brazil,MF,MF (CM),CF Estrela Amadora,24,2002,180cm,tm_1093626,23,931,10.34,0,1,1,5,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Otávio,Brazil,DF,DF (CB),CF Estrela Amadora,21,2005,193cm,tm_1094885,22,1356,15.07,0,1,1,5,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Rafael Lobato,Brazil,FW,FW (WM),Rio Ave FC,20,2006,170cm,tm_1097263,2,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+José Silva,Portugal,DF,DF (FB),FC Arouca,21,2005,180cm,tm_1102159,4,35,0.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Julián Martínez,Honduras,DF,DF (CB),FC Alverca,23,2003,185cm,tm_1105188,11,664,7.38,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yefrei Rodríguez,Colombia,FW,FW (AM),CD Tondela,21,2005,191cm,tm_1112292,14,407,4.52,1,0,1,1,0,0.22,0.0,0.22,transfermarkt_datasets,False,2026-11-09
+Kevyn Monteiro,Brazil,DF,DF (CB),Moreirense FC,21,2005,,tm_1116537,10,355,3.94,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Umar Abubakar,Nigeria,FW,FW (AM),FC Famalicão,20,2006,190cm,tm_1133954,22,397,4.41,3,0,3,1,0,0.68,0.0,0.68,transfermarkt_datasets,False,2026-11-09
+Daniel Banjaqui,Portugal,DF,DF (FB),SL Benfica,18,2008,184cm,tm_1134199,2,153,1.7,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Miguel Nogueira,Portugal,FW,FW (WM),Vitória Guimarães SC,21,2005,182cm,tm_1135545,16,796,8.84,1,0,1,0,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Tiago Silva,Portugal,MF,MF (DM),FC Porto,19,2007,180cm,tm_1137979,1,22,0.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Geovany Quenda,Portugal,FW,FW (WM),Sporting CP,19,2007,172cm,tm_1138758,20,875,9.72,2,5,7,0,0,0.21,0.51,0.72,transfermarkt_datasets,False,2026-11-09
+Yassir Zabiri,Morocco,FW,FW (AM),FC Famalicão,21,2005,182cm,tm_1153105,12,660,7.33,4,0,4,2,0,0.55,0.0,0.55,transfermarkt_datasets,False,2026-11-09
+Peixinho,Portugal,FW,FW (WM),GD Estoril Praia,22,2004,185cm,tm_1159044,11,200,2.22,1,0,1,1,0,0.45,0.0,0.45,transfermarkt_datasets,False,2026-11-09
+Eddy Doué,Cote d'Ivoire,MF,MF (DM),CF Estrela Amadora,21,2005,180cm,tm_1159661,14,811,9.01,1,0,1,4,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Oskar Pietuszewski,Poland,FW,FW (WM),FC Porto,18,2008,179cm,tm_1162012,16,820,9.11,3,4,7,2,0,0.33,0.44,0.77,transfermarkt_datasets,False,2026-11-09
+Fodé Pascoal,Guinea-Bissau,DF,DF (CB),SC Braga,22,2004,187cm,tm_1172179,1,10,0.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ikker Julian,Belgium,MF,MF (WM),FC Alverca,21,2005,181cm,tm_1173903,2,114,1.27,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Leandro Santos,Portugal,DF,DF (FB),Moreirense FC,21,2005,181cm,tm_1173926,9,261,2.9,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Motez Nourani,Tunisia,FW,FW (WM),CD Nacional,24,2002,177cm,tm_1176866,6,159,1.77,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohamed Bamba,Cote d'Ivoire,MF,MF (DM),Gil Vicente FC,22,2004,188cm,tm_1178475,4,86,0.96,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ejike Opara,Nigeria,FW,FW (AM),Vitória Guimarães SC,21,2005,184cm,tm_1184662,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahima Ba,Senegal,DF,DF (CB),FC Famalicão,21,2005,190cm,tm_1191154,21,1655,18.39,1,1,2,4,0,0.05,0.05,0.11,transfermarkt_datasets,False,2026-11-09
+Zeega,Portugal,MF,MF (AM),Vitória Guimarães SC,18,2008,178cm,tm_1199783,2,40,0.44,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alex Sola,Angola,MF,MF (CM),CF Estrela Amadora,23,2003,173cm,tm_1216111,16,706,7.84,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Landerson,Brazil,FW,FW (WM),Moreirense FC,20,2006,168cm,tm_1219689,29,1289,14.32,0,2,2,2,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Kevin Prieto,Uruguay,MF,MF (WM),Casa Pia AC,23,2003,184cm,tm_1221003,11,340,3.78,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kauan,Brazil,DF,DF (FB),FC Alverca,21,2005,,tm_1223074,4,36,0.4,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+José Neto,Portugal,DF,DF (FB),SL Benfica,18,2008,184cm,tm_1233701,2,94,1.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kaly,Angola,DF,DF (CB),Casa Pia AC,23,2003,192cm,tm_1241219,12,992,11.02,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yarlen,Brazil,FW,FW (WM),CD Tondela,20,2006,178cm,tm_1241278,11,450,5.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zakaria Kassary,Morocco,MF,MF (CM),FC Alverca,20,2006,178cm,tm_1245251,3,4,0.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Deivison,Brazil,MF,MF (CM),CD Nacional,20,2006,185cm,tm_1261642,4,113,1.26,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alisson Souza,Brazil,FW,FW (WM),CF Estrela Amadora,21,2005,,tm_1270605,5,84,0.93,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Djé,Cape Verde,MF,MF (CM),CD Santa Clara,23,2003,178cm,tm_1292917,25,954,10.6,0,1,1,8,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Salvador Blopa,Portugal,DF,DF (FB),Sporting CP,19,2007,188cm,tm_1294105,3,40,0.44,0,1,1,2,0,0.0,2.27,2.27,transfermarkt_datasets,False,2026-11-09
+Flávio Gonçalves,Portugal,MF,MF (AM),Sporting CP,19,2007,175cm,tm_1294120,3,15,0.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Davy Gui,Cote d'Ivoire,MF,MF (CM),FC Alverca,20,2006,185cm,tm_1321322,28,594,6.6,1,1,2,3,0,0.15,0.15,0.3,transfermarkt_datasets,False,2026-11-09
+João Gastão,Angola,FW,FW (AM),CF Estrela Amadora,20,2006,180cm,tm_1321718,8,282,3.13,0,1,1,2,0,0.0,0.32,0.32,transfermarkt_datasets,False,2026-11-09
+Luisinho,Portugal,MF,MF (AM),SC Braga,20,2006,184cm,tm_1333915,3,215,2.39,0,1,1,1,0,0.0,0.42,0.42,transfermarkt_datasets,False,2026-11-09
+Rodrigo Rodrigues,Portugal,FW,FW (WM),Gil Vicente FC,19,2007,175cm,tm_1333982,4,33,0.37,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Francisco Dias,Portugal,DF,DF (FB),Vitória Guimarães SC,24,2002,178cm,tm_1335120,2,180,2.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gonzalo Pastor,Spain,MF,MF (CM),FC Famalicão,20,2006,183cm,tm_1338526,2,35,0.39,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Afonso Assis,Portugal,MF,MF (DM),Moreirense FC,20,2006,183cm,tm_1365020,18,885,9.83,1,1,2,4,0,0.1,0.1,0.2,transfermarkt_datasets,False,2026-11-09
+Renato Nhaga,Guinea-Bissau,MF,MF (CM),Casa Pia AC,19,2007,172cm,tm_1396595,18,1171,13.01,2,0,2,4,0,0.15,0.0,0.15,transfermarkt_datasets,False,2026-11-09
+Miguel Silva,Portugal,MF,MF (DM),Moreirense FC,19,2007,186cm,tm_1510255,1,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09

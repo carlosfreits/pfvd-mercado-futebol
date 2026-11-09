@@ -1,0 +1,563 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at
+Raúl Albiol,Spain,DF,DF (CB),Pisa Sporting Club,41,1985,190cm,tm_15452,8,502,5.58,0,1,1,1,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Luka Modrić,Croatia,MF,MF (CM),AC Milan,41,1985,172cm,tm_27992,34,2816,31.29,2,3,5,4,0,0.06,0.1,0.16,transfermarkt_datasets,False,2026-11-09
+Edin Dzeko,Bosnia-Herzegovina,FW,FW (AM),ACF Fiorentina,40,1986,192cm,tm_28396,11,236,2.62,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lorenzo De Silvestri,Italy,DF,DF (FB),Bologna Football Club 1909,38,1988,187cm,tm_33571,12,491,5.46,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matteo Darmian,Italy,DF,DF (FB),Inter Milan,37,1989,183cm,tm_54906,6,246,2.73,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Henrikh Mkhitaryan,Armenia,MF,MF (CM),Inter Milan,37,1989,177cm,tm_55735,30,1556,17.29,4,2,6,5,0,0.23,0.12,0.35,transfermarkt_datasets,False,2026-11-09
+Leonardo Pavoletti,Italy,FW,FW (AM),Cagliari Calcio,38,1988,188cm,tm_64793,13,217,2.41,1,1,2,1,0,0.41,0.41,0.83,transfermarkt_datasets,False,2026-11-09
+Pedro,Spain,FW,FW (WM),Società Sportiva Lazio S.p.A.,39,1987,167cm,tm_65278,29,972,10.8,5,2,7,4,0,0.46,0.19,0.65,transfermarkt_datasets,False,2026-11-09
+Milan Djuric,Bosnia-Herzegovina,FW,FW (AM),Parma Calcio 1913,36,1990,199cm,tm_67556,12,64,0.71,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Milan Djuric,Bosnia-Herzegovina,FW,FW (AM),US Cremonese,36,1990,199cm,tm_67556,11,381,4.23,0,1,1,1,0,0.0,0.24,0.24,transfermarkt_datasets,False,2026-11-09
+Duván Zapata,Colombia,FW,FW (AM),Torino FC,35,1991,188cm,tm_73794,28,1096,12.18,3,1,4,0,0,0.25,0.08,0.33,transfermarkt_datasets,False,2026-11-09
+Nemanja Matić,Serbia,MF,MF (DM),US Sassuolo,38,1988,194cm,tm_74683,34,2670,29.67,1,1,2,6,0,0.03,0.03,0.07,transfermarkt_datasets,False,2026-11-09
+Niclas Füllkrug,Germany,FW,FW (AM),AC Milan,33,1993,189cm,tm_75489,20,647,7.19,1,0,1,0,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Franco Vázquez,Argentina,MF,MF (AM),US Cremonese,37,1989,187cm,tm_76163,15,516,5.73,1,2,3,1,0,0.17,0.35,0.52,transfermarkt_datasets,False,2026-11-09
+Christian Kabasele,Belgium,DF,DF (CB),Udinese Calcio,35,1991,187cm,tm_81512,30,2256,25.07,3,0,3,5,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Sergi Roberto,Spain,MF,MF (CM),Como 1907,34,1992,178cm,tm_85370,20,533,5.92,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kevin De Bruyne,Belgium,MF,MF (AM),SSC Napoli,35,1991,181cm,tm_88755,18,1169,12.99,5,2,7,1,0,0.38,0.15,0.54,transfermarkt_datasets,False,2026-11-09
+Juan Cuadrado,Colombia,MF,MF (WM),Pisa Sporting Club,38,1988,176cm,tm_91970,19,491,5.46,1,0,1,3,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Sead Kolasinac,Bosnia-Herzegovina,DF,DF (CB),Atalanta BC,33,1993,183cm,tm_94005,19,1219,13.54,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Stephan El Shaarawy,Italy,FW,FW (WM),Associazione Sportiva Roma,34,1992,178cm,tm_94529,20,657,7.3,1,3,4,4,0,0.14,0.41,0.55,transfermarkt_datasets,False,2026-11-09
+Romelu Lukaku,Belgium,FW,FW (AM),SSC Napoli,33,1993,190cm,tm_96341,5,40,0.44,1,0,1,1,0,2.27,0.0,2.27,transfermarkt_datasets,False,2026-11-09
+Ciro Immobile,Italy,FW,FW (AM),Bologna Football Club 1909,36,1990,185cm,tm_105521,6,191,2.12,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Stefan de Vrij,Netherlands,DF,DF (CB),Inter Milan,34,1992,189cm,tm_111196,11,671,7.46,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Leonardo Spinazzola,Italy,DF,DF (FB),SSC Napoli,33,1993,186cm,tm_118689,32,1903,21.14,3,3,6,1,0,0.14,0.14,0.28,transfermarkt_datasets,False,2026-11-09
+Juan Jesus,Brazil,DF,DF (CB),SSC Napoli,35,1991,185cm,tm_121985,24,1676,18.62,0,0,0,8,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Cristiano Biraghi,Italy,DF,DF (FB),Torino FC,34,1992,185cm,tm_124555,14,511,5.68,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hakan Çalhanoğlu,Türkiye,MF,MF (DM),Inter Milan,32,1994,178cm,tm_126414,22,1651,18.34,9,4,13,7,0,0.49,0.22,0.71,transfermarkt_datasets,False,2026-11-09
+Patric,Spain,DF,DF (CB),Società Sportiva Lazio S.p.A.,33,1993,184cm,tm_126729,14,661,7.34,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Álvaro Morata,Spain,FW,FW (AM),Como 1907,34,1992,189cm,tm_128223,26,924,10.27,0,2,2,2,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Francesco Acerbi,Italy,DF,DF (CB),Inter Milan,38,1988,192cm,tm_131075,18,1379,15.32,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marten de Roon,Netherlands,MF,MF (DM),Atalanta BC,35,1991,186cm,tm_133179,34,2704,30.04,1,2,3,6,0,0.03,0.07,0.1,transfermarkt_datasets,False,2026-11-09
+Charalampos Lykogiannis,Greece,DF,DF (FB),Bologna Football Club 1909,33,1993,191cm,tm_136514,10,627,6.97,0,1,1,3,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Matías Vecino,Uruguay,MF,MF (CM),Società Sportiva Lazio S.p.A.,35,1991,187cm,tm_143812,13,599,6.66,0,2,2,1,0,0.0,0.3,0.3,transfermarkt_datasets,False,2026-11-09
+Remo Freuler,Switzerland,MF,MF (CM),Bologna Football Club 1909,34,1992,181cm,tm_148252,29,2217,24.63,1,2,3,5,0,0.04,0.08,0.12,transfermarkt_datasets,False,2026-11-09
+Nicolae Stanciu,Romania,MF,MF (AM),Genoa CFC,33,1993,170cm,tm_148372,4,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Antonio Caracciolo,Italy,DF,DF (CB),Pisa Sporting Club,36,1990,185cm,tm_149525,35,3075,34.17,2,0,2,10,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Adrien Tamèze,France,MF,MF (DM),Torino FC,32,1994,182cm,tm_157507,24,1117,12.41,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marc Oliver Kempf,Germany,DF,DF (CB),Como 1907,31,1995,186cm,tm_160938,34,2323,25.81,4,1,5,3,0,0.15,0.04,0.19,transfermarkt_datasets,False,2026-11-09
+Matteo Bianchetti,Italy,DF,DF (CB),US Cremonese,33,1993,189cm,tm_160986,27,2197,24.41,0,2,2,4,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Filip Kostić,Serbia,MF,MF (WM),Juventus FC,34,1992,184cm,tm_161011,18,468,5.2,3,1,4,1,0,0.58,0.19,0.77,transfermarkt_datasets,False,2026-11-09
+Daniele Rugani,Italy,DF,DF (CB),ACF Fiorentina,32,1994,190cm,tm_162959,6,328,3.64,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Daniele Rugani,Italy,DF,DF (CB),Juventus FC,32,1994,190cm,tm_162959,6,249,2.77,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Federico Ceccherini,Italy,DF,DF (CB),US Cremonese,34,1992,187cm,tm_163639,9,481,5.34,0,1,1,1,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Berat Djimsiti,Albania,DF,DF (CB),Atalanta BC,33,1993,190cm,tm_165513,34,2526,28.07,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matteo Politano,Italy,FW,FW (WM),SSC Napoli,33,1993,171cm,tm_165895,34,2214,24.6,2,5,7,4,0,0.08,0.2,0.28,transfermarkt_datasets,False,2026-11-09
+Stefano Sabelli,Italy,DF,DF (FB),Genoa CFC,33,1993,176cm,tm_167491,16,919,10.21,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Andrea Belotti,Italy,FW,FW (AM),Cagliari Calcio,33,1993,181cm,tm_167727,8,219,2.43,2,0,2,0,0,0.82,0.0,0.82,transfermarkt_datasets,False,2026-11-09
+Giovanni Di Lorenzo,Italy,DF,DF (FB),SSC Napoli,33,1993,183cm,tm_169880,26,2278,25.31,2,3,5,1,0,0.08,0.12,0.2,transfermarkt_datasets,False,2026-11-09
+Jean-Daniel Akpa Akpro,Cote d'Ivoire,MF,MF (CM),Hellas Verona,34,1992,180cm,tm_170481,22,1507,16.74,1,0,1,9,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Davide Zappacosta,Italy,MF,MF (WM),Atalanta BC,34,1992,182cm,tm_173859,35,2581,28.68,3,4,7,3,0,0.1,0.14,0.24,transfermarkt_datasets,False,2026-11-09
+Domenico Berardi,Italy,FW,FW (WM),US Sassuolo,32,1994,183cm,tm_177843,26,1971,21.9,8,5,13,2,0,0.37,0.23,0.59,transfermarkt_datasets,False,2026-11-09
+Piotr Zielinski,Poland,MF,MF (CM),Inter Milan,32,1994,180cm,tm_181136,34,2045,22.72,6,3,9,3,0,0.26,0.13,0.4,transfermarkt_datasets,False,2026-11-09
+Hernani,Brazil,MF,MF (CM),Parma Calcio 1913,32,1994,188cm,tm_181768,4,69,0.77,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Adrien Rabiot,France,MF,MF (CM),AC Milan,31,1995,191cm,tm_182913,29,2550,28.33,6,5,11,4,0,0.21,0.18,0.39,transfermarkt_datasets,False,2026-11-09
+Valentino Lazaro,Austria,MF,MF (WM),Torino FC,30,1996,181cm,tm_186368,31,2260,25.11,0,2,2,4,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Arkadiusz Milik,Poland,FW,FW (AM),Juventus FC,32,1994,186cm,tm_191891,2,34,0.38,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ulisses Garcia,Switzerland,DF,DF (FB),US Sassuolo,30,1996,182cm,tm_192616,13,943,10.48,1,2,3,3,0,0.1,0.19,0.29,transfermarkt_datasets,False,2026-11-09
+Stanislav Lobotka,Slovakia,MF,MF (DM),SSC Napoli,32,1994,168cm,tm_192735,32,2438,27.09,1,1,2,3,0,0.04,0.04,0.07,transfermarkt_datasets,False,2026-11-09
+Federico Bernardeschi,Italy,FW,FW (WM),Bologna Football Club 1909,32,1994,183cm,tm_197300,29,1208,13.42,4,2,6,3,0,0.3,0.15,0.45,transfermarkt_datasets,False,2026-11-09
+Roberto Gagliardini,Italy,MF,MF (CM),Hellas Verona,32,1994,188cm,tm_197471,29,2216,24.62,1,0,1,10,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Alberto Grassi,Italy,MF,MF (DM),US Cremonese,31,1995,183cm,tm_197473,30,1755,19.5,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alessio Romagnoli,Italy,DF,DF (CB),Società Sportiva Lazio S.p.A.,31,1995,185cm,tm_197747,32,2667,29.63,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jamie Vardy,England,FW,FW (AM),US Cremonese,39,1987,179cm,tm_197838,29,2108,23.42,7,3,10,5,0,0.3,0.13,0.43,transfermarkt_datasets,False,2026-11-09
+Federico Dimarco,Italy,DF,DF (FB),Inter Milan,29,1997,175cm,tm_198116,35,2704,30.04,7,18,25,3,0,0.23,0.6,0.83,transfermarkt_datasets,False,2026-11-09
+Bryan Cristante,Italy,MF,MF (DM),Associazione Sportiva Roma,31,1995,186cm,tm_199248,37,3103,34.48,2,1,3,6,0,0.06,0.03,0.09,transfermarkt_datasets,False,2026-11-09
+Danilo Cataldi,Italy,MF,MF (DM),Società Sportiva Lazio S.p.A.,32,1994,180cm,tm_199733,27,1993,22.14,3,3,6,6,0,0.14,0.14,0.27,transfermarkt_datasets,False,2026-11-09
+Caleb Ekuban,Ghana,FW,FW (AM),Genoa CFC,32,1994,182cm,tm_199953,31,975,10.83,4,1,5,0,0,0.37,0.09,0.46,transfermarkt_datasets,False,2026-11-09
+Elseid Hysaj,Albania,DF,DF (FB),Società Sportiva Lazio S.p.A.,32,1994,182cm,tm_200056,5,170,1.89,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ruben Loftus-Cheek,England,MF,MF (CM),AC Milan,30,1996,191cm,tm_202886,28,1126,12.51,3,1,4,2,0,0.24,0.08,0.32,transfermarkt_datasets,False,2026-11-09
+Mario Pašalić,Croatia,MF,MF (CM),Atalanta BC,31,1995,188cm,tm_205938,33,1931,21.46,3,4,7,3,0,0.14,0.19,0.33,transfermarkt_datasets,False,2026-11-09
+Paulo Dybala,Argentina,FW,FW (AM),Associazione Sportiva Roma,33,1993,177cm,tm_206050,22,1356,15.07,2,7,9,0,0,0.13,0.46,0.6,transfermarkt_datasets,False,2026-11-09
+Ruslan Malinovskyi,Ukraine,MF,MF (CM),Genoa CFC,33,1993,181cm,tm_207877,34,2251,25.01,6,3,9,10,0,0.24,0.12,0.36,transfermarkt_datasets,False,2026-11-09
+Alberto Moreno,Spain,DF,DF (FB),Como 1907,34,1992,171cm,tm_207917,19,1234,13.71,2,2,4,4,0,0.15,0.15,0.29,transfermarkt_datasets,False,2026-11-09
+Pablo Marí,Spain,DF,DF (CB),ACF Fiorentina,33,1993,193cm,tm_210178,11,809,8.99,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jérémie Boga,Cote d'Ivoire,FW,FW (WM),Juventus FC,29,1997,172cm,tm_216569,15,677,7.52,4,1,5,1,0,0.53,0.13,0.66,transfermarkt_datasets,False,2026-11-09
+Jesper Karlström,Sweden,MF,MF (DM),Udinese Calcio,31,1995,182cm,tm_222855,36,3153,35.03,1,0,1,6,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Stefan Posch,Austria,DF,DF (CB),Como 1907,29,1997,188cm,tm_223974,14,384,4.27,1,0,1,1,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Luca Mazzitelli,Italy,MF,MF (CM),Cagliari Calcio,31,1995,184cm,tm_226025,18,765,8.5,2,2,4,3,0,0.24,0.24,0.47,transfermarkt_datasets,False,2026-11-09
+Morten Thorsby,Norway,MF,MF (CM),Genoa CFC,30,1996,188cm,tm_226524,13,731,8.12,2,1,3,2,0,0.25,0.12,0.37,transfermarkt_datasets,False,2026-11-09
+Morten Thorsby,Norway,MF,MF (CM),US Cremonese,30,1996,188cm,tm_226524,11,643,7.14,1,0,1,2,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Antonio Sanabria,Paraguay,FW,FW (AM),US Cremonese,30,1996,180cm,tm_234523,25,940,10.44,1,1,2,2,0,0.1,0.1,0.19,transfermarkt_datasets,False,2026-11-09
+Maxwel Cornet,Cote d'Ivoire,FW,FW (WM),Genoa CFC,30,1996,179cm,tm_234781,8,112,1.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alessandro Deiola,Italy,MF,MF (CM),Cagliari Calcio,31,1995,190cm,tm_235931,20,1435,15.94,0,2,2,3,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Michel Aebischer,Switzerland,MF,MF (CM),Pisa Sporting Club,29,1997,183cm,tm_237658,35,2900,32.22,1,2,3,8,0,0.03,0.06,0.09,transfermarkt_datasets,False,2026-11-09
+Adam Marusic,Montenegro,DF,DF (FB),Società Sportiva Lazio S.p.A.,34,1992,185cm,tm_239802,33,2783,30.92,1,2,3,1,0,0.03,0.06,0.1,transfermarkt_datasets,False,2026-11-09
+Arturo Calabresi,Italy,DF,DF (CB),Pisa Sporting Club,30,1996,186cm,tm_240897,26,1519,16.88,0,1,1,8,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Federico Bonazzoli,Italy,FW,FW (AM),US Cremonese,29,1997,185cm,tm_241527,35,2524,28.04,10,2,12,4,0,0.36,0.07,0.43,transfermarkt_datasets,False,2026-11-09
+Edoardo Goldaniga,Italy,DF,DF (CB),Como 1907,33,1993,193cm,tm_242940,2,14,0.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Guillermo Maripán,Chile,DF,DF (CB),Torino FC,32,1994,193cm,tm_249730,27,2145,23.83,2,0,2,4,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Pasquale Mazzocchi,Italy,DF,DF (FB),SSC Napoli,31,1995,183cm,tm_250153,16,300,3.33,0,1,1,0,0,0.0,0.3,0.3,transfermarkt_datasets,False,2026-11-09
+Zeki Çelik,Türkiye,DF,DF (FB),Associazione Sportiva Roma,29,1997,180cm,tm_251075,34,2731,30.34,1,2,3,2,0,0.03,0.07,0.1,transfermarkt_datasets,False,2026-11-09
+Aarón Martín,Spain,DF,DF (FB),Genoa CFC,29,1997,178cm,tm_251878,33,2161,24.01,1,5,6,2,0,0.04,0.21,0.25,transfermarkt_datasets,False,2026-11-09
+Nicolò Barella,Italy,MF,MF (CM),Inter Milan,29,1997,175cm,tm_255942,34,2533,28.14,3,9,12,7,0,0.11,0.32,0.43,transfermarkt_datasets,False,2026-11-09
+Gianluca Mancini,Italy,DF,DF (CB),Associazione Sportiva Roma,30,1996,190cm,tm_256448,36,3066,34.07,4,2,6,9,0,0.12,0.06,0.18,transfermarkt_datasets,False,2026-11-09
+Filippo Romagna,Italy,DF,DF (CB),US Sassuolo,29,1997,186cm,tm_256678,5,315,3.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amir Rrahmani,Kosovo,DF,DF (CB),SSC Napoli,32,1994,192cm,tm_257732,21,1800,20.0,2,1,3,3,0,0.1,0.05,0.15,transfermarkt_datasets,False,2026-11-09
+Jari Vandeputte,Belgium,MF,MF (CM),US Cremonese,30,1996,177cm,tm_258827,32,1952,21.69,1,6,7,3,0,0.05,0.28,0.32,transfermarkt_datasets,False,2026-11-09
+Suat Serdar,Germany,MF,MF (CM),Hellas Verona,29,1997,184cm,tm_261905,20,1109,12.32,2,0,2,3,0,0.16,0.0,0.16,transfermarkt_datasets,False,2026-11-09
+Patrick Cutrone,Italy,FW,FW (AM),Parma Calcio 1913,28,1998,183cm,tm_265078,15,894,9.93,1,0,1,0,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Manuel Locatelli,Italy,MF,MF (DM),Juventus FC,28,1998,185cm,tm_265088,36,3005,33.39,1,2,3,9,0,0.03,0.06,0.09,transfermarkt_datasets,False,2026-11-09
+Adam Buksa,Poland,FW,FW (AM),Udinese Calcio,30,1996,191cm,tm_267160,25,911,10.12,3,0,3,3,0,0.3,0.0,0.3,transfermarkt_datasets,False,2026-11-09
+Sandi Lovrić,Slovenia,MF,MF (CM),Hellas Verona,28,1998,180cm,tm_268429,8,361,4.01,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sandi Lovrić,Slovenia,MF,MF (CM),Udinese Calcio,28,1998,180cm,tm_268429,6,158,1.76,0,1,1,1,0,0.0,0.57,0.57,transfermarkt_datasets,False,2026-11-09
+Kingsley Ehizibue,Netherlands,DF,DF (FB),Udinese Calcio,31,1995,189cm,tm_272812,32,1810,20.11,2,0,2,5,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Robin Gosens,Germany,DF,DF (FB),ACF Fiorentina,32,1994,183cm,tm_273132,26,1893,21.03,3,1,4,2,0,0.14,0.05,0.19,transfermarkt_datasets,False,2026-11-09
+Angeliño,Spain,DF,DF (FB),Associazione Sportiva Roma,29,1997,171cm,tm_277179,7,419,4.66,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sebastiano Luperto,Italy,DF,DF (CB),Cagliari Calcio,30,1996,191cm,tm_278531,19,1707,18.97,1,0,1,3,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Sebastiano Luperto,Italy,DF,DF (CB),US Cremonese,30,1996,191cm,tm_278531,15,1310,14.56,0,1,1,1,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Stefano Moreo,Italy,FW,FW (AM),Pisa Sporting Club,33,1993,191cm,tm_279823,37,2316,25.73,7,1,8,2,0,0.27,0.04,0.31,transfermarkt_datasets,False,2026-11-09
+Mario Hermoso,Spain,DF,DF (CB),Associazione Sportiva Roma,31,1995,184cm,tm_281769,27,2096,23.29,3,2,5,9,0,0.13,0.09,0.21,transfermarkt_datasets,False,2026-11-09
+Marin Pongracic,Croatia,DF,DF (CB),ACF Fiorentina,29,1997,193cm,tm_282144,35,2918,32.42,0,0,0,12,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Giovanni Simeone,Argentina,FW,FW (AM),Torino FC,31,1995,180cm,tm_282388,32,2247,24.97,11,2,13,1,0,0.44,0.08,0.52,transfermarkt_datasets,False,2026-11-09
+Mattia Zaccagni,Italy,FW,FW (WM),Società Sportiva Lazio S.p.A.,31,1995,177cm,tm_283735,26,2114,23.49,3,1,4,6,0,0.13,0.04,0.17,transfermarkt_datasets,False,2026-11-09
+Manuel Akanji,Switzerland,DF,DF (CB),Inter Milan,31,1995,188cm,tm_284730,33,2820,31.33,2,0,2,4,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Lorenzo Pellegrini,Italy,MF,MF (AM),Associazione Sportiva Roma,30,1996,186cm,tm_286297,24,1476,16.4,4,2,6,2,0,0.24,0.12,0.37,transfermarkt_datasets,False,2026-11-09
+Adam Masina,Morocco,DF,DF (CB),Torino FC,32,1994,191cm,tm_286949,5,232,2.58,0,1,1,0,0,0.0,0.39,0.39,transfermarkt_datasets,False,2026-11-09
+Yerry Mina,Colombia,DF,DF (CB),Cagliari Calcio,32,1994,195cm,tm_289446,26,2153,23.92,2,0,2,3,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Hassane Kamara,Cote d'Ivoire,DF,DF (FB),Udinese Calcio,32,1994,170cm,tm_290017,26,1869,20.77,0,2,2,5,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Nikola Vlašić,Croatia,MF,MF (AM),Torino FC,29,1997,179cm,tm_293200,37,3055,33.94,8,3,11,7,0,0.24,0.09,0.32,transfermarkt_datasets,False,2026-11-09
+Grigoris Kastanos,Cyprus,MF,MF (CM),Hellas Verona,28,1998,179cm,tm_298635,6,40,0.44,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pol Lirola,Spain,DF,DF (FB),Hellas Verona,29,1997,183cm,tm_298975,6,305,3.39,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pontus Almqvist,Sweden,FW,FW (WM),Parma Calcio 1913,27,1999,183cm,tm_300532,13,452,5.02,0,1,1,0,0,0.0,0.2,0.2,transfermarkt_datasets,False,2026-11-09
+Fikayo Tomori,England,DF,DF (CB),AC Milan,29,1997,185cm,tm_303254,33,2563,28.48,0,2,2,6,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Albert Gudmundsson,Iceland,FW,FW (AM),ACF Fiorentina,29,1997,177cm,tm_305947,33,2262,25.13,5,4,9,4,0,0.2,0.16,0.36,transfermarkt_datasets,False,2026-11-09
+Rolando Mandragora,Italy,MF,MF (DM),ACF Fiorentina,29,1997,183cm,tm_308279,34,2438,27.09,7,4,11,7,0,0.26,0.15,0.41,transfermarkt_datasets,False,2026-11-09
+Christian Pulisic,United States,FW,FW (WM),AC Milan,28,1998,177cm,tm_315779,30,1612,17.91,8,4,12,0,0,0.45,0.22,0.67,transfermarkt_datasets,False,2026-11-09
+Alessandro Bastoni,Italy,DF,DF (CB),Inter Milan,27,1999,190cm,tm_315853,28,2249,24.99,1,4,5,6,0,0.04,0.16,0.2,transfermarkt_datasets,False,2026-11-09
+Andrea Pinamonti,Italy,FW,FW (AM),US Sassuolo,27,1999,185cm,tm_315865,36,2575,28.61,9,4,13,2,0,0.31,0.14,0.45,transfermarkt_datasets,False,2026-11-09
+Gianluca Scamacca,Italy,FW,FW (AM),Atalanta BC,27,1999,195cm,tm_315867,24,1319,14.66,10,1,11,2,0,0.68,0.07,0.75,transfermarkt_datasets,False,2026-11-09
+Scott McTominay,Scotland,MF,MF (CM),SSC Napoli,30,1996,193cm,tm_315969,33,2793,31.03,10,3,13,1,0,0.32,0.1,0.42,transfermarkt_datasets,False,2026-11-09
+Nikola Moro,Croatia,MF,MF (DM),Bologna Football Club 1909,28,1998,183cm,tm_316934,30,1798,19.98,2,0,2,1,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Marcus Thuram,France,FW,FW (AM),Inter Milan,29,1997,192cm,tm_318528,29,1913,21.26,13,6,19,2,0,0.61,0.28,0.89,transfermarkt_datasets,False,2026-11-09
+Denzel Dumfries,Netherlands,DF,DF (FB),Inter Milan,30,1996,188cm,tm_321528,20,1328,14.76,3,1,4,2,0,0.2,0.07,0.27,transfermarkt_datasets,False,2026-11-09
+Matteo Gabbia,Italy,DF,DF (CB),AC Milan,27,1999,185cm,tm_323167,30,2531,28.12,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Youssef Maleh,Morocco,MF,MF (CM),US Lecce,28,1998,179cm,tm_324377,9,459,5.1,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Youssef Maleh,Morocco,MF,MF (CM),US Cremonese,28,1998,179cm,tm_324377,14,1107,12.3,1,0,1,2,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Donyell Malen,Netherlands,FW,FW (AM),Associazione Sportiva Roma,27,1999,178cm,tm_326029,18,1478,16.42,14,2,16,1,0,0.85,0.12,0.97,transfermarkt_datasets,False,2026-11-09
+Diego Carlos,Brazil,DF,DF (CB),Como 1907,33,1993,185cm,tm_329145,27,1948,21.64,1,0,1,8,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Manuel Lazzari,Italy,DF,DF (FB),Società Sportiva Lazio S.p.A.,33,1993,174cm,tm_331401,23,933,10.37,0,1,1,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Weston McKennie,United States,MF,MF (CM),Juventus FC,28,1998,180cm,tm_332697,36,2841,31.57,5,6,11,5,0,0.16,0.19,0.35,transfermarkt_datasets,False,2026-11-09
+Toma Bašić,Croatia,MF,MF (CM),Società Sportiva Lazio S.p.A.,30,1996,190cm,tm_334835,23,1746,19.4,2,3,5,0,0,0.1,0.15,0.26,transfermarkt_datasets,False,2026-11-09
+Idrissa Touré,Germany,MF,MF (WM),Pisa Sporting Club,28,1998,188cm,tm_335516,32,2281,25.34,1,1,2,4,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Nicolas Kühn,Germany,FW,FW (WM),Como 1907,26,2000,174cm,tm_336012,23,655,7.28,1,1,2,0,0,0.14,0.14,0.27,transfermarkt_datasets,False,2026-11-09
+Mërgim Vojvoda,Kosovo,DF,DF (FB),Como 1907,31,1995,187cm,tm_336125,30,1593,17.7,2,2,4,2,0,0.11,0.11,0.23,transfermarkt_datasets,False,2026-11-09
+Giuseppe Pezzella,Italy,DF,DF (FB),US Cremonese,29,1997,187cm,tm_336960,31,2591,28.79,0,1,1,8,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Christian Kouamé,Cote d'Ivoire,FW,FW (AM),ACF Fiorentina,29,1997,193cm,tm_337725,2,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Konstantinos Tsimikas,Greece,DF,DF (FB),Associazione Sportiva Roma,30,1996,179cm,tm_338070,18,638,7.09,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Unai Núñez,Spain,DF,DF (CB),Hellas Verona,29,1997,186cm,tm_338285,17,1265,14.06,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Noa Lang,Netherlands,FW,FW (WM),SSC Napoli,27,1999,176cm,tm_339332,18,661,7.34,1,2,3,2,0,0.14,0.27,0.41,transfermarkt_datasets,False,2026-11-09
+Tete Morente,Spain,FW,FW (WM),US Lecce,30,1996,184cm,tm_339816,16,859,9.54,0,1,1,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Abdelhamid Sabiri,Morocco,MF,MF (AM),ACF Fiorentina,30,1996,186cm,tm_340394,1,26,0.29,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Juan Miranda,Spain,DF,DF (FB),Bologna Football Club 1909,26,2000,185cm,tm_341227,32,2573,28.59,1,5,6,6,0,0.03,0.17,0.21,transfermarkt_datasets,False,2026-11-09
+Enzo Ebosse,Cameroon,DF,DF (CB),Hellas Verona,27,1999,185cm,tm_342877,4,214,2.38,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Enzo Ebosse,Cameroon,DF,DF (CB),Torino FC,27,1999,185cm,tm_342877,13,1118,12.42,0,1,1,3,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Artem Dovbyk,Ukraine,FW,FW (AM),Associazione Sportiva Roma,29,1997,189cm,tm_343537,14,386,4.29,3,1,4,0,0,0.7,0.23,0.93,transfermarkt_datasets,False,2026-11-09
+Christopher Nkunku,France,FW,FW (AM),AC Milan,29,1997,177cm,tm_344381,32,1351,15.01,7,3,10,0,0,0.47,0.2,0.67,transfermarkt_datasets,False,2026-11-09
+Sebastian Walukiewicz,Poland,DF,DF (FB),US Sassuolo,26,2000,188cm,tm_345458,34,2855,31.72,0,1,1,7,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Jens Odgaard,Denmark,MF,MF (AM),Bologna Football Club 1909,27,1999,188cm,tm_345590,26,1380,15.33,5,1,6,1,0,0.33,0.07,0.39,transfermarkt_datasets,False,2026-11-09
+Luca Ranieri,Italy,DF,DF (CB),ACF Fiorentina,27,1999,187cm,tm_346561,34,2463,27.37,1,0,1,8,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Luca Pellegrini,Italy,DF,DF (FB),Società Sportiva Lazio S.p.A.,27,1999,178cm,tm_346567,24,1477,16.41,1,0,1,8,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Ché Adams,Scotland,FW,FW (AM),Torino FC,30,1996,175cm,tm_346779,33,1897,21.08,6,3,9,0,0,0.28,0.14,0.43,transfermarkt_datasets,False,2026-11-09
+Mehdi Léris,Algeria,FW,FW (WM),Pisa Sporting Club,28,1998,186cm,tm_348601,34,1907,21.19,2,3,5,2,0,0.09,0.14,0.24,transfermarkt_datasets,False,2026-11-09
+Pervis Estupiñán,Ecuador,DF,DF (FB),AC Milan,28,1998,175cm,tm_349599,19,1036,11.51,1,1,2,5,0,0.09,0.09,0.17,transfermarkt_datasets,False,2026-11-09
+Federico Baschirotto,Italy,DF,DF (CB),US Cremonese,30,1996,187cm,tm_351955,29,2541,28.23,2,0,2,2,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Benjamin Pavard,France,DF,DF (CB),Inter Milan,30,1996,186cm,tm_353366,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Frank Anguissa,Cameroon,MF,MF (CM),SSC Napoli,31,1995,184cm,tm_354361,18,1256,13.96,4,2,6,1,0,0.29,0.14,0.43,transfermarkt_datasets,False,2026-11-09
+M'Bala Nzola,Angola,FW,FW (AM),Pisa Sporting Club,30,1996,185cm,tm_354814,16,1054,11.71,3,0,3,1,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+M'Bala Nzola,Angola,FW,FW (AM),US Sassuolo,30,1996,185cm,tm_354814,14,466,5.18,1,1,2,1,0,0.19,0.19,0.39,transfermarkt_datasets,False,2026-11-09
+Rafael Leão,Portugal,FW,FW (WM),AC Milan,27,1999,188cm,tm_357164,29,1861,20.68,9,3,12,5,0,0.44,0.15,0.58,transfermarkt_datasets,False,2026-11-09
+Dušan Vlahović,Serbia,FW,FW (AM),Juventus FC,26,2000,190cm,tm_357498,19,970,10.78,7,1,8,0,0,0.65,0.09,0.74,transfermarkt_datasets,False,2026-11-09
+Sandro Kulenović,Croatia,FW,FW (AM),Torino FC,27,1999,191cm,tm_357778,13,294,3.27,0,1,1,2,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Domagoj Bradarić,Croatia,DF,DF (FB),Hellas Verona,27,1999,178cm,tm_357796,29,1971,21.9,0,1,1,2,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Raoul Bellanova,Italy,MF,MF (WM),Atalanta BC,26,2000,188cm,tm_357992,24,1373,15.26,0,1,1,2,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Simone Canestrelli,Italy,DF,DF (CB),Pisa Sporting Club,26,2000,192cm,tm_358003,37,3201,35.57,1,0,1,4,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Gianluca Gaetano,Italy,MF,MF (DM),Cagliari Calcio,26,2000,183cm,tm_358008,33,1911,21.23,2,4,6,4,0,0.09,0.19,0.28,transfermarkt_datasets,False,2026-11-09
+Cyril Ngonge,Belgium,FW,FW (WM),Torino FC,26,2000,180cm,tm_358032,20,992,11.02,1,1,2,2,0,0.09,0.09,0.18,transfermarkt_datasets,False,2026-11-09
+Teun Koopmeiners,Netherlands,MF,MF (DM),Juventus FC,28,1998,185cm,tm_360518,33,1819,20.21,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mitchel Bakker,Netherlands,MF,MF (WM),Atalanta BC,26,2000,189cm,tm_361065,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jurgen Ekkelenkamp,Netherlands,MF,MF (CM),Udinese Calcio,26,2000,188cm,tm_361068,31,2205,24.5,5,4,9,1,0,0.2,0.16,0.37,transfermarkt_datasets,False,2026-11-09
+Moise Kean,Italy,FW,FW (AM),ACF Fiorentina,26,2000,183cm,tm_364135,26,2041,22.68,8,1,9,4,0,0.35,0.04,0.4,transfermarkt_datasets,False,2026-11-09
+Leo Østigård,Norway,DF,DF (CB),Genoa CFC,27,1999,183cm,tm_367284,30,2623,29.14,5,1,6,7,0,0.17,0.03,0.21,transfermarkt_datasets,False,2026-11-09
+Riccardo Orsolini,Italy,FW,FW (WM),Bologna Football Club 1909,29,1997,186cm,tm_368482,35,2117,23.52,10,1,11,2,0,0.43,0.04,0.47,transfermarkt_datasets,False,2026-11-09
+Loïs Openda,Belgium,FW,FW (AM),Juventus FC,26,2000,177cm,tm_368887,24,652,7.24,1,0,1,0,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Evan Ndicka,Cote d'Ivoire,DF,DF (CB),Associazione Sportiva Roma,27,1999,192cm,tm_371149,31,2683,29.81,3,0,3,5,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Nicholas Pierini,Italy,FW,FW (WM),US Sassuolo,28,1998,176cm,tm_372720,11,133,1.48,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Manuel De Luca,Italy,FW,FW (AM),US Cremonese,28,1998,192cm,tm_375816,2,14,0.16,1,0,1,0,0,6.25,0.0,6.25,transfermarkt_datasets,False,2026-11-09
+Vakoun Bayo,Cote d'Ivoire,FW,FW (AM),Udinese Calcio,29,1997,184cm,tm_375877,15,447,4.97,0,2,2,0,0,0.0,0.4,0.4,transfermarkt_datasets,False,2026-11-09
+Mathías Olivera,Uruguay,DF,DF (FB),SSC Napoli,29,1997,185cm,tm_376514,25,1368,15.2,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Michael Folorunsho,Italy,MF,MF (CM),Cagliari Calcio,28,1998,190cm,tm_377042,27,2009,22.32,2,0,2,3,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Jakub Piotrowski,Poland,MF,MF (CM),Udinese Calcio,29,1997,188cm,tm_377243,33,1699,18.88,1,1,2,2,0,0.05,0.05,0.11,transfermarkt_datasets,False,2026-11-09
+Moatasem Al-Musrati,Libya,MF,MF (DM),Hellas Verona,30,1996,189cm,tm_377641,18,841,9.34,0,1,1,4,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Marius Marin,Romania,MF,MF (DM),Pisa Sporting Club,28,1998,180cm,tm_379163,23,1287,14.3,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alexis Saelemaekers,Belgium,MF,MF (WM),AC Milan,27,1999,180cm,tm_381950,35,2802,31.13,3,4,7,5,0,0.1,0.13,0.22,transfermarkt_datasets,False,2026-11-09
+Alberto Dossena,Italy,DF,DF (CB),Cagliari Calcio,28,1998,195cm,tm_385394,12,856,9.51,0,1,1,5,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Alessandro Buongiorno,Italy,DF,DF (CB),SSC Napoli,27,1999,190cm,tm_386446,33,2522,28.02,0,1,1,3,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Riccardo Sottil,Italy,FW,FW (WM),US Lecce,27,1999,180cm,tm_386455,21,1072,11.91,1,2,3,1,0,0.08,0.17,0.25,transfermarkt_datasets,False,2026-11-09
+Lassana Coulibaly,Mali,MF,MF (CM),US Lecce,30,1996,183cm,tm_386552,33,2696,29.96,3,1,4,4,0,0.1,0.03,0.13,transfermarkt_datasets,False,2026-11-09
+Leon Bailey,Jamaica,FW,FW (WM),Associazione Sportiva Roma,29,1997,178cm,tm_387626,7,182,2.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nicolò Casale,Italy,DF,DF (CB),Bologna Football Club 1909,28,1998,191cm,tm_389837,12,675,7.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Andrea Ghion,Italy,MF,MF (DM),US Sassuolo,26,2000,174cm,tm_390163,1,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nicolò Zaniolo,Italy,FW,FW (AM),Udinese Calcio,27,1999,190cm,tm_392085,32,2271,25.23,5,6,11,8,0,0.2,0.24,0.44,transfermarkt_datasets,False,2026-11-09
+Antonino Gallo,Italy,DF,DF (FB),US Lecce,26,2000,183cm,tm_392516,37,3058,33.98,0,4,4,3,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Tommaso Pobega,Italy,MF,MF (CM),Bologna Football Club 1909,27,1999,188cm,tm_392538,26,1435,15.94,3,1,4,2,0,0.19,0.06,0.25,transfermarkt_datasets,False,2026-11-09
+Gabriele Zappa,Italy,DF,DF (FB),Cagliari Calcio,27,1999,187cm,tm_392569,31,1594,17.71,0,3,3,2,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Enrico Delprato,Italy,DF,DF (FB),Parma Calcio 1913,27,1999,183cm,tm_392956,35,2953,32.81,2,0,2,5,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Nadir Zortea,Italy,DF,DF (FB),Bologna Football Club 1909,27,1999,187cm,tm_392966,32,1811,20.12,0,3,3,2,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Zakaria Aboukhlal,Morocco,FW,FW (WM),Torino FC,26,2000,179cm,tm_393238,15,507,5.63,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Davide Frattesi,Italy,MF,MF (CM),Inter Milan,27,1999,178cm,tm_394300,22,552,6.13,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maxence Caqueret,France,MF,MF (CM),Como 1907,26,2000,174cm,tm_395237,30,1488,16.53,2,5,7,3,0,0.12,0.3,0.42,transfermarkt_datasets,False,2026-11-09
+Antoine Bernede,France,MF,MF (CM),Hellas Verona,27,1999,178cm,tm_395512,32,2316,25.73,1,2,3,2,0,0.04,0.08,0.12,transfermarkt_datasets,False,2026-11-09
+Manor Solomon,Israel,FW,FW (WM),ACF Fiorentina,27,1999,170cm,tm_396638,16,887,9.86,2,1,3,1,0,0.2,0.1,0.3,transfermarkt_datasets,False,2026-11-09
+Alessandro Zanoli,Italy,DF,DF (FB),Udinese Calcio,26,2000,188cm,tm_397225,19,1292,14.36,1,2,3,1,0,0.07,0.14,0.21,transfermarkt_datasets,False,2026-11-09
+Eljif Elmas,North Macedonia,MF,MF (AM),SSC Napoli,27,1999,184cm,tm_400489,33,1783,19.81,1,3,4,3,0,0.05,0.15,0.2,transfermarkt_datasets,False,2026-11-09
+Dodô,Brazil,DF,DF (FB),ACF Fiorentina,28,1998,166cm,tm_401529,36,3139,34.88,1,2,3,7,0,0.03,0.06,0.09,transfermarkt_datasets,False,2026-11-09
+Samuel Chukwueze,Nigeria,FW,FW (WM),AC Milan,27,1999,172cm,tm_401922,1,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Giacomo Raspadori,Italy,FW,FW (AM),Atalanta BC,26,2000,172cm,tm_405885,13,793,8.81,3,1,4,0,0,0.34,0.11,0.45,transfermarkt_datasets,False,2026-11-09
+Ademola Lookman,Nigeria,FW,FW (WM),Atalanta BC,29,1997,174cm,tm_406040,12,797,8.86,2,0,2,0,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Dennis Johnsen,Norway,FW,FW (WM),US Cremonese,28,1998,185cm,tm_406042,11,390,4.33,1,1,2,0,0,0.23,0.23,0.46,transfermarkt_datasets,False,2026-11-09
+Zé Pedro,Portugal,DF,DF (CB),Cagliari Calcio,29,1997,187cm,tm_406151,23,1705,18.94,0,1,1,6,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Lautaro Martínez,Argentina,FW,FW (AM),Inter Milan,29,1997,174cm,tm_406625,30,2178,24.2,17,6,23,4,0,0.7,0.25,0.95,transfermarkt_datasets,False,2026-11-09
+Cas Odenthal,Netherlands,DF,DF (CB),US Sassuolo,26,2000,190cm,tm_406632,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Calvin Stengs,Netherlands,MF,MF (AM),Pisa Sporting Club,28,1998,187cm,tm_409344,4,42,0.47,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Keinan Davis,England,FW,FW (AM),Udinese Calcio,28,1998,189cm,tm_412660,30,2078,23.09,10,4,14,5,0,0.43,0.17,0.61,transfermarkt_datasets,False,2026-11-09
+Jhon Lucumí,Colombia,DF,DF (CB),Bologna Football Club 1909,28,1998,187cm,tm_413565,29,2287,25.41,1,0,1,5,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+David Okereke,Nigeria,FW,FW (AM),US Cremonese,29,1997,181cm,tm_413605,10,400,4.44,2,0,2,0,0,0.45,0.0,0.45,transfermarkt_datasets,False,2026-11-09
+Abdou Harroui,Morocco,MF,MF (CM),Hellas Verona,28,1998,182cm,tm_416386,23,906,10.07,1,0,1,3,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Jack Harrison,England,FW,FW (WM),ACF Fiorentina,30,1996,175cm,tm_417346,15,978,10.87,1,3,4,1,0,0.09,0.28,0.37,transfermarkt_datasets,False,2026-11-09
+Victor Nelsson,Denmark,DF,DF (CB),Hellas Verona,28,1998,185cm,tm_422951,38,3316,36.84,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Billy Gilmour,Scotland,MF,MF (DM),SSC Napoli,25,2001,170cm,tm_423744,17,802,8.91,1,0,1,1,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Lewis Ferguson,Scotland,MF,MF (CM),Bologna Football Club 1909,27,1999,181cm,tm_428563,27,1596,17.73,1,0,1,5,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Hans Nicolussi Caviglia,Italy,MF,MF (DM),Parma Calcio 1913,26,2000,184cm,tm_430280,15,873,9.7,0,3,3,0,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Hans Nicolussi Caviglia,Italy,MF,MF (DM),ACF Fiorentina,26,2000,184cm,tm_430280,11,585,6.5,0,1,1,4,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Nicolò Fagioli,Italy,MF,MF (CM),ACF Fiorentina,25,2001,178cm,tm_432090,33,2567,28.52,2,3,5,5,0,0.07,0.11,0.18,transfermarkt_datasets,False,2026-11-09
+Roberto Piccoli,Italy,FW,FW (AM),ACF Fiorentina,25,2001,190cm,tm_432092,32,1664,18.49,4,1,5,1,0,0.22,0.05,0.27,transfermarkt_datasets,False,2026-11-09
+Tino Anjorin,England,MF,MF (CM),Torino FC,25,2001,186cm,tm_433181,15,277,3.08,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Corrie Ndaba,Ireland,DF,DF (FB),US Lecce,27,1999,188cm,tm_433329,14,539,5.99,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alessio Zerbin,Italy,MF,MF (WM),US Cremonese,27,1999,182cm,tm_433584,32,1644,18.27,0,3,3,2,0,0.0,0.16,0.16,transfermarkt_datasets,False,2026-11-09
+Sam Beukema,Netherlands,DF,DF (CB),SSC Napoli,28,1998,188cm,tm_433984,24,1680,18.67,2,0,2,2,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Nikola Krstović,Montenegro,FW,FW (AM),Atalanta BC,26,2000,185cm,tm_434433,33,1786,19.84,10,5,15,4,0,0.5,0.25,0.76,transfermarkt_datasets,False,2026-11-09
+Michele Collocolo,Italy,MF,MF (CM),US Cremonese,27,1999,188cm,tm_434551,8,363,4.03,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ardian Ismajli,Albania,DF,DF (CB),Torino FC,30,1996,187cm,tm_435228,25,1907,21.19,0,1,1,5,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Charles De Ketelaere,Belgium,MF,MF (AM),Atalanta BC,25,2001,192cm,tm_435772,31,2190,24.33,3,5,8,4,0,0.12,0.21,0.33,transfermarkt_datasets,False,2026-11-09
+Daniel Boloca,Italy,MF,MF (DM),US Sassuolo,28,1998,185cm,tm_441515,2,135,1.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yann Bisseck,Germany,DF,DF (CB),Inter Milan,26,2000,196cm,tm_441986,23,1922,21.36,3,2,5,2,0,0.14,0.09,0.23,transfermarkt_datasets,False,2026-11-09
+Ylber Ramadani,Albania,MF,MF (DM),US Lecce,30,1996,185cm,tm_442703,37,3215,35.72,1,0,1,10,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Emanuele Valeri,Italy,DF,DF (FB),Parma Calcio 1913,28,1998,180cm,tm_445126,34,2646,29.4,0,2,2,2,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Junior Messias,Brazil,FW,FW (WM),Genoa CFC,35,1991,174cm,tm_449151,20,675,7.5,3,1,4,1,0,0.4,0.13,0.53,transfermarkt_datasets,False,2026-11-09
+Adrian Benedyczak,Poland,FW,FW (AM),Parma Calcio 1913,26,2000,191cm,tm_454386,14,486,5.4,1,1,2,1,0,0.19,0.19,0.37,transfermarkt_datasets,False,2026-11-09
+Gabriel Strefezza,Brazil,FW,FW (WM),Parma Calcio 1913,29,1997,168cm,tm_457673,14,1016,11.29,2,2,4,3,0,0.18,0.18,0.35,transfermarkt_datasets,False,2026-11-09
+Alessandro Di Pardo,Italy,DF,DF (FB),Cagliari Calcio,27,1999,182cm,tm_457674,3,53,0.59,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tijjani Noslin,Netherlands,FW,FW (WM),Società Sportiva Lazio S.p.A.,27,1999,178cm,tm_457736,29,1138,12.64,4,3,7,4,0,0.32,0.24,0.55,transfermarkt_datasets,False,2026-11-09
+Marco Brescianini,Italy,MF,MF (CM),ACF Fiorentina,26,2000,188cm,tm_459128,17,861,9.57,1,1,2,1,0,0.1,0.1,0.21,transfermarkt_datasets,False,2026-11-09
+Marco Brescianini,Italy,MF,MF (CM),Atalanta BC,26,2000,188cm,tm_459128,9,173,1.92,1,0,1,1,0,0.52,0.0,0.52,transfermarkt_datasets,False,2026-11-09
+Nicolò Cambiaghi,Italy,FW,FW (WM),Bologna Football Club 1909,26,2000,176cm,tm_459151,28,1521,16.9,3,4,7,3,0,0.18,0.24,0.41,transfermarkt_datasets,False,2026-11-09
+Andrea Cambiaso,Italy,DF,DF (FB),Juventus FC,26,2000,182cm,tm_459658,36,2796,31.07,3,4,7,3,0,0.1,0.13,0.23,transfermarkt_datasets,False,2026-11-09
+Patrizio Masini,Italy,MF,MF (CM),Genoa CFC,25,2001,182cm,tm_459665,28,1400,15.56,0,1,1,5,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Gennaro Borrelli,Italy,FW,FW (AM),Cagliari Calcio,26,2000,194cm,tm_459988,27,1272,14.13,5,1,6,4,0,0.35,0.07,0.42,transfermarkt_datasets,False,2026-11-09
+Gustav Isaksen,Denmark,FW,FW (WM),Società Sportiva Lazio S.p.A.,25,2001,181cm,tm_462823,30,1598,17.76,5,1,6,0,0,0.28,0.06,0.34,transfermarkt_datasets,False,2026-11-09
+Khéphren Thuram,France,MF,MF (CM),Juventus FC,25,2001,192cm,tm_463618,35,2453,27.26,3,3,6,2,0,0.11,0.11,0.22,transfermarkt_datasets,False,2026-11-09
+Oumar Solet,France,DF,DF (CB),Udinese Calcio,26,2000,192cm,tm_463665,35,2961,32.9,3,1,4,1,0,0.09,0.03,0.12,transfermarkt_datasets,False,2026-11-09
+Filip Stojilkovic,Switzerland,FW,FW (AM),Pisa Sporting Club,26,2000,186cm,tm_464195,13,659,7.32,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Torbjørn Heggem,Norway,DF,DF (CB),Bologna Football Club 1909,27,1999,192cm,tm_464469,27,2113,23.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mattéo Guendouzi,France,MF,MF (CM),Società Sportiva Lazio S.p.A.,27,1999,185cm,tm_465830,16,1430,15.89,2,1,3,5,0,0.13,0.06,0.19,transfermarkt_datasets,False,2026-11-09
+Adrián Bernabé,Spain,MF,MF (CM),Parma Calcio 1913,25,2001,170cm,tm_466802,32,2494,27.71,3,2,5,0,0,0.11,0.07,0.18,transfermarkt_datasets,False,2026-11-09
+Armel Bella-Kotchap,Germany,DF,DF (CB),Hellas Verona,25,2001,190cm,tm_467563,19,1347,14.97,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Samuele Ricci,Italy,MF,MF (DM),AC Milan,25,2001,181cm,tm_467992,31,1297,14.41,1,4,5,3,0,0.07,0.28,0.35,transfermarkt_datasets,False,2026-11-09
+David Neres,Brazil,FW,FW (WM),SSC Napoli,29,1997,176cm,tm_469822,16,925,10.28,3,3,6,3,0,0.29,0.29,0.58,transfermarkt_datasets,False,2026-11-09
+Kenneth Taylor,Netherlands,MF,MF (CM),Società Sportiva Lazio S.p.A.,24,2002,182cm,tm_470394,17,1402,15.58,3,2,5,5,0,0.19,0.13,0.32,transfermarkt_datasets,False,2026-11-09
+Ivan Ilić,Serbia,MF,MF (CM),Torino FC,25,2001,186cm,tm_470794,8,415,4.61,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matteo Tramoni,France,MF,MF (AM),Pisa Sporting Club,26,2000,175cm,tm_475410,27,1610,17.89,2,2,4,3,0,0.11,0.11,0.22,transfermarkt_datasets,False,2026-11-09
+Lloyd Kelly,England,DF,DF (CB),Juventus FC,28,1998,189cm,tm_480116,35,2998,33.31,1,1,2,4,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Nico González,Argentina,FW,FW (WM),Juventus FC,28,1998,180cm,tm_486031,2,17,0.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Francisco Conceição,Portugal,FW,FW (WM),Juventus FC,24,2002,166cm,tm_487474,31,2098,23.31,3,5,8,3,0,0.13,0.21,0.34,transfermarkt_datasets,False,2026-11-09
+Lorenzo Colombo,Italy,FW,FW (AM),Genoa CFC,24,2002,183cm,tm_487843,38,2346,26.07,7,2,9,2,0,0.27,0.08,0.35,transfermarkt_datasets,False,2026-11-09
+Martin Frese,Denmark,DF,DF (FB),Hellas Verona,28,1998,179cm,tm_488785,31,2413,26.81,2,0,2,8,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Thórir Jóhann Helgason,Iceland,MF,MF (CM),US Lecce,26,2000,187cm,tm_488996,8,140,1.56,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Koni De Winter,Belgium,DF,DF (CB),AC Milan,24,2002,191cm,tm_490384,26,1798,19.98,1,1,2,1,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Ignace Van der Brempt,Belgium,DF,DF (FB),Como 1907,24,2002,187cm,tm_490423,20,931,10.34,0,1,1,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Mattia Viti,Italy,DF,DF (CB),ACF Fiorentina,24,2002,190cm,tm_493702,10,260,2.89,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Da Cunha,France,MF,MF (CM),Como 1907,25,2001,174cm,tm_495667,36,2748,30.53,6,5,11,4,0,0.2,0.16,0.36,transfermarkt_datasets,False,2026-11-09
+Andrias Edmundsson,Faroe Islands,DF,DF (CB),Hellas Verona,26,2000,196cm,tm_495839,15,1320,14.67,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Emil Holm,Sweden,DF,DF (FB),Juventus FC,26,2000,191cm,tm_496745,7,227,2.52,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Emil Holm,Sweden,DF,DF (FB),Bologna Football Club 1909,26,2000,191cm,tm_496745,11,657,7.3,1,4,5,1,0,0.14,0.55,0.68,transfermarkt_datasets,False,2026-11-09
+Edon Zhegrova,Kosovo,FW,FW (WM),Juventus FC,27,1999,180cm,tm_496857,19,366,4.07,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Isak Hien,Sweden,DF,DF (CB),Atalanta BC,27,1999,191cm,tm_503075,28,1965,21.83,1,0,1,5,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Albert Grønbaek,Denmark,MF,MF (AM),Genoa CFC,25,2001,181cm,tm_503866,4,101,1.12,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Morten Frendrup,Denmark,MF,MF (DM),Genoa CFC,25,2001,178cm,tm_503871,36,3089,34.32,1,0,1,5,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Aster Vranckx,Belgium,MF,MF (CM),US Sassuolo,24,2002,183cm,tm_503881,16,692,7.69,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yunus Musah,United States,MF,MF (CM),AC Milan,24,2002,178cm,tm_503991,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yunus Musah,United States,MF,MF (CM),Atalanta BC,24,2002,178cm,tm_503991,19,561,6.23,1,0,1,1,0,0.16,0.0,0.16,transfermarkt_datasets,False,2026-11-09
+Tomás Esteves,Portugal,MF,MF (WM),Pisa Sporting Club,24,2002,180cm,tm_504085,1,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tariq Lamptey,Ghana,DF,DF (FB),ACF Fiorentina,26,2000,163cm,tm_504148,2,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Simon Sohm,Switzerland,MF,MF (CM),ACF Fiorentina,25,2001,188cm,tm_507486,16,709,7.88,0,1,1,2,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Simon Sohm,Switzerland,MF,MF (CM),Bologna Football Club 1909,25,2001,188cm,tm_507486,12,720,8.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Federico Gatti,Italy,DF,DF (CB),Juventus FC,28,1998,190cm,tm_509022,21,1090,12.11,2,0,2,3,0,0.17,0.0,0.17,transfermarkt_datasets,False,2026-11-09
+Oliver Sørensen,Denmark,MF,MF (CM),Parma Calcio 1913,24,2002,184cm,tm_514888,34,1834,20.38,1,1,2,2,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Bremer,Brazil,DF,DF (CB),Juventus FC,29,1997,188cm,tm_516716,26,2175,24.17,4,3,7,5,0,0.17,0.12,0.29,transfermarkt_datasets,False,2026-11-09
+Fali Candé,Guinea-Bissau,DF,DF (CB),US Sassuolo,28,1998,184cm,tm_520530,12,507,5.63,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Walid Cheddira,Morocco,FW,FW (AM),US Lecce,28,1998,187cm,tm_521407,17,1003,11.14,3,1,4,2,0,0.27,0.09,0.36,transfermarkt_datasets,False,2026-11-09
+Walid Cheddira,Morocco,FW,FW (AM),US Sassuolo,28,1998,187cm,tm_521407,16,208,2.31,1,0,1,1,0,0.43,0.0,0.43,transfermarkt_datasets,False,2026-11-09
+Taty Castellanos,Argentina,FW,FW (AM),Società Sportiva Lazio S.p.A.,28,1998,178cm,tm_522784,11,694,7.71,2,3,5,2,0,0.26,0.39,0.65,transfermarkt_datasets,False,2026-11-09
+Anastasios Douvikas,Greece,FW,FW (AM),Como 1907,27,1999,186cm,tm_523318,38,2278,25.31,14,2,16,0,0,0.55,0.08,0.63,transfermarkt_datasets,False,2026-11-09
+Oier Zarraga,Spain,MF,MF (CM),Udinese Calcio,27,1999,175cm,tm_524010,24,456,5.07,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Miguel Gutiérrez,Spain,DF,DF (FB),SSC Napoli,25,2001,180cm,tm_525299,28,1484,16.49,1,1,2,0,0,0.06,0.06,0.12,transfermarkt_datasets,False,2026-11-09
+Nicolò Rovella,Italy,MF,MF (DM),Società Sportiva Lazio S.p.A.,25,2001,179cm,tm_525704,11,512,5.69,0,1,1,2,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Lazar Samardžić,Serbia,MF,MF (AM),Atalanta BC,24,2002,184cm,tm_528833,26,1022,11.36,2,2,4,1,0,0.18,0.18,0.35,transfermarkt_datasets,False,2026-11-09
+Fisayo Dele-Bashiru,Nigeria,MF,MF (CM),Società Sportiva Lazio S.p.A.,25,2001,186cm,tm_530742,24,1182,13.13,1,0,1,0,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Johan Vásquez,Mexico,DF,DF (CB),Genoa CFC,28,1998,182cm,tm_532937,36,3217,35.74,1,0,1,2,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Jonathan David,Canada,FW,FW (AM),Juventus FC,26,2000,178cm,tm_533738,35,1784,19.82,6,4,10,0,0,0.3,0.2,0.5,transfermarkt_datasets,False,2026-11-09
+Nuno Tavares,Portugal,DF,DF (FB),Società Sportiva Lazio S.p.A.,26,2000,183cm,tm_535955,23,1471,16.34,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Mário,Portugal,DF,DF (FB),Juventus FC,26,2000,178cm,tm_537602,10,253,2.81,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+João Mário,Portugal,DF,DF (FB),Bologna Football Club 1909,26,2000,178cm,tm_537602,10,741,8.23,1,0,1,1,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Sebastiano Esposito,Italy,FW,FW (AM),Cagliari Calcio,24,2002,183cm,tm_538918,36,2702,30.02,7,5,12,6,0,0.23,0.17,0.4,transfermarkt_datasets,False,2026-11-09
+Thijs Dallinga,Netherlands,FW,FW (AM),Bologna Football Club 1909,26,2000,190cm,tm_538964,23,804,8.93,2,3,5,2,0,0.22,0.34,0.56,transfermarkt_datasets,False,2026-11-09
+Daniel Maldini,Italy,MF,MF (AM),Società Sportiva Lazio S.p.A.,25,2001,188cm,tm_539134,12,690,7.67,2,1,3,0,0,0.26,0.13,0.39,transfermarkt_datasets,False,2026-11-09
+Daniel Maldini,Italy,MF,MF (AM),Atalanta BC,25,2001,188cm,tm_539134,9,262,2.91,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tomas Suslov,Slovakia,MF,MF (AM),Hellas Verona,24,2002,174cm,tm_540333,11,445,4.94,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kristjan Asllani,Albania,MF,MF (DM),Torino FC,24,2002,179cm,tm_543771,15,1136,12.62,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Malthe Højholt,Denmark,MF,MF (DM),Pisa Sporting Club,25,2001,182cm,tm_543822,17,850,9.44,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lameck Banda,Zambia,FW,FW (WM),US Lecce,25,2001,169cm,tm_545538,32,1760,19.56,5,4,9,6,0,0.26,0.2,0.46,transfermarkt_datasets,False,2026-11-09
+Jay Idzes,Indonesia,DF,DF (CB),US Sassuolo,26,2000,190cm,tm_546926,35,3064,34.04,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fabiano Parisi,Italy,DF,DF (FB),ACF Fiorentina,26,2000,178cm,tm_547985,23,1528,16.98,1,2,3,6,0,0.06,0.12,0.18,transfermarkt_datasets,False,2026-11-09
+Matteo Cancellieri,Italy,FW,FW (WM),Società Sportiva Lazio S.p.A.,24,2002,185cm,tm_550106,30,1731,19.23,4,2,6,6,0,0.21,0.1,0.31,transfermarkt_datasets,False,2026-11-09
+Nicola Zalewski,Poland,MF,MF (WM),Atalanta BC,24,2002,175cm,tm_550108,33,1905,21.17,2,5,7,3,0,0.09,0.24,0.33,transfermarkt_datasets,False,2026-11-09
+Nahuel Estévez,Argentina,MF,MF (DM),Parma Calcio 1913,31,1995,181cm,tm_552472,32,1032,11.47,0,1,1,3,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Santiago Gimenez,Mexico,FW,FW (AM),AC Milan,25,2001,180cm,tm_552955,16,896,9.96,0,2,2,2,0,0.0,0.2,0.2,transfermarkt_datasets,False,2026-11-09
+Martín Payero,Argentina,MF,MF (CM),US Cremonese,28,1998,182cm,tm_555820,25,1460,16.22,1,0,1,8,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Devyne Rensch,Netherlands,DF,DF (FB),Associazione Sportiva Roma,23,2003,181cm,tm_557407,24,1179,13.1,1,5,6,1,0,0.08,0.38,0.46,transfermarkt_datasets,False,2026-11-09
+Michel Adopo,France,MF,MF (CM),Cagliari Calcio,26,2000,187cm,tm_564305,38,3057,33.97,1,2,3,4,0,0.03,0.06,0.09,transfermarkt_datasets,False,2026-11-09
+Kristian Thorstvedt,Norway,MF,MF (CM),US Sassuolo,27,1999,189cm,tm_564785,32,2458,27.31,4,4,8,9,0,0.15,0.15,0.29,transfermarkt_datasets,False,2026-11-09
+Mikael Egill Ellertsson,Iceland,MF,MF (CM),Genoa CFC,24,2002,182cm,tm_566615,36,2768,30.76,1,2,3,1,0,0.03,0.07,0.1,transfermarkt_datasets,False,2026-11-09
+Josh Doig,Scotland,DF,DF (FB),US Sassuolo,24,2002,189cm,tm_567129,30,1919,21.32,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jeremy Sarmiento,Ecuador,FW,FW (WM),US Cremonese,24,2002,178cm,tm_568005,7,137,1.52,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Adam Obert,Slovakia,DF,DF (FB),Cagliari Calcio,24,2002,188cm,tm_568333,35,2782,30.91,0,3,3,8,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Youssouf Fofana,France,MF,MF (DM),AC Milan,27,1999,185cm,tm_569598,33,2217,24.63,2,3,5,4,0,0.08,0.12,0.2,transfermarkt_datasets,False,2026-11-09
+Tommaso Barbieri,Italy,DF,DF (FB),US Cremonese,24,2002,181cm,tm_569939,29,1704,18.93,0,1,1,8,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Ivan Smolcic,Croatia,DF,DF (FB),Como 1907,26,2000,181cm,tm_571271,28,1665,18.5,0,1,1,8,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Giorgio Scalvini,Italy,DF,DF (CB),Atalanta BC,23,2003,194cm,tm_571604,24,1817,20.19,3,1,4,2,0,0.15,0.05,0.2,transfermarkt_datasets,False,2026-11-09
+Fabio Miretti,Italy,MF,MF (CM),Juventus FC,23,2003,180cm,tm_571607,23,605,6.72,1,2,3,1,0,0.15,0.3,0.45,transfermarkt_datasets,False,2026-11-09
+Lorenzo Lucca,Italy,FW,FW (AM),SSC Napoli,26,2000,201cm,tm_572265,16,401,4.46,1,0,1,1,0,0.22,0.0,0.22,transfermarkt_datasets,False,2026-11-09
+Strahinja Pavlović,Serbia,DF,DF (CB),AC Milan,25,2001,194cm,tm_574671,34,2870,31.89,5,1,6,4,0,0.16,0.03,0.19,transfermarkt_datasets,False,2026-11-09
+Armand Laurienté,France,FW,FW (WM),US Sassuolo,28,1998,177cm,tm_579930,38,2614,29.04,7,9,16,4,0,0.24,0.31,0.55,transfermarkt_datasets,False,2026-11-09
+Martin Baturina,Croatia,MF,MF (AM),Como 1907,23,2003,172cm,tm_580451,29,1569,17.43,6,3,9,0,0,0.34,0.17,0.52,transfermarkt_datasets,False,2026-11-09
+Samuel Iling-Junior,England,MF,MF (WM),Pisa Sporting Club,23,2003,182cm,tm_581672,5,107,1.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Álex Sala,Spain,MF,MF (CM),US Lecce,25,2001,185cm,tm_582664,9,161,1.79,0,1,1,0,0,0.0,0.56,0.56,transfermarkt_datasets,False,2026-11-09
+Medon Berisha,Albania,MF,MF (CM),US Lecce,23,2003,186cm,tm_583046,13,881,9.79,2,3,5,0,0,0.2,0.31,0.51,transfermarkt_datasets,False,2026-11-09
+Marcus Pedersen,Norway,DF,DF (FB),Torino FC,26,2000,184cm,tm_583404,29,2135,23.72,1,3,4,3,0,0.04,0.13,0.17,transfermarkt_datasets,False,2026-11-09
+Pierre Kalulu,France,DF,DF (CB),Juventus FC,26,2000,182cm,tm_585949,37,3282,36.47,2,5,7,2,0,0.05,0.14,0.19,transfermarkt_datasets,False,2026-11-09
+Carlos Augusto,Brazil,DF,DF (FB),Inter Milan,27,1999,184cm,tm_585982,34,1753,19.48,1,2,3,6,0,0.05,0.1,0.15,transfermarkt_datasets,False,2026-11-09
+Vitinha,Portugal,FW,FW (AM),Genoa CFC,26,2000,178cm,tm_586853,35,2242,24.91,5,2,7,5,0,0.2,0.08,0.28,transfermarkt_datasets,False,2026-11-09
+Daniel Oyegoke,England,DF,DF (FB),Hellas Verona,23,2003,188cm,tm_586984,15,593,6.59,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Saúl Coco,Equatorial Guinea,DF,DF (CB),Torino FC,27,1999,187cm,tm_588426,35,3090,34.33,1,1,2,3,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Niels Nkounkou,France,DF,DF (FB),Torino FC,26,2000,180cm,tm_591193,11,349,3.88,0,1,1,3,0,0.0,0.26,0.26,transfermarkt_datasets,False,2026-11-09
+Woyo Coulibaly,Mali,DF,DF (FB),US Sassuolo,27,1999,182cm,tm_592975,20,1049,11.66,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nikola Stulic,Serbia,FW,FW (AM),US Lecce,25,2001,188cm,tm_595650,34,1715,19.06,4,0,4,1,0,0.21,0.0,0.21,transfermarkt_datasets,False,2026-11-09
+Faris Moumbagna,Cameroon,FW,FW (AM),US Cremonese,26,2000,185cm,tm_599663,5,88,0.98,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mattia Felici,Italy,FW,FW (WM),Cagliari Calcio,25,2001,182cm,tm_600041,12,408,4.53,2,1,3,3,0,0.44,0.22,0.66,transfermarkt_datasets,False,2026-11-09
+Luca Moro,Italy,FW,FW (AM),US Sassuolo,25,2001,189cm,tm_600936,14,200,2.22,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Francesco Folino,Italy,DF,DF (CB),US Cremonese,24,2002,192cm,tm_603675,18,712,7.91,1,0,1,0,0,0.13,0.0,0.13,transfermarkt_datasets,False,2026-11-09
+Jamil Siebert,Germany,DF,DF (CB),US Lecce,24,2002,193cm,tm_604113,21,1700,18.89,1,0,1,3,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Éderson,Brazil,MF,MF (CM),Atalanta BC,27,1999,183cm,tm_607854,30,2235,24.83,2,1,3,3,0,0.08,0.04,0.12,transfermarkt_datasets,False,2026-11-09
+Ardon Jashari,Switzerland,MF,MF (DM),AC Milan,24,2002,181cm,tm_608172,14,700,7.78,0,1,1,0,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Rasmus Højlund,Denmark,FW,FW (AM),SSC Napoli,23,2003,191cm,tm_610442,33,2762,30.69,12,6,18,1,0,0.39,0.2,0.59,transfermarkt_datasets,False,2026-11-09
+Gaetano Oristanio,Italy,MF,MF (AM),Parma Calcio 1913,24,2002,174cm,tm_613393,20,858,9.53,1,0,1,1,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Mario Gila,Spain,DF,DF (CB),Società Sportiva Lazio S.p.A.,26,2000,185cm,tm_618341,31,2482,27.58,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Cesare Casadei,Italy,MF,MF (CM),Torino FC,23,2003,192cm,tm_622380,33,1990,22.11,6,0,6,5,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Manu Koné,France,MF,MF (CM),Associazione Sportiva Roma,25,2001,185cm,tm_624690,29,2459,27.32,2,3,5,2,0,0.07,0.11,0.18,transfermarkt_datasets,False,2026-11-09
+Lautaro Valenti,Argentina,DF,DF (CB),Parma Calcio 1913,27,1999,188cm,tm_625202,27,2251,25.01,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Boulaye Dia,Senegal,FW,FW (AM),Società Sportiva Lazio S.p.A.,30,1996,180cm,tm_626913,27,1250,13.89,1,2,3,1,0,0.07,0.14,0.22,transfermarkt_datasets,False,2026-11-09
+Gabriele Piccinini,Italy,MF,MF (CM),Pisa Sporting Club,25,2001,184cm,tm_628365,25,860,9.56,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Filippo Terracciano,Italy,DF,DF (CB),US Cremonese,23,2003,186cm,tm_631007,36,3012,33.47,2,0,2,6,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Nicolò Bertola,Italy,DF,DF (CB),Udinese Calcio,23,2003,192cm,tm_632831,28,1761,19.57,0,1,1,3,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Jordan Zemura,Zimbabwe,DF,DF (FB),Udinese Calcio,27,1999,173cm,tm_633530,17,1128,12.53,0,2,2,3,0,0.0,0.16,0.16,transfermarkt_datasets,False,2026-11-09
+Giovanni Fabbian,Italy,MF,MF (AM),ACF Fiorentina,23,2003,190cm,tm_633668,15,460,5.11,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Giovanni Fabbian,Italy,MF,MF (AM),Bologna Football Club 1909,23,2003,190cm,tm_633668,14,708,7.87,2,0,2,0,0,0.25,0.0,0.25,transfermarkt_datasets,False,2026-11-09
+Tommaso Baldanzi,Italy,MF,MF (AM),Associazione Sportiva Roma,23,2003,170cm,tm_641537,10,383,4.26,1,0,1,2,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Tommaso Baldanzi,Italy,MF,MF (AM),Genoa CFC,23,2003,170cm,tm_641537,8,401,4.46,0,2,2,0,0,0.0,0.45,0.45,transfermarkt_datasets,False,2026-11-09
+Balthazar Pierret,France,MF,MF (DM),US Lecce,26,2000,186cm,tm_642002,3,24,0.27,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Cheikh Niasse,Senegal,MF,MF (DM),Hellas Verona,26,2000,188cm,tm_644032,20,978,10.87,0,1,1,1,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Oliver Provstgaard,Denmark,DF,DF (CB),Società Sportiva Lazio S.p.A.,23,2003,194cm,tm_644408,26,1527,16.97,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sadik Fofana,Togo,MF,MF (DM),US Lecce,23,2003,192cm,tm_644613,5,81,0.9,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Odilon Kossounou,Cote d'Ivoire,DF,DF (CB),Atalanta BC,25,2001,191cm,tm_644771,19,985,10.94,1,0,1,1,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Rafa Obrador,Spain,DF,DF (FB),Torino FC,22,2004,181cm,tm_646747,16,1123,12.48,1,3,4,1,0,0.08,0.24,0.32,transfermarkt_datasets,False,2026-11-09
+Kieron Bowie,Scotland,FW,FW (AM),Hellas Verona,24,2002,190cm,tm_647280,14,1204,13.38,4,1,5,1,0,0.3,0.07,0.37,transfermarkt_datasets,False,2026-11-09
+Evan Ferguson,Ireland,FW,FW (AM),Associazione Sportiva Roma,22,2004,188cm,tm_648046,16,776,8.62,3,2,5,1,0,0.35,0.23,0.58,transfermarkt_datasets,False,2026-11-09
+Konan N’Dri,Niger,FW,FW (WM),US Lecce,26,2000,174cm,tm_649490,27,521,5.79,2,0,2,3,0,0.35,0.0,0.35,transfermarkt_datasets,False,2026-11-09
+Cher Ndour,Italy,MF,MF (CM),ACF Fiorentina,22,2004,190cm,tm_651005,33,1874,20.82,3,0,3,2,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Daniel Mosquera,Colombia,FW,FW (AM),Hellas Verona,27,1999,180cm,tm_651569,22,585,6.5,0,2,2,1,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Martin Vitík,Czech Republic,DF,DF (CB),Bologna Football Club 1909,23,2003,193cm,tm_652054,19,1324,14.71,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Laurs Skjellerup,Denmark,FW,FW (AM),US Sassuolo,24,2002,195cm,tm_655207,1,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jean Onana,Cameroon,MF,MF (DM),Genoa CFC,26,2000,189cm,tm_656441,3,42,0.47,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Warren Bondo,France,MF,MF (CM),US Cremonese,23,2003,177cm,tm_659516,27,1770,19.67,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mathias Løvik,Norway,DF,DF (FB),Parma Calcio 1913,23,2003,183cm,tm_661212,9,472,5.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jacob Ondrejka,Sweden,FW,FW (WM),Parma Calcio 1913,24,2002,179cm,tm_663237,16,776,8.62,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Giovanni Bonfanti,Italy,DF,DF (CB),Pisa Sporting Club,23,2003,187cm,tm_663900,9,495,5.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zito Luvumbo,Angola,FW,FW (WM),Cagliari Calcio,24,2002,171cm,tm_666547,12,321,3.57,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mikayil Faye,Senegal,DF,DF (CB),US Cremonese,22,2004,183cm,tm_666974,8,250,2.78,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Petar Sučić,Croatia,MF,MF (CM),Inter Milan,23,2003,183cm,tm_668207,34,1764,19.6,2,2,4,5,0,0.1,0.1,0.2,transfermarkt_datasets,False,2026-11-09
+Máximo Perrone,Argentina,MF,MF (DM),Como 1907,23,2003,177cm,tm_668547,36,2750,30.56,3,4,7,8,0,0.1,0.13,0.23,transfermarkt_datasets,False,2026-11-09
+Matías Soulé,Argentina,FW,FW (WM),Associazione Sportiva Roma,23,2003,182cm,tm_668951,33,2162,24.02,6,5,11,1,0,0.25,0.21,0.46,transfermarkt_datasets,False,2026-11-09
+Rui Modesto,Angola,FW,FW (WM),Udinese Calcio,27,1999,181cm,tm_671799,3,116,1.29,0,1,1,0,0,0.0,0.78,0.78,transfermarkt_datasets,False,2026-11-09
+Jonathan Rowe,England,FW,FW (WM),Bologna Football Club 1909,23,2003,173cm,tm_672381,28,1611,17.9,3,3,6,2,0,0.17,0.17,0.34,transfermarkt_datasets,False,2026-11-09
+Abdoulaye Ndiaye,Senegal,DF,DF (CB),Parma Calcio 1913,24,2002,195cm,tm_673514,11,780,8.67,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Santiago Pierotti,Argentina,FW,FW (WM),US Lecce,25,2001,189cm,tm_674806,37,2616,29.07,1,2,3,4,0,0.03,0.07,0.1,transfermarkt_datasets,False,2026-11-09
+Tarik Muharemović,Bosnia-Herzegovina,DF,DF (CB),US Sassuolo,23,2003,192cm,tm_679423,32,2835,31.5,2,2,4,7,0,0.06,0.06,0.13,transfermarkt_datasets,False,2026-11-09
+Juan Cabal,Colombia,DF,DF (FB),Juventus FC,25,2001,186cm,tm_686965,12,286,3.18,2,0,2,1,0,0.63,0.0,0.63,transfermarkt_datasets,False,2026-11-09
+Luis Henrique,Brazil,MF,MF (WM),Inter Milan,25,2001,181cm,tm_691316,30,1621,18.01,1,3,4,1,0,0.06,0.17,0.22,transfermarkt_datasets,False,2026-11-09
+Jacopo Fazzini,Italy,MF,MF (CM),ACF Fiorentina,23,2003,178cm,tm_691482,20,574,6.38,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Daniel Denoon,Switzerland,DF,DF (CB),Pisa Sporting Club,22,2004,188cm,tm_692187,2,123,1.37,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Thomas Kristensen,Denmark,DF,DF (CB),Udinese Calcio,24,2002,198cm,tm_698259,28,2475,27.5,3,0,3,4,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Edoardo Iannoni,Italy,MF,MF (CM),US Sassuolo,25,2001,185cm,tm_700053,15,248,2.76,1,0,1,3,0,0.36,0.0,0.36,transfermarkt_datasets,False,2026-11-09
+Daniele Ghilardi,Italy,DF,DF (CB),Associazione Sportiva Roma,23,2003,189cm,tm_701819,23,1086,12.07,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nicolò Cavuoti,Italy,MF,MF (AM),Cagliari Calcio,23,2003,177cm,tm_701842,4,40,0.44,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Antonio Vergara,Italy,MF,MF (AM),SSC Napoli,23,2003,182cm,tm_703245,12,614,6.82,1,3,4,2,0,0.15,0.44,0.59,transfermarkt_datasets,False,2026-11-09
+Samuele Angori,Italy,MF,MF (WM),Pisa Sporting Club,23,2003,186cm,tm_705063,35,2605,28.94,0,3,3,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Giuseppe Ambrosino,Italy,FW,FW (AM),SSC Napoli,23,2003,187cm,tm_707295,3,35,0.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mandela Keita,Belgium,MF,MF (DM),Parma Calcio 1913,24,2002,180cm,tm_707844,37,2994,33.27,1,1,2,1,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Romano Floriani Mussolini,Italy,DF,DF (FB),US Cremonese,23,2003,188cm,tm_708086,28,1164,12.93,0,3,3,2,0,0.0,0.23,0.23,transfermarkt_datasets,False,2026-11-09
+Tjas Begic,Slovenia,FW,FW (WM),Parma Calcio 1913,23,2003,175cm,tm_708186,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lorenzo Bernasconi,Italy,MF,MF (WM),Atalanta BC,23,2003,190cm,tm_708635,23,1569,17.43,0,3,3,3,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Álex Valle,Spain,DF,DF (FB),Como 1907,22,2004,178cm,tm_709957,28,2025,22.5,1,4,5,3,0,0.04,0.18,0.22,transfermarkt_datasets,False,2026-11-09
+Andy Diouf,France,MF,MF (CM),Inter Milan,23,2003,187cm,tm_711976,19,479,5.32,1,0,1,1,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Bryan Zaragoza,Spain,FW,FW (WM),Associazione Sportiva Roma,25,2001,164cm,tm_713644,4,135,1.5,0,1,1,1,0,0.0,0.67,0.67,transfermarkt_datasets,False,2026-11-09
+Luca Lipani,Italy,MF,MF (DM),US Sassuolo,21,2005,185cm,tm_724106,24,1027,11.41,0,1,1,3,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Danilo Veiga,Portugal,DF,DF (FB),US Lecce,24,2002,183cm,tm_728485,36,3022,33.58,0,1,1,9,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Brooke Norton-Cuffy,England,DF,DF (FB),Genoa CFC,22,2004,181cm,tm_728733,27,2215,24.61,2,1,3,3,0,0.08,0.04,0.12,transfermarkt_datasets,False,2026-11-09
+Franco Carboni,Argentina,DF,DF (FB),Parma Calcio 1913,23,2003,190cm,tm_731491,7,111,1.23,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Álex Jiménez,Spain,DF,DF (FB),AC Milan,21,2005,177cm,tm_741257,1,45,0.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Iker Bravo,Spain,FW,FW (AM),Udinese Calcio,21,2005,183cm,tm_741292,8,204,2.27,1,0,1,1,0,0.44,0.0,0.44,transfermarkt_datasets,False,2026-11-09
+Emirhan İlkhan,Türkiye,MF,MF (CM),Torino FC,22,2004,175cm,tm_743091,19,1008,11.2,1,2,3,2,0,0.09,0.18,0.27,transfermarkt_datasets,False,2026-11-09
+Kamaldeen Sulemana,Ghana,FW,FW (WM),Atalanta BC,24,2002,174cm,tm_746695,25,1002,11.13,2,1,3,4,0,0.18,0.09,0.27,transfermarkt_datasets,False,2026-11-09
+Pietro Comuzzo,Italy,DF,DF (CB),ACF Fiorentina,21,2005,188cm,tm_746712,27,1696,18.84,1,0,1,2,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Cristian Volpato,Australia,MF,MF (AM),US Sassuolo,23,2003,187cm,tm_746891,24,1064,11.82,2,4,6,4,0,0.17,0.34,0.51,transfermarkt_datasets,False,2026-11-09
+Jayden Addai,Netherlands,FW,FW (WM),Como 1907,21,2005,177cm,tm_747720,12,687,7.63,3,0,3,4,0,0.39,0.0,0.39,transfermarkt_datasets,False,2026-11-09
+Amin Sarr,Sweden,FW,FW (AM),Hellas Verona,25,2001,188cm,tm_748382,34,1086,12.07,0,1,1,0,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Olaf Gorter,Netherlands,MF,MF (DM),US Lecce,21,2005,185cm,tm_748679,2,27,0.3,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alieu Fadera,The Gambia,FW,FW (WM),US Sassuolo,25,2001,182cm,tm_749552,28,976,10.84,2,2,4,5,0,0.18,0.18,0.37,transfermarkt_datasets,False,2026-11-09
+Omri Gandelman,Israel,MF,MF (AM),US Lecce,26,2000,188cm,tm_780548,19,979,10.88,2,1,3,0,0,0.18,0.09,0.28,transfermarkt_datasets,False,2026-11-09
+Valentín Carboni,Argentina,MF,MF (AM),Genoa CFC,21,2005,185cm,tm_787618,12,354,3.93,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gvidas Gineitis,Lithuania,MF,MF (CM),Torino FC,22,2004,191cm,tm_798929,29,1763,19.59,0,1,1,5,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Gaby Jean,France,DF,DF (CB),US Lecce,26,2000,191cm,tm_805886,7,191,2.12,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Niccolò Pisilli,Italy,MF,MF (CM),Associazione Sportiva Roma,22,2004,180cm,tm_813137,25,1285,14.28,2,4,6,3,0,0.14,0.28,0.42,transfermarkt_datasets,False,2026-11-09
+Luca Marianucci,Italy,DF,DF (CB),Torino FC,22,2004,186cm,tm_814446,10,573,6.37,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luca Marianucci,Italy,DF,DF (CB),SSC Napoli,22,2004,186cm,tm_814446,2,118,1.31,0,1,1,0,0,0.0,0.76,0.76,transfermarkt_datasets,False,2026-11-09
+Alessandro Marcandalli,Italy,DF,DF (CB),Genoa CFC,24,2002,190cm,tm_818448,32,2600,28.89,0,2,2,4,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Ange-Yoan Bonny,Cote d'Ivoire,FW,FW (AM),Inter Milan,23,2003,189cm,tm_827734,33,1130,12.56,5,6,11,1,0,0.4,0.48,0.88,transfermarkt_datasets,False,2026-11-09
+Alisson Santos,Brazil,FW,FW (WM),SSC Napoli,24,2002,177cm,tm_830365,14,836,9.29,4,0,4,1,0,0.43,0.0,0.43,transfermarkt_datasets,False,2026-11-09
+Gaspar,Angola,DF,DF (CB),US Lecce,29,1997,193cm,tm_836441,23,1830,20.33,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Felipe Loyola,Chile,MF,MF (CM),Pisa Sporting Club,26,2000,180cm,tm_843286,11,539,5.99,1,0,1,0,0,0.17,0.0,0.17,transfermarkt_datasets,False,2026-11-09
+Kenan Yıldız,Türkiye,FW,FW (WM),Juventus FC,21,2005,187cm,tm_845654,36,2844,31.6,10,7,17,2,0,0.32,0.22,0.54,transfermarkt_datasets,False,2026-11-09
+Petar Ratkov,Serbia,FW,FW (AM),Società Sportiva Lazio S.p.A.,23,2003,193cm,tm_846254,8,228,2.53,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Santiago Castro,Argentina,FW,FW (AM),Bologna Football Club 1909,22,2004,179cm,tm_849520,35,2365,26.28,7,3,10,3,0,0.27,0.11,0.38,transfermarkt_datasets,False,2026-11-09
+Tobias Slotsager,Denmark,DF,DF (CB),Hellas Verona,20,2006,190cm,tm_851385,8,443,4.92,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arthur Atta,France,MF,MF (CM),Udinese Calcio,23,2003,189cm,tm_855308,32,2563,28.48,5,4,9,3,0,0.18,0.14,0.32,transfermarkt_datasets,False,2026-11-09
+Mateo Pellegrino,Argentina,FW,FW (AM),Parma Calcio 1913,25,2001,192cm,tm_856530,37,2994,33.27,9,1,10,5,0,0.27,0.03,0.3,transfermarkt_datasets,False,2026-11-09
+Nicolás Valentini,Argentina,DF,DF (CB),Hellas Verona,25,2001,187cm,tm_860992,21,1406,15.62,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nesta Elphege,France,FW,FW (AM),Parma Calcio 1913,25,2001,196cm,tm_862606,9,306,3.4,2,1,3,0,0,0.59,0.29,0.88,transfermarkt_datasets,False,2026-11-09
+Rafik Belghali,Algeria,DF,DF (FB),Hellas Verona,24,2002,180cm,tm_864306,26,1928,21.42,2,0,2,6,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Seydou Fini,Italy,FW,FW (WM),Genoa CFC,20,2006,178cm,tm_866250,1,31,0.34,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alessandro Circati,Australia,DF,DF (CB),Parma Calcio 1913,23,2003,191cm,tm_867137,31,2666,29.62,1,1,2,6,0,0.03,0.03,0.07,transfermarkt_datasets,False,2026-11-09
+Semih Kılıçsoy,Türkiye,FW,FW (AM),Cagliari Calcio,21,2005,178cm,tm_875334,22,975,10.83,4,0,4,1,0,0.37,0.0,0.37,transfermarkt_datasets,False,2026-11-09
+Matteo Prati,Italy,MF,MF (DM),Torino FC,23,2003,185cm,tm_876298,13,616,6.84,0,1,1,2,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Matteo Prati,Italy,MF,MF (DM),Cagliari Calcio,23,2003,185cm,tm_876298,20,1273,14.14,1,0,1,4,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Rosen Bozhinov,Bulgaria,DF,DF (CB),Pisa Sporting Club,21,2005,193cm,tm_877124,9,614,6.82,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Riyad Idrissi,Italy,DF,DF (FB),Cagliari Calcio,21,2005,182cm,tm_885226,23,767,8.52,2,0,2,3,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Davide Bartesaghi,Italy,DF,DF (FB),AC Milan,21,2005,193cm,tm_887638,31,2443,27.14,2,0,2,3,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Sebastian Otoa,Denmark,DF,DF (CB),Genoa CFC,22,2004,198cm,tm_890385,13,829,9.21,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amir Richardson,Morocco,MF,MF (CM),ACF Fiorentina,24,2002,197cm,tm_893675,2,40,0.44,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dachi Lordkipanidze,Georgia,MF,MF (CM),US Cremonese,21,2005,186cm,tm_894456,1,28,0.31,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marco Palestra,Italy,DF,DF (FB),Cagliari Calcio,21,2005,186cm,tm_895937,37,3085,34.28,1,4,5,3,0,0.03,0.12,0.15,transfermarkt_datasets,False,2026-11-09
+David Odogu,Germany,DF,DF (CB),AC Milan,20,2006,191cm,tm_897423,2,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Simone Lottici Tessadri,Italy,MF,MF (DM),US Cremonese,20,2006,,tm_897651,1,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Neil El Aynaoui,Morocco,MF,MF (CM),Associazione Sportiva Roma,25,2001,185cm,tm_901019,25,991,11.01,1,2,3,5,0,0.09,0.18,0.27,transfermarkt_datasets,False,2026-11-09
+Saba Goglichidze,Georgia,DF,DF (CB),Udinese Calcio,22,2004,192cm,tm_906160,8,422,4.69,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohamed Kaba,Guinea,MF,MF (CM),US Lecce,25,2001,185cm,tm_911328,15,625,6.94,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Henrik Meister,Denmark,FW,FW (AM),Pisa Sporting Club,23,2003,192cm,tm_914934,28,1514,16.82,2,0,2,2,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Ismaël Koné,Canada,MF,MF (CM),US Sassuolo,24,2002,188cm,tm_921655,35,2757,30.63,6,0,6,3,0,0.2,0.0,0.2,transfermarkt_datasets,False,2026-11-09
+Lennon Miller,Scotland,MF,MF (CM),Udinese Calcio,20,2006,182cm,tm_924857,24,991,11.01,0,2,2,4,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Francesco Coppola,Italy,DF,DF (CB),Pisa Sporting Club,21,2005,195cm,tm_925838,7,456,5.07,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ioan Vermeșan,Romania,FW,FW (AM),Hellas Verona,20,2006,185cm,tm_928037,6,75,0.83,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pio Esposito,Italy,FW,FW (AM),Inter Milan,21,2005,191cm,tm_930781,35,1560,17.33,7,4,11,1,0,0.4,0.23,0.63,transfermarkt_datasets,False,2026-11-09
+Sascha Britschgi,Switzerland,DF,DF (FB),Parma Calcio 1913,20,2006,182cm,tm_932187,29,2097,23.3,0,2,2,5,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Riccardo Braschi,Italy,FW,FW (AM),ACF Fiorentina,20,2006,190cm,tm_934514,2,106,1.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alieu Njie,Sweden,FW,FW (WM),Torino FC,21,2005,185cm,tm_934527,15,289,3.21,1,1,2,2,0,0.31,0.31,0.62,transfermarkt_datasets,False,2026-11-09
+Jeff Ekhator,Italy,FW,FW (AM),Genoa CFC,20,2006,188cm,tm_934878,30,944,10.49,3,0,3,3,0,0.29,0.0,0.29,transfermarkt_datasets,False,2026-11-09
+Rafiu Durosinmi,Nigeria,FW,FW (AM),Pisa Sporting Club,23,2003,192cm,tm_935760,12,430,4.78,1,1,2,1,0,0.21,0.21,0.42,transfermarkt_datasets,False,2026-11-09
+Dominic Vavassori,Italy,FW,FW (AM),Atalanta BC,21,2005,177cm,tm_936739,1,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yellu Santiago,Spain,MF,MF (CM),Hellas Verona,22,2004,192cm,tm_941869,2,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vasilije Adžić,Montenegro,MF,MF (AM),Juventus FC,20,2006,185cm,tm_944570,10,163,1.81,1,0,1,0,0,0.55,0.0,0.55,transfermarkt_datasets,False,2026-11-09
+Jacobo Ramón,Spain,DF,DF (CB),Como 1907,21,2005,196cm,tm_948278,32,2743,30.48,2,0,2,11,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Nico Paz,Argentina,MF,MF (AM),Como 1907,22,2004,185cm,tm_948294,35,2886,32.07,12,7,19,5,0,0.37,0.22,0.59,transfermarkt_datasets,False,2026-11-09
+Filippo Carbone,Italy,MF,MF (AM),Genoa CFC,20,2006,180cm,tm_954688,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gaël Lafont,France,MF,MF (CM),Genoa CFC,20,2006,178cm,tm_955358,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Eddy Kouadio,Italy,DF,DF (CB),ACF Fiorentina,20,2006,191cm,tm_957822,3,70,0.78,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Benja Domínguez,Argentina,FW,FW (WM),Bologna Football Club 1909,23,2003,172cm,tm_961022,15,542,6.02,0,3,3,1,0,0.0,0.5,0.5,transfermarkt_datasets,False,2026-11-09
+Wesley,Brazil,DF,DF (FB),Associazione Sportiva Roma,23,2003,178cm,tm_964580,30,2458,27.31,5,1,6,5,0,0.18,0.04,0.22,transfermarkt_datasets,False,2026-11-09
+Ebenezer Akinsanmiro,Nigeria,MF,MF (CM),Pisa Sporting Club,22,2004,184cm,tm_969192,24,1446,16.07,0,1,1,2,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Matteo Lavelli,Italy,FW,FW (AM),Inter Milan,20,2006,185cm,tm_972475,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alessandro Cardinali,Italy,FW,FW (WM),Parma Calcio 1913,20,2006,,tm_976446,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Oumar Ngom,Mauritania,MF,MF (DM),US Lecce,22,2004,190cm,tm_980575,15,840,9.33,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahim Sulemana,Ghana,MF,MF (DM),Bologna Football Club 1909,23,2003,180cm,tm_982267,3,42,0.47,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahim Sulemana,Ghana,MF,MF (DM),Cagliari Calcio,23,2003,180cm,tm_982267,16,853,9.48,1,0,1,2,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Reda Belahyane,Morocco,MF,MF (DM),Società Sportiva Lazio S.p.A.,22,2004,173cm,tm_982855,13,605,6.72,0,2,2,1,0,0.0,0.3,0.3,transfermarkt_datasets,False,2026-11-09
+Tommaso Macchioni,Italy,DF,DF (CB),US Sassuolo,20,2006,,tm_984373,1,90,1.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Niccolò Fortini,Italy,DF,DF (FB),ACF Fiorentina,20,2006,185cm,tm_984964,16,530,5.89,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matteo Cocchi,Italy,DF,DF (FB),Inter Milan,19,2007,179cm,tm_988987,1,16,0.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+İsak Vural,Türkiye,MF,MF (CM),Pisa Sporting Club,20,2006,189cm,tm_989621,15,752,8.36,0,1,1,4,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Zachary Athekame,Switzerland,DF,DF (FB),AC Milan,22,2004,181cm,tm_990637,27,823,9.14,2,2,4,3,0,0.22,0.22,0.44,transfermarkt_datasets,False,2026-11-09
+Daniel Mikołajewski,Poland,FW,FW (AM),Parma Calcio 1913,20,2006,184cm,tm_991459,3,68,0.76,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luka Topalović,Slovenia,MF,MF (CM),Inter Milan,20,2006,187cm,tm_991744,1,9,0.1,0,1,1,0,0,0.0,10.0,10.0,transfermarkt_datasets,False,2026-11-09
+Othniël Raterink,Netherlands,DF,DF (FB),Cagliari Calcio,20,2006,189cm,tm_997478,1,6,0.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Benja Cremaschi,United States,MF,MF (CM),Parma Calcio 1913,21,2005,180cm,tm_999127,8,129,1.43,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ali Dembélé,France,DF,DF (FB),Torino FC,22,2004,189cm,tm_1004344,2,19,0.21,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Giovane,Brazil,FW,FW (AM),Hellas Verona,23,2003,184cm,tm_1005165,21,1541,17.12,3,4,7,2,0,0.18,0.23,0.41,transfermarkt_datasets,False,2026-11-09
+Giovane,Brazil,FW,FW (AM),SSC Napoli,23,2003,184cm,tm_1005165,12,331,3.68,0,2,2,0,0,0.0,0.54,0.54,transfermarkt_datasets,False,2026-11-09
+Mattia Mosconi,Italy,FW,FW (WM),Inter Milan,19,2007,179cm,tm_1008570,2,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lorran,Brazil,MF,MF (AM),Pisa Sporting Club,20,2006,180cm,tm_1009030,9,113,1.26,1,0,1,0,0,0.79,0.0,0.79,transfermarkt_datasets,False,2026-11-09
+Luis Balbo,Venezuela,DF,DF (FB),ACF Fiorentina,20,2006,177cm,tm_1012731,6,208,2.31,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gift Orban,Nigeria,FW,FW (AM),Hellas Verona,24,2002,178cm,tm_1018259,28,2038,22.64,7,3,10,4,0,0.31,0.13,0.44,transfermarkt_datasets,False,2026-11-09
+Adrian Przyborek,Poland,MF,MF (AM),Società Sportiva Lazio S.p.A.,19,2007,184cm,tm_1018395,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Cheveyo Balentien,Suriname,FW,FW (WM),AC Milan,20,2006,189cm,tm_1032683,2,4,0.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Christian Ordóñez,Argentina,MF,MF (CM),Parma Calcio 1913,22,2004,177cm,tm_1043646,28,1085,12.06,1,0,1,3,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Jan Ziolkowski,Poland,DF,DF (CB),Associazione Sportiva Roma,21,2005,194cm,tm_1046867,18,507,5.63,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Christ-Owen Kouassi,Cote d'Ivoire,DF,DF (FB),US Lecce,23,2003,187cm,tm_1057563,4,228,2.53,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Christian Frangella,Italy,MF,MF (CM),US Sassuolo,20,2006,,tm_1057574,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matteo Palma,Germany,DF,DF (CB),Udinese Calcio,18,2008,195cm,tm_1058354,5,115,1.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Francesco Camarda,Italy,FW,FW (AM),US Lecce,18,2008,189cm,tm_1058368,21,679,7.54,1,0,1,1,0,0.13,0.0,0.13,transfermarkt_datasets,False,2026-11-09
+Assane Diao,Senegal,FW,FW (WM),Como 1907,21,2005,185cm,tm_1061282,17,1084,12.04,2,1,3,2,0,0.17,0.08,0.25,transfermarkt_datasets,False,2026-11-09
+Lorenzo Venturino,Italy,FW,FW (WM),Associazione Sportiva Roma,20,2006,178cm,tm_1061820,10,198,2.2,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lorenzo Venturino,Italy,FW,FW (WM),Genoa CFC,20,2006,178cm,tm_1061820,2,38,0.42,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jacopo Grossi,Italy,MF,MF (DM),Genoa CFC,20,2006,,tm_1066134,1,21,0.23,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Honest Ahanor,Italy,DF,DF (CB),Atalanta BC,18,2008,184cm,tm_1077175,22,1375,15.28,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pedro Felipe,Brazil,DF,DF (CB),US Sassuolo,22,2004,190cm,tm_1082581,3,127,1.41,0,1,1,0,0,0.0,0.71,0.71,transfermarkt_datasets,False,2026-11-09
+Amorim,Brazil,MF,MF (CM),Genoa CFC,21,2005,177cm,tm_1082774,11,554,6.16,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Isaac,Brazil,FW,FW (AM),Hellas Verona,22,2004,185cm,tm_1083069,3,37,0.41,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joi Nuredini,Albania,FW,FW (AM),Genoa CFC,19,2007,191cm,tm_1089770,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yael Trepy,France,FW,FW (AM),Cagliari Calcio,20,2006,191cm,tm_1099924,8,83,0.92,1,0,1,0,0,1.09,0.0,1.09,transfermarkt_datasets,False,2026-11-09
+Agustín Albarracín,Uruguay,FW,FW (WM),Cagliari Calcio,21,2005,178cm,tm_1104206,2,31,0.34,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mamedi Doucouré,France,DF,DF (CB),Genoa CFC,19,2007,,tm_1105948,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Junior Ajayi,Cote d'Ivoire,FW,FW (AM),Hellas Verona,22,2004,185cm,tm_1111820,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tiago Gabriel,Portugal,DF,DF (CB),US Lecce,22,2004,196cm,tm_1112449,37,3220,35.78,2,0,2,7,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Juan Arizala,Colombia,MF,MF (WM),Udinese Calcio,21,2005,183cm,tm_1118347,10,183,2.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Eivind Helland,Norway,DF,DF (CB),Bologna Football Club 1909,21,2005,196cm,tm_1129198,6,488,5.42,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Robinio Vaz,France,FW,FW (AM),Associazione Sportiva Roma,19,2007,185cm,tm_1131161,12,205,2.28,1,0,1,0,0,0.44,0.0,0.44,transfermarkt_datasets,False,2026-11-09
+Joseph Liteta,Zambia,MF,MF (CM),Cagliari Calcio,20,2006,175cm,tm_1134304,4,266,2.96,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mateus Lusuardi,Brazil,DF,DF (CB),Pisa Sporting Club,22,2004,190cm,tm_1159022,3,199,2.21,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mariano Troilo,Argentina,DF,DF (CB),Parma Calcio 1913,23,2003,194cm,tm_1159864,21,1628,18.09,1,0,1,5,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Darryl Bakola,France,MF,MF (AM),US Sassuolo,19,2007,178cm,tm_1170286,6,124,1.38,0,1,1,0,0,0.0,0.72,0.72,transfermarkt_datasets,False,2026-11-09
+Matías Pérez,Chile,DF,DF (CB),US Lecce,21,2005,192cm,tm_1175410,1,32,0.36,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Idrissa Gueye,Senegal,FW,FW (AM),Udinese Calcio,20,2006,185cm,tm_1178488,19,405,4.5,1,0,1,2,0,0.22,0.0,0.22,transfermarkt_datasets,False,2026-11-09
+Jesús Rodríguez,Spain,FW,FW (WM),Como 1907,21,2005,185cm,tm_1190411,31,1735,19.28,2,9,11,3,0,0.1,0.47,0.57,transfermarkt_datasets,False,2026-11-09
+Brando Bettazzi,Italy,MF,MF (CM),Pisa Sporting Club,19,2007,,tm_1191068,1,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Louis Buffon,Czech Republic,FW,FW (AM),Pisa Sporting Club,19,2007,,tm_1191069,4,29,0.32,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nils Zätterström,Sweden,DF,DF (CB),Genoa CFC,21,2005,192cm,tm_1191520,3,181,2.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Andréa Le Borgne,France,MF,MF (DM),Como 1907,20,2006,189cm,tm_1204163,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abdoulaye Camara,France,MF,MF (DM),Udinese Calcio,18,2008,188cm,tm_1210116,1,11,0.12,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Juan Rodríguez,Uruguay,DF,DF (CB),Cagliari Calcio,21,2005,190cm,tm_1228231,17,1314,14.6,1,0,1,3,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Antonio Arena,Italy,FW,FW (AM),Associazione Sportiva Roma,17,2009,188cm,tm_1251220,2,21,0.23,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Branimir Mlacic,Croatia,DF,DF (CB),Udinese Calcio,19,2007,192cm,tm_1300966,7,162,1.8,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fallou Cham,The Gambia,DF,DF (FB),Hellas Verona,20,2006,185cm,tm_1315458,6,227,2.52,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Paul Mendy,Senegal,FW,FW (AM),Cagliari Calcio,19,2007,,tm_1371793,9,330,3.67,2,0,2,1,0,0.54,0.0,0.54,transfermarkt_datasets,False,2026-11-09
+Latif Ouedraogo,Burkina Faso,DF,DF (FB),Genoa CFC,19,2007,,tm_1385195,2,49,0.54,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09

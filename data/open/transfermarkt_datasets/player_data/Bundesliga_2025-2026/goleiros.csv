@@ -1,0 +1,31 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at,gk_games,gk_minutes
+Manuel Neuer,Germany,GK,GK,Bayern Munich,40,1986,193cm,tm_17259,22,1860,20.67,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,22,1860
+Sven Ulreich,Germany,GK,GK,Bayern Munich,38,1988,192cm,tm_40680,1,90,1.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Oliver Baumann,Germany,GK,GK,TSG 1899 Hoffenheim,36,1990,187cm,tm_55089,34,3060,34.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Péter Gulácsi,Hungary,GK,GK,RB Leipzig,36,1990,193cm,tm_57071,23,2009,22.32,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,23,2009
+Janis Blaswich,Germany,GK,GK,Bayer 04 Leverkusen,35,1991,193cm,tm_81173,11,930,10.33,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,11,930
+Daniel Heuer Fernandes,Portugal,GK,GK,Hamburger SV,34,1992,188cm,tm_84993,33,2970,33.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,33,2970
+Daniel Batz,Germany,GK,GK,1.FSV Mainz 05,35,1991,191cm,tm_90317,21,1890,21.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,21,1890
+Frederik Rönnow,Denmark,GK,GK,1.FC Union Berlin,34,1992,188cm,tm_107775,30,2641,29.34,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2641
+Mark Flekken,Netherlands,GK,GK,Bayer 04 Leverkusen,33,1993,195cm,tm_125714,24,2130,23.67,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,24,2130
+Marvin Schwäbe,Germany,GK,GK,1.FC Köln,31,1995,190cm,tm_160929,34,3060,34.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Robin Zentner,Germany,GK,GK,1.FSV Mainz 05,32,1994,194cm,tm_160963,10,877,9.74,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,877
+Carl Klaus,Germany,GK,GK,1.FC Union Berlin,32,1994,189cm,tm_161057,4,329,3.66,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,4,329
+Alexander Nübel,Germany,GK,GK,VfB Stuttgart,30,1996,193cm,tm_195778,34,3060,34.0,0,1,1,0,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,34,3060
+Michael Zetterer,Germany,GK,GK,Eintracht Frankfurt,31,1995,187cm,tm_196813,22,1975,21.94,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,22,1975
+Nikola Vasilj,Bosnia-Herzegovina,GK,GK,FC St. Pauli,31,1995,193cm,tm_248454,34,3060,34.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Finn Dahmen,Germany,GK,GK,FC Augsburg,28,1998,186cm,tm_251299,34,3060,34.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Gregor Kobel,Switzerland,GK,GK,Borussia Dortmund,29,1997,196cm,tm_257814,34,3060,34.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Moritz Nicolas,Germany,GK,GK,Borussia Mönchengladbach,29,1997,193cm,tm_284270,34,3060,34.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Kamil Grabara,Poland,GK,GK,VfL Wolfsburg,27,1999,195cm,tm_346551,34,3060,34.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Matheo Raab,Germany,GK,GK,1.FC Union Berlin,28,1998,186cm,tm_386685,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Diant Ramaj,Germany,GK,GK,1. Fußballclub Heidenheim 1846,25,2001,189cm,tm_448705,31,2790,31.0,0,1,1,2,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,31,2790
+Maarten Vandevoordt,Belgium,GK,GK,RB Leipzig,24,2002,192cm,tm_486046,12,1051,11.68,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,12,1051
+Lasse Rieß,Germany,GK,GK,1.FSV Mainz 05,25,2001,192cm,tm_490609,4,291,3.23,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,4,291
+Karl Hein,Estonia,GK,GK,SV Werder Bremen,24,2002,193cm,tm_493513,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180
+Noah Atubolu,Germany,GK,GK,SC Freiburg,24,2002,190cm,tm_526845,34,3060,34.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Sander Tangvik,Norway,GK,GK,Hamburger SV,24,2002,193cm,tm_549378,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Jonas Urbig,Germany,GK,GK,Bayern Munich,23,2003,189cm,tm_607720,14,1110,12.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,14,1110
+Mio Backhaus,Germany,GK,GK,SV Werder Bremen,22,2004,194cm,tm_620295,32,2880,32.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,32,2880
+Frank Feller,Germany,GK,GK,1. Fußballclub Heidenheim 1846,22,2004,183cm,tm_806948,3,270,3.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,270
+Kauã Santos,Brazil,GK,GK,Eintracht Frankfurt,23,2003,196cm,tm_997861,13,1085,12.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,13,1085

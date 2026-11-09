@@ -1,0 +1,476 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at
+Jonas Hofmann,Germany,MF,MF (AM),Bayer 04 Leverkusen,34,1992,176cm,tm_7161,23,1009,11.21,2,3,5,3,0,0.18,0.27,0.45,transfermarkt_datasets,False,2026-11-09
+Andrej Kramaric,Croatia,FW,FW (AM),TSG 1899 Hoffenheim,35,1991,177cm,tm_46580,34,2223,24.7,14,6,20,2,0,0.57,0.24,0.81,transfermarkt_datasets,False,2026-11-09
+Timothy Chandler,United States,DF,DF (FB),Eintracht Frankfurt,36,1990,187cm,tm_49723,1,10,0.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kevin Kampl,Slovenia,MF,MF (CM),RB Leipzig,36,1990,178cm,tm_53418,3,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nicolas Höfler,Germany,MF,MF (DM),SC Freiburg,36,1990,181cm,tm_55099,13,284,3.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Anthony Jung,Germany,DF,DF (CB),SC Freiburg,35,1991,186cm,tm_58995,12,521,5.79,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Christian Eriksen,Denmark,MF,MF (AM),VfL Wolfsburg,34,1992,182cm,tm_69633,31,2424,26.93,3,10,13,4,0,0.11,0.37,0.48,transfermarkt_datasets,False,2026-11-09
+Mario Götze,Germany,MF,MF (AM),Eintracht Frankfurt,34,1992,176cm,tm_74842,21,879,9.77,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Christopher Trimmel,Austria,DF,DF (FB),1.FC Union Berlin,39,1987,189cm,tm_75921,29,1869,20.77,0,3,3,8,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Stefan Bell,Germany,DF,DF (CB),1.FSV Mainz 05,35,1991,192cm,tm_82350,18,1041,11.57,2,2,4,4,0,0.17,0.17,0.35,transfermarkt_datasets,False,2026-11-09
+Pascal Groß,Germany,MF,MF (CM),Borussia Dortmund,35,1991,181cm,tm_82873,11,615,6.83,0,1,1,0,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Danny da Costa,Germany,DF,DF (CB),1.FSV Mainz 05,33,1993,187cm,tm_85906,34,2698,29.98,2,3,5,3,0,0.07,0.1,0.17,transfermarkt_datasets,False,2026-11-09
+Lukas Kübler,Germany,DF,DF (FB),SC Freiburg,34,1992,182cm,tm_93604,23,1594,17.71,2,2,4,3,0,0.11,0.11,0.23,transfermarkt_datasets,False,2026-11-09
+Christian Günter,Germany,DF,DF (FB),SC Freiburg,33,1993,184cm,tm_93707,24,1549,17.21,0,3,3,3,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Willi Orbán,Hungary,DF,DF (CB),RB Leipzig,34,1992,186cm,tm_93740,33,2950,32.78,2,0,2,4,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Leonardo Bittencourt,Germany,MF,MF (CM),SV Werder Bremen,33,1993,171cm,tm_93844,17,610,6.78,0,1,1,5,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Florian Kainz,Austria,MF,MF (AM),1.FC Köln,34,1992,176cm,tm_106270,15,269,2.99,1,1,2,1,0,0.33,0.33,0.67,transfermarkt_datasets,False,2026-11-09
+Jeffrey Gouweleeuw,Netherlands,DF,DF (CB),FC Augsburg,35,1991,188cm,tm_106405,11,851,9.46,0,1,1,3,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Kevin Stöger,Austria,MF,MF (AM),Borussia Mönchengladbach,33,1993,175cm,tm_106872,29,1324,14.71,1,1,2,3,0,0.07,0.07,0.14,transfermarkt_datasets,False,2026-11-09
+Marcel Sabitzer,Austria,MF,MF (CM),Borussia Dortmund,32,1994,178cm,tm_106987,26,1823,20.26,1,2,3,3,0,0.05,0.1,0.15,transfermarkt_datasets,False,2026-11-09
+Leart Paçarada,Kosovo,DF,DF (FB),1. Fußballclub Heidenheim 1846,32,1994,184cm,tm_107219,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jonas Meffert,Germany,MF,MF (DM),Hamburger SV,32,1994,186cm,tm_107574,4,144,1.6,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dominique Heintz,Germany,DF,DF (CB),1.FC Köln,33,1993,188cm,tm_110036,9,382,4.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marius Bülter,Germany,FW,FW (WM),1.FC Köln,33,1993,188cm,tm_116088,32,1591,17.68,5,4,9,3,0,0.28,0.23,0.51,transfermarkt_datasets,False,2026-11-09
+Marnon Busch,Germany,DF,DF (FB),1. Fußballclub Heidenheim 1846,32,1994,182cm,tm_117478,29,1913,21.26,1,5,6,4,0,0.05,0.24,0.28,transfermarkt_datasets,False,2026-11-09
+Maximilian Arnold,Germany,MF,MF (CM),VfL Wolfsburg,32,1994,184cm,tm_117674,25,1854,20.6,1,4,5,5,0,0.05,0.19,0.24,transfermarkt_datasets,False,2026-11-09
+Dominik Kohr,Germany,DF,DF (CB),1.FSV Mainz 05,32,1994,183cm,tm_118847,29,2346,26.07,2,0,2,9,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Yannick Gerhardt,Germany,MF,MF (CM),VfL Wolfsburg,32,1994,184cm,tm_119277,19,1071,11.9,1,1,2,1,0,0.08,0.08,0.17,transfermarkt_datasets,False,2026-11-09
+Emre Can,Germany,DF,DF (CB),Borussia Dortmund,32,1994,186cm,tm_119296,9,623,6.92,3,0,3,3,0,0.43,0.0,0.43,transfermarkt_datasets,False,2026-11-09
+Michael Gregoritsch,Austria,FW,FW (AM),FC Augsburg,32,1994,193cm,tm_120205,17,917,10.19,6,3,9,2,0,0.59,0.29,0.88,transfermarkt_datasets,False,2026-11-09
+Rani Khedira,Tunisia,MF,MF (DM),1.FC Union Berlin,32,1994,188cm,tm_124410,32,2835,31.5,5,2,7,7,0,0.16,0.06,0.22,transfermarkt_datasets,False,2026-11-09
+Matthias Ginter,Germany,DF,DF (CB),SC Freiburg,32,1994,189cm,tm_124502,32,2836,31.51,3,5,8,3,0,0.1,0.16,0.25,transfermarkt_datasets,False,2026-11-09
+Phillipp Mwene,Austria,DF,DF (FB),1.FSV Mainz 05,32,1994,170cm,tm_127573,29,2073,23.03,1,5,6,4,0,0.04,0.22,0.26,transfermarkt_datasets,False,2026-11-09
+Harry Kane,England,FW,FW (AM),Bayern Munich,33,1993,188cm,tm_132098,31,2382,26.47,36,5,41,1,0,1.36,0.19,1.55,transfermarkt_datasets,False,2026-11-09
+Patrick Mainka,Germany,DF,DF (CB),1. Fußballclub Heidenheim 1846,32,1994,194cm,tm_133731,34,3060,34.0,2,2,4,2,0,0.06,0.06,0.12,transfermarkt_datasets,False,2026-11-09
+Karol Mets,Estonia,DF,DF (CB),FC St. Pauli,33,1993,191cm,tm_139304,23,1934,21.49,1,0,1,3,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Maximilian Philipp,Germany,FW,FW (AM),SC Freiburg,32,1994,183cm,tm_143891,2,27,0.3,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Leon Goretzka,Germany,MF,MF (CM),Bayern Munich,31,1995,189cm,tm_153084,31,1954,21.71,5,4,9,4,0,0.23,0.18,0.41,transfermarkt_datasets,False,2026-11-09
+Hauke Wahl,Germany,DF,DF (CB),FC St. Pauli,32,1994,189cm,tm_154147,30,2591,28.79,2,1,3,1,0,0.07,0.03,0.1,transfermarkt_datasets,False,2026-11-09
+Marco Friedl,Austria,DF,DF (CB),SV Werder Bremen,28,1998,187cm,tm_156990,30,2549,28.32,1,0,1,9,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Yussuf Poulsen,Denmark,FW,FW (AM),Hamburger SV,32,1994,192cm,tm_157635,15,321,3.57,1,0,1,4,0,0.28,0.0,0.28,transfermarkt_datasets,False,2026-11-09
+Vladimír Coufal,Czech Republic,DF,DF (FB),TSG 1899 Hoffenheim,34,1992,175cm,tm_157672,34,3018,33.53,1,9,10,4,0,0.03,0.27,0.3,transfermarkt_datasets,False,2026-11-09
+Robert Andrich,Germany,MF,MF (DM),Bayer 04 Leverkusen,32,1994,187cm,tm_159088,32,2547,28.3,2,0,2,4,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Serge Gnabry,Germany,FW,FW (AM),Bayern Munich,31,1995,176cm,tm_159471,21,1228,13.64,8,6,14,1,0,0.59,0.44,1.03,transfermarkt_datasets,False,2026-11-09
+Kevin Akpoguma,Nigeria,DF,DF (CB),TSG 1899 Hoffenheim,31,1995,192cm,tm_160241,8,58,0.64,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joshua Kimmich,Germany,MF,MF (DM),Bayern Munich,31,1995,177cm,tm_161056,29,2282,25.36,2,8,10,4,0,0.08,0.32,0.39,transfermarkt_datasets,False,2026-11-09
+Niklas Stark,Germany,DF,DF (CB),SV Werder Bremen,31,1995,190cm,tm_162434,14,701,7.79,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Niklas Süle,Germany,DF,DF (CB),Borussia Dortmund,31,1995,195cm,tm_166601,11,487,5.41,0,1,1,3,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Silvan Widmer,Switzerland,DF,DF (FB),1.FSV Mainz 05,33,1993,183cm,tm_168989,27,1819,20.21,2,1,3,5,0,0.1,0.05,0.15,transfermarkt_datasets,False,2026-11-09
+Timo Werner,Germany,FW,FW (AM),RB Leipzig,30,1996,180cm,tm_170527,3,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Raphaël Guerreiro,Portugal,DF,DF (FB),Bayern Munich,33,1993,170cm,tm_170986,18,782,8.69,5,3,8,0,0,0.58,0.35,0.92,transfermarkt_datasets,False,2026-11-09
+Janik Haberer,Germany,MF,MF (CM),1.FC Union Berlin,32,1994,187cm,tm_177779,28,1652,18.36,0,1,1,8,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Michy Batshuayi,Belgium,FW,FW (AM),Eintracht Frankfurt,33,1993,185cm,tm_179184,6,134,1.49,1,0,1,0,0,0.67,0.0,0.67,transfermarkt_datasets,False,2026-11-09
+Vincenzo Grifo,Italy,FW,FW (WM),SC Freiburg,33,1993,180cm,tm_185077,33,1715,19.06,7,5,12,0,0,0.37,0.26,0.63,transfermarkt_datasets,False,2026-11-09
+Budu Zivzivadze,Georgia,FW,FW (AM),1. Fußballclub Heidenheim 1846,32,1994,189cm,tm_187097,20,1147,12.74,6,0,6,2,0,0.47,0.0,0.47,transfermarkt_datasets,False,2026-11-09
+Julian Brandt,Germany,MF,MF (AM),Borussia Dortmund,30,1996,185cm,tm_187492,29,1608,17.87,7,4,11,0,0,0.39,0.22,0.62,transfermarkt_datasets,False,2026-11-09
+Sheraldo Becker,Suriname,FW,FW (WM),1.FSV Mainz 05,31,1995,180cm,tm_188888,14,954,10.6,3,3,6,2,0,0.28,0.28,0.57,transfermarkt_datasets,False,2026-11-09
+Maximilian Eggestein,Germany,MF,MF (CM),SC Freiburg,30,1996,181cm,tm_190284,34,3060,34.0,3,1,4,4,0,0.09,0.03,0.12,transfermarkt_datasets,False,2026-11-09
+Mahmoud Dahoud,Syria,MF,MF (CM),Eintracht Frankfurt,30,1996,178cm,tm_191422,15,716,7.96,2,3,5,0,0,0.25,0.38,0.63,transfermarkt_datasets,False,2026-11-09
+Jonas Föhrenbach,Germany,DF,DF (FB),1. Fußballclub Heidenheim 1846,30,1996,184cm,tm_192169,27,2327,25.86,1,1,2,3,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Jackson Irvine,Australia,MF,MF (CM),FC St. Pauli,33,1993,189cm,tm_192557,24,1625,18.06,0,1,1,0,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Nico Elvedi,Switzerland,DF,DF (CB),Borussia Mönchengladbach,30,1996,189cm,tm_192635,33,2967,32.97,0,3,3,5,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Waldemar Anton,Germany,DF,DF (CB),Borussia Dortmund,30,1996,189cm,tm_193004,32,2880,32.0,2,0,2,3,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Tim Kleindienst,Germany,FW,FW (AM),Borussia Mönchengladbach,31,1995,194cm,tm_193033,3,6,0.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alejandro Grimaldo,Spain,DF,DF (FB),Bayer 04 Leverkusen,31,1995,171cm,tm_193082,29,2524,28.04,8,8,16,5,0,0.29,0.29,0.57,transfermarkt_datasets,False,2026-11-09
+Marius Wolf,Germany,DF,DF (FB),FC Augsburg,31,1995,188cm,tm_193900,29,1012,11.24,1,2,3,4,0,0.09,0.18,0.27,transfermarkt_datasets,False,2026-11-09
+Pascal Stenzel,Germany,DF,DF (FB),VfB Stuttgart,30,1996,183cm,tm_195246,2,107,1.19,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luca Waldschmidt,Germany,FW,FW (AM),1.FC Köln,30,1996,181cm,tm_196095,24,666,7.4,5,4,9,1,0,0.68,0.54,1.22,transfermarkt_datasets,False,2026-11-09
+Robert Glatzel,Germany,FW,FW (AM),Hamburger SV,32,1994,193cm,tm_196139,19,609,6.77,3,2,5,0,0,0.44,0.3,0.74,transfermarkt_datasets,False,2026-11-09
+Marvin Friedrich,Germany,DF,DF (CB),Borussia Mönchengladbach,31,1995,193cm,tm_196231,6,148,1.64,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jonathan Tah,Germany,DF,DF (CB),Bayern Munich,30,1996,195cm,tm_196357,28,2019,22.43,2,1,3,7,0,0.09,0.04,0.13,transfermarkt_datasets,False,2026-11-09
+Benjamin Henrichs,Germany,DF,DF (FB),RB Leipzig,29,1997,185cm,tm_202591,17,299,3.32,1,0,1,0,0,0.3,0.0,0.3,transfermarkt_datasets,False,2026-11-09
+Haris Tabakovic,Bosnia-Herzegovina,FW,FW (AM),Borussia Mönchengladbach,32,1994,196cm,tm_203123,32,2396,26.62,13,2,15,5,0,0.49,0.08,0.56,transfermarkt_datasets,False,2026-11-09
+Lukas Klostermann,Germany,DF,DF (CB),RB Leipzig,30,1996,189cm,tm_215599,5,95,1.06,0,1,1,0,0,0.0,0.94,0.94,transfermarkt_datasets,False,2026-11-09
+Lucas Vázquez,Spain,DF,DF (FB),Bayer 04 Leverkusen,35,1991,173cm,tm_221316,12,479,5.32,1,2,3,2,0,0.19,0.38,0.56,transfermarkt_datasets,False,2026-11-09
+Konrad Laimer,Austria,DF,DF (FB),Bayern Munich,29,1997,180cm,tm_223967,29,1997,22.19,3,9,12,9,0,0.14,0.41,0.54,transfermarkt_datasets,False,2026-11-09
+Stefan Posch,Austria,DF,DF (CB),1.FSV Mainz 05,29,1997,188cm,tm_223974,16,1395,15.5,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Xaver Schlager,Austria,MF,MF (CM),RB Leipzig,29,1997,174cm,tm_223979,26,1837,20.41,3,1,4,6,0,0.15,0.05,0.2,transfermarkt_datasets,False,2026-11-09
+Philipp Lienhart,Austria,DF,DF (CB),SC Freiburg,30,1996,189cm,tm_225657,20,1301,14.46,1,0,1,2,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Benedikt Gimber,Germany,DF,DF (CB),1. Fußballclub Heidenheim 1846,29,1997,187cm,tm_227084,21,1437,15.97,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jordan Torunarigha,Nigeria,DF,DF (CB),Hamburger SV,29,1997,191cm,tm_227110,24,1965,21.83,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Franck Honorat,France,FW,FW (WM),Borussia Mönchengladbach,30,1996,180cm,tm_229006,28,1988,22.09,2,6,8,0,0,0.09,0.27,0.36,transfermarkt_datasets,False,2026-11-09
+Atakan Karazor,Türkiye,MF,MF (DM),VfB Stuttgart,30,1996,191cm,tm_232320,28,1891,21.01,0,1,1,5,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Nadiem Amiri,Germany,MF,MF (CM),1.FSV Mainz 05,30,1996,180cm,tm_232454,26,2092,23.24,12,3,15,6,0,0.52,0.13,0.65,transfermarkt_datasets,False,2026-11-09
+Grischa Prömel,Germany,MF,MF (CM),TSG 1899 Hoffenheim,31,1995,184cm,tm_234029,33,1746,19.4,7,2,9,5,0,0.36,0.1,0.46,transfermarkt_datasets,False,2026-11-09
+Adam Dzwigala,Poland,DF,DF (CB),FC St. Pauli,31,1995,185cm,tm_236966,19,1295,14.39,1,1,2,5,0,0.07,0.07,0.14,transfermarkt_datasets,False,2026-11-09
+Timo Hübers,Germany,DF,DF (CB),1.FC Köln,30,1996,190cm,tm_236981,8,671,7.46,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ihlas Bebou,Togo,FW,FW (AM),TSG 1899 Hoffenheim,32,1994,185cm,tm_237164,16,176,1.96,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Denis Vavro,Slovakia,DF,DF (CB),VfL Wolfsburg,30,1996,189cm,tm_239962,17,1175,13.06,1,0,1,2,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Vaclav Cerny,Czech Republic,FW,FW (WM),VfL Wolfsburg,29,1997,182cm,tm_242063,2,46,0.51,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Patrik Schick,Czech Republic,FW,FW (AM),Bayer 04 Leverkusen,30,1996,191cm,tm_242086,28,1996,22.18,16,3,19,2,0,0.72,0.14,0.86,transfermarkt_datasets,False,2026-11-09
+Manolis Saliakas,Greece,DF,DF (FB),FC St. Pauli,30,1996,177cm,tm_242661,17,1110,12.33,1,4,5,2,0,0.08,0.32,0.41,transfermarkt_datasets,False,2026-11-09
+Salih Özcan,Türkiye,MF,MF (DM),Borussia Dortmund,28,1998,182cm,tm_244940,11,73,0.81,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Höler,Germany,FW,FW (AM),SC Freiburg,32,1994,184cm,tm_248999,33,2044,22.71,3,3,6,4,0,0.13,0.13,0.26,transfermarkt_datasets,False,2026-11-09
+Niklas Dorsch,Germany,MF,MF (DM),1. Fußballclub Heidenheim 1846,28,1998,178cm,tm_251302,32,2269,25.21,0,1,1,2,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Aurélio Buta,Portugal,DF,DF (FB),Eintracht Frankfurt,29,1997,172cm,tm_258039,4,141,1.57,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aleix García,Spain,MF,MF (CM),Bayer 04 Leverkusen,29,1997,173cm,tm_261504,33,2676,29.73,3,9,12,6,0,0.1,0.3,0.4,transfermarkt_datasets,False,2026-11-09
+Maximilian Wöber,Austria,DF,DF (CB),SV Werder Bremen,28,1998,188cm,tm_263361,2,35,0.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Robin Fellhauer,Germany,MF,MF (DM),FC Augsburg,28,1998,182cm,tm_264960,34,2809,31.21,3,2,5,2,0,0.1,0.06,0.16,transfermarkt_datasets,False,2026-11-09
+Mathias Rasmussen,Norway,MF,MF (CM),FC St. Pauli,29,1997,180cm,tm_268327,13,692,7.69,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Robert Skov,Denmark,MF,MF (WM),1.FC Union Berlin,30,1996,185cm,tm_270393,3,223,2.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Serhou Guirassy,Guinea,FW,FW (AM),Borussia Dortmund,30,1996,187cm,tm_270541,33,2351,26.12,17,2,19,3,0,0.65,0.08,0.73,transfermarkt_datasets,False,2026-11-09
+Chris Führich,Germany,FW,FW (WM),VfB Stuttgart,28,1998,181cm,tm_272278,33,1706,18.96,7,8,15,2,0,0.37,0.42,0.79,transfermarkt_datasets,False,2026-11-09
+Adrian Beck,Germany,MF,MF (AM),1. Fußballclub Heidenheim 1846,29,1997,186cm,tm_273669,24,860,9.56,1,1,2,1,0,0.1,0.1,0.21,transfermarkt_datasets,False,2026-11-09
+Florian Neuhaus,Germany,MF,MF (CM),Borussia Mönchengladbach,29,1997,185cm,tm_278332,17,935,10.39,0,1,1,0,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Elvis Rexhbecaj,Kosovo,MF,MF (CM),FC Augsburg,29,1997,182cm,tm_280575,26,1109,12.32,2,0,2,3,0,0.16,0.0,0.16,transfermarkt_datasets,False,2026-11-09
+Maximilian Mittelstädt,Germany,DF,DF (FB),VfB Stuttgart,29,1997,180cm,tm_282660,32,2189,24.32,6,4,10,4,0,0.25,0.16,0.41,transfermarkt_datasets,False,2026-11-09
+Mathias Honsak,Austria,FW,FW (WM),1. Fußballclub Heidenheim 1846,30,1996,188cm,tm_283497,27,1249,13.88,2,1,3,1,0,0.14,0.07,0.22,transfermarkt_datasets,False,2026-11-09
+Robin Hack,Germany,FW,FW (WM),Borussia Mönchengladbach,28,1998,178cm,tm_284010,8,317,3.52,1,0,1,1,0,0.28,0.0,0.28,transfermarkt_datasets,False,2026-11-09
+Ramy Bensebaini,Algeria,DF,DF (CB),Borussia Dortmund,31,1995,187cm,tm_284732,21,1528,16.98,5,2,7,6,0,0.29,0.12,0.41,transfermarkt_datasets,False,2026-11-09
+Tim Skarke,Germany,FW,FW (AM),1.FC Union Berlin,30,1996,181cm,tm_287920,22,607,6.74,1,1,2,0,0,0.15,0.15,0.3,transfermarkt_datasets,False,2026-11-09
+Phillip Tietz,Germany,FW,FW (AM),1.FSV Mainz 05,29,1997,190cm,tm_288340,19,1620,18.0,5,4,9,2,0,0.28,0.22,0.5,transfermarkt_datasets,False,2026-11-09
+Phillip Tietz,Germany,FW,FW (AM),FC Augsburg,29,1997,190cm,tm_288340,10,189,2.1,1,0,1,2,0,0.48,0.0,0.48,transfermarkt_datasets,False,2026-11-09
+Mads Pedersen,Denmark,DF,DF (FB),FC Augsburg,30,1996,178cm,tm_288429,7,205,2.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jens Stage,Denmark,MF,MF (CM),SV Werder Bremen,30,1996,187cm,tm_289835,29,2468,27.42,10,2,12,5,0,0.36,0.07,0.44,transfermarkt_datasets,False,2026-11-09
+Ellyes Skhiri,Tunisia,MF,MF (DM),Eintracht Frankfurt,31,1995,185cm,tm_290587,25,1442,16.02,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jean-Luc Dompé,France,FW,FW (WM),Hamburger SV,31,1995,170cm,tm_291222,20,1138,12.64,3,0,3,0,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Eric Smith,Sweden,DF,DF (CB),FC St. Pauli,29,1997,192cm,tm_292534,27,2314,25.71,2,2,4,4,0,0.08,0.08,0.16,transfermarkt_datasets,False,2026-11-09
+Dimitrios Giannoulis,Greece,DF,DF (FB),FC Augsburg,31,1995,178cm,tm_295630,27,1902,21.13,2,5,7,8,0,0.09,0.24,0.33,transfermarkt_datasets,False,2026-11-09
+Arne Maier,Germany,MF,MF (CM),FC Augsburg,27,1999,186cm,tm_296397,1,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Woo-yeong Jeong,"Korea, South",MF,MF (AM),1.FC Union Berlin,27,1999,179cm,tm_297583,28,1193,13.26,4,1,5,0,0,0.3,0.08,0.38,transfermarkt_datasets,False,2026-11-09
+Miro Muheim,Switzerland,DF,DF (FB),Hamburger SV,28,1998,182cm,tm_298603,29,2437,27.08,0,4,4,7,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Jeff Chabot,Germany,DF,DF (CB),VfB Stuttgart,28,1998,195cm,tm_303219,27,2296,25.51,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sirlord Conteh,Germany,FW,FW (WM),1. Fußballclub Heidenheim 1846,30,1996,178cm,tm_307183,15,619,6.88,2,1,3,1,0,0.29,0.15,0.44,transfermarkt_datasets,False,2026-11-09
+Jae-sung Lee,"Korea, South",MF,MF (AM),1.FSV Mainz 05,34,1992,180cm,tm_314398,28,2201,24.46,4,2,6,4,0,0.16,0.08,0.25,transfermarkt_datasets,False,2026-11-09
+David Raum,Germany,DF,DF (FB),RB Leipzig,28,1998,181cm,tm_318204,30,2556,28.4,3,7,10,6,0,0.11,0.25,0.35,transfermarkt_datasets,False,2026-11-09
+Joël Schmied,Switzerland,DF,DF (CB),1.FC Köln,28,1998,188cm,tm_322517,16,1080,12.0,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Christoph Baumgartner,Austria,MF,MF (AM),RB Leipzig,27,1999,180cm,tm_324278,33,2793,31.03,13,9,22,10,0,0.42,0.29,0.71,transfermarkt_datasets,False,2026-11-09
+Arnaud Nordin,France,FW,FW (WM),1.FSV Mainz 05,28,1998,170cm,tm_324811,13,467,5.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ridle Baku,Germany,DF,DF (FB),RB Leipzig,28,1998,176cm,tm_327251,32,2514,27.93,2,3,5,4,0,0.07,0.11,0.18,transfermarkt_datasets,False,2026-11-09
+Robin Koch,Germany,DF,DF (CB),Eintracht Frankfurt,30,1996,192cm,tm_328784,32,2835,31.5,3,2,5,1,0,0.1,0.06,0.16,transfermarkt_datasets,False,2026-11-09
+Jonathan Burkardt,Germany,FW,FW (AM),Eintracht Frankfurt,26,2000,181cm,tm_333647,22,1340,14.89,13,1,14,1,0,0.87,0.07,0.94,transfermarkt_datasets,False,2026-11-09
+Lars Ritzka,Germany,DF,DF (FB),FC St. Pauli,28,1998,185cm,tm_333903,21,970,10.78,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maxim Leitsch,Germany,DF,DF (CB),1.FSV Mainz 05,28,1998,189cm,tm_334207,3,162,1.8,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amos Pieper,Germany,DF,DF (CB),SV Werder Bremen,28,1998,192cm,tm_334221,19,1504,16.71,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Linton Maina,Germany,FW,FW (WM),1.FC Köln,27,1999,180cm,tm_335103,24,1020,11.33,2,1,3,0,0,0.18,0.09,0.26,transfermarkt_datasets,False,2026-11-09
+Kevin Diks,Indonesia,DF,DF (CB),Borussia Mönchengladbach,30,1996,186cm,tm_335209,30,2467,27.41,5,0,5,6,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Ermedin Demirovic,Bosnia-Herzegovina,FW,FW (AM),VfB Stuttgart,28,1998,185cm,tm_335457,25,1498,16.64,12,4,16,5,0,0.72,0.24,0.96,transfermarkt_datasets,False,2026-11-09
+Philipp Treu,Germany,DF,DF (FB),SC Freiburg,26,2000,173cm,tm_335993,28,2188,24.31,1,2,3,2,0,0.04,0.08,0.12,transfermarkt_datasets,False,2026-11-09
+Tim Siersleben,Germany,DF,DF (CB),1. Fußballclub Heidenheim 1846,26,2000,187cm,tm_337092,15,1082,12.02,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alex Král,Czech Republic,MF,MF (CM),1.FC Union Berlin,28,1998,186cm,tm_337333,20,443,4.92,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Senne Lynen,Belgium,MF,MF (DM),SV Werder Bremen,27,1999,185cm,tm_338668,31,2757,30.63,0,1,1,4,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Deniz Undav,Germany,FW,FW (AM),VfB Stuttgart,30,1996,179cm,tm_339314,29,2249,24.99,19,6,25,5,0,0.76,0.24,1.0,transfermarkt_datasets,False,2026-11-09
+Alessio Castro-Montes,Belgium,MF,MF (WM),1.FC Köln,29,1997,175cm,tm_340166,14,670,7.44,1,3,4,2,0,0.13,0.4,0.54,transfermarkt_datasets,False,2026-11-09
+Nathan Tella,Nigeria,FW,FW (WM),Bayer 04 Leverkusen,27,1999,173cm,tm_340322,17,870,9.67,1,6,7,2,0,0.1,0.62,0.72,transfermarkt_datasets,False,2026-11-09
+Gui Ramos,Portugal,DF,DF (CB),Hamburger SV,29,1997,191cm,tm_340521,8,41,0.46,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Oliver Burke,Scotland,FW,FW (AM),1.FC Union Berlin,29,1997,188cm,tm_341317,29,1674,18.6,6,2,8,4,0,0.32,0.11,0.43,transfermarkt_datasets,False,2026-11-09
+Yannik Keitel,Germany,MF,MF (DM),FC Augsburg,26,2000,186cm,tm_342039,6,247,2.74,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mattias Svanberg,Sweden,MF,MF (CM),VfL Wolfsburg,27,1999,186cm,tm_342405,24,854,9.49,3,1,4,4,0,0.32,0.11,0.42,transfermarkt_datasets,False,2026-11-09
+Niklas Beste,Germany,FW,FW (WM),SC Freiburg,27,1999,175cm,tm_342967,28,1710,19.0,2,3,5,5,0,0.11,0.16,0.26,transfermarkt_datasets,False,2026-11-09
+Dan-Axel Zagadou,France,DF,DF (CB),VfB Stuttgart,27,1999,196cm,tm_344598,3,210,2.33,0,1,1,0,0,0.0,0.43,0.43,transfermarkt_datasets,False,2026-11-09
+Dayot Upamecano,France,DF,DF (CB),Bayern Munich,28,1998,186cm,tm_344695,24,1798,19.98,1,1,2,4,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Danel Sinani,Luxembourg,MF,MF (AM),FC St. Pauli,29,1997,185cm,tm_346499,30,2069,22.99,5,3,8,4,0,0.22,0.13,0.35,transfermarkt_datasets,False,2026-11-09
+Romano Schmid,Austria,MF,MF (AM),SV Werder Bremen,26,2000,168cm,tm_346853,34,2993,33.26,4,8,12,4,0,0.12,0.24,0.36,transfermarkt_datasets,False,2026-11-09
+Hiroki Ito,Japan,DF,DF (CB),Bayern Munich,27,1999,188cm,tm_353892,16,921,10.23,1,2,3,0,0,0.1,0.2,0.29,transfermarkt_datasets,False,2026-11-09
+Diogo Leite,Portugal,DF,DF (CB),1.FC Union Berlin,27,1999,190cm,tm_357156,23,1970,21.89,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ritsu Doan,Japan,FW,FW (WM),Eintracht Frankfurt,28,1998,172cm,tm_358504,31,2379,26.43,5,5,10,5,0,0.19,0.19,0.38,transfermarkt_datasets,False,2026-11-09
+Ozan Kabak,Türkiye,DF,DF (CB),TSG 1899 Hoffenheim,26,2000,187cm,tm_361260,25,1745,19.39,4,0,4,5,0,0.21,0.0,0.21,transfermarkt_datasets,False,2026-11-09
+Josip Juranovic,Croatia,DF,DF (FB),1.FC Union Berlin,31,1995,173cm,tm_362977,11,325,3.61,1,1,2,1,0,0.28,0.28,0.55,transfermarkt_datasets,False,2026-11-09
+Bernardo,Brazil,DF,DF (FB),TSG 1899 Hoffenheim,31,1995,186cm,tm_364258,29,2319,25.77,0,0,0,9,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Loïs Openda,Belgium,FW,FW (AM),RB Leipzig,26,2000,177cm,tm_368887,2,50,0.56,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arthur Theate,Belgium,DF,DF (CB),Eintracht Frankfurt,26,2000,185cm,tm_368891,24,2144,23.82,1,1,2,8,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Joakim Maehle,Denmark,DF,DF (FB),VfL Wolfsburg,29,1997,185cm,tm_369674,16,1224,13.6,1,2,3,1,0,0.07,0.15,0.22,transfermarkt_datasets,False,2026-11-09
+Rasmus Nissen Kristensen,Denmark,DF,DF (FB),Eintracht Frankfurt,29,1997,187cm,tm_369684,22,1542,17.13,2,0,2,4,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Andreas Hanche-Olsen,Norway,DF,DF (CB),1.FSV Mainz 05,29,1997,185cm,tm_370683,13,850,9.44,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Julian Ryerson,Norway,DF,DF (FB),Borussia Dortmund,29,1997,183cm,tm_370789,31,2274,25.27,0,15,15,8,0,0.0,0.59,0.59,transfermarkt_datasets,False,2026-11-09
+Stanley Nsoki,France,DF,DF (CB),1.FC Union Berlin,27,1999,184cm,tm_371141,13,819,9.1,1,2,3,2,0,0.11,0.22,0.33,transfermarkt_datasets,False,2026-11-09
+Kristijan Jakic,Croatia,MF,MF (DM),FC Augsburg,29,1997,181cm,tm_374954,26,1654,18.38,2,1,3,5,0,0.11,0.05,0.16,transfermarkt_datasets,False,2026-11-09
+Martijn Kaars,Netherlands,FW,FW (AM),FC St. Pauli,27,1999,183cm,tm_377729,29,1346,14.96,3,1,4,2,0,0.2,0.07,0.27,transfermarkt_datasets,False,2026-11-09
+Albert Sambi Lokonga,Belgium,MF,MF (CM),Hamburger SV,27,1999,183cm,tm_381967,26,1714,19.04,5,0,5,3,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+Cédric Zesiger,Switzerland,DF,DF (CB),FC Augsburg,28,1998,194cm,tm_382478,27,1812,20.13,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alexis Claude-Maurice,France,MF,MF (AM),FC Augsburg,28,1998,176cm,tm_384593,29,2108,23.42,5,4,9,3,0,0.21,0.17,0.38,transfermarkt_datasets,False,2026-11-09
+Danilho Doekhi,Netherlands,DF,DF (CB),1.FC Union Berlin,28,1998,190cm,tm_387047,34,3060,34.0,5,1,6,4,0,0.15,0.03,0.18,transfermarkt_datasets,False,2026-11-09
+Lovro Majer,Croatia,MF,MF (AM),VfL Wolfsburg,28,1998,178cm,tm_387106,28,1375,15.28,2,3,5,5,0,0.13,0.2,0.33,transfermarkt_datasets,False,2026-11-09
+Nico Schlotterbeck,Germany,DF,DF (CB),Borussia Dortmund,27,1999,191cm,tm_388198,28,2520,28.0,5,2,7,8,0,0.18,0.07,0.25,transfermarkt_datasets,False,2026-11-09
+Omar Traoré,Germany,DF,DF (FB),1. Fußballclub Heidenheim 1846,28,1998,187cm,tm_388294,26,1500,16.67,0,2,2,2,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Philipp Sander,Germany,MF,MF (DM),Borussia Mönchengladbach,28,1998,186cm,tm_388409,30,2454,27.27,2,0,2,4,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Jonas Wind,Denmark,FW,FW (AM),VfL Wolfsburg,27,1999,190cm,tm_391004,11,480,5.33,1,0,1,1,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Marco Grüll,Austria,FW,FW (WM),SV Werder Bremen,28,1998,181cm,tm_391766,33,2012,22.36,3,1,4,5,0,0.13,0.04,0.18,transfermarkt_datasets,False,2026-11-09
+Derrick Köhn,Ghana,DF,DF (FB),1.FC Union Berlin,27,1999,180cm,tm_391780,29,1902,21.13,1,2,3,5,0,0.05,0.09,0.14,transfermarkt_datasets,False,2026-11-09
+Lennard Maloney,United States,MF,MF (DM),1.FSV Mainz 05,27,1999,188cm,tm_392710,21,472,5.24,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+James Sands,United States,MF,MF (DM),FC St. Pauli,26,2000,186cm,tm_393321,24,1941,21.57,1,0,1,4,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Felix Agu,Nigeria,DF,DF (FB),SV Werder Bremen,27,1999,180cm,tm_393512,11,747,8.3,0,1,1,1,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Jusuf Gazibegovic,Bosnia-Herzegovina,DF,DF (FB),1.FC Köln,26,2000,174cm,tm_393745,1,22,0.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Stefan Schimmer,Germany,FW,FW (AM),1. Fußballclub Heidenheim 1846,32,1994,185cm,tm_394033,27,805,8.94,5,1,6,1,0,0.56,0.11,0.67,transfermarkt_datasets,False,2026-11-09
+Samuel Essende,DR Congo,FW,FW (AM),FC Augsburg,28,1998,193cm,tm_395522,14,404,4.49,1,0,1,2,0,0.22,0.0,0.22,transfermarkt_datasets,False,2026-11-09
+Nikolas Nartey,Denmark,MF,MF (CM),VfB Stuttgart,26,2000,186cm,tm_400546,28,1256,13.96,4,3,7,2,0,0.29,0.21,0.5,transfermarkt_datasets,False,2026-11-09
+Exequiel Palacios,Argentina,MF,MF (CM),Bayer 04 Leverkusen,28,1998,177cm,tm_401578,18,1097,12.19,0,1,1,3,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Emir Sahiti,Kosovo,FW,FW (WM),Hamburger SV,28,1998,184cm,tm_403177,2,122,1.36,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nicolas Seiwald,Austria,MF,MF (DM),RB Leipzig,25,2001,179cm,tm_404950,33,2704,30.04,0,2,2,2,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Yukinari Sugawara,Japan,DF,DF (FB),SV Werder Bremen,26,2000,179cm,tm_405385,31,2434,27.04,0,6,6,2,0,0.0,0.22,0.22,transfermarkt_datasets,False,2026-11-09
+Yannik Engelhardt,Germany,MF,MF (DM),Borussia Mönchengladbach,25,2001,184cm,tm_405670,31,2491,27.68,2,2,4,7,0,0.07,0.07,0.14,transfermarkt_datasets,False,2026-11-09
+Tom Krauß,Germany,MF,MF (DM),1.FC Köln,25,2001,182cm,tm_405687,26,1787,19.86,0,2,2,4,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Felix Nmecha,Germany,MF,MF (CM),Borussia Dortmund,26,2000,190cm,tm_406640,29,2190,24.33,2,3,5,0,0,0.08,0.12,0.21,transfermarkt_datasets,False,2026-11-09
+Jakub Kamiński,Poland,FW,FW (WM),1.FC Köln,24,2002,179cm,tm_407098,34,3023,33.59,7,5,12,4,0,0.21,0.15,0.36,transfermarkt_datasets,False,2026-11-09
+Immanuel Pherai,Suriname,MF,MF (AM),Hamburger SV,25,2001,175cm,tm_412935,6,30,0.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Wouter Burger,Netherlands,MF,MF (DM),TSG 1899 Hoffenheim,25,2001,191cm,tm_412953,30,2441,27.12,4,8,12,7,0,0.15,0.29,0.44,transfermarkt_datasets,False,2026-11-09
+Keven Schlotterbeck,Germany,DF,DF (CB),FC Augsburg,29,1997,188cm,tm_413843,24,2031,22.57,0,2,2,5,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Koki Machida,Japan,DF,DF (CB),TSG 1899 Hoffenheim,29,1997,190cm,tm_415035,1,45,0.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bakery Jatta,The Gambia,FW,FW (WM),Hamburger SV,28,1998,184cm,tm_415194,15,918,10.2,1,1,2,1,0,0.1,0.1,0.2,transfermarkt_datasets,False,2026-11-09
+Ragnar Ache,Germany,FW,FW (AM),1.FC Köln,28,1998,183cm,tm_416380,29,1726,19.18,7,5,12,3,0,0.36,0.26,0.63,transfermarkt_datasets,False,2026-11-09
+Mathias Pereira Lage,Portugal,FW,FW (WM),FC St. Pauli,30,1996,180cm,tm_424072,28,2032,22.58,2,2,4,3,0,0.09,0.09,0.18,transfermarkt_datasets,False,2026-11-09
+Alphonso Davies,Canada,DF,DF (FB),Bayern Munich,26,2000,183cm,tm_424204,13,523,5.81,1,3,4,1,0,0.17,0.52,0.69,transfermarkt_datasets,False,2026-11-09
+Ansgar Knauff,Germany,FW,FW (WM),Eintracht Frankfurt,24,2002,180cm,tm_429874,28,1322,14.69,4,2,6,3,0,0.27,0.14,0.41,transfermarkt_datasets,False,2026-11-09
+Andreas Skov Olsen,Denmark,FW,FW (WM),VfL Wolfsburg,27,1999,187cm,tm_432982,8,361,4.01,1,0,1,1,0,0.25,0.0,0.25,transfermarkt_datasets,False,2026-11-09
+Alexander Prass,Austria,MF,MF (WM),TSG 1899 Hoffenheim,25,2001,180cm,tm_434116,32,1298,14.42,3,2,5,4,0,0.21,0.14,0.35,transfermarkt_datasets,False,2026-11-09
+Kilian Fischer,Germany,DF,DF (FB),VfL Wolfsburg,26,2000,182cm,tm_435796,11,804,8.93,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ramon Hendriks,Netherlands,DF,DF (CB),VfB Stuttgart,25,2001,189cm,tm_436064,31,2023,22.48,0,3,3,3,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Martin Terrier,France,FW,FW (WM),Bayer 04 Leverkusen,29,1997,184cm,tm_442891,18,671,7.46,4,1,5,1,0,0.54,0.13,0.67,transfermarkt_datasets,False,2026-11-09
+Patrick Osterhage,Germany,MF,MF (DM),SC Freiburg,26,2000,186cm,tm_443331,20,1187,13.19,1,0,1,4,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Angelo Stiller,Germany,MF,MF (DM),VfB Stuttgart,25,2001,183cm,tm_443710,34,2746,30.51,2,6,8,1,0,0.07,0.2,0.26,transfermarkt_datasets,False,2026-11-09
+Jessic Ngankam,Germany,FW,FW (AM),Eintracht Frankfurt,26,2000,184cm,tm_448177,3,60,0.67,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Josha Vagnoman,Germany,DF,DF (FB),VfB Stuttgart,26,2000,190cm,tm_448258,27,1587,17.63,1,4,5,3,0,0.06,0.23,0.28,transfermarkt_datasets,False,2026-11-09
+Cameron Puertas,Spain,MF,MF (CM),SV Werder Bremen,28,1998,178cm,tm_449592,28,1852,20.58,1,2,3,6,0,0.05,0.1,0.15,transfermarkt_datasets,False,2026-11-09
+Isaac Schmidt,Switzerland,DF,DF (FB),SV Werder Bremen,27,1999,172cm,tm_449597,19,676,7.51,1,0,1,2,0,0.13,0.0,0.13,transfermarkt_datasets,False,2026-11-09
+Junior Adamu,Austria,FW,FW (AM),SC Freiburg,25,2001,183cm,tm_452477,9,449,4.99,1,1,2,1,0,0.2,0.2,0.4,transfermarkt_datasets,False,2026-11-09
+Anthony Caci,France,DF,DF (FB),1.FSV Mainz 05,29,1997,184cm,tm_453016,10,520,5.78,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Benedict Hollerbach,Germany,FW,FW (AM),1.FSV Mainz 05,25,2001,181cm,tm_453870,14,884,9.82,1,3,4,0,0,0.1,0.31,0.41,transfermarkt_datasets,False,2026-11-09
+András Schäfer,Hungary,MF,MF (CM),1.FC Union Berlin,27,1999,178cm,tm_454863,28,1419,15.77,2,1,3,2,0,0.13,0.06,0.19,transfermarkt_datasets,False,2026-11-09
+Nick Woltemade,Germany,FW,FW (AM),VfB Stuttgart,24,2002,198cm,tm_455661,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Moritz Jenz,Germany,DF,DF (CB),VfL Wolfsburg,27,1999,190cm,tm_460245,22,1789,19.88,1,0,1,6,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Rocco Reitz,Germany,MF,MF (CM),Borussia Mönchengladbach,24,2002,176cm,tm_467434,31,2639,29.32,0,4,4,8,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Malik Tillman,United States,MF,MF (AM),Bayer 04 Leverkusen,24,2002,187cm,tm_467437,29,1677,18.63,6,1,7,2,0,0.32,0.05,0.38,transfermarkt_datasets,False,2026-11-09
+Ransford Königsdörffer,Ghana,FW,FW (AM),Hamburger SV,25,2001,182cm,tm_470038,33,2350,26.11,5,0,5,2,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Marvin Pieringer,Germany,FW,FW (AM),1. Fußballclub Heidenheim 1846,27,1999,191cm,tm_471055,27,1655,18.39,4,1,5,2,0,0.22,0.05,0.27,transfermarkt_datasets,False,2026-11-09
+Jan Thielmann,Germany,FW,FW (WM),1.FC Köln,24,2002,178cm,tm_472249,26,1548,17.2,3,1,4,4,0,0.17,0.06,0.23,transfermarkt_datasets,False,2026-11-09
+Sacha Boey,France,DF,DF (FB),Bayern Munich,26,2000,178cm,tm_475413,9,462,5.13,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luis Díaz,Colombia,FW,FW (WM),Bayern Munich,29,1997,179cm,tm_480692,32,2451,27.23,15,17,32,5,0,0.55,0.62,1.18,transfermarkt_datasets,False,2026-11-09
+Josip Stanisic,Croatia,DF,DF (FB),Bayern Munich,26,2000,187cm,tm_483046,26,1855,20.61,2,4,6,1,0,0.1,0.19,0.29,transfermarkt_datasets,False,2026-11-09
+Thomas Keller,Germany,DF,DF (CB),1. Fußballclub Heidenheim 1846,27,1999,188cm,tm_485747,4,187,2.08,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Oladapo Afolayan,England,FW,FW (WM),FC St. Pauli,29,1997,180cm,tm_487850,7,144,1.6,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Taichi Hara,Japan,FW,FW (AM),FC St. Pauli,27,1999,191cm,tm_495752,4,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Karim Adeyemi,Germany,FW,FW (WM),Borussia Dortmund,24,2002,180cm,tm_496094,28,1196,13.29,7,4,11,5,0,0.53,0.3,0.83,transfermarkt_datasets,False,2026-11-09
+Paul Nebel,Germany,MF,MF (AM),1.FSV Mainz 05,24,2002,169cm,tm_503160,30,2078,23.09,5,2,7,2,0,0.22,0.09,0.3,transfermarkt_datasets,False,2026-11-09
+Min-jae Kim,"Korea, South",DF,DF (CB),Bayern Munich,30,1996,190cm,tm_503482,25,1605,17.83,1,1,2,1,0,0.06,0.06,0.11,transfermarkt_datasets,False,2026-11-09
+Albert Grønbaek,Denmark,MF,MF (AM),Hamburger SV,25,2001,181cm,tm_503866,7,495,5.5,1,2,3,0,0,0.18,0.36,0.55,transfermarkt_datasets,False,2026-11-09
+Joe Scally,United States,DF,DF (FB),Borussia Mönchengladbach,24,2002,184cm,tm_504153,32,2611,29.01,2,3,5,8,0,0.07,0.1,0.17,transfermarkt_datasets,False,2026-11-09
+Giovanni Reyna,United States,MF,MF (AM),Borussia Mönchengladbach,24,2002,187cm,tm_504215,19,509,5.66,1,1,2,1,0,0.18,0.18,0.35,transfermarkt_datasets,False,2026-11-09
+Fábio Silva,Portugal,FW,FW (AM),Borussia Dortmund,24,2002,185cm,tm_505653,28,805,8.94,2,6,8,3,0,0.22,0.67,0.89,transfermarkt_datasets,False,2026-11-09
+Fabian Rieder,Switzerland,MF,MF (AM),FC Augsburg,24,2002,181cm,tm_507341,32,2351,26.12,6,4,10,4,0,0.23,0.15,0.38,transfermarkt_datasets,False,2026-11-09
+Leonidas Stergiou,Switzerland,DF,DF (FB),VfB Stuttgart,24,2002,181cm,tm_507345,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Leonidas Stergiou,Switzerland,DF,DF (FB),1. Fußballclub Heidenheim 1846,24,2002,181cm,tm_507345,5,203,2.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jesper Lindstrøm,Denmark,FW,FW (WM),VfL Wolfsburg,26,2000,182cm,tm_513245,13,374,4.16,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jamie Leweling,Germany,FW,FW (WM),VfB Stuttgart,25,2001,185cm,tm_518505,32,2379,26.43,7,9,16,4,0,0.26,0.34,0.61,transfermarkt_datasets,False,2026-11-09
+Livan Burcu,Türkiye,FW,FW (WM),1.FC Union Berlin,22,2004,180cm,tm_519872,18,645,7.17,1,1,2,4,0,0.14,0.14,0.28,transfermarkt_datasets,False,2026-11-09
+Connor Metcalfe,Australia,MF,MF (CM),FC St. Pauli,27,1999,183cm,tm_522223,25,576,6.4,0,2,2,2,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Luca Netz,Germany,DF,DF (FB),Borussia Mönchengladbach,23,2003,184cm,tm_524285,15,938,10.42,0,2,2,1,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Fisnik Asllani,Kosovo,FW,FW (AM),TSG 1899 Hoffenheim,24,2002,191cm,tm_524290,33,2358,26.2,10,9,19,2,0,0.38,0.34,0.73,transfermarkt_datasets,False,2026-11-09
+Elias Saad,Tunisia,FW,FW (WM),FC Augsburg,27,1999,185cm,tm_526466,10,499,5.54,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Daniel Elfadli,Libya,DF,DF (CB),Hamburger SV,29,1997,188cm,tm_529895,21,1253,13.92,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Julian Niehues,Germany,MF,MF (DM),1. Fußballclub Heidenheim 1846,25,2001,195cm,tm_530173,24,1389,15.43,3,0,3,1,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Christian Conteh,Germany,FW,FW (WM),1. Fußballclub Heidenheim 1846,27,1999,182cm,tm_530298,9,405,4.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Patrick Wimmer,Austria,FW,FW (WM),VfL Wolfsburg,25,2001,182cm,tm_533295,25,1634,18.16,4,3,7,4,0,0.22,0.17,0.39,transfermarkt_datasets,False,2026-11-09
+Han-Noah Massengo,France,MF,MF (CM),FC Augsburg,25,2001,178cm,tm_536508,33,2437,27.08,2,1,3,5,0,0.07,0.04,0.11,transfermarkt_datasets,False,2026-11-09
+Fábio Vieira,Portugal,MF,MF (AM),Hamburger SV,26,2000,170cm,tm_537598,29,2217,24.63,7,5,12,2,0,0.28,0.2,0.49,transfermarkt_datasets,False,2026-11-09
+Luca Jaquez,Switzerland,DF,DF (CB),VfB Stuttgart,23,2003,187cm,tm_539798,14,900,10.0,0,1,1,1,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Giorgi Gocholeishvili,Georgia,DF,DF (FB),Hamburger SV,25,2001,178cm,tm_540056,24,933,10.37,0,1,1,1,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Mikkel Kaufmann,Denmark,FW,FW (AM),1. Fußballclub Heidenheim 1846,25,2001,189cm,tm_545332,16,534,5.93,1,1,2,2,0,0.17,0.17,0.34,transfermarkt_datasets,False,2026-11-09
+Shuto Machino,Japan,FW,FW (AM),Borussia Mönchengladbach,27,1999,185cm,tm_550580,32,1063,11.81,3,1,4,2,0,0.25,0.08,0.34,transfermarkt_datasets,False,2026-11-09
+Adam Hlozek,Czech Republic,FW,FW (AM),TSG 1899 Hoffenheim,24,2002,188cm,tm_552057,5,37,0.41,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tim Lemperle,Germany,FW,FW (AM),TSG 1899 Hoffenheim,24,2002,187cm,tm_553285,29,1960,21.78,8,2,10,1,0,0.37,0.09,0.46,transfermarkt_datasets,False,2026-11-09
+Edmond Tapsoba,Burkina Faso,DF,DF (CB),Bayer 04 Leverkusen,27,1999,194cm,tm_564545,29,2576,28.62,5,3,8,7,0,0.17,0.1,0.28,transfermarkt_datasets,False,2026-11-09
+Johan Bakayoko,Belgium,FW,FW (WM),RB Leipzig,23,2003,179cm,tm_565424,20,774,8.6,2,0,2,1,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Michael Olise,France,FW,FW (WM),Bayern Munich,25,2001,180cm,tm_566723,32,2320,25.78,15,21,36,8,0,0.58,0.81,1.4,transfermarkt_datasets,False,2026-11-09
+Xavi Simons,Netherlands,MF,MF (AM),RB Leipzig,23,2003,179cm,tm_566931,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Umut Tohumcu,Germany,MF,MF (CM),TSG 1899 Hoffenheim,22,2004,175cm,tm_569031,5,134,1.49,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Armindo Sieb,Germany,FW,FW (AM),1.FSV Mainz 05,23,2003,175cm,tm_569033,22,534,5.93,2,0,2,1,0,0.34,0.0,0.34,transfermarkt_datasets,False,2026-11-09
+Chrislain Matsima,France,DF,DF (CB),FC Augsburg,24,2002,193cm,tm_569383,18,1490,16.56,1,1,2,5,0,0.06,0.06,0.12,transfermarkt_datasets,False,2026-11-09
+Valentin Gendrey,France,DF,DF (FB),TSG 1899 Hoffenheim,26,2000,179cm,tm_569387,8,53,0.59,1,1,2,0,0,1.69,1.69,3.39,transfermarkt_datasets,False,2026-11-09
+Grant-Leon Ranos,Armenia,FW,FW (AM),Borussia Mönchengladbach,23,2003,180cm,tm_574201,8,111,1.23,1,0,1,1,0,0.81,0.0,0.81,transfermarkt_datasets,False,2026-11-09
+Maximilian Beier,Germany,FW,FW (AM),Borussia Dortmund,24,2002,185cm,tm_578392,32,2037,22.63,9,9,18,3,0,0.4,0.4,0.8,transfermarkt_datasets,False,2026-11-09
+Daniel Svensson,Sweden,DF,DF (FB),Borussia Dortmund,24,2002,183cm,tm_579287,33,2453,27.26,2,2,4,0,0,0.07,0.07,0.15,transfermarkt_datasets,False,2026-11-09
+Albian Hajdari,Kosovo,DF,DF (CB),TSG 1899 Hoffenheim,23,2003,189cm,tm_579459,30,2440,27.11,1,2,3,10,0,0.04,0.07,0.11,transfermarkt_datasets,False,2026-11-09
+Ísak Jóhannesson,Iceland,MF,MF (CM),1.FC Köln,23,2003,184cm,tm_579565,31,1812,20.13,1,3,4,6,0,0.05,0.15,0.2,transfermarkt_datasets,False,2026-11-09
+Jamal Musiala,Germany,MF,MF (AM),Bayern Munich,23,2003,184cm,tm_580195,15,679,7.54,3,4,7,1,0,0.4,0.53,0.93,transfermarkt_datasets,False,2026-11-09
+Jan Schöppner,Germany,MF,MF (CM),1. Fußballclub Heidenheim 1846,27,1999,190cm,tm_581357,31,2260,25.11,3,3,6,5,0,0.12,0.12,0.24,transfermarkt_datasets,False,2026-11-09
+Andrej Ilic,Serbia,FW,FW (AM),1.FC Union Berlin,26,2000,189cm,tm_583699,32,2257,25.08,5,10,15,5,0,0.2,0.4,0.6,transfermarkt_datasets,False,2026-11-09
+Arnaud Kalimuendo,France,FW,FW (AM),Eintracht Frankfurt,24,2002,178cm,tm_585959,19,1421,15.79,6,1,7,4,0,0.38,0.06,0.44,transfermarkt_datasets,False,2026-11-09
+Fin Stevens,Wales,DF,DF (FB),FC St. Pauli,23,2003,179cm,tm_587019,1,26,0.29,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sebastian Sebulonsen,Norway,DF,DF (FB),1.FC Köln,26,2000,187cm,tm_592387,31,2505,27.83,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nicolai Remberg,Germany,MF,MF (DM),Hamburger SV,26,2000,188cm,tm_592534,32,2880,32.0,0,3,3,11,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Justin Njinmah,Germany,FW,FW (WM),SV Werder Bremen,26,2000,185cm,tm_596153,33,1955,21.72,5,0,5,2,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Eric Martel,Germany,MF,MF (DM),1.FC Köln,24,2002,188cm,tm_597000,31,2564,28.49,2,2,4,10,0,0.07,0.07,0.14,transfermarkt_datasets,False,2026-11-09
+Leopold Querfeld,Austria,DF,DF (CB),1.FC Union Berlin,23,2003,190cm,tm_597432,31,2704,30.04,3,0,3,6,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Max Rosenfelder,Germany,DF,DF (CB),SC Freiburg,23,2003,186cm,tm_599419,12,489,5.43,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arkadiusz Pyrka,Poland,DF,DF (FB),FC St. Pauli,24,2002,177cm,tm_599733,31,2581,28.68,0,1,1,3,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Nikolas Veratschnig,Austria,MF,MF (WM),1.FSV Mainz 05,23,2003,180cm,tm_601143,21,652,7.24,0,1,1,3,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Louis Oppie,Germany,DF,DF (FB),FC St. Pauli,24,2002,184cm,tm_605265,23,1616,17.96,1,0,1,0,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Igor Matanovic,Croatia,FW,FW (AM),SC Freiburg,23,2003,194cm,tm_605268,31,1563,17.37,11,2,13,0,0,0.63,0.12,0.75,transfermarkt_datasets,False,2026-11-09
+Merlin Röhl,Germany,MF,MF (AM),SC Freiburg,24,2002,192cm,tm_608832,2,65,0.72,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+William Bøving,Denmark,FW,FW (AM),1.FSV Mainz 05,23,2003,176cm,tm_610400,9,219,2.43,0,1,1,1,0,0.0,0.41,0.41,transfermarkt_datasets,False,2026-11-09
+Oscar Fraulo,Denmark,MF,MF (CM),Borussia Mönchengladbach,23,2003,180cm,tm_610428,4,40,0.44,1,0,1,0,0,2.27,0.0,2.27,transfermarkt_datasets,False,2026-11-09
+Tomoya Ando,Japan,DF,DF (CB),FC St. Pauli,27,1999,190cm,tm_610795,15,1261,14.01,0,1,1,3,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Silas,DR Congo,FW,FW (WM),1.FSV Mainz 05,28,1998,189cm,tm_612826,8,335,3.72,1,0,1,1,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Jens Castrop,"Korea, South",MF,MF (CM),Borussia Mönchengladbach,23,2003,178cm,tm_613192,26,1594,17.71,3,1,4,2,0,0.17,0.06,0.23,transfermarkt_datasets,False,2026-11-09
+Cenk Özkacar,Türkiye,DF,DF (CB),1.FC Köln,26,2000,190cm,tm_615350,25,1793,19.92,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tiago Tomás,Portugal,FW,FW (WM),VfB Stuttgart,24,2002,180cm,tm_616344,27,1013,11.26,5,3,8,4,0,0.44,0.27,0.71,transfermarkt_datasets,False,2026-11-09
+Jenson Seelt,Netherlands,DF,DF (CB),VfL Wolfsburg,23,2003,195cm,tm_617755,9,680,7.56,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Castello Lukeba,France,DF,DF (CB),RB Leipzig,24,2002,184cm,tm_618472,26,2177,24.19,1,0,1,3,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Robin Hranac,Czech Republic,DF,DF (CB),TSG 1899 Hoffenheim,26,2000,189cm,tm_620217,29,2251,25.01,1,0,1,5,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Ameen Al-Dakhil,Belgium,DF,DF (CB),VfB Stuttgart,24,2002,187cm,tm_620598,8,376,4.18,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Olivier Deman,Belgium,DF,DF (FB),SV Werder Bremen,26,2000,181cm,tm_621802,16,1255,13.94,1,3,4,3,0,0.07,0.22,0.29,transfermarkt_datasets,False,2026-11-09
+Kristoffer Lund,United States,DF,DF (FB),1.FC Köln,24,2002,184cm,tm_623773,33,2284,25.38,0,2,2,2,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Yan Couto,Brazil,DF,DF (FB),Borussia Dortmund,24,2002,168cm,tm_627228,19,995,11.06,2,3,5,4,0,0.18,0.27,0.45,transfermarkt_datasets,False,2026-11-09
+Jarell Quansah,England,DF,DF (CB),Bayer 04 Leverkusen,23,2003,190cm,tm_632349,28,2302,25.58,4,0,4,9,0,0.16,0.0,0.16,transfermarkt_datasets,False,2026-11-09
+Aurèle Amenda,Switzerland,DF,DF (CB),Eintracht Frankfurt,23,2003,194cm,tm_635645,24,1676,18.62,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rav van den Berg,Netherlands,DF,DF (CB),1.FC Köln,22,2004,191cm,tm_640556,14,1132,12.58,0,1,1,0,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Kaishu Sano,Japan,MF,MF (DM),1.FSV Mainz 05,26,2000,176cm,tm_643574,34,3060,34.0,1,3,4,1,0,0.03,0.09,0.12,transfermarkt_datasets,False,2026-11-09
+Eren Dinkçi,Türkiye,FW,FW (WM),SC Freiburg,25,2001,188cm,tm_645774,8,245,2.72,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Eren Dinkçi,Türkiye,FW,FW (WM),1. Fußballclub Heidenheim 1846,25,2001,188cm,tm_645774,14,1136,12.62,3,3,6,3,0,0.24,0.24,0.48,transfermarkt_datasets,False,2026-11-09
+Nicolás Capaldo,Argentina,DF,DF (CB),Hamburger SV,28,1998,177cm,tm_649672,26,2010,22.33,1,3,4,10,0,0.04,0.13,0.18,transfermarkt_datasets,False,2026-11-09
+Anton Kade,Germany,MF,MF (AM),FC Augsburg,22,2004,185cm,tm_654234,28,1747,19.41,6,1,7,3,0,0.31,0.05,0.36,transfermarkt_datasets,False,2026-11-09
+Bilal El Khannouss,Morocco,MF,MF (AM),VfB Stuttgart,22,2004,180cm,tm_654982,25,1635,18.17,4,5,9,6,0,0.22,0.28,0.5,transfermarkt_datasets,False,2026-11-09
+Samuel Mbangula,Belgium,FW,FW (WM),SV Werder Bremen,22,2004,179cm,tm_654991,26,1169,12.99,3,4,7,0,0,0.23,0.31,0.54,transfermarkt_datasets,False,2026-11-09
+Victor Boniface,Nigeria,FW,FW (AM),SV Werder Bremen,26,2000,190cm,tm_656681,11,326,3.62,0,2,2,1,0,0.0,0.55,0.55,transfermarkt_datasets,False,2026-11-09
+Carney Chukwuemeka,Austria,MF,MF (CM),Borussia Dortmund,23,2003,187cm,tm_659459,28,907,10.08,2,0,2,2,0,0.2,0.0,0.2,transfermarkt_datasets,False,2026-11-09
+Elye Wahi,Cote d'Ivoire,FW,FW (AM),Eintracht Frankfurt,23,2003,181cm,tm_659542,10,320,3.56,0,1,1,1,0,0.0,0.28,0.28,transfermarkt_datasets,False,2026-11-09
+Piero Hincapié,Ecuador,DF,DF (CB),Bayer 04 Leverkusen,24,2002,183cm,tm_659813,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vini Souza,Brazil,MF,MF (DM),VfL Wolfsburg,27,1999,187cm,tm_663581,24,1771,19.68,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Equi Fernández,Argentina,MF,MF (DM),Bayer 04 Leverkusen,24,2002,178cm,tm_664708,20,987,10.97,0,1,1,2,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Hugo Bolin,Sweden,FW,FW (WM),Borussia Mönchengladbach,23,2003,179cm,tm_667251,13,547,6.08,1,2,3,0,0,0.16,0.33,0.49,transfermarkt_datasets,False,2026-11-09
+Leon Avdullahu,Kosovo,MF,MF (DM),TSG 1899 Hoffenheim,22,2004,185cm,tm_667457,33,2838,31.53,0,1,1,5,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Yuito Suzuki,Japan,FW,FW (AM),SC Freiburg,25,2001,175cm,tm_668606,25,1637,18.19,4,3,7,3,0,0.22,0.16,0.38,transfermarkt_datasets,False,2026-11-09
+Konstantinos Koulierakis,Greece,DF,DF (CB),VfL Wolfsburg,23,2003,188cm,tm_669380,29,2481,27.57,4,1,5,5,0,0.15,0.04,0.18,transfermarkt_datasets,False,2026-11-09
+Isak Hansen-Aarøen,Norway,MF,MF (AM),SV Werder Bremen,22,2004,173cm,tm_670116,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kota Takai,Japan,DF,DF (CB),Borussia Mönchengladbach,22,2004,192cm,tm_671108,8,339,3.77,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ricky-Jade Jones,England,FW,FW (AM),FC St. Pauli,24,2002,183cm,tm_677935,9,350,3.89,2,0,2,1,0,0.51,0.0,0.51,transfermarkt_datasets,False,2026-11-09
+Denis Huseinbasic,Bosnia-Herzegovina,MF,MF (CM),1.FC Köln,25,2001,184cm,tm_678479,15,725,8.06,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Philip Otele,Nigeria,FW,FW (WM),Hamburger SV,27,1999,178cm,tm_678655,9,477,5.3,1,1,2,3,0,0.19,0.19,0.38,transfermarkt_datasets,False,2026-11-09
+Nnamdi Collins,Germany,DF,DF (CB),Eintracht Frankfurt,22,2004,188cm,tm_684315,23,1498,16.64,1,2,3,4,0,0.06,0.12,0.18,transfermarkt_datasets,False,2026-11-09
+Luka Duric,Bosnia-Herzegovina,MF,MF (CM),TSG 1899 Hoffenheim,23,2003,181cm,tm_685484,1,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nathaniel Brown,Germany,DF,DF (FB),Eintracht Frankfurt,23,2003,176cm,tm_691892,33,2658,29.53,4,4,8,3,0,0.14,0.14,0.27,transfermarkt_datasets,False,2026-11-09
+Younes Ebnoutalib,Germany,FW,FW (AM),Eintracht Frankfurt,23,2003,191cm,tm_692368,5,131,1.46,1,0,1,0,0,0.68,0.0,0.68,transfermarkt_datasets,False,2026-11-09
+Aljoscha Kemlein,Germany,MF,MF (DM),1.FC Union Berlin,22,2004,188cm,tm_692737,30,1968,21.87,0,2,2,4,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Rayan Philippe,France,FW,FW (WM),Hamburger SV,26,2000,182cm,tm_694507,28,1285,14.28,5,0,5,2,0,0.35,0.0,0.35,transfermarkt_datasets,False,2026-11-09
+Tim Oermann,Germany,DF,DF (CB),Bayer 04 Leverkusen,23,2003,189cm,tm_696164,2,16,0.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joel Chima Fujita,Japan,MF,MF (CM),FC St. Pauli,24,2002,175cm,tm_697277,32,2671,29.68,1,3,4,6,0,0.03,0.1,0.13,transfermarkt_datasets,False,2026-11-09
+Brajan Gruda,Germany,MF,MF (AM),RB Leipzig,22,2004,178cm,tm_700106,13,755,8.39,3,3,6,1,0,0.36,0.36,0.72,transfermarkt_datasets,False,2026-11-09
+Keke Topp,Germany,FW,FW (AM),SV Werder Bremen,22,2004,192cm,tm_701757,20,629,6.99,1,1,2,4,0,0.14,0.14,0.29,transfermarkt_datasets,False,2026-11-09
+Andréas Hountondji,Benin,FW,FW (AM),FC St. Pauli,24,2002,190cm,tm_704155,21,1075,11.94,4,0,4,2,0,0.34,0.0,0.34,transfermarkt_datasets,False,2026-11-09
+Badredine Bouanani,Algeria,FW,FW (WM),VfB Stuttgart,22,2004,177cm,tm_707242,14,458,5.09,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kevin Paredes,United States,MF,MF (WM),VfL Wolfsburg,23,2003,175cm,tm_711517,6,161,1.79,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lorenz Assignon,France,DF,DF (FB),VfB Stuttgart,26,2000,181cm,tm_711969,24,1093,12.14,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Warmed Omari,Comoros,DF,DF (CB),Hamburger SV,26,2000,188cm,tm_711996,20,1608,17.87,0,1,1,0,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Ernest Poku,Netherlands,FW,FW (WM),Bayer 04 Leverkusen,22,2004,176cm,tm_718303,29,1485,16.5,5,5,10,0,0,0.3,0.3,0.61,transfermarkt_datasets,False,2026-11-09
+Fabio Chiarodia,Italy,DF,DF (CB),Borussia Mönchengladbach,21,2005,186cm,tm_724104,15,674,7.49,0,1,1,1,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Rodrigo Ribeiro,Portugal,FW,FW (AM),FC Augsburg,21,2005,186cm,tm_726701,14,633,7.03,2,0,2,1,0,0.28,0.0,0.28,transfermarkt_datasets,False,2026-11-09
+Aaron Zehnter,Germany,DF,DF (FB),VfL Wolfsburg,22,2004,180cm,tm_730484,20,1461,16.23,2,0,2,0,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Loïc Badé,France,DF,DF (CB),Bayer 04 Leverkusen,26,2000,191cm,tm_730581,23,1652,18.36,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sota Kawasaki,Japan,MF,MF (DM),1.FSV Mainz 05,25,2001,172cm,tm_733371,10,305,3.39,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jonas Adjetey,Ghana,DF,DF (CB),VfL Wolfsburg,23,2003,188cm,tm_734676,4,137,1.52,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+William Mikelbrencis,France,DF,DF (FB),Hamburger SV,22,2004,179cm,tm_743500,26,1372,15.24,0,4,4,3,0,0.0,0.26,0.26,transfermarkt_datasets,False,2026-11-09
+Arijon Ibrahimovic,Germany,MF,MF (AM),1. Fußballclub Heidenheim 1846,21,2005,178cm,tm_744728,32,2181,24.23,2,4,6,1,0,0.08,0.17,0.25,transfermarkt_datasets,False,2026-11-09
+Elias Baum,Germany,DF,DF (FB),Eintracht Frankfurt,21,2005,180cm,tm_744857,5,71,0.79,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohamed Amoura,Algeria,FW,FW (AM),VfL Wolfsburg,26,2000,170cm,tm_746910,30,1928,21.42,8,4,12,2,0,0.37,0.19,0.56,transfermarkt_datasets,False,2026-11-09
+Nicolas Jackson,Senegal,FW,FW (AM),Bayern Munich,25,2001,187cm,tm_776890,23,1004,11.16,8,2,10,2,0,0.72,0.18,0.9,transfermarkt_datasets,False,2026-11-09
+Mert Kömür,Germany,MF,MF (AM),FC Augsburg,21,2005,184cm,tm_777005,28,1463,16.26,2,4,6,1,0,0.12,0.25,0.37,transfermarkt_datasets,False,2026-11-09
+Lukas Ullrich,Germany,DF,DF (FB),Borussia Mönchengladbach,22,2004,180cm,tm_787151,23,1306,14.51,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+El Chadaille Bitshiabu,France,DF,DF (CB),RB Leipzig,21,2005,196cm,tm_787912,11,654,7.27,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bence Dárdai,Hungary,MF,MF (AM),VfL Wolfsburg,20,2006,189cm,tm_789252,1,34,0.38,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Muhammed Damar,Germany,MF,MF (AM),TSG 1899 Hoffenheim,22,2004,185cm,tm_789898,15,268,2.98,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aleksandar Pavlovic,Germany,MF,MF (DM),Bayern Munich,22,2004,188cm,tm_792380,24,1461,16.23,3,1,4,2,0,0.18,0.06,0.25,transfermarkt_datasets,False,2026-11-09
+Nelson Weiper,Germany,FW,FW (AM),1.FSV Mainz 05,21,2005,192cm,tm_796213,24,540,6.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jobe Bellingham,England,MF,MF (CM),Borussia Dortmund,21,2005,191cm,tm_796297,32,1785,19.83,0,2,2,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Tom Rothe,Germany,DF,DF (FB),1.FC Union Berlin,22,2004,193cm,tm_798043,21,1024,11.38,2,0,2,1,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Ayoube Amaimouni-Echghouyab,Morocco,FW,FW (WM),Eintracht Frankfurt,22,2004,179cm,tm_799993,17,580,6.44,2,3,5,1,0,0.31,0.47,0.78,transfermarkt_datasets,False,2026-11-09
+Léo Scienza,Brazil,MF,MF (AM),1. Fußballclub Heidenheim 1846,28,1998,175cm,tm_804219,2,180,2.0,1,0,1,0,0,0.5,0.0,0.5,transfermarkt_datasets,False,2026-11-09
+Conrad Harder,Denmark,FW,FW (AM),RB Leipzig,21,2005,185cm,tm_807386,29,919,10.21,3,3,6,3,0,0.29,0.29,0.59,transfermarkt_datasets,False,2026-11-09
+Luca Kerber,Germany,MF,MF (CM),1. Fußballclub Heidenheim 1846,24,2002,184cm,tm_809498,18,677,7.52,2,0,2,3,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Ismaël Gharbi,Tunisia,FW,FW (WM),FC Augsburg,22,2004,180cm,tm_810096,6,88,0.98,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Max Finkgräfe,Germany,DF,DF (FB),RB Leipzig,22,2004,183cm,tm_810649,13,502,5.58,1,1,2,2,0,0.18,0.18,0.36,transfermarkt_datasets,False,2026-11-09
+Eliesse Ben Seghir,Morocco,FW,FW (WM),Bayer 04 Leverkusen,21,2005,178cm,tm_810895,10,246,2.73,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jordy Makengo,France,DF,DF (FB),SC Freiburg,25,2001,191cm,tm_815078,20,1173,13.03,0,1,1,1,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Can Uzun,Türkiye,MF,MF (AM),Eintracht Frankfurt,21,2005,186cm,tm_816585,21,1164,12.93,8,5,13,3,0,0.62,0.39,1.01,transfermarkt_datasets,False,2026-11-09
+Dzenan Pejcinovic,Germany,FW,FW (AM),VfL Wolfsburg,21,2005,190cm,tm_819636,30,1456,16.18,8,0,8,1,0,0.49,0.0,0.49,transfermarkt_datasets,False,2026-11-09
+Damion Downs,United States,FW,FW (AM),Hamburger SV,22,2004,192cm,tm_820241,12,537,5.97,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jan Urbich,Germany,FW,FW (AM),Borussia Mönchengladbach,22,2004,188cm,tm_820723,3,36,0.4,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Derry Scherhant,Germany,FW,FW (WM),SC Freiburg,24,2002,185cm,tm_820957,31,1292,14.36,5,2,7,2,0,0.35,0.14,0.49,transfermarkt_datasets,False,2026-11-09
+Tom Bischof,Germany,MF,MF (CM),Bayern Munich,21,2005,176cm,tm_822959,26,1294,14.38,3,3,6,2,0,0.21,0.21,0.42,transfermarkt_datasets,False,2026-11-09
+Hennes Behrens,Germany,DF,DF (FB),1. Fußballclub Heidenheim 1846,21,2005,175cm,tm_829838,16,1319,14.66,1,2,3,0,0,0.07,0.14,0.2,transfermarkt_datasets,False,2026-11-09
+Julián Malatini,Argentina,DF,DF (CB),SV Werder Bremen,25,2001,191cm,tm_830108,11,516,5.73,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marin Ljubicic,Croatia,FW,FW (AM),1.FC Union Berlin,24,2002,183cm,tm_838236,2,20,0.22,2,0,2,0,0,9.09,0.0,9.09,transfermarkt_datasets,False,2026-11-09
+Oscar Højlund,Denmark,MF,MF (CM),Eintracht Frankfurt,21,2005,184cm,tm_846310,24,1091,12.12,1,2,3,2,0,0.08,0.17,0.25,transfermarkt_datasets,False,2026-11-09
+Kosta Nedeljkovic,Serbia,DF,DF (FB),RB Leipzig,21,2005,184cm,tm_848682,5,252,2.8,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Farès Chaïbi,Algeria,MF,MF (AM),Eintracht Frankfurt,24,2002,183cm,tm_855015,28,1797,19.97,2,9,11,2,0,0.1,0.45,0.55,transfermarkt_datasets,False,2026-11-09
+Skelly Alvero,France,MF,MF (DM),SV Werder Bremen,24,2002,202cm,tm_855134,2,32,0.36,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bruno Ogbus,Switzerland,DF,DF (CB),SC Freiburg,21,2005,188cm,tm_863759,18,1175,13.06,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ezechiel Banzuzi,Netherlands,MF,MF (CM),RB Leipzig,21,2005,191cm,tm_865682,24,578,6.42,0,1,1,3,0,0.0,0.16,0.16,transfermarkt_datasets,False,2026-11-09
+Cole Campbell,United States,FW,FW (WM),Borussia Dortmund,20,2006,170cm,tm_866579,1,16,0.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Cole Campbell,United States,FW,FW (WM),TSG 1899 Hoffenheim,20,2006,170cm,tm_866579,5,74,0.82,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arthur Chaves,Brazil,DF,DF (CB),FC Augsburg,25,2001,188cm,tm_875332,11,829,9.21,2,0,2,1,0,0.22,0.0,0.22,transfermarkt_datasets,False,2026-11-09
+Arthur Chaves,Brazil,DF,DF (CB),TSG 1899 Hoffenheim,25,2001,188cm,tm_875332,4,238,2.64,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Adam Daghim,Denmark,FW,FW (WM),VfL Wolfsburg,21,2005,189cm,tm_881297,27,1358,15.09,2,3,5,3,0,0.13,0.2,0.33,transfermarkt_datasets,False,2026-11-09
+Filippo Mane,Italy,DF,DF (CB),Borussia Dortmund,21,2005,188cm,tm_883007,4,132,1.47,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Almugera Kabar,Germany,DF,DF (FB),Borussia Dortmund,20,2006,186cm,tm_884820,1,14,0.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Charles Herrmann,Germany,FW,FW (WM),Borussia Mönchengladbach,20,2006,180cm,tm_884822,1,4,0.04,0,1,1,0,0,0.0,25.0,25.0,transfermarkt_datasets,False,2026-11-09
+Luka Vuskovic,Croatia,DF,DF (CB),Hamburger SV,19,2007,193cm,tm_892160,28,2442,27.13,6,1,7,6,0,0.22,0.04,0.26,transfermarkt_datasets,False,2026-11-09
+Antonio Nusa,Norway,FW,FW (WM),RB Leipzig,21,2005,183cm,tm_894914,31,2040,22.67,4,3,7,0,0,0.18,0.13,0.31,transfermarkt_datasets,False,2026-11-09
+Assan Ouédraogo,Germany,MF,MF (CM),RB Leipzig,20,2006,191cm,tm_897424,19,955,10.61,4,3,7,0,0,0.38,0.28,0.66,transfermarkt_datasets,False,2026-11-09
+Lazar Jovanovic,Serbia,FW,FW (WM),VfB Stuttgart,20,2006,184cm,tm_897505,3,37,0.41,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aiman Dardari,Luxembourg,FW,FW (WM),FC Augsburg,21,2005,178cm,tm_904723,3,31,0.34,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahim Maza,Algeria,MF,MF (AM),Bayer 04 Leverkusen,21,2005,180cm,tm_905011,28,1854,20.6,3,5,8,2,0,0.15,0.24,0.39,transfermarkt_datasets,False,2026-11-09
+Fábio Baldé,Portugal,FW,FW (WM),Hamburger SV,21,2005,182cm,tm_910541,16,440,4.89,1,1,2,0,0,0.2,0.2,0.41,transfermarkt_datasets,False,2026-11-09
+Jeanuël Belocian,France,DF,DF (CB),Bayer 04 Leverkusen,21,2005,186cm,tm_919515,8,288,3.2,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jeanuël Belocian,France,DF,DF (CB),VfL Wolfsburg,21,2005,186cm,tm_919515,14,1255,13.94,0,1,1,3,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Adam Kölle,Germany,DF,DF (CB),1. Fußballclub Heidenheim 1846,20,2006,195cm,tm_921431,6,89,0.99,1,0,1,1,0,1.01,0.0,1.01,transfermarkt_datasets,False,2026-11-09
+Max Moerstedt,Germany,FW,FW (AM),TSG 1899 Hoffenheim,20,2006,194cm,tm_923595,22,401,4.46,2,0,2,2,0,0.45,0.0,0.45,transfermarkt_datasets,False,2026-11-09
+Noahkai Banks,United States,DF,DF (CB),FC Augsburg,20,2006,193cm,tm_923945,23,1727,19.19,1,1,2,8,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Finn Jeltsch,Germany,DF,DF (CB),VfB Stuttgart,20,2006,188cm,tm_924117,23,1506,16.73,0,1,1,3,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Johan Manzambi,Switzerland,MF,MF (CM),SC Freiburg,21,2005,182cm,tm_927353,27,2096,23.29,5,5,10,4,0,0.21,0.21,0.43,transfermarkt_datasets,False,2026-11-09
+Yannick Eduardo,Czech Republic,FW,FW (AM),TSG 1899 Hoffenheim,20,2006,193cm,tm_930998,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hugo Larsson,Sweden,MF,MF (CM),Eintracht Frankfurt,22,2004,187cm,tm_931838,25,1820,20.22,2,2,4,0,0,0.1,0.1,0.2,transfermarkt_datasets,False,2026-11-09
+Jean-Mattéo Bahoya,France,FW,FW (WM),Eintracht Frankfurt,21,2005,180cm,tm_939964,27,1330,14.78,3,4,7,2,0,0.2,0.27,0.47,transfermarkt_datasets,False,2026-11-09
+Jahmai Simpson-Pusey,England,DF,DF (CB),1.FC Köln,21,2005,187cm,tm_942497,11,864,9.6,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jovan Milosevic,Serbia,FW,FW (AM),SV Werder Bremen,21,2005,190cm,tm_943795,13,483,5.37,3,1,4,2,0,0.56,0.19,0.74,transfermarkt_datasets,False,2026-11-09
+Youssoupha Niang,Germany,FW,FW (WM),1.FC Köln,20,2006,185cm,tm_944331,10,187,2.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Chema Andrés,Spain,MF,MF (DM),VfB Stuttgart,21,2005,190cm,tm_948279,25,1306,14.51,3,1,4,5,0,0.21,0.07,0.28,transfermarkt_datasets,False,2026-11-09
+Saël Kumbedi,France,DF,DF (FB),VfL Wolfsburg,21,2005,175cm,tm_951579,24,1807,20.08,0,5,5,2,0,0.0,0.25,0.25,transfermarkt_datasets,False,2026-11-09
+Andrija Maksimovic,Serbia,MF,MF (AM),RB Leipzig,19,2007,182cm,tm_952779,8,88,0.98,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tidiam Gomis,France,FW,FW (WM),RB Leipzig,20,2006,183cm,tm_955448,18,337,3.74,1,0,1,1,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Rômulo,Brazil,FW,FW (AM),RB Leipzig,24,2002,193cm,tm_957874,30,2209,24.54,9,4,13,3,0,0.37,0.16,0.53,transfermarkt_datasets,False,2026-11-09
+Jeremy Arévalo,Ecuador,FW,FW (AM),VfB Stuttgart,21,2005,182cm,tm_971663,7,32,0.36,0,1,1,0,0,0.0,2.78,2.78,transfermarkt_datasets,False,2026-11-09
+Cenny Neumann,Germany,DF,DF (FB),1.FC Köln,19,2007,178cm,tm_974581,2,74,0.82,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arthur,Brazil,DF,DF (FB),Bayer 04 Leverkusen,23,2003,174cm,tm_977464,20,1132,12.58,1,3,4,3,0,0.08,0.24,0.32,transfermarkt_datasets,False,2026-11-09
+Claudio Echeverri,Argentina,MF,MF (AM),Bayer 04 Leverkusen,20,2006,170cm,tm_994536,6,130,1.44,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alejo Sarco,Argentina,FW,FW (AM),Bayer 04 Leverkusen,20,2006,179cm,tm_1000675,3,71,0.79,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alejo Sarco,Argentina,FW,FW (AM),Borussia Mönchengladbach,20,2006,179cm,tm_1000675,3,50,0.56,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jan Bürger,Germany,DF,DF (FB),VfL Wolfsburg,19,2007,180cm,tm_1009440,7,246,2.73,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Felipe Chávez,Peru,MF,MF (CM),1.FC Köln,19,2007,177cm,tm_1009441,7,96,1.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Felipe Chávez,Peru,MF,MF (CM),Bayern Munich,19,2007,177cm,tm_1009441,2,12,0.13,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ilyas Ansah,Germany,FW,FW (AM),1.FC Union Berlin,22,2004,197cm,tm_1035765,33,1903,21.14,5,3,8,1,0,0.24,0.14,0.38,transfermarkt_datasets,False,2026-11-09
+Salim Musah,Germany,FW,FW (AM),SV Werder Bremen,20,2006,198cm,tm_1042472,8,197,2.19,1,0,1,0,0,0.46,0.0,0.46,transfermarkt_datasets,False,2026-11-09
+Dmytro Bogdanov,Ukraine,FW,FW (AM),1.FC Union Berlin,19,2007,188cm,tm_1045446,2,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mick Schmetgens,Germany,DF,DF (CB),SV Werder Bremen,19,2007,190cm,tm_1045986,2,36,0.4,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aboubaka Soumahoro,France,DF,DF (CB),Hamburger SV,21,2005,187cm,tm_1052420,4,135,1.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Samuele Inácio,Italy,FW,FW (AM),Borussia Dortmund,18,2008,176cm,tm_1058359,7,383,4.26,1,0,1,2,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Montrell Culbreath,Germany,FW,FW (WM),Bayer 04 Leverkusen,19,2007,172cm,tm_1058514,12,740,8.22,1,0,1,0,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Otto Stange,Germany,FW,FW (AM),Hamburger SV,19,2007,187cm,tm_1058520,10,288,3.2,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bazoumana Touré,Cote d'Ivoire,FW,FW (WM),TSG 1899 Hoffenheim,20,2006,178cm,tm_1067904,30,2326,25.84,5,12,17,2,0,0.19,0.46,0.66,transfermarkt_datasets,False,2026-11-09
+Jonah Kusi-Asare,Sweden,FW,FW (AM),Bayern Munich,19,2007,196cm,tm_1069512,1,4,0.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Wael Mohya,Germany,MF,MF (AM),Borussia Mönchengladbach,18,2008,179cm,tm_1070979,15,549,6.1,2,1,3,1,0,0.33,0.16,0.49,transfermarkt_datasets,False,2026-11-09
+Kacper Potulski,Poland,DF,DF (CB),1.FSV Mainz 05,19,2007,195cm,tm_1073748,15,1060,11.78,1,1,2,3,0,0.08,0.08,0.17,transfermarkt_datasets,False,2026-11-09
+Luca Reggiani,Italy,DF,DF (CB),Borussia Dortmund,18,2008,194cm,tm_1074990,8,513,5.7,1,0,1,2,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Lennart Karl,Germany,MF,MF (AM),Bayern Munich,18,2008,168cm,tm_1075147,26,1282,14.24,5,6,11,1,0,0.35,0.42,0.77,transfermarkt_datasets,False,2026-11-09
+Axel Tape,France,DF,DF (CB),Bayer 04 Leverkusen,19,2007,180cm,tm_1077670,6,221,2.46,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Deniz Ofli,Türkiye,DF,DF (FB),Bayern Munich,19,2007,175cm,tm_1081907,1,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Wisdom Mike,Germany,FW,FW (WM),Bayern Munich,18,2008,176cm,tm_1084539,4,27,0.3,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Karim Coulibaly,Germany,DF,DF (CB),SV Werder Bremen,19,2007,191cm,tm_1084638,27,2122,23.58,1,0,1,3,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Patrice Covic,Croatia,MF,MF (AM),SV Werder Bremen,19,2007,182cm,tm_1114155,15,341,3.79,1,0,1,1,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+Fynn Schenten,Germany,FW,FW (AM),1.FC Köln,19,2007,189cm,tm_1118293,7,97,1.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+David Santos Daiber,Portugal,MF,MF (DM),Bayern Munich,19,2007,185cm,tm_1118495,2,27,0.3,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Shafiq Nandja,Germany,DF,DF (CB),Hamburger SV,19,2007,195cm,tm_1125079,2,14,0.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kento Shiogai,Japan,FW,FW (AM),VfL Wolfsburg,21,2005,180cm,tm_1144627,12,313,3.48,1,0,1,3,0,0.29,0.0,0.29,transfermarkt_datasets,False,2026-11-09
+Cyriaque Irié,Burkina Faso,FW,FW (WM),SC Freiburg,21,2005,185cm,tm_1145064,10,343,3.81,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aarón Anselmino,Argentina,DF,DF (CB),Borussia Dortmund,21,2005,186cm,tm_1145504,6,368,4.09,1,0,1,0,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Pharell Hensel,Germany,MF,MF (CM),VfL Wolfsburg,19,2007,188cm,tm_1150105,5,69,0.77,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yannik Wagner,Germany,FW,FW (WM),1. Fußballclub Heidenheim 1846,19,2007,182cm,tm_1153628,4,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tobias Weigel,Germany,FW,FW (WM),1. Fußballclub Heidenheim 1846,19,2007,175cm,tm_1153630,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rouven Tarnutzer,Switzerland,MF,MF (CM),SC Freiburg,19,2007,184cm,tm_1159439,1,6,0.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tim Schnitzer,Germany,MF,MF (DM),FC Augsburg,18,2008,,tm_1162968,1,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Said El Mala,Germany,FW,FW (WM),1.FC Köln,20,2006,187cm,tm_1168219,34,1958,21.76,13,5,18,4,0,0.6,0.23,0.83,transfermarkt_datasets,False,2026-11-09
+Love Arrhov,Sweden,MF,MF (AM),Eintracht Frankfurt,18,2008,178cm,tm_1184986,5,62,0.69,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mathis Albert,United States,FW,FW (WM),Borussia Dortmund,17,2009,179cm,tm_1193849,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alexander Røssing-Lelesiit,Norway,FW,FW (WM),Hamburger SV,19,2007,184cm,tm_1213681,11,320,3.56,0,1,1,0,0,0.0,0.28,0.28,transfermarkt_datasets,False,2026-11-09
+Cassiano Kiala,Germany,DF,DF (CB),Bayern Munich,17,2009,186cm,tm_1259870,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abdoulie Ceesay,The Gambia,FW,FW (AM),FC St. Pauli,22,2004,185cm,tm_1280281,20,319,3.54,3,1,4,4,0,0.85,0.28,1.13,transfermarkt_datasets,False,2026-11-09
+Louis Lemke,Germany,DF,DF (FB),Hamburger SV,17,2009,,tm_1294853,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Uchenna Ogundu,Nigeria,FW,FW (AM),FC Augsburg,20,2006,180cm,tm_1309324,5,43,0.48,0,1,1,0,0,0.0,2.08,2.08,transfermarkt_datasets,False,2026-11-09
+Erblin Osmani,Germany,MF,MF (DM),Bayern Munich,17,2009,,tm_1330946,1,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maycon Cardozo,Brazil,FW,FW (WM),Bayern Munich,18,2008,165cm,tm_1352339,2,33,0.37,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Christian Kofane,Cameroon,FW,FW (AM),Bayer 04 Leverkusen,20,2006,189cm,tm_1364454,29,1235,13.72,5,5,10,3,0,0.36,0.36,0.73,transfermarkt_datasets,False,2026-11-09
+Linus Güther,Germany,FW,FW (WM),1.FC Union Berlin,16,2010,175cm,tm_1378338,1,6,0.07,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Samba Konaté,France,FW,FW (AM),RB Leipzig,17,2009,190cm,tm_1380977,1,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yan Diomande,Cote d'Ivoire,FW,FW (WM),RB Leipzig,20,2006,180cm,tm_1390649,33,2483,27.59,12,9,21,2,0,0.43,0.33,0.76,transfermarkt_datasets,False,2026-11-09
+Bara Sapoko Ndiaye,Senegal,MF,MF (CM),Bayern Munich,19,2007,180cm,tm_1497653,4,142,1.58,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09

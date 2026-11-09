@@ -1,0 +1,30 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at,gk_games,gk_minutes
+Simon Mignolet,Belgium,GK,GK,Club Brugge KV,38,1988,193cm,tm_50219,10,855,9.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,855
+Yannick Thoelen,Belgium,GK,GK,Royal Antwerp FC,36,1990,188cm,tm_64246,7,496,5.51,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,7,496
+Hendrik Van Crombrugge,Belgium,GK,GK,KRC Genk,33,1993,189cm,tm_137326,12,1080,12.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,12,1080
+Davy Roef,Belgium,GK,GK,KAA Gent,32,1994,187cm,tm_140808,30,2700,30.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2700
+Colin Coosemans,Belgium,GK,GK,RSC Anderlecht,34,1992,186cm,tm_154351,30,2700,30.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2700
+Lucas Pirard,Belgium,GK,GK,Standard Liège,31,1995,191cm,tm_168166,9,810,9.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,9,810
+Gauthier Gallon,France,GK,GK,FCV Dender EH,33,1993,186cm,tm_193256,10,900,10.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,900
+Nordin Jackers,Belgium,GK,GK,Club Brugge KV,29,1997,187cm,tm_250543,16,1421,15.79,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,16,1421
+Michael Verrips,Netherlands,GK,GK,FCV Dender EH,30,1996,196cm,tm_288259,10,900,10.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,900
+Brent Gabriël,Belgium,GK,GK,Zulte Waregem,27,1999,190cm,tm_338665,30,2700,30.0,0,1,1,1,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,30,2700
+Marcos Peano,Argentina,GK,GK,RAAL La Louvière,28,1998,187cm,tm_360338,30,2700,30.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2700
+Tobias Lawal,Austria,GK,GK,KRC Genk,26,2000,194cm,tm_393686,18,1620,18.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,18,1620
+Maxence Prévot,France,GK,GK,Oud-Heverlee Leuven,29,1997,187cm,tm_394903,7,562,6.24,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,7,562
+Maxime Delanghe,Belgium,GK,GK,Cercle Brugge,25,2001,189cm,tm_409490,18,1591,17.68,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,18,1591
+Ortwin De Wolf,Belgium,GK,GK,KV Mechelen,29,1997,190cm,tm_450218,5,450,5.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,5,450
+Kjell Scherpen,Netherlands,GK,GK,Union Saint-Gilloise,26,2000,206cm,tm_463527,22,1935,21.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,22,1935
+Guillaume Dietsch,France,GK,GK,FCV Dender EH,25,2001,184cm,tm_463601,10,900,10.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,900
+Warleson,Brazil,GK,GK,Cercle Brugge,30,1996,190cm,tm_477460,14,1107,12.3,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,14,1107
+Leo Kokubo,Japan,GK,GK,Sint-Truidense VV,25,2001,193cm,tm_501737,30,2700,30.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2700
+Senne Lammens,Belgium,GK,GK,Royal Antwerp FC,24,2002,193cm,tm_503883,4,360,4.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,4,360
+Dani van den Heuvel,Netherlands,GK,GK,Club Brugge KV,23,2003,188cm,tm_559320,6,424,4.71,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,6,424
+Vic Chambaere,Belgium,GK,GK,Union Saint-Gilloise,23,2003,191cm,tm_565429,9,765,8.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,9,765
+Tobe Leysen,Belgium,GK,GK,Oud-Heverlee Leuven,24,2002,189cm,tm_580434,24,2138,23.76,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,24,2138
+Andreas Jungdal,Denmark,GK,GK,KVC Westerlo,24,2002,195cm,tm_592924,30,2700,30.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2700
+Taishi Brandon Nozawa,Japan,GK,GK,Royal Antwerp FC,24,2002,193cm,tm_617377,21,1845,20.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,21,1845
+Matthieu Epolo,DR Congo,GK,GK,Standard Liège,21,2005,189cm,tm_680218,21,1890,21.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,21,1890
+Nacho Miras,Spain,GK,GK,KV Mechelen,29,1997,187cm,tm_685106,25,2250,25.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,25,2250
+Martin Delavallée,Belgium,GK,GK,Royal Charleroi Sporting Club,22,2004,185cm,tm_903223,21,1890,21.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,21,1890
+Mohamed Koné,Cote d'Ivoire,GK,GK,Royal Charleroi Sporting Club,24,2002,186cm,tm_911985,9,810,9.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,9,810

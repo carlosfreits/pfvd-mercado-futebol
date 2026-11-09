@@ -1,0 +1,44 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at,gk_games,gk_minutes
+Ricardo Batista,Angola,GK,GK,Casa Pia AC,40,1986,192cm,tm_24846,4,315,3.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,4,315
+Trigueira,Portugal,GK,GK,Avs Futebol,38,1988,192cm,tm_91949,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,7
+Renan Ribeiro,Brazil,GK,GK,CF Estrela Amadora,36,1990,193cm,tm_95142,33,2970,33.0,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,33,2970
+Joel Robles,Spain,GK,GK,GD Estoril Praia,36,1990,194cm,tm_101118,31,2790,31.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,31,2790
+Mika,Portugal,GK,GK,Moreirense FC,35,1991,195cm,tm_138285,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Cláudio Ramos,Portugal,GK,GK,FC Porto,35,1991,183cm,tm_155396,2,135,1.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,135
+Caio Secco,Brazil,GK,GK,Moreirense FC,36,1990,195cm,tm_175188,11,990,11.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,11,990
+Charles,Brazil,GK,GK,Vitória Guimarães SC,32,1994,186cm,tm_181773,19,1710,19.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,19,1710
+João Costa,Portugal,GK,GK,FC Porto,30,1996,186cm,tm_198638,1,18,0.2,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,18
+Rui Silva,Portugal,GK,GK,Sporting CP,32,1994,191cm,tm_234811,32,2880,32.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,32,2880
+Tiago Sá,Portugal,GK,GK,SC Braga,31,1995,186cm,tm_286908,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+André Ferreira,Portugal,GK,GK,Moreirense FC,30,1996,193cm,tm_290346,22,1980,22.0,0,1,1,2,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09,22,1980
+João Virgínia,Portugal,GK,GK,Sporting CP,27,1999,192cm,tm_329813,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180
+Lazar Carević,Montenegro,GK,GK,FC Famalicão,27,1999,195cm,tm_344457,34,3060,34.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Nico Mantl,Germany,GK,GK,FC Arouca,26,2000,193cm,tm_349536,8,720,8.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,8,720
+Diogo Costa,Portugal,GK,GK,FC Porto,27,1999,188cm,tm_357153,33,2907,32.3,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,33,2907
+Ignacio de Arruabarrena,Uruguay,GK,GK,FC Arouca,29,1997,185cm,tm_367651,16,1440,16.0,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,16,1440
+David Grilo,Portugal,GK,GK,CF Estrela Amadora,30,1996,184cm,tm_372468,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Patrick Sequeira,Costa Rica,GK,GK,Casa Pia AC,27,1999,190cm,tm_378482,29,2528,28.09,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,29,2528
+Kevin Chamorro,Costa Rica,GK,GK,Rio Ave FC,26,2000,187cm,tm_378521,3,270,3.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,270
+Gabriel Batista,Brazil,GK,GK,CD Santa Clara,28,1998,191cm,tm_401535,32,2880,32.0,0,1,1,0,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,32,2880
+Lucão,Brazil,GK,GK,Gil Vicente FC,25,2001,190cm,tm_412372,8,720,8.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,8,720
+Lucas França,Brazil,GK,GK,CD Nacional,30,1996,194cm,tm_418615,6,540,6.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,6,540
+Dani Figueira,Portugal,GK,GK,Gil Vicente FC,28,1998,192cm,tm_475407,10,840,9.33,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,840
+Cezary Miszta,Poland,GK,GK,Rio Ave FC,25,2001,193cm,tm_487167,21,1890,21.0,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,21,1890
+Samuel Soares,Portugal,GK,GK,SL Benfica,24,2002,190cm,tm_504072,2,180,2.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180
+Ennio van der Gouw,Netherlands,GK,GK,Rio Ave FC,26,2000,195cm,tm_529425,10,900,10.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,900
+João Valido,Portugal,GK,GK,FC Arouca,26,2000,185cm,tm_532900,9,810,9.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,9,810
+Anatoliy Trubin,Ukraine,GK,GK,SL Benfica,25,2001,199cm,tm_537844,32,2880,32.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,32,2880
+Simão,Brazil,GK,GK,Avs Futebol,33,1993,189cm,tm_538253,12,1073,11.92,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,12,1073
+Andrew,Brazil,GK,GK,Gil Vicente FC,25,2001,189cm,tm_610417,17,1496,16.62,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,17,1496
+Matheus Mendes,Brazil,GK,GK,FC Alverca,27,1999,193cm,tm_629077,9,810,9.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,9,810
+Lukas Hornicek,Czech Republic,GK,GK,SC Braga,24,2002,198cm,tm_629773,33,2960,32.89,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,33,2960
+Juan Castillo,Colombia,GK,GK,Vitória Guimarães SC,23,2003,191cm,tm_662446,15,1350,15.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,15,1350
+André Gomes,Portugal,GK,GK,FC Alverca,22,2004,186cm,tm_670710,25,2250,25.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,25,2250
+João Gonçalves,Portugal,GK,GK,Avs Futebol,26,2000,188cm,tm_685805,6,540,6.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,6,540
+Martin Turk,Slovenia,GK,GK,GD Estoril Praia,23,2003,190cm,tm_700643,3,270,3.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,270
+Bernardo,Brazil,GK,GK,CD Tondela,24,2002,196cm,tm_719646,34,3060,34.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Adriel,Brazil,GK,GK,Avs Futebol,25,2001,195cm,tm_808445,16,1440,16.0,0,1,1,2,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09,16,1440
+Jakub Vinarčík,Slovakia,GK,GK,FC Arouca,21,2005,202cm,tm_912688,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+João Carvalho,Portugal,GK,GK,SC Braga,22,2004,189cm,tm_929868,1,10,0.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,10
+Kaique Pereira,Brazil,GK,GK,CD Nacional,23,2003,193cm,tm_964590,28,2520,28.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,28,2520
+João Afonso,Portugal,GK,GK,CD Santa Clara,19,2007,187cm,tm_1083369,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180

@@ -1,0 +1,512 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at
+James Milner,England,MF,MF (CM),Brighton & Hove Albion,40,1986,175cm,tm_3333,20,778,8.64,1,1,2,2,0,0.12,0.12,0.23,transfermarkt_datasets,False,2026-11-09
+Casemiro,Brazil,MF,MF (DM),Manchester United,34,1992,185cm,tm_16306,34,2589,28.77,9,2,11,9,0,0.31,0.07,0.38,transfermarkt_datasets,False,2026-11-09
+Mateo Kovacic,Croatia,MF,MF (CM),Manchester City,32,1994,178cm,tm_51471,6,126,1.4,0,1,1,0,0,0.0,0.71,0.71,transfermarkt_datasets,False,2026-11-09
+Jordan Henderson,England,MF,MF (DM),Brentford FC,36,1990,182cm,tm_61651,32,1921,21.34,1,3,4,6,0,0.05,0.14,0.19,transfermarkt_datasets,False,2026-11-09
+Adam Smith,England,DF,DF (FB),AFC Bournemouth,35,1991,174cm,tm_61841,22,1080,12.0,0,2,2,3,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Ashley Barnes,England,FW,FW (AM),Burnley FC,37,1989,185cm,tm_63200,7,41,0.46,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Danny Welbeck,England,FW,FW (AM),Brighton & Hove Albion,36,1990,185cm,tm_67063,37,2266,25.18,13,1,14,5,0,0.52,0.04,0.56,transfermarkt_datasets,False,2026-11-09
+Séamus Coleman,Ireland,DF,DF (FB),Everton FC,38,1988,177cm,tm_68390,5,20,0.22,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Niclas Füllkrug,Germany,FW,FW (AM),West Ham United,33,1993,189cm,tm_75489,8,409,4.54,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pascal Groß,Germany,MF,MF (CM),Brighton & Hove Albion,35,1991,181cm,tm_82873,19,1637,18.19,1,3,4,2,0,0.05,0.16,0.22,transfermarkt_datasets,False,2026-11-09
+Nathaniel Clyne,England,DF,DF (FB),Crystal Palace,35,1991,175cm,tm_85177,10,597,6.63,0,1,1,1,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Kyle Walker,England,DF,DF (FB),Burnley FC,36,1990,183cm,tm_95424,36,3097,34.41,0,2,2,9,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Kieran Trippier,England,DF,DF (FB),Newcastle United,36,1990,173cm,tm_95810,21,1592,17.69,0,1,1,3,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Chris Wood,New Zealand,FW,FW (AM),Nottingham Forest,35,1991,191cm,tm_108725,15,907,10.08,3,0,3,0,0,0.3,0.0,0.3,transfermarkt_datasets,False,2026-11-09
+Joël Veltman,Netherlands,DF,DF (FB),Brighton & Hove Albion,34,1992,184cm,tm_111195,24,1050,11.67,1,0,1,5,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Granit Xhaka,Switzerland,MF,MF (DM),Sunderland AFC,34,1992,183cm,tm_111455,34,2901,32.23,1,6,7,8,0,0.03,0.19,0.22,transfermarkt_datasets,False,2026-11-09
+Michael Keane,England,DF,DF (CB),Everton FC,33,1993,188cm,tm_118534,33,2590,28.78,3,1,4,1,0,0.1,0.03,0.14,transfermarkt_datasets,False,2026-11-09
+Tom Cairney,Scotland,MF,MF (CM),Fulham FC,35,1991,185cm,tm_123275,24,765,8.5,2,0,2,3,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Callum Wilson,England,FW,FW (AM),West Ham United,34,1992,180cm,tm_123682,32,1242,13.8,7,1,8,1,0,0.51,0.07,0.58,transfermarkt_datasets,False,2026-11-09
+Lucas Digne,France,DF,DF (FB),Aston Villa,33,1993,178cm,tm_126664,31,1852,20.58,0,6,6,3,0,0.0,0.29,0.29,transfermarkt_datasets,False,2026-11-09
+Idrissa Gueye,Senegal,MF,MF (DM),Everton FC,37,1989,174cm,tm_126665,25,2102,23.36,2,3,5,1,0,0.09,0.13,0.21,transfermarkt_datasets,False,2026-11-09
+Ross Barkley,England,MF,MF (CM),Aston Villa,33,1993,189cm,tm_131978,21,852,9.47,3,1,4,1,0,0.32,0.11,0.42,transfermarkt_datasets,False,2026-11-09
+Bertrand Traoré,Burkina Faso,FW,FW (WM),Sunderland AFC,31,1995,181cm,tm_131996,12,639,7.1,1,0,1,1,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Dan Burn,England,DF,DF (CB),Newcastle United,34,1992,201cm,tm_134270,29,2199,24.43,1,3,4,9,0,0.04,0.12,0.16,transfermarkt_datasets,False,2026-11-09
+Fabian Schär,Switzerland,DF,DF (CB),Newcastle United,35,1991,186cm,tm_135343,16,1091,12.12,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Virgil van Dijk,Netherlands,DF,DF (CB),Liverpool FC,35,1991,195cm,tm_139208,38,3420,38.0,6,0,6,4,0,0.16,0.0,0.16,transfermarkt_datasets,False,2026-11-09
+Leandro Trossard,Belgium,FW,FW (WM),Arsenal FC,32,1994,172cm,tm_144028,31,2008,22.31,6,6,12,2,0,0.27,0.27,0.54,transfermarkt_datasets,False,2026-11-09
+Wataru Endo,Japan,MF,MF (DM),Liverpool FC,33,1993,178cm,tm_146310,8,170,1.89,0,1,1,1,0,0.0,0.53,0.53,transfermarkt_datasets,False,2026-11-09
+Lewis Dunk,England,DF,DF (CB),Brighton & Hove Albion,35,1991,192cm,tm_148153,33,2837,31.52,1,0,1,10,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Christian Nørgaard,Denmark,MF,MF (DM),Arsenal FC,32,1994,187cm,tm_148367,7,101,1.12,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohamed Salah,Egypt,FW,FW (WM),Liverpool FC,34,1992,175cm,tm_148455,27,2150,23.89,7,7,14,1,0,0.29,0.29,0.59,transfermarkt_datasets,False,2026-11-09
+Matt Doherty,Ireland,DF,DF (FB),Wolverhampton Wanderers,34,1992,185cm,tm_171679,11,792,8.8,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+James Tarkowski,England,DF,DF (CB),Everton FC,34,1992,185cm,tm_173504,37,3330,37.0,2,3,5,8,0,0.05,0.08,0.14,transfermarkt_datasets,False,2026-11-09
+Nathan Aké,Netherlands,DF,DF (CB),Manchester City,31,1995,180cm,tm_177476,18,688,7.64,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Harry Maguire,England,DF,DF (CB),Manchester United,33,1993,194cm,tm_177907,23,1655,18.39,1,2,3,3,0,0.05,0.11,0.16,transfermarkt_datasets,False,2026-11-09
+Arthur Masuaku,DR Congo,DF,DF (FB),Sunderland AFC,33,1993,179cm,tm_181380,3,127,1.41,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+James Ward-Prowse,England,MF,MF (CM),West Ham United,32,1994,177cm,tm_181579,5,416,4.62,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+James Ward-Prowse,England,MF,MF (CM),Burnley FC,32,1994,177cm,tm_181579,13,681,7.57,0,1,1,1,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Luke Shaw,England,DF,DF (FB),Manchester United,31,1995,178cm,tm_183288,38,3233,35.92,1,1,2,9,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Jamaal Lascelles,England,DF,DF (CB),Newcastle United,33,1993,188cm,tm_183318,2,19,0.21,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Emil Krafth,Sweden,DF,DF (FB),Newcastle United,32,1994,184cm,tm_184528,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Victor Lindelöf,Sweden,DF,DF (CB),Aston Villa,32,1994,187cm,tm_184573,17,944,10.49,0,1,1,0,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+John Stones,England,DF,DF (CB),Manchester City,32,1994,188cm,tm_186590,9,439,4.88,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ryan Christie,Scotland,MF,MF (CM),AFC Bournemouth,31,1995,178cm,tm_188077,26,986,10.96,2,0,2,3,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Ben Davies,Wales,DF,DF (CB),Tottenham Hotspur,33,1993,181cm,tm_192765,3,138,1.53,1,0,1,1,0,0.65,0.0,0.65,transfermarkt_datasets,False,2026-11-09
+John McGinn,Scotland,MF,MF (CM),Aston Villa,32,1994,178cm,tm_193116,30,2158,23.98,5,5,10,5,0,0.21,0.21,0.42,transfermarkt_datasets,False,2026-11-09
+Jacob Murphy,England,FW,FW (WM),Newcastle United,31,1995,179cm,tm_199527,33,1620,18.0,3,2,5,2,0,0.17,0.11,0.28,transfermarkt_datasets,False,2026-11-09
+Jack Grealish,England,FW,FW (WM),Everton FC,31,1995,180cm,tm_203460,20,1632,18.13,2,6,8,2,0,0.11,0.33,0.44,transfermarkt_datasets,False,2026-11-09
+Oleksandr Zinchenko,Ukraine,DF,DF (FB),Nottingham Forest,30,1996,175cm,tm_203853,5,353,3.92,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Adama Traoré,Spain,FW,FW (WM),West Ham United,30,1996,178cm,tm_204103,9,115,1.28,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Adama Traoré,Spain,FW,FW (WM),Fulham FC,30,1996,178cm,tm_204103,15,262,2.91,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Raúl Jiménez,Mexico,FW,FW (AM),Fulham FC,35,1991,188cm,tm_206040,36,2199,24.43,9,3,12,5,0,0.37,0.12,0.49,transfermarkt_datasets,False,2026-11-09
+Kenny Tete,Netherlands,DF,DF (FB),Fulham FC,31,1995,180cm,tm_206746,22,1795,19.94,1,0,1,2,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Will Hughes,England,MF,MF (CM),Crystal Palace,31,1995,185cm,tm_207014,31,1568,17.42,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Solly March,England,FW,FW (WM),Brighton & Hove Albion,32,1994,180cm,tm_209212,4,38,0.42,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Patrick Roberts,England,FW,FW (WM),Sunderland AFC,29,1997,167cm,tm_225452,1,27,0.3,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Harrison Reed,England,MF,MF (CM),Fulham FC,31,1995,181cm,tm_226973,7,89,0.99,1,0,1,0,0,1.01,0.0,1.01,transfermarkt_datasets,False,2026-11-09
+Andrew Robertson,Scotland,DF,DF (FB),Liverpool FC,32,1994,178cm,tm_234803,24,1172,13.02,1,0,1,0,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Ola Aina,Nigeria,DF,DF (FB),Nottingham Forest,30,1996,184cm,tm_236490,18,1590,17.67,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sam Byram,England,DF,DF (FB),Leeds United,33,1993,183cm,tm_236953,2,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bruno Fernandes,Portugal,MF,MF (AM),Manchester United,32,1994,183cm,tm_240306,35,3068,34.09,9,21,30,5,0,0.26,0.62,0.88,transfermarkt_datasets,False,2026-11-09
+Reinildo Mandava,Mozambique,DF,DF (FB),Sunderland AFC,32,1994,180cm,tm_240692,25,1969,21.88,0,2,2,7,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Bernardo Silva,Portugal,MF,MF (AM),Manchester City,32,1994,173cm,tm_241641,38,2888,32.09,2,4,6,9,0,0.06,0.12,0.19,transfermarkt_datasets,False,2026-11-09
+Josh Cullen,Ireland,MF,MF (CM),Burnley FC,30,1996,175cm,tm_242606,18,1520,16.89,2,2,4,2,0,0.12,0.12,0.24,transfermarkt_datasets,False,2026-11-09
+Alex Iwobi,Nigeria,FW,FW (WM),Fulham FC,30,1996,183cm,tm_242631,29,2436,27.07,4,3,7,3,0,0.15,0.11,0.26,transfermarkt_datasets,False,2026-11-09
+Saša Lukić,Serbia,MF,MF (CM),Fulham FC,30,1996,182cm,tm_245056,26,1734,19.27,1,3,4,9,0,0.05,0.16,0.21,transfermarkt_datasets,False,2026-11-09
+Lewis Cook,England,MF,MF (CM),AFC Bournemouth,29,1997,175cm,tm_249089,18,872,9.69,0,1,1,1,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Youri Tielemans,Belgium,MF,MF (CM),Aston Villa,29,1997,176cm,tm_249565,25,1863,20.7,0,4,4,0,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Adam Armstrong,England,FW,FW (AM),Wolverhampton Wanderers,29,1997,173cm,tm_250426,14,1147,12.74,2,2,4,3,0,0.16,0.16,0.31,transfermarkt_datasets,False,2026-11-09
+Enes Ünal,Türkiye,FW,FW (AM),AFC Bournemouth,29,1997,187cm,tm_251106,23,214,2.38,1,0,1,1,0,0.42,0.0,0.42,transfermarkt_datasets,False,2026-11-09
+Tyrone Mings,England,DF,DF (CB),Aston Villa,33,1993,196cm,tm_253677,17,1323,14.7,0,1,1,1,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Joe Gomez,England,DF,DF (CB),Liverpool FC,29,1997,188cm,tm_256178,21,600,6.67,0,2,2,4,0,0.0,0.3,0.3,transfermarkt_datasets,False,2026-11-09
+João Palhinha,Portugal,MF,MF (DM),Tottenham Hotspur,31,1995,190cm,tm_257455,33,2198,24.42,5,2,7,8,0,0.2,0.08,0.29,transfermarkt_datasets,False,2026-11-09
+Rúben Dias,Portugal,DF,DF (CB),Manchester City,29,1997,187cm,tm_258004,26,2140,23.78,2,0,2,3,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Tosin Adarabioyo,England,DF,DF (CB),Chelsea FC,29,1997,197cm,tm_258878,16,789,8.77,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dominic Solanke,England,FW,FW (AM),Tottenham Hotspur,29,1997,186cm,tm_258889,15,1001,11.12,3,0,3,1,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Joachim Andersen,Denmark,DF,DF (CB),Fulham FC,30,1996,192cm,tm_260827,33,2877,31.97,0,1,1,7,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Timothy Castagne,Belgium,DF,DF (FB),Fulham FC,31,1995,185cm,tm_262226,30,1842,20.47,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jefferson Lerma,Colombia,MF,MF (DM),Crystal Palace,32,1994,180cm,tm_262980,31,1724,19.16,0,4,4,7,0,0.0,0.21,0.21,transfermarkt_datasets,False,2026-11-09
+Kevin Danso,Austria,DF,DF (CB),Tottenham Hotspur,28,1998,190cm,tm_263236,24,1491,16.57,0,0,0,8,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vitaly Janelt,Germany,MF,MF (DM),Brentford FC,28,1998,184cm,tm_270171,25,1437,15.97,1,4,5,8,0,0.06,0.25,0.31,transfermarkt_datasets,False,2026-11-09
+Issa Diop,Morocco,DF,DF (CB),Fulham FC,29,1997,194cm,tm_272622,13,814,9.04,1,0,1,2,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+David Brooks,Wales,FW,FW (WM),AFC Bournemouth,29,1997,173cm,tm_277033,31,1199,13.32,1,3,4,7,0,0.08,0.23,0.3,transfermarkt_datasets,False,2026-11-09
+Harry Wilson,Wales,FW,FW (WM),Fulham FC,29,1997,173cm,tm_279455,36,2694,29.93,10,7,17,7,0,0.33,0.23,0.57,transfermarkt_datasets,False,2026-11-09
+Luke O'Nien,England,DF,DF (CB),Sunderland AFC,32,1994,174cm,tm_282939,12,564,6.27,0,1,1,1,0,0.0,0.16,0.16,transfermarkt_datasets,False,2026-11-09
+Tomáš Souček,Czech Republic,MF,MF (DM),West Ham United,31,1995,192cm,tm_283628,35,2199,24.43,5,0,5,3,0,0.2,0.0,0.2,transfermarkt_datasets,False,2026-11-09
+Marc Cucurella,Spain,DF,DF (FB),Chelsea FC,28,1998,173cm,tm_284857,34,2710,30.11,1,4,5,8,0,0.03,0.13,0.17,transfermarkt_datasets,False,2026-11-09
+Hee-chan Hwang,"Korea, South",FW,FW (AM),Wolverhampton Wanderers,30,1996,177cm,tm_292246,26,1455,16.17,2,2,4,5,0,0.12,0.12,0.25,transfermarkt_datasets,False,2026-11-09
+Borna Sosa,Croatia,DF,DF (FB),Crystal Palace,28,1998,187cm,tm_293194,7,99,1.1,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jacob Bruun Larsen,Denmark,FW,FW (WM),Burnley FC,28,1998,183cm,tm_293281,28,1023,11.37,0,1,1,0,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+James Maddison,England,MF,MF (AM),Tottenham Hotspur,30,1996,175cm,tm_294057,3,34,0.38,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Taiwo Awoniyi,Nigeria,FW,FW (AM),Nottingham Forest,29,1997,183cm,tm_295313,17,481,5.34,4,2,6,2,0,0.75,0.37,1.12,transfermarkt_datasets,False,2026-11-09
+Joe Rodon,Wales,DF,DF (CB),Leeds United,29,1997,193cm,tm_297212,35,2954,32.82,2,0,2,3,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Dominic Calvert-Lewin,England,FW,FW (AM),Leeds United,29,1997,189cm,tm_306024,35,2730,30.33,14,1,15,3,0,0.46,0.03,0.49,transfermarkt_datasets,False,2026-11-09
+Kai Havertz,Germany,FW,FW (AM),Arsenal FC,27,1999,193cm,tm_309400,12,583,6.48,2,3,5,1,0,0.31,0.46,0.77,transfermarkt_datasets,False,2026-11-09
+Josh Laurent,England,MF,MF (CM),Burnley FC,31,1995,188cm,tm_314241,33,1759,19.54,1,0,1,7,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Lukas Nmecha,Germany,FW,FW (AM),Leeds United,28,1998,185cm,tm_314288,31,1073,11.92,6,1,7,0,0,0.5,0.08,0.59,transfermarkt_datasets,False,2026-11-09
+Marcus Edwards,England,FW,FW (WM),Burnley FC,28,1998,168cm,tm_314367,23,1065,11.83,1,3,4,0,0,0.08,0.25,0.34,transfermarkt_datasets,False,2026-11-09
+Jarrod Bowen,England,FW,FW (WM),West Ham United,30,1996,176cm,tm_314875,38,3409,37.88,9,11,20,4,0,0.24,0.29,0.53,transfermarkt_datasets,False,2026-11-09
+Martin Ødegaard,Norway,MF,MF (AM),Arsenal FC,28,1998,178cm,tm_316264,24,1371,15.23,1,7,8,0,0,0.07,0.46,0.53,transfermarkt_datasets,False,2026-11-09
+Olivier Boscagli,France,DF,DF (CB),Brighton & Hove Albion,29,1997,181cm,tm_318508,12,800,8.89,0,1,1,2,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Daniel James,Wales,FW,FW (WM),Leeds United,29,1997,171cm,tm_319301,19,553,6.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mathias Jensen,Denmark,MF,MF (CM),Brentford FC,30,1996,180cm,tm_319859,36,2252,25.02,3,1,4,3,0,0.12,0.04,0.16,transfermarkt_datasets,False,2026-11-09
+Emiliano Buendía,Argentina,FW,FW (WM),Aston Villa,30,1996,172cm,tm_321247,36,1760,19.56,6,2,8,6,0,0.31,0.1,0.41,transfermarkt_datasets,False,2026-11-09
+Ollie Watkins,England,FW,FW (AM),Aston Villa,31,1995,180cm,tm_324358,37,2854,31.71,16,3,19,4,0,0.5,0.09,0.6,transfermarkt_datasets,False,2026-11-09
+Viktor Gyökeres,Sweden,FW,FW (AM),Arsenal FC,28,1998,189cm,tm_325443,36,2231,24.79,14,1,15,5,0,0.56,0.04,0.61,transfermarkt_datasets,False,2026-11-09
+Donyell Malen,Netherlands,FW,FW (AM),Aston Villa,27,1999,178cm,tm_326029,21,645,7.17,4,1,5,0,0,0.56,0.14,0.7,transfermarkt_datasets,False,2026-11-09
+Matthijs de Ligt,Netherlands,DF,DF (CB),Manchester United,27,1999,189cm,tm_326031,13,1170,13.0,1,0,1,0,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Kristoffer Ajer,Norway,DF,DF (CB),Brentford FC,28,1998,198cm,tm_328658,27,1809,20.1,0,1,1,4,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Justin Kluivert,Netherlands,MF,MF (AM),AFC Bournemouth,27,1999,173cm,tm_330659,20,953,10.59,2,0,2,5,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Tammy Abraham,England,FW,FW (AM),Aston Villa,29,1997,194cm,tm_331726,12,277,3.08,2,0,2,0,0,0.65,0.0,0.65,transfermarkt_datasets,False,2026-11-09
+Tyler Adams,United States,MF,MF (DM),AFC Bournemouth,27,1999,175cm,tm_332705,25,1779,19.77,2,2,4,8,0,0.1,0.1,0.2,transfermarkt_datasets,False,2026-11-09
+Sander Berge,Norway,MF,MF (DM),Fulham FC,28,1998,195cm,tm_333014,35,2911,32.34,0,1,1,5,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Joelinton,Brazil,MF,MF (CM),Newcastle United,30,1996,186cm,tm_333241,27,1956,21.73,2,1,3,10,0,0.09,0.05,0.14,transfermarkt_datasets,False,2026-11-09
+Ben White,England,DF,DF (FB),Arsenal FC,29,1997,186cm,tm_335721,12,704,7.82,0,1,1,0,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Mikel Merino,Spain,MF,MF (CM),Arsenal FC,30,1996,188cm,tm_338424,22,1027,11.41,4,3,7,1,0,0.35,0.26,0.61,transfermarkt_datasets,False,2026-11-09
+Sebastiaan Bornauw,Belgium,DF,DF (CB),Leeds United,27,1999,191cm,tm_338629,12,433,4.81,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tyrell Malacia,Netherlands,DF,DF (FB),Manchester United,27,1999,169cm,tm_339340,3,15,0.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rico Henry,Jamaica,DF,DF (FB),Brentford FC,29,1997,170cm,tm_339556,25,1329,14.77,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Josh Dasilva,England,MF,MF (CM),Brentford FC,28,1998,184cm,tm_340321,2,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Eddie Nketiah,England,FW,FW (AM),Crystal Palace,27,1999,175cm,tm_340324,12,416,4.62,2,0,2,2,0,0.43,0.0,0.43,transfermarkt_datasets,False,2026-11-09
+Reiss Nelson,England,FW,FW (WM),Brentford FC,27,1999,175cm,tm_340325,10,118,1.31,0,1,1,0,0,0.0,0.76,0.76,transfermarkt_datasets,False,2026-11-09
+Joe Willock,England,MF,MF (CM),Newcastle United,27,1999,186cm,tm_340329,24,980,10.89,0,2,2,3,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Noussair Mazraoui,Morocco,DF,DF (FB),Manchester United,29,1997,183cm,tm_340456,20,984,10.93,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kyle Walker-Peters,England,DF,DF (FB),West Ham United,29,1997,173cm,tm_341051,23,1380,15.33,1,0,1,2,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Federico Chiesa,Italy,FW,FW (WM),Liverpool FC,29,1997,175cm,tm_341092,26,318,3.53,2,1,3,3,0,0.57,0.28,0.85,transfermarkt_datasets,False,2026-11-09
+Axel Tuanzebe,DR Congo,DF,DF (CB),Burnley FC,29,1997,188cm,tm_342046,14,1202,13.36,1,0,1,1,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Guido Rodríguez,Argentina,MF,MF (DM),West Ham United,32,1994,185cm,tm_342385,6,177,1.97,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Anton Stach,Germany,MF,MF (DM),Leeds United,28,1998,194cm,tm_344069,29,2378,26.42,5,3,8,3,0,0.19,0.11,0.3,transfermarkt_datasets,False,2026-11-09
+Odsonne Édouard,France,FW,FW (AM),Crystal Palace,28,1998,187cm,tm_344152,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ladislav Krejci,Czech Republic,DF,DF (CB),Wolverhampton Wanderers,27,1999,191cm,tm_345911,28,2361,26.23,2,1,3,3,0,0.08,0.04,0.11,transfermarkt_datasets,False,2026-11-09
+Trevoh Chalobah,England,DF,DF (CB),Chelsea FC,27,1999,192cm,tm_346314,34,2782,30.91,3,0,3,3,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Mason Mount,England,MF,MF (AM),Manchester United,27,1999,181cm,tm_346483,23,1017,11.3,3,0,3,2,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Sean Longstaff,England,MF,MF (CM),Leeds United,29,1997,187cm,tm_346707,23,1006,11.18,2,2,4,2,0,0.18,0.18,0.36,transfermarkt_datasets,False,2026-11-09
+Noah Okafor,Switzerland,FW,FW (WM),Leeds United,26,2000,185cm,tm_346890,28,1569,17.43,8,1,9,3,0,0.46,0.06,0.52,transfermarkt_datasets,False,2026-11-09
+Nordi Mukiele,France,DF,DF (FB),Sunderland AFC,29,1997,187cm,tm_348026,32,2787,30.97,3,4,7,5,0,0.1,0.13,0.23,transfermarkt_datasets,False,2026-11-09
+Alexander Isak,Sweden,FW,FW (AM),Liverpool FC,27,1999,190cm,tm_349066,14,702,7.8,3,1,4,0,0,0.38,0.13,0.51,transfermarkt_datasets,False,2026-11-09
+Antonee Robinson,United States,DF,DF (FB),Fulham FC,29,1997,183cm,tm_349701,22,1492,16.58,1,0,1,5,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Omar Alderete,Paraguay,DF,DF (CB),Sunderland AFC,30,1996,190cm,tm_353032,33,2802,31.13,1,1,2,6,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Rodrigo Bentancur,Uruguay,MF,MF (DM),Tottenham Hotspur,29,1997,187cm,tm_354362,26,1892,21.02,1,1,2,7,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Cristian Romero,Argentina,DF,DF (CB),Tottenham Hotspur,28,1998,185cm,tm_355915,23,1873,20.81,4,1,5,9,0,0.19,0.05,0.24,transfermarkt_datasets,False,2026-11-09
+Daichi Kamada,Japan,MF,MF (AM),Crystal Palace,30,1996,180cm,tm_356141,28,1909,21.21,0,1,1,3,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Ibrahima Konaté,France,DF,DF (CB),Liverpool FC,27,1999,194cm,tm_357119,36,3100,34.44,1,0,1,7,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Diogo Dalot,Portugal,DF,DF (FB),Manchester United,27,1999,184cm,tm_357147,34,2616,29.07,1,3,4,5,0,0.03,0.1,0.14,transfermarkt_datasets,False,2026-11-09
+Florentino,Portugal,MF,MF (DM),Burnley FC,27,1999,184cm,tm_357162,31,2114,23.49,0,2,2,6,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Rodri,Spain,MF,MF (DM),Manchester City,30,1996,190cm,tm_357565,21,1514,16.82,1,0,1,3,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Declan Rice,England,MF,MF (CM),Arsenal FC,27,1999,188cm,tm_357662,36,3099,34.43,4,7,11,3,0,0.12,0.2,0.32,transfermarkt_datasets,False,2026-11-09
+Sven Botman,Netherlands,DF,DF (CB),Newcastle United,26,2000,193cm,tm_361093,25,1839,20.43,1,1,2,2,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Nayef Aguerd,Morocco,DF,DF (CB),West Ham United,30,1996,190cm,tm_361914,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gabriel Gudmundsson,Sweden,DF,DF (FB),Leeds United,27,1999,181cm,tm_362108,32,2639,29.32,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gabriel Jesus,Brazil,FW,FW (AM),Arsenal FC,29,1997,175cm,tm_363205,14,421,4.68,3,0,3,3,0,0.64,0.0,0.64,transfermarkt_datasets,False,2026-11-09
+Dan Ndoye,Switzerland,FW,FW (WM),Nottingham Forest,26,2000,184cm,tm_365108,24,1176,13.07,1,1,2,1,0,0.08,0.08,0.15,transfermarkt_datasets,False,2026-11-09
+Ferdi Kadıoğlu,Türkiye,DF,DF (FB),Brighton & Hove Albion,27,1999,174cm,tm_369316,37,3134,34.82,1,0,1,6,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Sasa Kalajdzic,Austria,FW,FW (AM),Wolverhampton Wanderers,29,1997,200cm,tm_369567,1,14,0.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joël Piroe,Suriname,FW,FW (AM),Leeds United,27,1999,185cm,tm_369962,16,246,2.73,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jaka Bijol,Slovenia,DF,DF (CB),Leeds United,27,1999,190cm,tm_371851,25,1893,21.03,1,2,3,4,0,0.05,0.1,0.14,transfermarkt_datasets,False,2026-11-09
+Ibrahim Sangaré,Cote d'Ivoire,MF,MF (DM),Nottingham Forest,29,1997,191cm,tm_375885,28,2080,23.11,2,2,4,5,0,0.09,0.09,0.17,transfermarkt_datasets,False,2026-11-09
+Richarlison,Brazil,FW,FW (AM),Tottenham Hotspur,29,1997,184cm,tm_378710,32,1960,21.78,11,4,15,4,0,0.51,0.18,0.69,transfermarkt_datasets,False,2026-11-09
+Igor Julio,Brazil,DF,DF (CB),West Ham United,28,1998,188cm,tm_380350,4,103,1.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ilia Gruev,Bulgaria,MF,MF (DM),Leeds United,26,2000,185cm,tm_381753,23,1324,14.71,0,3,3,3,0,0.0,0.2,0.2,transfermarkt_datasets,False,2026-11-09
+Mike Tresor,Belgium,MF,MF (AM),Burnley FC,27,1999,172cm,tm_381963,6,37,0.41,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Axel Disasi,France,DF,DF (CB),West Ham United,28,1998,191cm,tm_386047,14,1255,13.94,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Leon Bailey,Jamaica,FW,FW (WM),Aston Villa,29,1997,178cm,tm_387626,13,452,5.02,0,1,1,1,0,0.0,0.2,0.2,transfermarkt_datasets,False,2026-11-09
+Yoane Wissa,DR Congo,FW,FW (AM),Newcastle United,30,1996,176cm,tm_388165,19,521,5.79,1,1,2,3,0,0.17,0.17,0.35,transfermarkt_datasets,False,2026-11-09
+Hamed Traoré,Cote d'Ivoire,FW,FW (WM),AFC Bournemouth,26,2000,177cm,tm_391065,1,16,0.18,0,1,1,0,0,0.0,5.56,5.56,transfermarkt_datasets,False,2026-11-09
+Hjalmar Ekdal,Sweden,DF,DF (CB),Burnley FC,28,1998,187cm,tm_392179,19,1540,17.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marc Guéhi,England,DF,DF (CB),Manchester City,26,2000,182cm,tm_392757,15,1350,15.0,1,1,2,2,0,0.07,0.07,0.13,transfermarkt_datasets,False,2026-11-09
+Marc Guéhi,England,DF,DF (CB),Crystal Palace,26,2000,182cm,tm_392757,20,1800,20.0,2,3,5,4,0,0.1,0.15,0.25,transfermarkt_datasets,False,2026-11-09
+Emile Smith Rowe,England,MF,MF (AM),Fulham FC,26,2000,182cm,tm_392765,37,1928,21.42,3,0,3,1,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Callum Hudson-Odoi,England,FW,FW (WM),Nottingham Forest,26,2000,178cm,tm_392768,30,1848,20.53,3,4,7,0,0,0.15,0.19,0.34,transfermarkt_datasets,False,2026-11-09
+Angel Gomes,England,MF,MF (AM),Wolverhampton Wanderers,26,2000,168cm,tm_392770,12,465,5.17,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ethan Ampadu,Wales,MF,MF (DM),Leeds United,26,2000,182cm,tm_392771,35,3123,34.7,1,1,2,10,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Ryan Sessegnon,England,DF,DF (FB),Fulham FC,26,2000,178cm,tm_392775,27,1822,20.24,3,3,6,0,0,0.15,0.15,0.3,transfermarkt_datasets,False,2026-11-09
+Brenden Aaronson,United States,MF,MF (AM),Leeds United,26,2000,177cm,tm_393323,37,2470,27.44,4,5,9,3,0,0.15,0.18,0.33,transfermarkt_datasets,False,2026-11-09
+Boubacar Kamara,France,MF,MF (DM),Aston Villa,27,1999,184cm,tm_394327,18,1418,15.76,1,3,4,5,0,0.06,0.19,0.25,transfermarkt_datasets,False,2026-11-09
+Sandro Tonali,Italy,MF,MF (DM),Newcastle United,26,2000,181cm,tm_397033,35,2545,28.28,0,2,2,4,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Harvey Barnes,England,FW,FW (WM),Newcastle United,29,1997,182cm,tm_398065,37,1961,21.79,7,1,8,1,0,0.32,0.05,0.37,transfermarkt_datasets,False,2026-11-09
+Marcus Tavernier,England,MF,MF (AM),AFC Bournemouth,27,1999,178cm,tm_399434,34,2743,30.48,7,4,11,6,0,0.23,0.13,0.36,transfermarkt_datasets,False,2026-11-09
+Pau Torres,Spain,DF,DF (CB),Aston Villa,29,1997,192cm,tm_399776,21,1676,18.62,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jadon Sancho,England,FW,FW (WM),Aston Villa,26,2000,180cm,tm_401173,23,873,9.7,0,2,2,0,0,0.0,0.21,0.21,transfermarkt_datasets,False,2026-11-09
+Samuel Chukwueze,Nigeria,FW,FW (WM),Fulham FC,27,1999,172cm,tm_401922,23,1074,11.93,3,4,7,0,0,0.25,0.34,0.59,transfermarkt_datasets,False,2026-11-09
+Vitaliy Mykolenko,Ukraine,DF,DF (FB),Everton FC,27,1999,180cm,tm_404842,33,2961,32.9,0,1,1,6,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Matt O'Riley,Denmark,MF,MF (CM),Brighton & Hove Albion,26,2000,189cm,tm_406634,6,203,2.26,1,0,1,0,0,0.44,0.0,0.44,transfermarkt_datasets,False,2026-11-09
+Phil Foden,England,MF,MF (AM),Manchester City,26,2000,171cm,tm_406635,33,2085,23.17,7,5,12,4,0,0.3,0.22,0.52,transfermarkt_datasets,False,2026-11-09
+Ismaïla Sarr,Senegal,FW,FW (WM),Crystal Palace,28,1998,185cm,tm_410225,28,2177,24.19,9,1,10,2,0,0.37,0.04,0.41,transfermarkt_datasets,False,2026-11-09
+Yves Bissouma,Mali,MF,MF (DM),Tottenham Hotspur,30,1996,182cm,tm_410425,11,605,6.72,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pascal Struijk,Netherlands,DF,DF (CB),Leeds United,27,1999,190cm,tm_410708,34,2937,32.63,0,1,1,5,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Zian Flemming,Netherlands,FW,FW (AM),Burnley FC,28,1998,185cm,tm_411537,29,1776,19.73,11,0,11,5,0,0.56,0.0,0.56,transfermarkt_datasets,False,2026-11-09
+Bryan Mbeumo,Cameroon,FW,FW (WM),Manchester United,27,1999,171cm,tm_413039,33,2625,29.17,11,3,14,4,0,0.38,0.1,0.48,transfermarkt_datasets,False,2026-11-09
+James Justin,England,DF,DF (FB),Leeds United,28,1998,183cm,tm_413220,29,1896,21.07,2,1,3,4,0,0.09,0.05,0.14,transfermarkt_datasets,False,2026-11-09
+Ezri Konsa,England,DF,DF (CB),Aston Villa,29,1997,180cm,tm_413403,34,3036,33.73,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nikola Milenković,Serbia,DF,DF (CB),Nottingham Forest,29,1997,195cm,tm_413507,38,3375,37.5,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marshall Munetsi,Zimbabwe,MF,MF (CM),Wolverhampton Wanderers,30,1996,188cm,tm_414908,13,874,9.71,1,1,2,2,0,0.1,0.1,0.21,transfermarkt_datasets,False,2026-11-09
+Mats Wieffer,Netherlands,DF,DF (FB),Brighton & Hove Albion,27,1999,189cm,tm_415381,26,1908,21.2,2,3,5,8,0,0.09,0.14,0.24,transfermarkt_datasets,False,2026-11-09
+Konstantinos Mavropanos,Greece,DF,DF (CB),West Ham United,29,1997,194cm,tm_415912,31,2532,28.13,3,0,3,2,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Joe Worrall,England,DF,DF (CB),Burnley FC,29,1997,190cm,tm_415970,11,497,5.52,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jack Harrison,England,FW,FW (WM),Leeds United,30,1996,175cm,tm_417346,11,263,2.92,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Erling Haaland,Norway,FW,FW (AM),Manchester City,26,2000,195cm,tm_418560,35,2959,32.88,27,8,35,2,0,0.82,0.24,1.06,transfermarkt_datasets,False,2026-11-09
+Jean-Philippe Mateta,France,FW,FW (AM),Crystal Palace,29,1997,192cm,tm_420002,32,2223,24.7,12,0,12,2,0,0.49,0.0,0.49,transfermarkt_datasets,False,2026-11-09
+Lutsharel Geertruida,Netherlands,DF,DF (FB),Sunderland AFC,26,2000,184cm,tm_420210,28,1685,18.72,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jurriën Timber,Netherlands,DF,DF (FB),Arsenal FC,25,2001,179cm,tm_420243,30,2457,27.3,3,6,9,5,0,0.11,0.22,0.33,transfermarkt_datasets,False,2026-11-09
+Frank Onyeka,Nigeria,MF,MF (CM),Brentford FC,28,1998,183cm,tm_421637,6,88,0.98,0,1,1,0,0,0.0,1.02,1.02,transfermarkt_datasets,False,2026-11-09
+Martín Zubimendi,Spain,MF,MF (DM),Arsenal FC,27,1999,181cm,tm_423440,38,3002,33.36,5,1,6,4,0,0.15,0.03,0.18,transfermarkt_datasets,False,2026-11-09
+Nathan Patterson,Scotland,DF,DF (FB),Everton FC,25,2001,183cm,tm_424015,7,240,2.67,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matty Cash,Poland,DF,DF (FB),Aston Villa,29,1997,185cm,tm_425334,35,3022,33.58,3,3,6,9,0,0.09,0.09,0.18,transfermarkt_datasets,False,2026-11-09
+Ryan Yates,England,MF,MF (CM),Nottingham Forest,29,1997,190cm,tm_425902,22,603,6.7,0,2,2,3,0,0.0,0.3,0.3,transfermarkt_datasets,False,2026-11-09
+Morgan Gibbs-White,England,MF,MF (AM),Nottingham Forest,26,2000,171cm,tm_429014,37,3113,34.59,15,4,19,1,0,0.43,0.12,0.55,transfermarkt_datasets,False,2026-11-09
+Maxim De Cuyper,Belgium,DF,DF (FB),Brighton & Hove Albion,26,2000,182cm,tm_429915,30,1414,15.71,2,3,5,2,0,0.13,0.19,0.32,transfermarkt_datasets,False,2026-11-09
+Jørgen Strand Larsen,Norway,FW,FW (AM),Wolverhampton Wanderers,26,2000,193cm,tm_429983,22,1404,15.6,1,1,2,2,0,0.06,0.06,0.13,transfermarkt_datasets,False,2026-11-09
+Jørgen Strand Larsen,Norway,FW,FW (AM),Crystal Palace,26,2000,193cm,tm_429983,14,911,10.12,3,0,3,2,0,0.3,0.0,0.3,transfermarkt_datasets,False,2026-11-09
+Andrew Irving,Scotland,MF,MF (CM),West Ham United,26,2000,190cm,tm_430310,7,157,1.74,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Igor Jesus,Brazil,FW,FW (AM),Nottingham Forest,25,2001,179cm,tm_432164,37,2315,25.72,6,4,10,2,0,0.23,0.16,0.39,transfermarkt_datasets,False,2026-11-09
+Bukayo Saka,England,FW,FW (WM),Arsenal FC,25,2001,178cm,tm_433177,31,2226,24.73,7,7,14,2,0,0.28,0.28,0.57,transfermarkt_datasets,False,2026-11-09
+Curtis Jones,England,MF,MF (CM),Liverpool FC,25,2001,185cm,tm_433188,34,1930,21.44,1,2,3,2,0,0.05,0.09,0.14,transfermarkt_datasets,False,2026-11-09
+Maxence Lacroix,France,DF,DF (CB),Crystal Palace,26,2000,190cm,tm_434224,35,3087,34.3,1,2,3,4,0,0.03,0.06,0.09,transfermarkt_datasets,False,2026-11-09
+Cody Gakpo,Netherlands,FW,FW (WM),Liverpool FC,27,1999,193cm,tm_434675,36,2749,30.54,7,5,12,3,0,0.23,0.16,0.39,transfermarkt_datasets,False,2026-11-09
+Gabriel,Brazil,DF,DF (CB),Arsenal FC,29,1997,190cm,tm_435338,32,2751,30.57,3,4,7,4,0,0.1,0.13,0.23,transfermarkt_datasets,False,2026-11-09
+Joshua Zirkzee,Netherlands,FW,FW (AM),Manchester United,25,2001,193cm,tm_435648,24,609,6.77,2,1,3,3,0,0.3,0.15,0.44,transfermarkt_datasets,False,2026-11-09
+Santiago Bueno,Uruguay,DF,DF (CB),Wolverhampton Wanderers,28,1998,191cm,tm_438001,29,2553,28.37,3,2,5,4,0,0.11,0.07,0.18,transfermarkt_datasets,False,2026-11-09
+Ethan Pinnock,Jamaica,DF,DF (CB),Brentford FC,33,1993,194cm,tm_442248,4,321,3.57,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Paquetá,Brazil,MF,MF (AM),West Ham United,29,1997,183cm,tm_444523,18,1522,16.91,4,1,5,5,0,0.24,0.06,0.3,transfermarkt_datasets,False,2026-11-09
+Omar Marmoush,Egypt,FW,FW (AM),Manchester City,27,1999,183cm,tm_445939,21,699,7.77,3,3,6,3,0,0.39,0.39,0.77,transfermarkt_datasets,False,2026-11-09
+Douglas Luiz,Brazil,MF,MF (CM),Aston Villa,28,1998,177cm,tm_447661,13,605,6.72,1,0,1,1,0,0.15,0.0,0.15,transfermarkt_datasets,False,2026-11-09
+Douglas Luiz,Brazil,MF,MF (CM),Nottingham Forest,28,1998,177cm,tm_447661,8,317,3.52,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jean-Ricner Bellegarde,Haiti,MF,MF (CM),Wolverhampton Wanderers,28,1998,170cm,tm_450050,26,1250,13.89,1,1,2,5,0,0.07,0.07,0.14,transfermarkt_datasets,False,2026-11-09
+Dominik Szoboszlai,Hungary,MF,MF (AM),Liverpool FC,26,2000,187cm,tm_451276,36,3233,35.92,6,7,13,8,0,0.17,0.19,0.36,transfermarkt_datasets,False,2026-11-09
+Nick Woltemade,Germany,FW,FW (AM),Newcastle United,24,2002,198cm,tm_455661,33,1914,21.27,8,3,11,0,0,0.38,0.14,0.52,transfermarkt_datasets,False,2026-11-09
+Tijjani Reijnders,Netherlands,MF,MF (CM),Manchester City,28,1998,178cm,tm_460939,28,1636,18.18,5,2,7,2,0,0.28,0.11,0.39,transfermarkt_datasets,False,2026-11-09
+Calvin Bassey,Nigeria,DF,DF (CB),Fulham FC,27,1999,185cm,tm_461883,30,2532,28.13,1,1,2,5,0,0.04,0.04,0.07,transfermarkt_datasets,False,2026-11-09
+Benoît Badiashile,France,DF,DF (CB),Chelsea FC,25,2001,194cm,tm_463603,8,471,5.23,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bafodé Diakité,France,DF,DF (CB),AFC Bournemouth,25,2001,184cm,tm_463605,18,1275,14.17,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jayden Bogle,England,DF,DF (FB),Leeds United,26,2000,178cm,tm_465717,34,2805,31.17,1,4,5,6,0,0.03,0.13,0.16,transfermarkt_datasets,False,2026-11-09
+Nico González,Spain,MF,MF (DM),Manchester City,24,2002,188cm,tm_466805,25,1567,17.41,1,0,1,6,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Lyle Foster,South Africa,FW,FW (AM),Burnley FC,26,2000,185cm,tm_467623,26,1372,15.24,3,2,5,4,0,0.2,0.13,0.33,transfermarkt_datasets,False,2026-11-09
+Nathan Collins,Ireland,DF,DF (CB),Brentford FC,25,2001,193cm,tm_469050,35,2972,33.02,1,2,3,7,0,0.03,0.06,0.09,transfermarkt_datasets,False,2026-11-09
+Marcos Senesi,Argentina,DF,DF (CB),AFC Bournemouth,29,1997,184cm,tm_469781,37,3290,36.56,0,5,5,8,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Brennan Johnson,Wales,FW,FW (WM),Tottenham Hotspur,25,2001,186cm,tm_470607,16,606,6.73,2,0,2,2,0,0.3,0.0,0.3,transfermarkt_datasets,False,2026-11-09
+Brennan Johnson,Wales,FW,FW (WM),Crystal Palace,25,2001,186cm,tm_470607,18,1117,12.41,0,1,1,4,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Reece James,England,DF,DF (FB),Chelsea FC,27,1999,180cm,tm_472423,29,1960,21.78,2,5,7,4,0,0.09,0.23,0.32,transfermarkt_datasets,False,2026-11-09
+Kevin Schade,Germany,FW,FW (WM),Brentford FC,25,2001,185cm,tm_473050,35,2758,30.64,8,4,12,6,0,0.26,0.13,0.39,transfermarkt_datasets,False,2026-11-09
+Brian Brobbey,Netherlands,FW,FW (AM),Sunderland AFC,24,2002,181cm,tm_473169,31,1934,21.49,7,1,8,6,0,0.33,0.05,0.37,transfermarkt_datasets,False,2026-11-09
+Crysencio Summerville,Netherlands,FW,FW (WM),West Ham United,25,2001,172cm,tm_474701,31,2484,27.6,5,4,9,6,0,0.18,0.14,0.33,transfermarkt_datasets,False,2026-11-09
+Kiernan Dewsbury-Hall,England,MF,MF (CM),Everton FC,28,1998,176cm,tm_475188,31,2638,29.31,8,6,14,6,0,0.27,0.2,0.48,transfermarkt_datasets,False,2026-11-09
+Wesley Fofana,France,DF,DF (CB),Chelsea FC,26,2000,188cm,tm_475411,25,1726,19.18,0,1,1,5,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Josko Gvardiol,Croatia,DF,DF (CB),Manchester City,24,2002,185cm,tm_475959,18,1374,15.27,2,2,4,2,0,0.13,0.13,0.26,transfermarkt_datasets,False,2026-11-09
+Manuel Ugarte,Uruguay,MF,MF (DM),Manchester United,25,2001,182cm,tm_476701,22,881,9.79,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aaron Wan-Bissaka,DR Congo,DF,DF (FB),West Ham United,29,1997,183cm,tm_477758,25,2084,23.16,0,3,3,4,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Ryan Gravenberch,Netherlands,MF,MF (DM),Liverpool FC,24,2002,190cm,tm_478573,36,2996,33.29,5,3,8,5,0,0.15,0.09,0.24,transfermarkt_datasets,False,2026-11-09
+Eberechi Eze,England,MF,MF (AM),Arsenal FC,28,1998,178cm,tm_479999,32,1816,20.18,7,2,9,1,0,0.35,0.1,0.45,transfermarkt_datasets,False,2026-11-09
+Eberechi Eze,England,MF,MF (AM),Crystal Palace,28,1998,178cm,tm_479999,1,84,0.93,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lisandro Martínez,Argentina,DF,DF (CB),Manchester United,28,1998,175cm,tm_480762,18,1231,13.68,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Djed Spence,England,DF,DF (FB),Tottenham Hotspur,26,2000,184cm,tm_483348,30,2056,22.84,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jeremie Frimpong,Netherlands,DF,DF (FB),Liverpool FC,26,2000,172cm,tm_484547,21,1040,11.56,0,2,2,1,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Ki-Jana Hoever,Netherlands,DF,DF (FB),Wolverhampton Wanderers,24,2002,183cm,tm_485583,8,428,4.76,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ian Maatsen,Netherlands,DF,DF (FB),Aston Villa,24,2002,178cm,tm_485585,30,1599,17.77,0,2,2,2,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Amadou Onana,Belgium,MF,MF (DM),Aston Villa,25,2001,195cm,tm_485706,25,1764,19.6,2,0,2,3,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Jérémy Doku,Belgium,FW,FW (WM),Manchester City,24,2002,173cm,tm_486049,30,1786,19.84,5,7,12,0,0,0.25,0.35,0.6,transfermarkt_datasets,False,2026-11-09
+Pedro Neto,Portugal,FW,FW (WM),Chelsea FC,26,2000,174cm,tm_487465,34,2643,29.37,5,6,11,2,0,0.17,0.2,0.37,transfermarkt_datasets,False,2026-11-09
+Randal Kolo Muani,France,FW,FW (AM),Tottenham Hotspur,28,1998,187cm,tm_487969,30,1669,18.54,1,1,2,3,0,0.05,0.05,0.11,transfermarkt_datasets,False,2026-11-09
+Conor Gallagher,England,MF,MF (CM),Tottenham Hotspur,26,2000,182cm,tm_488362,16,1191,13.23,1,1,2,2,0,0.08,0.08,0.15,transfermarkt_datasets,False,2026-11-09
+Ao Tanaka,Japan,MF,MF (CM),Leeds United,28,1998,180cm,tm_489359,28,1318,14.64,2,0,2,1,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Daniel Muñoz,Colombia,DF,DF (FB),Crystal Palace,30,1996,180cm,tm_493003,29,2404,26.71,4,3,7,7,0,0.15,0.11,0.26,transfermarkt_datasets,False,2026-11-09
+Wilson Isidor,Haiti,FW,FW (AM),Sunderland AFC,26,2000,184cm,tm_494237,32,1159,12.88,6,0,6,2,0,0.47,0.0,0.47,transfermarkt_datasets,False,2026-11-09
+Jorge Cuenca,Spain,DF,DF (CB),Fulham FC,27,1999,190cm,tm_494880,15,938,10.42,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+William Saliba,France,DF,DF (CB),Arsenal FC,25,2001,192cm,tm_495666,31,2615,29.06,1,0,1,2,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Nicolás Domínguez,Argentina,MF,MF (CM),Nottingham Forest,28,1998,179cm,tm_497291,27,1177,13.08,1,1,2,3,0,0.08,0.08,0.15,transfermarkt_datasets,False,2026-11-09
+Evann Guessand,Cote d'Ivoire,FW,FW (WM),Aston Villa,25,2001,188cm,tm_500689,13,588,6.53,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Evann Guessand,Cote d'Ivoire,FW,FW (WM),Crystal Palace,25,2001,188cm,tm_500689,8,328,3.64,1,1,2,0,0,0.27,0.27,0.55,transfermarkt_datasets,False,2026-11-09
+Riccardo Calafiori,Italy,DF,DF (FB),Arsenal FC,24,2002,188cm,tm_502821,26,1708,18.98,1,2,3,5,0,0.05,0.11,0.16,transfermarkt_datasets,False,2026-11-09
+Neco Williams,Wales,DF,DF (FB),Nottingham Forest,25,2001,183cm,tm_503680,37,3206,35.62,2,3,5,6,0,0.06,0.08,0.14,transfermarkt_datasets,False,2026-11-09
+Dan Ballard,Northern Ireland,DF,DF (CB),Sunderland AFC,27,1999,187cm,tm_503686,29,2148,23.87,2,2,4,4,0,0.08,0.08,0.17,transfermarkt_datasets,False,2026-11-09
+Anthony Gordon,England,FW,FW (WM),Newcastle United,25,2001,183cm,tm_503733,26,1814,20.16,6,2,8,3,0,0.3,0.1,0.4,transfermarkt_datasets,False,2026-11-09
+Morgan Rogers,England,MF,MF (AM),Aston Villa,24,2002,187cm,tm_503743,37,3285,36.5,10,7,17,7,0,0.27,0.19,0.47,transfermarkt_datasets,False,2026-11-09
+Jacob Ramsey,England,MF,MF (CM),Newcastle United,25,2001,180cm,tm_503749,28,1445,16.06,2,3,5,3,0,0.12,0.19,0.31,transfermarkt_datasets,False,2026-11-09
+Tino Livramento,England,DF,DF (FB),Newcastle United,24,2002,182cm,tm_503981,17,1328,14.76,0,1,1,1,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Noni Madueke,England,FW,FW (WM),Arsenal FC,24,2002,182cm,tm_503987,26,1217,13.52,3,1,4,0,0,0.22,0.07,0.3,transfermarkt_datasets,False,2026-11-09
+Kaoru Mitoma,Japan,FW,FW (WM),Brighton & Hove Albion,29,1997,178cm,tm_504849,25,1722,19.13,3,1,4,5,0,0.16,0.05,0.21,transfermarkt_datasets,False,2026-11-09
+James Garner,England,MF,MF (DM),Everton FC,25,2001,182cm,tm_505219,38,3414,37.93,2,7,9,12,0,0.05,0.18,0.24,transfermarkt_datasets,False,2026-11-09
+Quilindschy Hartman,Netherlands,DF,DF (FB),Burnley FC,25,2001,183cm,tm_514285,21,1830,20.33,0,5,5,1,0,0.0,0.25,0.25,transfermarkt_datasets,False,2026-11-09
+Trai Hume,Northern Ireland,DF,DF (FB),Sunderland AFC,24,2002,180cm,tm_515544,38,3039,33.77,2,1,3,9,0,0.06,0.03,0.09,transfermarkt_datasets,False,2026-11-09
+Matheus Cunha,Brazil,FW,FW (AM),Manchester United,27,1999,183cm,tm_517894,33,2503,27.81,10,4,14,4,0,0.36,0.14,0.5,transfermarkt_datasets,False,2026-11-09
+Bruno Guimarães,Brazil,MF,MF (CM),Newcastle United,29,1997,182cm,tm_520624,29,2460,27.33,9,6,15,6,0,0.33,0.22,0.55,transfermarkt_datasets,False,2026-11-09
+Malick Thiaw,Germany,DF,DF (CB),Newcastle United,25,2001,194cm,tm_521964,35,2964,32.93,4,0,4,4,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Taty Castellanos,Argentina,FW,FW (AM),West Ham United,28,1998,178cm,tm_522784,18,1396,15.51,6,0,6,6,0,0.39,0.0,0.39,transfermarkt_datasets,False,2026-11-09
+Luca Netz,Germany,DF,DF (FB),Nottingham Forest,23,2003,184cm,tm_524285,7,355,3.94,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maximilian Kilman,England,DF,DF (CB),West Ham United,29,1997,194cm,tm_525247,21,1558,17.31,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amine Adli,Morocco,FW,FW (WM),AFC Bournemouth,26,2000,180cm,tm_532776,31,1082,12.02,3,2,5,2,0,0.25,0.17,0.42,transfermarkt_datasets,False,2026-11-09
+Alexis Mac Allister,Argentina,MF,MF (CM),Liverpool FC,28,1998,176cm,tm_534033,37,2663,29.59,2,4,6,7,0,0.07,0.14,0.2,transfermarkt_datasets,False,2026-11-09
+Amad Diallo,Cote d'Ivoire,FW,FW (WM),Manchester United,24,2002,173cm,tm_536835,32,2346,26.07,2,4,6,2,0,0.08,0.15,0.23,transfermarkt_datasets,False,2026-11-09
+Georginio Rutter,France,FW,FW (AM),Brighton & Hove Albion,24,2002,182cm,tm_538977,32,1791,19.9,3,4,7,2,0,0.15,0.2,0.35,transfermarkt_datasets,False,2026-11-09
+Dilane Bakwa,France,FW,FW (WM),Nottingham Forest,24,2002,180cm,tm_540664,14,552,6.13,0,2,2,1,0,0.0,0.33,0.33,transfermarkt_datasets,False,2026-11-09
+Mikkel Damsgaard,Denmark,MF,MF (AM),Brentford FC,26,2000,180cm,tm_540941,33,2058,22.87,4,4,8,0,0,0.17,0.17,0.35,transfermarkt_datasets,False,2026-11-09
+Sepp van den Berg,Netherlands,DF,DF (CB),Brentford FC,25,2001,192cm,tm_541231,32,2761,30.68,0,2,2,2,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Oliver Sonne,Peru,DF,DF (FB),Burnley FC,26,2000,184cm,tm_541628,7,165,1.83,1,0,1,0,0,0.55,0.0,0.55,transfermarkt_datasets,False,2026-11-09
+Mohammed Kudus,Ghana,FW,FW (WM),Tottenham Hotspur,26,2000,177cm,tm_543499,19,1546,17.18,2,6,8,3,0,0.12,0.35,0.47,transfermarkt_datasets,False,2026-11-09
+Zeki Amdouni,Switzerland,FW,FW (AM),Burnley FC,26,2000,183cm,tm_548729,4,69,0.77,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pedro Porro,Spain,DF,DF (FB),Tottenham Hotspur,27,1999,173cm,tm_553875,34,2798,31.09,1,2,3,10,0,0.03,0.06,0.1,transfermarkt_datasets,False,2026-11-09
+Destiny Udogie,Italy,DF,DF (FB),Tottenham Hotspur,24,2002,188cm,tm_556385,20,1342,14.91,0,1,1,4,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Micky van de Ven,Netherlands,DF,DF (CB),Tottenham Hotspur,25,2001,193cm,tm_557459,35,3043,33.81,4,1,5,9,0,0.12,0.03,0.15,transfermarkt_datasets,False,2026-11-09
+Fábio Carvalho,Portugal,MF,MF (AM),Brentford FC,24,2002,170cm,tm_559263,6,100,1.11,1,0,1,0,0,0.9,0.0,0.9,transfermarkt_datasets,False,2026-11-09
+Harvey Elliott,England,MF,MF (AM),Liverpool FC,23,2003,170cm,tm_565822,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Harvey Elliott,England,MF,MF (AM),Aston Villa,23,2003,170cm,tm_565822,4,109,1.21,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Xavi Simons,Netherlands,MF,MF (AM),Tottenham Hotspur,23,2003,179cm,tm_566931,28,1757,19.52,2,5,7,5,0,0.1,0.26,0.36,transfermarkt_datasets,False,2026-11-09
+Elliot Anderson,England,MF,MF (CM),Nottingham Forest,24,2002,179cm,tm_567576,38,3335,37.06,4,4,8,8,0,0.11,0.11,0.22,transfermarkt_datasets,False,2026-11-09
+Dennis Cirkin,Latvia,DF,DF (FB),Sunderland AFC,24,2002,182cm,tm_568006,8,320,3.56,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yéremy Pino,Spain,FW,FW (WM),Crystal Palace,24,2002,174cm,tm_568157,34,2092,23.24,2,2,4,4,0,0.09,0.09,0.17,transfermarkt_datasets,False,2026-11-09
+Cole Palmer,England,MF,MF (AM),Chelsea FC,24,2002,185cm,tm_568177,26,1965,21.83,10,1,11,5,0,0.46,0.05,0.5,transfermarkt_datasets,False,2026-11-09
+Radu Drăgușin,Romania,DF,DF (CB),Tottenham Hotspur,24,2002,191cm,tm_568559,10,516,5.73,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pape Matar Sarr,Senegal,MF,MF (CM),Tottenham Hotspur,24,2002,185cm,tm_568693,26,1389,15.43,2,4,6,3,0,0.13,0.26,0.39,transfermarkt_datasets,False,2026-11-09
+Dan Neil,England,MF,MF (CM),Sunderland AFC,25,2001,185cm,tm_570336,3,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Armando Broja,Albania,FW,FW (AM),Burnley FC,25,2001,191cm,tm_571743,24,849,9.43,1,1,2,0,0,0.11,0.11,0.21,transfermarkt_datasets,False,2026-11-09
+Lorenzo Lucca,Italy,FW,FW (AM),Nottingham Forest,26,2000,201cm,tm_572265,4,127,1.41,1,0,1,0,0,0.71,0.0,0.71,transfermarkt_datasets,False,2026-11-09
+Jan Paul van Hecke,Netherlands,DF,DF (CB),Brighton & Hove Albion,26,2000,189cm,tm_576314,36,3211,35.68,3,3,6,9,0,0.08,0.08,0.17,transfermarkt_datasets,False,2026-11-09
+Rayan Aït-Nouri,Algeria,DF,DF (FB),Manchester City,25,2001,180cm,tm_578391,17,976,10.84,0,2,2,2,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Chris Richards,United States,DF,DF (CB),Crystal Palace,26,2000,189cm,tm_578539,33,2826,31.4,1,0,1,4,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Anthony Elanga,Sweden,FW,FW (WM),Newcastle United,24,2002,178cm,tm_583189,32,1313,14.59,0,1,1,0,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+James McAtee,England,MF,MF (AM),Nottingham Forest,24,2002,180cm,tm_583199,14,289,3.21,0,1,1,1,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Antoine Semenyo,Ghana,FW,FW (WM),Manchester City,26,2000,185cm,tm_583255,17,1405,15.61,7,1,8,1,0,0.45,0.06,0.51,transfermarkt_datasets,False,2026-11-09
+Antoine Semenyo,Ghana,FW,FW (WM),AFC Bournemouth,26,2000,185cm,tm_583255,20,1800,20.0,10,3,13,6,0,0.5,0.15,0.65,transfermarkt_datasets,False,2026-11-09
+Dwight McNeil,England,FW,FW (WM),Everton FC,27,1999,183cm,tm_584769,22,1169,12.99,0,1,1,1,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Arnaud Kalimuendo,France,FW,FW (AM),Nottingham Forest,24,2002,178cm,tm_585959,9,88,0.98,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Myles Peart-Harris,Jamaica,MF,MF (AM),Brentford FC,24,2002,187cm,tm_587002,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jhon Arias,Colombia,FW,FW (WM),Wolverhampton Wanderers,29,1997,168cm,tm_588989,23,1124,12.49,1,0,1,1,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Aaron Hickey,Scotland,DF,DF (FB),Brentford FC,24,2002,185cm,tm_591949,21,686,7.62,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Beto,Guinea-Bissau,FW,FW (AM),Everton FC,28,1998,194cm,tm_595809,37,1565,17.39,9,1,10,3,0,0.52,0.06,0.58,transfermarkt_datasets,False,2026-11-09
+Florian Wirtz,Germany,MF,MF (AM),Liverpool FC,23,2003,177cm,tm_598577,33,2390,26.56,5,4,9,1,0,0.19,0.15,0.34,transfermarkt_datasets,False,2026-11-09
+Matheus Nunes,Portugal,DF,DF (FB),Manchester City,28,1998,183cm,tm_601883,34,2865,31.83,1,7,8,5,0,0.03,0.22,0.25,transfermarkt_datasets,False,2026-11-09
+Jean-Clair Todibo,France,DF,DF (CB),West Ham United,27,1999,190cm,tm_605184,23,1819,20.21,0,1,1,5,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Toti,Portugal,DF,DF (CB),Wolverhampton Wanderers,27,1999,187cm,tm_606718,19,1427,15.86,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rayan Cherki,France,MF,MF (AM),Manchester City,23,2003,177cm,tm_607223,33,1786,19.84,4,12,16,1,0,0.2,0.6,0.81,transfermarkt_datasets,False,2026-11-09
+Hannibal,Tunisia,MF,MF (AM),Burnley FC,23,2003,177cm,tm_607224,27,1231,13.68,1,4,5,10,0,0.07,0.29,0.37,transfermarkt_datasets,False,2026-11-09
+Loum Tchaouna,France,FW,FW (WM),Burnley FC,23,2003,180cm,tm_607226,29,1270,14.11,2,1,3,2,0,0.14,0.07,0.21,transfermarkt_datasets,False,2026-11-09
+Merlin Röhl,Germany,MF,MF (AM),Everton FC,24,2002,192cm,tm_608832,16,678,7.53,1,0,1,0,0,0.13,0.0,0.13,transfermarkt_datasets,False,2026-11-09
+William Osula,Denmark,FW,FW (AM),Newcastle United,23,2003,191cm,tm_609556,24,811,9.01,7,0,7,0,0,0.78,0.0,0.78,transfermarkt_datasets,False,2026-11-09
+Liam Delap,England,FW,FW (AM),Chelsea FC,23,2003,186cm,tm_610849,28,1101,12.23,1,1,2,4,0,0.08,0.08,0.16,transfermarkt_datasets,False,2026-11-09
+James Hill,England,DF,DF (CB),AFC Bournemouth,24,2002,184cm,tm_611793,29,2104,23.38,0,3,3,5,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Bashir Humphreys,England,DF,DF (CB),Burnley FC,23,2003,186cm,tm_612517,20,1578,17.53,0,2,2,6,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Levi Colwill,England,DF,DF (CB),Chelsea FC,23,2003,187cm,tm_614258,3,225,2.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jenson Seelt,Netherlands,DF,DF (CB),Sunderland AFC,23,2003,195cm,tm_617755,2,134,1.49,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Malo Gusto,France,DF,DF (FB),Chelsea FC,23,2003,178cm,tm_620322,34,2268,25.2,2,3,5,3,0,0.08,0.12,0.2,transfermarkt_datasets,False,2026-11-09
+Iliman Ndiaye,Senegal,FW,FW (WM),Everton FC,26,2000,180cm,tm_623570,32,2789,30.99,6,3,9,2,0,0.19,0.1,0.29,transfermarkt_datasets,False,2026-11-09
+Conor Bradley,Northern Ireland,DF,DF (FB),Liverpool FC,23,2003,181cm,tm_624258,15,933,10.37,0,2,2,5,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+João Pedro,Brazil,FW,FW (AM),Chelsea FC,25,2001,186cm,tm_626724,35,2674,29.71,15,8,23,5,0,0.5,0.27,0.77,transfermarkt_datasets,False,2026-11-09
+Benjamin Sesko,Slovenia,FW,FW (AM),Manchester United,23,2003,195cm,tm_627442,30,1637,18.19,11,1,12,2,0,0.6,0.05,0.66,transfermarkt_datasets,False,2026-11-09
+Wilfried Gnonto,Italy,FW,FW (WM),Leeds United,23,2003,170cm,tm_627626,23,524,5.82,0,3,3,3,0,0.0,0.52,0.52,transfermarkt_datasets,False,2026-11-09
+Roméo Lavia,Belgium,MF,MF (DM),Chelsea FC,22,2004,181cm,tm_628451,12,377,4.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Enzo Le Fée,France,MF,MF (CM),Sunderland AFC,26,2000,173cm,tm_633992,36,2936,32.62,5,6,11,5,0,0.15,0.18,0.34,transfermarkt_datasets,False,2026-11-09
+Keane Lewis-Potter,England,MF,MF (WM),Brentford FC,25,2001,170cm,tm_644401,36,1970,21.89,3,3,6,1,0,0.14,0.14,0.27,transfermarkt_datasets,False,2026-11-09
+Lamare Bogarde,Netherlands,MF,MF (DM),Aston Villa,22,2004,185cm,tm_645686,28,1048,11.64,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Cristhian Mosquera,Spain,DF,DF (CB),Arsenal FC,22,2004,191cm,tm_646750,20,989,10.99,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Enzo Fernández,Argentina,MF,MF (CM),Chelsea FC,25,2001,178cm,tm_648195,36,3121,34.68,10,4,14,10,0,0.29,0.12,0.4,transfermarkt_datasets,False,2026-11-09
+Adrien Truffert,France,DF,DF (FB),AFC Bournemouth,25,2001,176cm,tm_654539,38,3380,37.56,1,5,6,5,0,0.03,0.13,0.16,transfermarkt_datasets,False,2026-11-09
+Gabriel Martinelli,Brazil,FW,FW (WM),Arsenal FC,25,2001,178cm,tm_655488,30,1073,11.92,1,4,5,3,0,0.08,0.34,0.42,transfermarkt_datasets,False,2026-11-09
+Simon Adingra,Cote d'Ivoire,FW,FW (WM),Sunderland AFC,24,2002,175cm,tm_658536,14,658,7.31,1,1,2,2,0,0.14,0.14,0.27,transfermarkt_datasets,False,2026-11-09
+Piero Hincapié,Ecuador,DF,DF (CB),Arsenal FC,24,2002,183cm,tm_659813,25,1792,19.91,1,2,3,2,0,0.05,0.1,0.15,transfermarkt_datasets,False,2026-11-09
+Diego Coppola,Italy,DF,DF (CB),Brighton & Hove Albion,23,2003,193cm,tm_660860,5,194,2.16,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jarrad Branthwaite,England,DF,DF (CB),Everton FC,24,2002,195cm,tm_661053,10,681,7.57,1,1,2,1,0,0.13,0.13,0.26,transfermarkt_datasets,False,2026-11-09
+Oscar Bobb,Norway,FW,FW (WM),Manchester City,23,2003,177cm,tm_661207,9,467,5.19,0,1,1,1,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Oscar Bobb,Norway,FW,FW (WM),Fulham FC,23,2003,177cm,tm_661207,14,570,6.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+David Møller Wolfe,Norway,DF,DF (FB),Wolverhampton Wanderers,24,2002,185cm,tm_661427,22,1048,11.64,0,2,2,1,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Jota Silva,Portugal,FW,FW (WM),Nottingham Forest,27,1999,179cm,tm_663244,1,11,0.12,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rodrigo Gomes,Portugal,MF,MF (WM),Wolverhampton Wanderers,23,2003,175cm,tm_667121,22,958,10.64,3,0,3,0,0,0.28,0.0,0.28,transfermarkt_datasets,False,2026-11-09
+Yasin Ayari,Sweden,MF,MF (CM),Brighton & Hove Albion,23,2003,172cm,tm_667287,29,1925,21.39,3,3,6,1,0,0.14,0.14,0.28,transfermarkt_datasets,False,2026-11-09
+Dário Essugo,Portugal,MF,MF (DM),Chelsea FC,21,2005,178cm,tm_670717,3,26,0.29,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lewis Hall,England,DF,DF (FB),Newcastle United,22,2004,179cm,tm_670858,30,2180,24.22,1,1,2,5,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Jamie Gittens,England,FW,FW (WM),Chelsea FC,22,2004,178cm,tm_670882,16,490,5.44,0,2,2,0,0,0.0,0.37,0.37,transfermarkt_datasets,False,2026-11-09
+Dane Scarlett,England,FW,FW (AM),Tottenham Hotspur,22,2004,180cm,tm_670883,2,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Morato,Brazil,DF,DF (CB),Nottingham Forest,25,2001,192cm,tm_673492,21,1341,14.9,1,0,1,5,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Tolu Arokodare,Nigeria,FW,FW (AM),Wolverhampton Wanderers,26,2000,197cm,tm_683571,33,1408,15.64,3,1,4,1,0,0.19,0.06,0.26,transfermarkt_datasets,False,2026-11-09
+Antoni Milambo,Netherlands,MF,MF (AM),Brentford FC,21,2005,179cm,tm_683620,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Emmanuel Agbadou,Cote d'Ivoire,DF,DF (CB),Wolverhampton Wanderers,29,1997,185cm,tm_683895,14,1101,12.23,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jaidon Anthony,England,FW,FW (WM),Burnley FC,27,1999,183cm,tm_684210,37,2735,30.39,8,4,12,4,0,0.26,0.13,0.39,transfermarkt_datasets,False,2026-11-09
+Moisés Caicedo,Ecuador,MF,MF (DM),Chelsea FC,25,2001,178cm,tm_687626,33,2802,31.13,3,1,4,11,0,0.1,0.03,0.13,transfermarkt_datasets,False,2026-11-09
+Chadi Riad,Morocco,DF,DF (CB),Crystal Palace,23,2003,186cm,tm_689637,9,554,6.16,0,1,1,2,0,0.0,0.16,0.16,transfermarkt_datasets,False,2026-11-09
+Romaine Mundle,England,FW,FW (WM),Sunderland AFC,23,2003,172cm,tm_696181,14,401,4.46,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tim Iroegbunam,England,MF,MF (CM),Everton FC,23,2003,183cm,tm_696589,29,1486,16.51,0,3,3,9,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+George Earthy,England,MF,MF (AM),West Ham United,22,2004,180cm,tm_697280,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Freddie Potts,England,MF,MF (DM),West Ham United,23,2003,183cm,tm_698164,22,1167,12.97,0,1,1,1,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Hugo Bueno,Spain,DF,DF (FB),Wolverhampton Wanderers,24,2002,180cm,tm_698678,35,2366,26.29,1,2,3,3,0,0.04,0.08,0.11,transfermarkt_datasets,False,2026-11-09
+Brajan Gruda,Germany,MF,MF (AM),Brighton & Hove Albion,22,2004,178cm,tm_700106,18,716,7.96,1,1,2,2,0,0.13,0.13,0.25,transfermarkt_datasets,False,2026-11-09
+Rico Lewis,England,DF,DF (FB),Manchester City,22,2004,170cm,tm_701057,11,402,4.47,0,1,1,2,0,0.0,0.22,0.22,transfermarkt_datasets,False,2026-11-09
+Jaydon Banel,Netherlands,FW,FW (WM),Burnley FC,22,2004,173cm,tm_706889,1,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nicolò Savona,Italy,DF,DF (FB),Nottingham Forest,23,2003,192cm,tm_708072,14,1026,11.4,2,0,2,2,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Hugo Ekitiké,France,FW,FW (AM),Liverpool FC,24,2002,190cm,tm_709726,28,1811,20.12,11,4,15,0,0,0.55,0.2,0.75,transfermarkt_datasets,False,2026-11-09
+Evanilson,Brazil,FW,FW (AM),AFC Bournemouth,27,1999,183cm,tm_711337,36,2762,30.69,6,3,9,2,0,0.2,0.1,0.29,transfermarkt_datasets,False,2026-11-09
+Jake O'Brien,Ireland,DF,DF (FB),Everton FC,25,2001,197cm,tm_711544,37,3124,34.71,1,1,2,6,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Lesley Ugochukwu,France,MF,MF (DM),Burnley FC,22,2004,190cm,tm_711999,35,2351,26.12,3,2,5,1,0,0.11,0.08,0.19,transfermarkt_datasets,False,2026-11-09
+Yerson Mosquera,Colombia,DF,DF (CB),Wolverhampton Wanderers,25,2001,188cm,tm_716276,27,2143,23.81,0,0,0,12,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yegor Yarmolyuk,Ukraine,MF,MF (CM),Brentford FC,22,2004,180cm,tm_717411,37,2667,29.63,1,2,3,7,0,0.03,0.07,0.1,transfermarkt_datasets,False,2026-11-09
+Ben Gannon-Doak,Scotland,FW,FW (WM),AFC Bournemouth,21,2005,173cm,tm_719673,8,105,1.17,0,1,1,0,0,0.0,0.85,0.85,transfermarkt_datasets,False,2026-11-09
+Tawanda Chirewa,Zimbabwe,MF,MF (AM),Wolverhampton Wanderers,23,2003,181cm,tm_724783,2,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Noah Sadiki,DR Congo,MF,MF (CM),Sunderland AFC,22,2004,165cm,tm_727089,33,2896,32.18,0,1,1,9,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Milos Kerkez,Hungary,DF,DF (FB),Liverpool FC,23,2003,180cm,tm_730861,34,2261,25.12,2,1,3,4,0,0.08,0.04,0.12,transfermarkt_datasets,False,2026-11-09
+Tyrick Mitchell,England,DF,DF (FB),Crystal Palace,27,1999,181cm,tm_730893,38,3255,36.17,1,2,3,6,0,0.03,0.06,0.08,transfermarkt_datasets,False,2026-11-09
+João Gomes,Brazil,MF,MF (CM),Wolverhampton Wanderers,25,2001,176cm,tm_735570,35,2835,31.5,1,1,2,10,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Rodrigo Muniz,Brazil,FW,FW (AM),Fulham FC,25,2001,186cm,tm_735571,21,997,11.08,1,1,2,2,0,0.09,0.09,0.18,transfermarkt_datasets,False,2026-11-09
+Igor Thiago,Brazil,FW,FW (AM),Brentford FC,25,2001,190cm,tm_739443,38,3287,36.52,22,1,23,7,0,0.6,0.03,0.63,transfermarkt_datasets,False,2026-11-09
+Omari Hutchinson,England,MF,MF (AM),Nottingham Forest,23,2003,174cm,tm_741238,31,1684,18.71,1,7,8,1,0,0.05,0.37,0.43,transfermarkt_datasets,False,2026-11-09
+Álex Jiménez,Spain,DF,DF (FB),AFC Bournemouth,21,2005,177cm,tm_741257,31,2327,25.86,1,0,1,10,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Chemsdine Talbi,Morocco,FW,FW (WM),Sunderland AFC,21,2005,175cm,tm_743384,28,1564,17.38,4,2,6,0,0,0.23,0.12,0.35,transfermarkt_datasets,False,2026-11-09
+Nico O'Reilly,England,DF,DF (FB),Manchester City,21,2005,193cm,tm_743413,34,2649,29.43,5,3,8,5,0,0.17,0.1,0.27,transfermarkt_datasets,False,2026-11-09
+Wilson Odobert,France,FW,FW (WM),Tottenham Hotspur,22,2004,182cm,tm_743498,24,981,10.9,0,2,2,0,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Savinho,Brazil,FW,FW (WM),Manchester City,22,2004,176cm,tm_743591,24,821,9.12,1,2,3,2,0,0.11,0.22,0.33,transfermarkt_datasets,False,2026-11-09
+Andrey Santos,Brazil,MF,MF (CM),Chelsea FC,22,2004,180cm,tm_743600,27,1255,13.94,1,0,1,4,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Adam Wharton,England,MF,MF (DM),Crystal Palace,22,2004,182cm,tm_744149,34,2563,28.48,1,5,6,4,0,0.04,0.18,0.21,transfermarkt_datasets,False,2026-11-09
+Soungoutou Magassa,France,MF,MF (DM),West Ham United,23,2003,190cm,tm_745181,22,979,10.88,1,0,1,4,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Justin Devenny,Northern Ireland,MF,MF (AM),Crystal Palace,23,2003,184cm,tm_747009,21,789,8.77,1,0,1,0,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Carlos Alcaraz,Argentina,MF,MF (CM),Everton FC,24,2002,176cm,tm_748319,20,685,7.61,0,1,1,4,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Abdukodir Khusanov,Uzbekistan,DF,DF (CB),Manchester City,22,2004,186cm,tm_763079,21,1429,15.88,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+André,Brazil,MF,MF (DM),Wolverhampton Wanderers,25,2001,176cm,tm_800176,35,2766,30.73,1,0,1,12,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Mathys Tel,France,FW,FW (AM),Tottenham Hotspur,21,2005,183cm,tm_801734,31,1342,14.91,4,1,5,1,0,0.27,0.07,0.34,transfermarkt_datasets,False,2026-11-09
+Alejandro Garnacho,Argentina,FW,FW (WM),Chelsea FC,22,2004,180cm,tm_811779,24,1268,14.09,1,4,5,2,0,0.07,0.28,0.35,transfermarkt_datasets,False,2026-11-09
+Pablo,Brazil,FW,FW (AM),West Ham United,22,2004,184cm,tm_817665,14,828,9.2,0,1,1,0,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Kobbie Mainoo,England,MF,MF (CM),Manchester United,21,2005,184cm,tm_820374,28,1654,18.38,1,2,3,2,0,0.05,0.11,0.16,transfermarkt_datasets,False,2026-11-09
+Dango Ouattara,Burkina Faso,FW,FW (WM),Brentford FC,24,2002,177cm,tm_823231,32,2282,25.36,7,8,15,5,0,0.28,0.32,0.59,transfermarkt_datasets,False,2026-11-09
+Michael Kayode,Italy,DF,DF (FB),Brentford FC,22,2004,179cm,tm_823486,37,3264,36.27,1,1,2,8,0,0.03,0.03,0.06,transfermarkt_datasets,False,2026-11-09
+Maxime Estève,France,DF,DF (CB),Burnley FC,24,2002,193cm,tm_842341,34,2938,32.64,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Max Alleyne,England,DF,DF (CB),Manchester City,21,2005,185cm,tm_843595,2,135,1.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jackson Tchatchoua,Cameroon,DF,DF (FB),Wolverhampton Wanderers,25,2001,180cm,tm_848509,31,1837,20.41,0,1,1,3,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Ben Winterburn,England,MF,MF (DM),AFC Bournemouth,22,2004,185cm,tm_854721,1,6,0.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alex Scott,England,MF,MF (CM),AFC Bournemouth,23,2003,178cm,tm_855256,37,2860,31.78,3,1,4,5,0,0.09,0.03,0.13,transfermarkt_datasets,False,2026-11-09
+Kaden Rodney,England,MF,MF (DM),Crystal Palace,22,2004,189cm,tm_860078,1,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Bergvall,Sweden,MF,MF (CM),Tottenham Hotspur,20,2006,187cm,tm_866246,23,967,10.74,1,3,4,2,0,0.09,0.28,0.37,transfermarkt_datasets,False,2026-11-09
+Tyler Dibling,England,FW,FW (WM),Everton FC,20,2006,178cm,tm_866655,14,350,3.89,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jack Hinshelwood,England,MF,MF (DM),Brighton & Hove Albion,21,2005,182cm,tm_867688,27,1751,19.46,4,4,8,0,0,0.21,0.21,0.41,transfermarkt_datasets,False,2026-11-09
+Habib Diarra,Senegal,MF,MF (CM),Sunderland AFC,22,2004,178cm,tm_876631,20,1409,15.66,2,3,5,6,0,0.13,0.19,0.32,transfermarkt_datasets,False,2026-11-09
+Mateus Fernandes,Portugal,MF,MF (CM),West Ham United,22,2004,180cm,tm_880245,36,3026,33.62,3,4,7,6,0,0.09,0.12,0.21,transfermarkt_datasets,False,2026-11-09
+Ethan Nwaneri,England,MF,MF (AM),Arsenal FC,19,2007,176cm,tm_890719,6,165,1.83,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Myles Lewis-Skelly,England,DF,DF (FB),Arsenal FC,20,2006,178cm,tm_890721,20,698,7.76,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kevin,Brazil,FW,FW (WM),Fulham FC,23,2003,176cm,tm_900195,26,1038,11.53,1,2,3,1,0,0.09,0.17,0.26,transfermarkt_datasets,False,2026-11-09
+Alex Murphy,Ireland,DF,DF (FB),Newcastle United,22,2004,188cm,tm_900601,2,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nilson Angulo,Ecuador,FW,FW (WM),Sunderland AFC,23,2003,184cm,tm_903611,8,406,4.51,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jorrel Hato,Netherlands,DF,DF (FB),Chelsea FC,20,2006,182cm,tm_904802,22,1143,12.7,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mamadou Sarr,Senegal,DF,DF (CB),Chelsea FC,21,2005,194cm,tm_910905,3,101,1.12,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tyler Fredricson,England,DF,DF (CB),Manchester United,21,2005,188cm,tm_911424,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nehemiah Oriola,England,FW,FW (WM),Brighton & Hove Albion,19,2007,,tm_914269,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Oliver Scarles,England,DF,DF (FB),West Ham United,21,2005,180cm,tm_922563,13,660,7.33,0,1,1,2,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Archie Gray,England,MF,MF (DM),Tottenham Hotspur,20,2006,187cm,tm_922693,24,1480,16.44,2,2,4,5,0,0.12,0.12,0.24,transfermarkt_datasets,False,2026-11-09
+Lewis Miley,England,MF,MF (CM),Newcastle United,20,2006,189cm,tm_922769,23,1494,16.6,1,4,5,0,0,0.06,0.24,0.3,transfermarkt_datasets,False,2026-11-09
+Leny Yoro,France,DF,DF (CB),Manchester United,21,2005,190cm,tm_923831,32,1739,19.32,0,2,2,1,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Shea Lacey,England,FW,FW (WM),Manchester United,19,2007,167cm,tm_926309,3,40,0.44,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Patrick Dorgu,Denmark,FW,FW (WM),Manchester United,22,2004,185cm,tm_926952,26,1445,16.06,4,4,8,5,0,0.25,0.25,0.5,transfermarkt_datasets,False,2026-11-09
+Lucas Pires,Brazil,DF,DF (FB),Burnley FC,25,2001,182cm,tm_927768,20,1406,15.62,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zach Abbott,England,DF,DF (CB),Nottingham Forest,20,2006,180cm,tm_933017,3,166,1.84,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tom Watson,England,FW,FW (WM),Brighton & Hove Albion,20,2006,190cm,tm_933018,6,56,0.62,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tyrique George,England,FW,FW (WM),Everton FC,20,2006,181cm,tm_936874,11,210,2.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tyrique George,England,FW,FW (WM),Chelsea FC,20,2006,181cm,tm_936874,4,143,1.59,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Thierno Barry,France,FW,FW (AM),Everton FC,24,2002,195cm,tm_937941,38,1915,21.28,8,0,8,3,0,0.38,0.0,0.38,transfermarkt_datasets,False,2026-11-09
+Marc Guiu,Spain,FW,FW (AM),Sunderland AFC,20,2006,187cm,tm_938158,2,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marc Guiu,Spain,FW,FW (AM),Chelsea FC,20,2006,187cm,tm_938158,8,253,2.81,0,1,1,1,0,0.0,0.36,0.36,transfermarkt_datasets,False,2026-11-09
+Chris Rigg,England,MF,MF (AM),Sunderland AFC,19,2007,177cm,tm_947411,18,766,8.51,1,1,2,1,0,0.12,0.12,0.24,transfermarkt_datasets,False,2026-11-09
+Stefanos Tzimas,Greece,FW,FW (AM),Brighton & Hove Albion,20,2006,186cm,tm_950091,9,132,1.47,1,1,2,0,0,0.68,0.68,1.36,transfermarkt_datasets,False,2026-11-09
+Callum Marshall,Northern Ireland,FW,FW (AM),West Ham United,22,2004,172cm,tm_953135,2,58,0.64,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jamaldeen Jimoh-Aloba,England,MF,MF (AM),Aston Villa,20,2006,188cm,tm_954105,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Junior Kroupi,France,FW,FW (AM),AFC Bournemouth,20,2006,179cm,tm_955357,33,1683,18.7,13,0,13,5,0,0.7,0.0,0.7,transfermarkt_datasets,False,2026-11-09
+Romain Esse,England,FW,FW (WM),Crystal Palace,21,2005,178cm,tm_967319,4,40,0.44,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Eliezer Mayenda,Spain,FW,FW (AM),Sunderland AFC,21,2005,183cm,tm_967346,20,756,8.4,2,0,2,0,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Carlos Baleba,Cameroon,MF,MF (DM),Brighton & Hove Albion,22,2004,179cm,tm_973085,31,1662,18.47,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joe Knight,England,MF,MF (CM),Brighton & Hove Albion,21,2005,,tm_978668,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Shumaira Mheuka,England,FW,FW (AM),Chelsea FC,19,2007,185cm,tm_982097,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Facundo Buonanotte,Argentina,MF,MF (AM),Leeds United,22,2004,174cm,tm_983989,3,36,0.4,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Facundo Buonanotte,Argentina,MF,MF (AM),Chelsea FC,22,2004,174cm,tm_983989,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jair Cunha,Brazil,DF,DF (CB),Nottingham Forest,21,2005,198cm,tm_984096,9,516,5.73,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Callum Olusesi,England,MF,MF (CM),Tottenham Hotspur,19,2007,187cm,tm_985546,1,14,0.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Veljko Milosavljevic,Serbia,DF,DF (CB),AFC Bournemouth,19,2007,192cm,tm_989112,7,367,4.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luís Guilherme,Brazil,FW,FW (WM),West Ham United,20,2006,175cm,tm_991800,5,121,1.34,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Diego Gómez,Paraguay,MF,MF (CM),Brighton & Hove Albion,23,2003,183cm,tm_996897,32,2139,23.77,5,1,6,9,0,0.21,0.04,0.25,transfermarkt_datasets,False,2026-11-09
+Alex Tóth,Hungary,MF,MF (CM),AFC Bournemouth,21,2005,181cm,tm_998101,9,137,1.52,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+James Rowswell,England,DF,DF (CB),Tottenham Hotspur,20,2006,188cm,tm_999743,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Josh Acheampong,England,DF,DF (FB),Chelsea FC,20,2006,190cm,tm_1004708,17,663,7.37,1,0,1,1,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Alysson,Brazil,FW,FW (WM),Aston Villa,20,2006,184cm,tm_1005583,3,47,0.52,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Murillo,Brazil,DF,DF (CB),Nottingham Forest,24,2002,180cm,tm_1005649,25,2133,23.7,1,0,1,5,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Jaydee Canvot,France,DF,DF (CB),Crystal Palace,20,2006,188cm,tm_1006411,20,1334,14.82,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Julio Soler,Argentina,DF,DF (FB),AFC Bournemouth,21,2005,175cm,tm_1009658,3,34,0.38,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Josh King,England,MF,MF (AM),Fulham FC,19,2007,173cm,tm_1011131,32,1304,14.49,1,2,3,4,0,0.07,0.14,0.21,transfermarkt_datasets,False,2026-11-09
+Jack Fletcher,England,MF,MF (AM),Manchester United,19,2007,,tm_1011140,3,107,1.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kaye Furo,Belgium,FW,FW (AM),Brentford FC,19,2007,190cm,tm_1011936,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yankuba Minteh,The Gambia,FW,FW (WM),Brighton & Hove Albion,22,2004,180cm,tm_1012534,34,2401,26.68,3,4,7,3,0,0.11,0.15,0.26,transfermarkt_datasets,False,2026-11-09
+Rayan,Brazil,FW,FW (WM),AFC Bournemouth,20,2006,187cm,tm_1012564,15,1120,12.44,5,2,7,1,0,0.4,0.16,0.56,transfermarkt_datasets,False,2026-11-09
+George Hemmings,England,MF,MF (CM),Aston Villa,19,2007,,tm_1023191,2,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Trey Nyoni,England,MF,MF (CM),Liverpool FC,19,2007,180cm,tm_1045123,6,21,0.23,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rio Cardines,Trinidad and Tobago,DF,DF (FB),Crystal Palace,20,2006,175cm,tm_1047257,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Divine Mukasa,England,MF,MF (AM),Manchester City,19,2007,180cm,tm_1047280,2,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tyler Fletcher,Scotland,MF,MF (CM),Manchester United,19,2007,183cm,tm_1049911,2,17,0.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Estêvão,Brazil,FW,FW (WM),Chelsea FC,19,2007,178cm,tm_1056993,22,846,9.4,2,2,4,4,0,0.21,0.21,0.43,transfermarkt_datasets,False,2026-11-09
+Charalampos Kostoulas,Greece,FW,FW (AM),Brighton & Hove Albion,19,2007,185cm,tm_1060087,21,353,3.92,2,1,3,2,0,0.51,0.26,0.77,transfermarkt_datasets,False,2026-11-09
+Andrés García,Spain,DF,DF (FB),Aston Villa,23,2003,185cm,tm_1063329,6,83,0.92,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fer López,Spain,MF,MF (AM),Wolverhampton Wanderers,22,2004,188cm,tm_1064471,9,230,2.56,0,1,1,1,0,0.0,0.39,0.39,transfermarkt_datasets,False,2026-11-09
+Tom Edozie,England,FW,FW (WM),Wolverhampton Wanderers,20,2006,178cm,tm_1065227,3,12,0.13,1,0,1,0,0,7.69,0.0,7.69,transfermarkt_datasets,False,2026-11-09
+Harry Howell,England,MF,MF (AM),Brighton & Hove Albion,18,2008,,tm_1067168,3,93,1.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jonah Kusi-Asare,Sweden,FW,FW (AM),Fulham FC,19,2007,196cm,tm_1069512,7,49,0.54,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sean Neave,England,FW,FW (AM),Newcastle United,19,2007,184cm,tm_1071818,1,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ayden Heaven,England,DF,DF (CB),Manchester United,20,2006,189cm,tm_1078163,17,923,10.26,0,1,1,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Mohamadou Kanté,France,MF,MF (DM),West Ham United,21,2005,189cm,tm_1081995,11,66,0.73,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bendito Mantato,England,FW,FW (WM),Manchester United,18,2008,180cm,tm_1085591,1,15,0.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Souza,Brazil,DF,DF (FB),Tottenham Hotspur,20,2006,183cm,tm_1086258,4,144,1.6,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Romelle Donovan,England,FW,FW (WM),Brentford FC,20,2006,171cm,tm_1091562,4,38,0.42,0,1,1,0,0,0.0,2.38,2.38,transfermarkt_datasets,False,2026-11-09
+Ezra Mayers,England,DF,DF (CB),West Ham United,19,2007,183cm,tm_1107726,6,113,1.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Harrison Armstrong,England,MF,MF (CM),Everton FC,19,2007,185cm,tm_1107733,13,528,5.87,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rio Ngumoha,England,FW,FW (WM),Liverpool FC,18,2008,170cm,tm_1108466,19,551,6.12,2,1,3,0,0,0.33,0.16,0.49,transfermarkt_datasets,False,2026-11-09
+El Hadji Malick Diouf,Senegal,DF,DF (FB),West Ham United,22,2004,177cm,tm_1111589,32,2711,30.12,0,5,5,6,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Christantus Uche,Nigeria,FW,FW (AM),Crystal Palace,23,2003,190cm,tm_1124005,14,159,1.77,0,1,1,0,0,0.0,0.56,0.56,transfermarkt_datasets,False,2026-11-09
+Jesse Derry,England,FW,FW (WM),Chelsea FC,19,2007,,tm_1135611,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Max Dowman,England,FW,FW (WM),Arsenal FC,17,2009,183cm,tm_1187629,6,153,1.7,1,1,2,0,0,0.59,0.59,1.18,transfermarkt_datasets,False,2026-11-09
+Pedro Lima,Brazil,DF,DF (FB),Wolverhampton Wanderers,20,2006,174cm,tm_1193867,9,259,2.88,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jun'ai Byfield,England,DF,DF (CB),Tottenham Hotspur,18,2008,185cm,tm_1196272,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bradley Burrowes,England,FW,FW (WM),Aston Villa,18,2008,169cm,tm_1202361,1,16,0.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mateus Mané,Portugal,MF,MF (AM),Wolverhampton Wanderers,19,2007,175cm,tm_1230661,27,1790,19.89,3,2,5,0,0,0.15,0.1,0.25,transfermarkt_datasets,False,2026-11-09
+Jocelin Ta Bi,Cote d'Ivoire,FW,FW (WM),Sunderland AFC,21,2005,175cm,tm_1322090,1,39,0.43,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joél Drakes-Thomas,England,FW,FW (WM),Crystal Palace,17,2009,180cm,tm_1348941,2,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jerome Abbey,England,MF,MF (DM),Wolverhampton Wanderers,17,2009,,tm_1370903,1,16,0.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09

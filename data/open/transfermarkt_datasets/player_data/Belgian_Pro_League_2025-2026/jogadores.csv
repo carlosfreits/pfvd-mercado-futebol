@@ -1,0 +1,437 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at
+Roman Neustädter,Russia,DF,DF (CB),KVC Westerlo,38,1988,188cm,tm_40478,12,912,10.13,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jelle Vossen,Belgium,FW,FW (AM),Zulte Waregem,37,1989,183cm,tm_42748,15,319,3.54,2,0,2,0,0,0.56,0.0,0.56,transfermarkt_datasets,False,2026-11-09
+Guillaume François,Belgium,DF,DF (FB),Union Saint-Gilloise,36,1990,174cm,tm_72736,1,4,0.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mats Rits,Belgium,MF,MF (DM),RSC Anderlecht,33,1993,178cm,tm_92164,1,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Thorgan Hazard,Belgium,MF,MF (AM),RSC Anderlecht,33,1993,175cm,tm_102226,27,2213,24.59,12,8,20,6,0,0.49,0.33,0.81,transfermarkt_datasets,False,2026-11-09
+Hannes Van Der Bruggen,Belgium,MF,MF (DM),Cercle Brugge,33,1993,181cm,tm_110822,28,2265,25.17,0,1,1,6,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Benito Raman,Belgium,FW,FW (AM),KV Mechelen,32,1994,172cm,tm_112930,21,769,8.54,3,3,6,0,0,0.35,0.35,0.7,transfermarkt_datasets,False,2026-11-09
+Sergiy Sydorchuk,Ukraine,MF,MF (DM),KVC Westerlo,35,1991,189cm,tm_124182,11,215,2.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joris Kayembe,DR Congo,DF,DF (FB),KRC Genk,32,1994,180cm,tm_129586,20,1654,18.38,0,1,1,4,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Dennis Praet,Belgium,MF,MF (CM),Royal Antwerp FC,32,1994,181cm,tm_129588,22,1755,19.5,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hans Vanaken,Belgium,MF,MF (AM),Club Brugge KV,34,1992,195cm,tm_137576,29,2565,28.5,4,1,5,2,0,0.14,0.04,0.18,transfermarkt_datasets,False,2026-11-09
+Casper Nielsen,Denmark,MF,MF (CM),Standard Liège,32,1994,182cm,tm_148365,18,1257,13.97,2,2,4,4,0,0.14,0.14,0.29,transfermarkt_datasets,False,2026-11-09
+Tobias Mohr,Germany,MF,MF (WM),Standard Liège,31,1995,182cm,tm_153661,30,2078,23.09,1,2,3,3,0,0.04,0.09,0.13,transfermarkt_datasets,False,2026-11-09
+Rob Schoofs,Belgium,MF,MF (CM),KV Mechelen,32,1994,178cm,tm_157396,6,531,5.9,2,0,2,1,0,0.34,0.0,0.34,transfermarkt_datasets,False,2026-11-09
+Rob Schoofs,Belgium,MF,MF (CM),Union Saint-Gilloise,32,1994,178cm,tm_157396,23,1099,12.21,2,3,5,3,0,0.16,0.25,0.41,transfermarkt_datasets,False,2026-11-09
+Patrick Pflücke,Germany,MF,MF (WM),Royal Charleroi Sporting Club,30,1996,170cm,tm_159522,25,1810,20.11,3,6,9,0,0,0.15,0.3,0.45,transfermarkt_datasets,False,2026-11-09
+Patrick Pflücke,Germany,MF,MF (WM),KV Mechelen,30,1996,170cm,tm_159522,6,290,3.22,0,1,1,0,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Noë Dussenne,Belgium,DF,DF (CB),Oud-Heverlee Leuven,34,1992,192cm,tm_160736,21,1746,19.4,1,1,2,6,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Boli Bolingoli,Belgium,DF,DF (FB),Standard Liège,31,1995,181cm,tm_168156,3,115,1.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ludwig Augustinsson,Sweden,DF,DF (FB),RSC Anderlecht,32,1994,181cm,tm_170646,19,1445,16.06,0,2,2,4,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Nikola Storm,Belgium,FW,FW (WM),KV Mechelen,32,1994,178cm,tm_183120,1,73,0.81,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pieter Gerkens,Belgium,MF,MF (AM),Cercle Brugge,31,1995,179cm,tm_183383,29,2397,26.63,6,0,6,1,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Glenn Bijl,Netherlands,DF,DF (FB),Royal Antwerp FC,31,1995,179cm,tm_203961,10,575,6.39,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marco Ilaimaharitra,Madagascar,MF,MF (DM),Standard Liège,31,1995,178cm,tm_205550,24,1990,22.11,3,0,3,9,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Vincent Janssen,Netherlands,FW,FW (AM),Royal Antwerp FC,32,1994,185cm,tm_207015,27,2391,26.57,7,5,12,6,0,0.26,0.19,0.45,transfermarkt_datasets,False,2026-11-09
+Visar Musliu,North Macedonia,DF,DF (CB),Sint-Truidense VV,32,1994,187cm,tm_207623,20,1688,18.76,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Siebe Schrijvers,Belgium,MF,MF (CM),Oud-Heverlee Leuven,30,1996,179cm,tm_208552,20,1482,16.47,2,4,6,5,0,0.12,0.24,0.36,transfermarkt_datasets,False,2026-11-09
+Kiki Kouyaté,Mali,DF,DF (CB),Royal Antwerp FC,29,1997,192cm,tm_211637,21,1139,12.66,1,0,1,5,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Alireza Jahanbakhsh,Iran,FW,FW (WM),FCV Dender EH,33,1993,180cm,tm_213268,16,531,5.9,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Patrik Hrosovsky,Slovakia,MF,MF (CM),KRC Genk,34,1992,173cm,tm_217879,16,1004,11.16,1,1,2,0,0,0.09,0.09,0.18,transfermarkt_datasets,False,2026-11-09
+Kerim Mrabti,Sweden,MF,MF (AM),KV Mechelen,32,1994,175cm,tm_225569,23,1495,16.61,5,2,7,3,0,0.3,0.12,0.42,transfermarkt_datasets,False,2026-11-09
+Simen Juklerød,Norway,DF,DF (FB),Sint-Truidense VV,32,1994,187cm,tm_230985,16,750,8.33,1,4,5,0,0,0.12,0.48,0.6,transfermarkt_datasets,False,2026-11-09
+Sofiane Boufal,Morocco,MF,MF (AM),Union Saint-Gilloise,33,1993,175cm,tm_232271,9,171,1.9,0,1,1,0,0,0.0,0.53,0.53,transfermarkt_datasets,False,2026-11-09
+Birger Verstraete,Belgium,MF,MF (DM),Oud-Heverlee Leuven,32,1994,174cm,tm_234193,23,1498,16.64,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Wolke Janssens,Belgium,DF,DF (CB),Sint-Truidense VV,31,1995,185cm,tm_235247,4,16,0.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Brandon Mechele,Belgium,DF,DF (CB),Club Brugge KV,33,1993,190cm,tm_236168,29,2535,28.17,4,2,6,4,0,0.14,0.07,0.21,transfermarkt_datasets,False,2026-11-09
+Christian Burgess,England,DF,DF (CB),Union Saint-Gilloise,35,1991,196cm,tm_244221,26,2337,25.97,2,4,6,8,0,0.08,0.15,0.23,transfermarkt_datasets,False,2026-11-09
+Dennis Eckert Ayensa,Iran,FW,FW (AM),Standard Liège,29,1997,182cm,tm_249303,27,1638,18.2,3,0,3,1,0,0.16,0.0,0.16,transfermarkt_datasets,False,2026-11-09
+Thibault Vlietinck,Belgium,DF,DF (FB),Oud-Heverlee Leuven,29,1997,180cm,tm_249568,6,192,2.13,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Isaac Mbenza,Belgium,FW,FW (WM),Royal Charleroi Sporting Club,30,1996,188cm,tm_260806,4,187,2.08,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gyrano Kerk,Suriname,FW,FW (WM),Royal Antwerp FC,31,1995,183cm,tm_268112,19,1503,16.7,2,4,6,3,0,0.12,0.24,0.36,transfermarkt_datasets,False,2026-11-09
+Mathias Rasmussen,Norway,MF,MF (CM),Union Saint-Gilloise,29,1997,180cm,tm_268327,16,708,7.87,2,1,3,1,0,0.25,0.13,0.38,transfermarkt_datasets,False,2026-11-09
+David Bates,Scotland,DF,DF (CB),Standard Liège,30,1996,193cm,tm_272539,9,577,6.41,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kasper Dolberg,Denmark,FW,FW (AM),RSC Anderlecht,29,1997,187cm,tm_283196,3,122,1.36,1,0,1,0,0,0.74,0.0,0.74,transfermarkt_datasets,False,2026-11-09
+Benoît Nyssen,Belgium,DF,DF (FB),Zulte Waregem,29,1997,186cm,tm_286007,25,1591,17.68,2,2,4,3,0,0.11,0.11,0.23,transfermarkt_datasets,False,2026-11-09
+Laurent Lemoine,Belgium,DF,DF (CB),Zulte Waregem,28,1998,186cm,tm_289584,16,1176,13.07,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dante Vanzeir,Belgium,FW,FW (AM),KAA Gent,28,1998,175cm,tm_289648,5,146,1.62,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dante Vanzeir,Belgium,FW,FW (AM),Cercle Brugge,28,1998,175cm,tm_289648,9,461,5.12,1,1,2,0,0,0.2,0.2,0.39,transfermarkt_datasets,False,2026-11-09
+Lion Lauberbach,Germany,FW,FW (AM),KV Mechelen,28,1998,194cm,tm_307800,22,1872,20.8,6,1,7,4,0,0.29,0.05,0.34,transfermarkt_datasets,False,2026-11-09
+Shogo Taniguchi,Japan,DF,DF (CB),Sint-Truidense VV,35,1991,185cm,tm_307870,30,2248,24.98,1,1,2,3,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Mathieu Maertens,Belgium,MF,MF (AM),Oud-Heverlee Leuven,31,1995,185cm,tm_310131,27,1041,11.57,1,3,4,4,0,0.09,0.26,0.35,transfermarkt_datasets,False,2026-11-09
+Marsoni Sambu,Angola,DF,DF (FB),FCV Dender EH,30,1996,182cm,tm_316709,23,1562,17.36,0,5,5,4,0,0.0,0.29,0.29,transfermarkt_datasets,False,2026-11-09
+Vetle Dragsnes,Norway,DF,DF (FB),Royal Charleroi Sporting Club,32,1994,187cm,tm_320046,2,93,1.03,1,0,1,0,0,0.97,0.0,0.97,transfermarkt_datasets,False,2026-11-09
+Gustaf Nilsson,Sweden,FW,FW (AM),Club Brugge KV,29,1997,197cm,tm_320440,5,35,0.39,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Daam Foulon,Belgium,DF,DF (FB),Royal Antwerp FC,27,1999,180cm,tm_338637,23,1544,17.16,0,3,3,2,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Joël Ito,Belgium,MF,MF (AM),RAAL La Louvière,28,1998,166cm,tm_338652,28,2077,23.08,1,1,2,1,0,0.04,0.04,0.09,transfermarkt_datasets,False,2026-11-09
+Thibaud Verlinden,Belgium,FW,FW (WM),Oud-Heverlee Leuven,27,1999,174cm,tm_338673,21,1189,13.21,2,4,6,4,0,0.15,0.3,0.45,transfermarkt_datasets,False,2026-11-09
+Kobe Cools,Belgium,DF,DF (CB),FCV Dender EH,29,1997,192cm,tm_340162,18,1314,14.6,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alessio Castro-Montes,Belgium,MF,MF (WM),Union Saint-Gilloise,29,1997,175cm,tm_340166,5,142,1.58,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Antoine Bernier,Belgium,FW,FW (WM),Royal Charleroi Sporting Club,29,1997,170cm,tm_340343,28,1650,18.33,3,2,5,5,0,0.16,0.11,0.27,transfermarkt_datasets,False,2026-11-09
+Bryan Goncalves,France,DF,DF (CB),FCV Dender EH,30,1996,190cm,tm_340487,20,1604,17.82,0,2,2,4,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Jean-Kévin Duverne,Haiti,DF,DF (CB),KAA Gent,29,1997,184cm,tm_344864,14,735,8.17,0,1,1,4,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Leonardo Lopes,Portugal,MF,MF (CM),KAA Gent,28,1998,176cm,tm_348756,27,1595,17.72,1,1,2,1,0,0.06,0.06,0.11,transfermarkt_datasets,False,2026-11-09
+Junya Ito,Japan,FW,FW (WM),KRC Genk,33,1993,177cm,tm_348791,18,1027,11.41,4,2,6,3,0,0.35,0.18,0.53,transfermarkt_datasets,False,2026-11-09
+Sory Kaba,Guinea,FW,FW (AM),Oud-Heverlee Leuven,31,1995,191cm,tm_355689,21,1126,12.51,6,1,7,5,0,0.48,0.08,0.56,transfermarkt_datasets,False,2026-11-09
+Bryan Heynen,Belgium,MF,MF (CM),KRC Genk,29,1997,184cm,tm_356081,29,2592,28.8,4,1,5,5,0,0.14,0.03,0.17,transfermarkt_datasets,False,2026-11-09
+Majeed Ashimeru,Ghana,MF,MF (CM),RAAL La Louvière,29,1997,174cm,tm_360140,6,250,2.78,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mory Konaté,Guinea,MF,MF (DM),KV Mechelen,33,1993,191cm,tm_364370,24,1777,19.74,1,1,2,5,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Adriano Bertaccini,Belgium,FW,FW (AM),RSC Anderlecht,26,2000,173cm,tm_364896,22,1182,13.13,3,2,5,4,0,0.23,0.15,0.38,transfermarkt_datasets,False,2026-11-09
+Adriano Bertaccini,Belgium,FW,FW (AM),Sint-Truidense VV,26,2000,173cm,tm_364896,1,27,0.3,1,1,2,0,0,3.33,3.33,6.67,transfermarkt_datasets,False,2026-11-09
+Zan Rogelj,Slovenia,MF,MF (WM),Royal Charleroi Sporting Club,27,1999,175cm,tm_371861,2,152,1.69,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Edgaras Utkus,Lithuania,DF,DF (CB),Cercle Brugge,26,2000,190cm,tm_379315,19,1451,16.12,3,0,3,2,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+William Balikwisha,DR Congo,MF,MF (AM),Oud-Heverlee Leuven,27,1999,173cm,tm_381968,7,199,2.21,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohammed El Hankouri,Morocco,MF,MF (AM),Standard Liège,29,1997,176cm,tm_384587,13,621,6.9,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Doğucan Haspolat,Türkiye,MF,MF (DM),KVC Westerlo,26,2000,177cm,tm_387143,29,2610,29.0,0,4,4,7,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Daiki Hashioka,Japan,DF,DF (FB),KAA Gent,27,1999,184cm,tm_387191,7,493,5.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Michal Skoras,Poland,FW,FW (WM),KAA Gent,26,2000,172cm,tm_393565,22,1793,19.92,2,7,9,3,0,0.1,0.35,0.45,transfermarkt_datasets,False,2026-11-09
+Michal Skoras,Poland,FW,FW (WM),Club Brugge KV,26,2000,172cm,tm_393565,2,76,0.84,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mouhamed Belkheir,Algeria,FW,FW (AM),RAAL La Louvière,27,1999,185cm,tm_394127,3,167,1.86,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maxime Pau,France,MF,MF (AM),RAAL La Louvière,26,2000,170cm,tm_395245,14,689,7.66,1,1,2,2,0,0.13,0.13,0.26,transfermarkt_datasets,False,2026-11-09
+Théo Epailly,France,FW,FW (WM),RAAL La Louvière,27,1999,178cm,tm_395514,4,86,0.96,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Wilfried Kanga,Cote d'Ivoire,FW,FW (AM),KAA Gent,28,1998,189cm,tm_395523,25,2025,22.5,10,4,14,3,0,0.44,0.18,0.62,transfermarkt_datasets,False,2026-11-09
+Siebe Van der Heyden,Belgium,DF,DF (CB),KAA Gent,28,1998,185cm,tm_400131,26,2145,23.83,2,1,3,6,0,0.08,0.04,0.13,transfermarkt_datasets,False,2026-11-09
+Roman Kvet,Czech Republic,MF,MF (CM),FCV Dender EH,29,1997,187cm,tm_400649,30,2476,27.51,5,0,5,4,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Kevin Van Den Kerkhof,Algeria,DF,DF (FB),Royal Charleroi Sporting Club,30,1996,190cm,tm_400680,20,1264,14.04,2,1,3,3,0,0.14,0.07,0.21,transfermarkt_datasets,False,2026-11-09
+Lukasz Lakomy,Poland,MF,MF (DM),Oud-Heverlee Leuven,25,2001,183cm,tm_401598,23,1697,18.86,3,3,6,4,0,0.16,0.16,0.32,transfermarkt_datasets,False,2026-11-09
+Marlon Fossey,United States,DF,DF (FB),Standard Liège,28,1998,179cm,tm_408562,15,1165,12.94,1,2,3,2,0,0.08,0.15,0.23,transfermarkt_datasets,False,2026-11-09
+Teddy Teuma,Malta,MF,MF (CM),Standard Liège,33,1993,176cm,tm_409153,5,294,3.27,0,1,1,1,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Sekou Sidibe,Belgium,FW,FW (WM),RAAL La Louvière,25,2001,172cm,tm_409513,5,144,1.6,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ragnar Oratmangoen,Indonesia,FW,FW (WM),FCV Dender EH,28,1998,181cm,tm_410854,12,265,2.94,1,0,1,0,0,0.34,0.0,0.34,transfermarkt_datasets,False,2026-11-09
+Thomas Henry,France,FW,FW (AM),Standard Liège,32,1994,191cm,tm_412513,21,1361,15.12,3,2,5,5,0,0.2,0.13,0.33,transfermarkt_datasets,False,2026-11-09
+Enric Llansana,Netherlands,MF,MF (DM),RSC Anderlecht,25,2001,183cm,tm_412945,22,1232,13.69,0,2,2,4,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Jules Gaudin,France,DF,DF (FB),Royal Charleroi Sporting Club,26,2000,180cm,tm_413111,16,585,6.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ryotaro Ito,Japan,MF,MF (AM),Sint-Truidense VV,28,1998,175cm,tm_415522,27,2229,24.77,7,4,11,0,0,0.28,0.16,0.44,transfermarkt_datasets,False,2026-11-09
+Thierry Lutonda,Belgium,DF,DF (FB),RAAL La Louvière,26,2000,167cm,tm_416802,22,1539,17.1,1,0,1,0,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Danylo Sikan,Ukraine,FW,FW (AM),RSC Anderlecht,25,2001,187cm,tm_417228,5,223,2.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abdoulaye Sissako,France,MF,MF (DM),Sint-Truidense VV,28,1998,181cm,tm_418661,30,2471,27.46,1,3,4,4,0,0.04,0.11,0.15,transfermarkt_datasets,False,2026-11-09
+Takuma Ominami,Japan,DF,DF (CB),Oud-Heverlee Leuven,29,1997,184cm,tm_423112,15,1121,12.46,0,1,1,3,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Kevin Mac Allister,Argentina,DF,DF (CB),Union Saint-Gilloise,29,1997,175cm,tm_428920,25,2224,24.71,1,1,2,9,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Rihito Yamamoto,Japan,MF,MF (DM),Sint-Truidense VV,25,2001,179cm,tm_432403,29,2514,27.93,5,6,11,6,0,0.18,0.21,0.39,transfermarkt_datasets,False,2026-11-09
+Antoine Colassin,Belgium,FW,FW (AM),Royal Charleroi Sporting Club,25,2001,188cm,tm_440953,21,361,4.01,2,1,3,1,0,0.5,0.25,0.75,transfermarkt_datasets,False,2026-11-09
+Mathias Fixelles,Belgium,MF,MF (DM),KVC Westerlo,30,1996,183cm,tm_441306,4,26,0.29,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Daan Heymans,Belgium,MF,MF (AM),KRC Genk,27,1999,191cm,tm_446491,22,1649,18.32,8,4,12,2,0,0.44,0.22,0.66,transfermarkt_datasets,False,2026-11-09
+Raul Florucz,Austria,FW,FW (AM),Union Saint-Gilloise,25,2001,182cm,tm_449444,19,1105,12.28,7,3,10,0,0,0.57,0.24,0.81,transfermarkt_datasets,False,2026-11-09
+Ross Sykes,England,DF,DF (CB),Union Saint-Gilloise,27,1999,200cm,tm_450958,23,1813,20.14,3,1,4,6,0,0.15,0.05,0.2,transfermarkt_datasets,False,2026-11-09
+Christos Tzolis,Greece,FW,FW (WM),Club Brugge KV,24,2002,179cm,tm_451677,26,2172,24.13,9,13,22,4,0,0.37,0.54,0.91,transfermarkt_datasets,False,2026-11-09
+Joedrick Pupe,Belgium,DF,DF (CB),FCV Dender EH,29,1997,190cm,tm_452296,4,315,3.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bruny Nsimba,Belgium,FW,FW (AM),FCV Dender EH,26,2000,187cm,tm_452584,25,1730,19.22,8,4,12,3,0,0.42,0.21,0.62,transfermarkt_datasets,False,2026-11-09
+Killian Sardella,Belgium,DF,DF (FB),RSC Anderlecht,24,2002,174cm,tm_454336,25,1585,17.61,0,1,1,2,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Tommy St. Jago,Curacao,DF,DF (CB),KV Mechelen,26,2000,186cm,tm_458734,21,1683,18.7,0,1,1,3,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Anton Tanghe,Belgium,DF,DF (CB),Zulte Waregem,27,1999,194cm,tm_460848,21,1664,18.49,3,0,3,2,0,0.16,0.0,0.16,transfermarkt_datasets,False,2026-11-09
+Wagane Faye,Senegal,DF,DF (CB),RAAL La Louvière,33,1993,185cm,tm_463133,23,1947,21.63,2,1,3,4,0,0.09,0.05,0.14,transfermarkt_datasets,False,2026-11-09
+Loïc Mbe Soh,France,DF,DF (CB),Sint-Truidense VV,25,2001,187cm,tm_463610,8,625,6.94,1,0,1,1,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Mardochée Nzita,Belgium,DF,DF (FB),Royal Charleroi Sporting Club,26,2000,178cm,tm_463738,28,2153,23.92,0,1,1,3,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+David Hrncar,Slovakia,MF,MF (WM),FCV Dender EH,29,1997,187cm,tm_471621,15,590,6.56,1,0,1,0,0,0.15,0.0,0.15,transfermarkt_datasets,False,2026-11-09
+Bryan Reynolds,United States,DF,DF (FB),KVC Westerlo,25,2001,189cm,tm_475208,29,2594,28.82,2,1,3,6,0,0.07,0.03,0.1,transfermarkt_datasets,False,2026-11-09
+Allahyar Sayyadmanesh,Iran,FW,FW (WM),KVC Westerlo,25,2001,182cm,tm_480975,24,1776,19.73,5,4,9,4,0,0.25,0.2,0.46,transfermarkt_datasets,False,2026-11-09
+Youssef Maziz,France,MF,MF (AM),Oud-Heverlee Leuven,28,1998,175cm,tm_481116,27,1557,17.3,3,3,6,6,0,0.17,0.17,0.35,transfermarkt_datasets,False,2026-11-09
+Nathan Rôdes,Belgium,MF,MF (DM),FCV Dender EH,29,1997,191cm,tm_481171,27,1463,16.26,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tiago Araújo,Portugal,DF,DF (FB),KAA Gent,25,2001,184cm,tm_481628,24,1800,20.0,1,5,6,6,0,0.05,0.25,0.3,transfermarkt_datasets,False,2026-11-09
+Anouar Ait El Hadj,Belgium,MF,MF (AM),Union Saint-Gilloise,24,2002,167cm,tm_486039,28,1963,21.81,0,2,2,2,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Marco Kana,Belgium,DF,DF (CB),RSC Anderlecht,24,2002,182cm,tm_486051,18,1472,16.36,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nayel Mehssatou,Chile,MF,MF (CM),Standard Liège,24,2002,173cm,tm_486053,25,1014,11.27,0,2,2,1,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Maksim Paskotsi,Estonia,DF,DF (CB),KAA Gent,23,2003,188cm,tm_488298,22,1813,20.14,4,2,6,1,0,0.2,0.1,0.3,transfermarkt_datasets,False,2026-11-09
+Ludovit Reis,Netherlands,MF,MF (CM),Club Brugge KV,26,2000,178cm,tm_490884,7,266,2.96,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Andri Gudjohnsen,Iceland,FW,FW (AM),KAA Gent,24,2002,188cm,tm_490967,2,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ewoud Pletinckx,Belgium,DF,DF (CB),Oud-Heverlee Leuven,26,2000,190cm,tm_491298,30,2638,29.31,3,0,3,4,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Henok Teklab,Germany,FW,FW (WM),Oud-Heverlee Leuven,28,1998,174cm,tm_492634,16,870,9.67,1,0,1,3,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Atsuki Ito,Japan,MF,MF (CM),KAA Gent,28,1998,185cm,tm_492715,26,2055,22.83,4,3,7,3,0,0.18,0.13,0.31,transfermarkt_datasets,False,2026-11-09
+Aurélien Scheidler,France,FW,FW (AM),Royal Charleroi Sporting Club,28,1998,192cm,tm_497175,26,2246,24.96,7,2,9,2,0,0.28,0.08,0.36,transfermarkt_datasets,False,2026-11-09
+Aurélien Scheidler,France,FW,FW (AM),FCV Dender EH,28,1998,192cm,tm_497175,4,336,3.73,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mujaid Sadick,Spain,DF,DF (CB),KRC Genk,26,2000,183cm,tm_497663,29,2473,27.48,2,0,2,3,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Hugo Vetlesen,Norway,MF,MF (CM),Club Brugge KV,26,2000,174cm,tm_499758,16,670,7.44,2,2,4,1,0,0.27,0.27,0.54,transfermarkt_datasets,False,2026-11-09
+Seiji Kimura,Japan,DF,DF (CB),KVC Westerlo,25,2001,186cm,tm_501749,14,1215,13.5,1,0,1,0,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Michel-Ange Balikwisha,DR Congo,FW,FW (WM),Royal Antwerp FC,25,2001,178cm,tm_502239,4,347,3.86,1,0,1,0,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+Louis Patris,Belgium,DF,DF (FB),Sint-Truidense VV,25,2001,187cm,tm_502247,6,519,5.77,0,2,2,0,0,0.0,0.35,0.35,transfermarkt_datasets,False,2026-11-09
+Louis Patris,Belgium,DF,DF (FB),Union Saint-Gilloise,25,2001,187cm,tm_502247,22,857,9.52,0,1,1,2,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Thomas Van den Keybus,Belgium,MF,MF (CM),KVC Westerlo,25,2001,181cm,tm_502298,25,910,10.11,1,0,1,2,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Yari Verschaeren,Belgium,MF,MF (AM),RSC Anderlecht,25,2001,170cm,tm_502302,19,855,9.5,0,1,1,1,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Christopher Scott,Germany,MF,MF (WM),Royal Antwerp FC,24,2002,178cm,tm_503162,21,1328,14.76,2,1,3,2,0,0.14,0.07,0.2,transfermarkt_datasets,False,2026-11-09
+Fredrik Hammar,Sweden,MF,MF (DM),KV Mechelen,25,2001,182cm,tm_504245,28,2488,27.64,1,1,2,8,0,0.04,0.04,0.07,transfermarkt_datasets,False,2026-11-09
+Hassane Bandé,Burkina Faso,FW,FW (WM),KV Mechelen,28,1998,178cm,tm_504259,7,66,0.73,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lewin Blum,Switzerland,DF,DF (FB),Royal Charleroi Sporting Club,25,2001,181cm,tm_507455,23,1129,12.54,0,1,1,5,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Ousseynou Niang,Senegal,MF,MF (WM),Union Saint-Gilloise,25,2001,168cm,tm_509463,20,1370,15.22,2,5,7,5,0,0.13,0.33,0.46,transfermarkt_datasets,False,2026-11-09
+Jakob Kiilerich,Denmark,DF,DF (CB),Zulte Waregem,26,2000,190cm,tm_521225,23,1812,20.13,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Timothé Nkada,France,FW,FW (AM),Standard Liège,27,1999,180cm,tm_522788,20,757,8.41,1,1,2,1,0,0.12,0.12,0.24,transfermarkt_datasets,False,2026-11-09
+Jérémy Petris,Martinique,DF,DF (FB),Royal Charleroi Sporting Club,28,1998,183cm,tm_532858,5,376,4.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sami Lahssaini,Belgium,MF,MF (CM),RAAL La Louvière,28,1998,177cm,tm_535706,27,2362,26.24,1,1,2,4,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Ibrahim Karamoko,France,DF,DF (CB),Standard Liège,25,2001,190cm,tm_538072,22,1510,16.78,1,0,1,6,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Ryan Merlen,France,MF,MF (CM),Sint-Truidense VV,24,2002,188cm,tm_538970,24,470,5.22,0,1,1,2,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Alexis Beka Beka,France,MF,MF (DM),RAAL La Louvière,25,2001,178cm,tm_539065,3,53,0.59,1,0,1,0,0,1.69,0.0,1.69,transfermarkt_datasets,False,2026-11-09
+César Huerta,Mexico,FW,FW (WM),RSC Anderlecht,26,2000,171cm,tm_540315,7,387,4.3,1,0,1,4,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+David Toshevski,North Macedonia,FW,FW (AM),FCV Dender EH,25,2001,187cm,tm_542338,20,1266,14.07,4,0,4,3,0,0.28,0.0,0.28,transfermarkt_datasets,False,2026-11-09
+Jeppe Erenbjerg,Denmark,MF,MF (AM),Zulte Waregem,26,2000,184cm,tm_543302,30,2416,26.84,10,3,13,2,0,0.37,0.11,0.48,transfermarkt_datasets,False,2026-11-09
+Anosike Ementa,Denmark,FW,FW (AM),Zulte Waregem,24,2002,202cm,tm_543311,26,2156,23.96,3,4,7,4,0,0.13,0.17,0.29,transfermarkt_datasets,False,2026-11-09
+Óscar Gil,Spain,DF,DF (FB),Oud-Heverlee Leuven,28,1998,175cm,tm_544106,27,2023,22.48,2,0,2,10,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Tobias Hedl,Austria,FW,FW (AM),Zulte Waregem,23,2003,185cm,tm_548037,8,256,2.84,1,0,1,0,0,0.35,0.0,0.35,transfermarkt_datasets,False,2026-11-09
+Wouter George,Belgium,MF,MF (CM),Oud-Heverlee Leuven,24,2002,172cm,tm_551932,16,738,8.2,0,1,1,2,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Filip Szymczak,Poland,FW,FW (WM),Royal Charleroi Sporting Club,24,2002,187cm,tm_554972,16,259,2.88,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hyun-seok Hong,"Korea, South",MF,MF (AM),KAA Gent,27,1999,177cm,tm_562948,9,478,5.31,1,1,2,0,0,0.19,0.19,0.38,transfermarkt_datasets,False,2026-11-09
+José Marsà,Spain,DF,DF (CB),KV Mechelen,24,2002,185cm,tm_563139,23,1699,18.88,1,3,4,3,0,0.05,0.16,0.21,transfermarkt_datasets,False,2026-11-09
+Ibe Hautekiet,Belgium,DF,DF (CB),Standard Liège,24,2002,188cm,tm_565016,26,2047,22.74,2,1,3,3,0,0.09,0.04,0.13,transfermarkt_datasets,False,2026-11-09
+Alexandro Calut,Belgium,DF,DF (FB),Standard Liège,23,2003,180cm,tm_565428,9,414,4.6,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nils De Wilde,Belgium,MF,MF (CM),Cercle Brugge,23,2003,182cm,tm_565431,8,68,0.76,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Anthony Descotte,Belgium,FW,FW (AM),Royal Charleroi Sporting Club,23,2003,180cm,tm_565434,3,92,1.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aimé Omgba,Netherlands,MF,MF (AM),KAA Gent,24,2002,190cm,tm_568373,13,163,1.81,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Charles Vanhoutte,Belgium,MF,MF (DM),Union Saint-Gilloise,28,1998,182cm,tm_569845,5,450,5.0,0,1,1,2,0,0.0,0.2,0.2,transfermarkt_datasets,False,2026-11-09
+Taiga Hata,Japan,DF,DF (FB),Sint-Truidense VV,24,2002,177cm,tm_570572,26,2014,22.38,0,4,4,0,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Ilay Camara,Senegal,DF,DF (FB),RSC Anderlecht,23,2003,174cm,tm_570781,19,1009,11.21,1,1,2,1,0,0.09,0.09,0.18,transfermarkt_datasets,False,2026-11-09
+Lukas Willen,Belgium,DF,DF (CB),Zulte Waregem,23,2003,189cm,tm_574501,14,1055,11.72,0,1,1,3,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Hugo Siquet,Belgium,DF,DF (FB),Club Brugge KV,24,2002,180cm,tm_578680,21,657,7.3,0,1,1,1,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Fabio Ferraro,Belgium,DF,DF (FB),FCV Dender EH,24,2002,180cm,tm_579084,29,2532,28.13,1,3,4,5,0,0.04,0.11,0.14,transfermarkt_datasets,False,2026-11-09
+Christiaan Ravych,Belgium,DF,DF (CB),Cercle Brugge,24,2002,193cm,tm_579089,26,2213,24.59,0,1,1,2,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Henry Lawrence,England,DF,DF (FB),Standard Liège,25,2001,175cm,tm_580765,21,1668,18.53,1,0,1,3,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Adnane Abid,Belgium,FW,FW (WM),Standard Liège,23,2003,167cm,tm_583899,24,1313,14.59,2,1,3,4,0,0.14,0.07,0.21,transfermarkt_datasets,False,2026-11-09
+Yannick Cappelle,Belgium,DF,DF (FB),Zulte Waregem,23,2003,180cm,tm_583901,24,1757,19.52,1,1,2,2,0,0.05,0.05,0.1,transfermarkt_datasets,False,2026-11-09
+Keano Vanrafelghem,Belgium,FW,FW (AM),KV Mechelen,23,2003,171cm,tm_583919,11,431,4.79,3,0,3,2,0,0.63,0.0,0.63,transfermarkt_datasets,False,2026-11-09
+Aiham Ousou,Syria,DF,DF (CB),Royal Charleroi Sporting Club,26,2000,186cm,tm_585068,29,2495,27.72,2,0,2,9,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Mario Stroeykens,DR Congo,MF,MF (AM),RSC Anderlecht,22,2004,177cm,tm_588866,20,668,7.42,1,0,1,2,0,0.13,0.0,0.13,transfermarkt_datasets,False,2026-11-09
+Maxence Maisonneuve,France,DF,DF (CB),RAAL La Louvière,27,1999,191cm,tm_589273,25,1917,21.3,0,1,1,3,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Enrique Lofolomo,Germany,MF,MF (DM),Zulte Waregem,26,2000,185cm,tm_591032,16,873,9.7,0,1,1,5,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Abdelkahar Kadri,Algeria,MF,MF (AM),KAA Gent,26,2000,170cm,tm_592400,23,1703,18.92,2,5,7,4,0,0.11,0.26,0.37,transfermarkt_datasets,False,2026-11-09
+Adem Zorgane,Algeria,MF,MF (CM),Union Saint-Gilloise,26,2000,184cm,tm_592403,28,2198,24.42,2,4,6,4,0,0.08,0.16,0.25,transfermarkt_datasets,False,2026-11-09
+Owen Maës,France,MF,MF (AM),RAAL La Louvière,28,1998,175cm,tm_593286,20,1211,13.46,0,2,2,3,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Bjorn Meijer,Netherlands,DF,DF (FB),Club Brugge KV,23,2003,190cm,tm_594227,21,895,9.94,1,2,3,1,0,0.1,0.2,0.3,transfermarkt_datasets,False,2026-11-09
+Nikola Stulic,Serbia,FW,FW (AM),Royal Charleroi Sporting Club,25,2001,188cm,tm_595650,3,217,2.41,1,0,1,0,0,0.41,0.0,0.41,transfermarkt_datasets,False,2026-11-09
+Serxho Ujka,Albania,MF,MF (AM),Zulte Waregem,28,1998,190cm,tm_597289,11,476,5.29,1,1,2,0,0,0.19,0.19,0.38,transfermarkt_datasets,False,2026-11-09
+Arbnor Muja,Albania,FW,FW (WM),Sint-Truidense VV,28,1998,179cm,tm_606967,21,1490,16.56,5,1,6,2,0,0.3,0.06,0.36,transfermarkt_datasets,False,2026-11-09
+Wilguens Paugain,Haiti,DF,DF (FB),Zulte Waregem,25,2001,180cm,tm_609691,19,1011,11.23,1,0,1,1,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Stavros Gavriel,Cyprus,FW,FW (WM),Zulte Waregem,24,2002,180cm,tm_613983,21,600,6.67,1,1,2,0,0,0.15,0.15,0.3,transfermarkt_datasets,False,2026-11-09
+Ryan Teague,Australia,MF,MF (DM),KV Mechelen,24,2002,182cm,tm_616431,5,35,0.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohamed Guindo,Mali,FW,FW (AM),RAAL La Louvière,23,2003,184cm,tm_617698,14,573,6.37,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Daan Dierckx,Belgium,DF,DF (CB),Standard Liège,23,2003,192cm,tm_621965,18,1176,13.07,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lynnt Audoor,Belgium,MF,MF (DM),Club Brugge KV,23,2003,182cm,tm_623095,6,187,2.08,0,1,1,0,0,0.0,0.48,0.48,transfermarkt_datasets,False,2026-11-09
+Parfait Guiagon,Cote d'Ivoire,FW,FW (WM),Royal Charleroi Sporting Club,25,2001,165cm,tm_624913,26,2084,23.16,8,5,13,5,0,0.35,0.22,0.56,transfermarkt_datasets,False,2026-11-09
+Franck Surdez,Switzerland,FW,FW (WM),KAA Gent,24,2002,188cm,tm_627196,14,362,4.02,1,0,1,2,0,0.25,0.0,0.25,transfermarkt_datasets,False,2026-11-09
+Griffin Yow,United States,FW,FW (WM),KVC Westerlo,24,2002,175cm,tm_627205,16,658,7.31,3,0,3,0,0,0.41,0.0,0.41,transfermarkt_datasets,False,2026-11-09
+Jordi Liongola,Burundi,MF,MF (WM),RAAL La Louvière,26,2000,185cm,tm_627329,27,2276,25.29,1,6,7,10,0,0.04,0.24,0.28,transfermarkt_datasets,False,2026-11-09
+Ken Nkuba,Belgium,DF,DF (FB),KRC Genk,24,2002,179cm,tm_627939,11,508,5.64,1,0,1,2,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Cisse Sandra,Belgium,MF,MF (AM),Club Brugge KV,23,2003,183cm,tm_632088,9,345,3.83,1,0,1,1,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+Hyeon-gyu Oh,"Korea, South",FW,FW (AM),KRC Genk,25,2001,187cm,tm_639246,20,1109,12.32,6,3,9,2,0,0.49,0.24,0.73,transfermarkt_datasets,False,2026-11-09
+Bryan Soumaré,France,MF,MF (AM),RAAL La Louvière,27,1999,180cm,tm_644563,2,31,0.34,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Moussa Ndiaye,Senegal,DF,DF (FB),RSC Anderlecht,24,2002,181cm,tm_649022,17,970,10.78,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Myron van Brederode,Netherlands,FW,FW (WM),KV Mechelen,23,2003,174cm,tm_650712,24,1953,21.7,7,3,10,2,0,0.32,0.14,0.46,transfermarkt_datasets,False,2026-11-09
+Raf Smekens,Belgium,MF,MF (CM),KVC Westerlo,22,2004,181cm,tm_655011,2,46,0.51,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kamiel Van De Perre,Belgium,MF,MF (CM),Union Saint-Gilloise,22,2004,181cm,tm_655021,22,1619,17.99,0,3,3,8,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Josué Homawoo,Togo,DF,DF (CB),Standard Liège,29,1997,191cm,tm_655143,23,1716,19.07,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jordan Kadiri,Nigeria,FW,FW (AM),FCV Dender EH,26,2000,181cm,tm_655420,12,236,2.62,1,0,1,2,0,0.38,0.0,0.38,transfermarkt_datasets,False,2026-11-09
+Emin Bayram,Türkiye,DF,DF (CB),KVC Westerlo,23,2003,192cm,tm_655902,29,2592,28.8,3,2,5,3,0,0.1,0.07,0.17,transfermarkt_datasets,False,2026-11-09
+Marc Giger,Switzerland,FW,FW (AM),Union Saint-Gilloise,22,2004,186cm,tm_659317,16,474,5.27,3,1,4,3,0,0.57,0.19,0.76,transfermarkt_datasets,False,2026-11-09
+Félix Lemaréchal,France,MF,MF (AM),Club Brugge KV,23,2003,180cm,tm_659518,2,69,0.77,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fedde Leysen,Belgium,DF,DF (CB),Union Saint-Gilloise,23,2003,191cm,tm_660746,23,1594,17.71,1,1,2,2,0,0.06,0.06,0.11,transfermarkt_datasets,False,2026-11-09
+Dikeni Salifou,Germany,MF,MF (CM),KV Mechelen,23,2003,191cm,tm_664973,12,703,7.81,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bryang Kayo,United States,MF,MF (CM),Oud-Heverlee Leuven,24,2002,185cm,tm_666821,1,10,0.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nazinho,Portugal,DF,DF (FB),Cercle Brugge,23,2003,180cm,tm_668587,24,2074,23.04,3,4,7,12,0,0.13,0.17,0.3,transfermarkt_datasets,False,2026-11-09
+Nikolas Sattlberger,Austria,MF,MF (DM),KRC Genk,22,2004,192cm,tm_669632,19,839,9.32,0,1,1,3,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Maksim Kireev,Belarus,MF,MF (AM),KV Mechelen,22,2004,182cm,tm_671677,8,260,2.89,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Thomas Claes,Belgium,MF,MF (CM),Zulte Waregem,22,2004,181cm,tm_671682,30,2574,28.6,2,1,3,3,0,0.07,0.03,0.1,transfermarkt_datasets,False,2026-11-09
+Yira Sor,Nigeria,FW,FW (WM),KRC Genk,26,2000,178cm,tm_673382,24,1045,11.61,4,1,5,0,0,0.34,0.09,0.43,transfermarkt_datasets,False,2026-11-09
+Jovan Mijatovic,Serbia,FW,FW (AM),Oud-Heverlee Leuven,21,2005,179cm,tm_673432,14,724,8.04,0,1,1,2,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Gary Magnée,Belgium,DF,DF (FB),Cercle Brugge,27,1999,175cm,tm_679050,30,2603,28.92,4,7,11,3,0,0.14,0.24,0.38,transfermarkt_datasets,False,2026-11-09
+Casper Terho,Finland,FW,FW (WM),Oud-Heverlee Leuven,23,2003,184cm,tm_679597,12,552,6.13,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marley Aké,France,FW,FW (WM),Zulte Waregem,25,2001,178cm,tm_682032,24,1233,13.7,5,1,6,0,0,0.36,0.07,0.44,transfermarkt_datasets,False,2026-11-09
+Tolu Arokodare,Nigeria,FW,FW (AM),KRC Genk,26,2000,197cm,tm_683571,4,80,0.89,1,0,1,0,0,1.12,0.0,1.12,transfermarkt_datasets,False,2026-11-09
+Kevin Rodríguez,Ecuador,FW,FW (AM),Union Saint-Gilloise,26,2000,190cm,tm_684159,21,1164,12.93,8,1,9,1,0,0.62,0.08,0.7,transfermarkt_datasets,False,2026-11-09
+Gustav Mortensen,Denmark,DF,DF (FB),Standard Liège,22,2004,175cm,tm_685679,10,839,9.32,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kyan Vaesen,Belgium,FW,FW (AM),KVC Westerlo,25,2001,190cm,tm_687630,19,262,2.91,1,1,2,2,0,0.34,0.34,0.69,transfermarkt_datasets,False,2026-11-09
+Kyan Vaesen,Belgium,FW,FW (AM),Oud-Heverlee Leuven,25,2001,190cm,tm_687630,5,114,1.27,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Moussa Diarra,Mali,DF,DF (CB),RSC Anderlecht,26,2000,185cm,tm_694509,5,428,4.76,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Raphael Onyedika,Nigeria,MF,MF (DM),Club Brugge KV,25,2001,184cm,tm_699783,23,1688,18.76,1,0,1,3,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Samuel Gueulette,Rwanda,MF,MF (CM),RAAL La Louvière,26,2000,182cm,tm_705416,24,995,11.06,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matisse Samoise,Belgium,MF,MF (WM),KAA Gent,25,2001,180cm,tm_705991,18,1374,15.27,2,2,4,5,0,0.13,0.13,0.26,transfermarkt_datasets,False,2026-11-09
+Rein Van Helden,Belgium,DF,DF (CB),Sint-Truidense VV,24,2002,187cm,tm_706063,21,1712,19.02,1,0,1,2,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Rein Van Helden,Belgium,DF,DF (CB),Royal Antwerp FC,24,2002,187cm,tm_706063,1,36,0.4,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nikola Mituljikic,Serbia,FW,FW (WM),Zulte Waregem,23,2003,180cm,tm_706554,2,43,0.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Malick Mbaye,Senegal,FW,FW (WM),Zulte Waregem,22,2004,173cm,tm_707063,4,30,0.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jarne Steuckers,Belgium,FW,FW (WM),KRC Genk,24,2002,180cm,tm_707159,25,1376,15.29,0,6,6,0,0,0.0,0.39,0.39,transfermarkt_datasets,False,2026-11-09
+Cristian Makaté,Equatorial Guinea,FW,FW (AM),RAAL La Louvière,24,2002,178cm,tm_707546,5,99,1.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Cristian Makaté,Equatorial Guinea,FW,FW (AM),Union Saint-Gilloise,24,2002,178cm,tm_707546,2,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tuur Rommens,Belgium,DF,DF (FB),KVC Westerlo,23,2003,185cm,tm_707621,15,1223,13.59,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nachon Nsingi,Belgium,FW,FW (AM),Oud-Heverlee Leuven,25,2001,176cm,tm_707802,6,46,0.51,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nachon Nsingi,Belgium,FW,FW (AM),RAAL La Louvière,25,2001,176cm,tm_707802,5,105,1.17,1,0,1,0,0,0.85,0.0,0.85,transfermarkt_datasets,False,2026-11-09
+Desmond Acquah,Belgium,MF,MF (CM),FCV Dender EH,24,2002,173cm,tm_707803,7,105,1.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dirk Asare,Belgium,MF,MF (CM),Zulte Waregem,22,2004,173cm,tm_708453,6,463,5.14,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Romeo Vermant,Belgium,FW,FW (AM),Club Brugge KV,22,2004,184cm,tm_708454,25,1070,11.89,7,2,9,2,0,0.59,0.17,0.76,transfermarkt_datasets,False,2026-11-09
+Mathis Servais,Belgium,MF,MF (AM),KV Mechelen,22,2004,185cm,tm_708455,22,1928,21.42,2,3,5,3,0,0.09,0.14,0.23,transfermarkt_datasets,False,2026-11-09
+Darío Benavides,Spain,DF,DF (FB),RAAL La Louvière,23,2003,178cm,tm_711626,19,895,9.94,0,1,1,1,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Besfort Zeneli,Sweden,MF,MF (CM),Union Saint-Gilloise,24,2002,187cm,tm_715653,9,370,4.11,2,4,6,0,0,0.49,0.97,1.46,transfermarkt_datasets,False,2026-11-09
+Nicolò Tresoldi,Germany,FW,FW (AM),Club Brugge KV,22,2004,186cm,tm_717329,30,1811,20.12,13,3,16,1,0,0.65,0.15,0.8,transfermarkt_datasets,False,2026-11-09
+Luc Marijnissen,Netherlands,DF,DF (CB),FCV Dender EH,23,2003,190cm,tm_717604,29,2520,28.0,1,0,1,4,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Ivan Pavlic,Belgium,MF,MF (CM),Union Saint-Gilloise,25,2001,185cm,tm_719383,3,17,0.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Thibo Somers,Belgium,MF,MF (WM),Royal Antwerp FC,27,1999,183cm,tm_719456,25,2100,23.33,4,3,7,3,0,0.17,0.13,0.3,transfermarkt_datasets,False,2026-11-09
+Adedire Mebude,Scotland,FW,FW (WM),KVC Westerlo,22,2004,179cm,tm_719672,13,379,4.21,2,0,2,0,0,0.48,0.0,0.48,transfermarkt_datasets,False,2026-11-09
+Léandre Kuavita,Belgium,MF,MF (CM),Standard Liège,22,2004,180cm,tm_723485,13,307,3.41,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mathias Delorge,Belgium,MF,MF (CM),KAA Gent,22,2004,189cm,tm_723487,16,1053,11.7,0,2,2,1,0,0.0,0.17,0.17,transfermarkt_datasets,False,2026-11-09
+Benoit De Jaegere,Belgium,DF,DF (CB),Zulte Waregem,22,2004,189cm,tm_727088,12,716,7.96,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Robert-Jan Vanwesemael,Belgium,DF,DF (FB),Sint-Truidense VV,24,2002,176cm,tm_727528,27,2208,24.53,1,1,2,8,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Lucas Hey,Denmark,DF,DF (CB),RSC Anderlecht,23,2003,189cm,tm_728924,25,2018,22.42,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Takahiro Akimoto,Japan,DF,DF (FB),Oud-Heverlee Leuven,28,1998,170cm,tm_733309,25,2170,24.11,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lawrence Agyekum,Ghana,MF,MF (CM),Cercle Brugge,23,2003,174cm,tm_733410,26,1806,20.07,0,3,3,5,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Isaías Delpupo,Argentina,FW,FW (WM),Sint-Truidense VV,23,2003,176cm,tm_736034,4,23,0.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Quentin Benaets,Belgium,FW,FW (WM),Royal Charleroi Sporting Club,23,2003,,tm_738770,1,6,0.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zeno Van Den Bosch,Belgium,DF,DF (CB),Royal Antwerp FC,23,2003,191cm,tm_738774,28,2470,27.44,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zaid Romero,Argentina,DF,DF (CB),Club Brugge KV,27,1999,192cm,tm_741142,1,59,0.66,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Carlos Forbs,Portugal,FW,FW (WM),Club Brugge KV,22,2004,169cm,tm_742451,27,2029,22.54,3,7,10,3,0,0.13,0.31,0.44,transfermarkt_datasets,False,2026-11-09
+Kyriani Sabbe,Belgium,DF,DF (FB),Club Brugge KV,21,2005,175cm,tm_743122,24,1510,16.78,2,3,5,2,0,0.12,0.18,0.3,transfermarkt_datasets,False,2026-11-09
+Jorne Spileers,Belgium,DF,DF (CB),Club Brugge KV,21,2005,188cm,tm_743381,16,1123,12.48,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Noah Mbamba,Belgium,MF,MF (CM),FCV Dender EH,21,2005,196cm,tm_743395,30,2432,27.02,1,2,3,4,0,0.04,0.07,0.11,transfermarkt_datasets,False,2026-11-09
+Josimar Alcócer,Costa Rica,FW,FW (WM),KVC Westerlo,22,2004,185cm,tm_743629,26,1963,21.81,3,3,6,3,0,0.14,0.14,0.28,transfermarkt_datasets,False,2026-11-09
+Edan Diop,France,MF,MF (CM),Cercle Brugge,22,2004,185cm,tm_745178,28,2227,24.74,5,1,6,6,0,0.2,0.04,0.24,transfermarkt_datasets,False,2026-11-09
+Yllan Okou,France,DF,DF (CB),RAAL La Louvière,24,2002,191cm,tm_745202,27,2170,24.11,1,0,1,4,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Yassine Titraoui,Algeria,MF,MF (CM),Royal Charleroi Sporting Club,23,2003,180cm,tm_748445,28,2367,26.3,4,0,4,7,0,0.15,0.0,0.15,transfermarkt_datasets,False,2026-11-09
+Nail Moutha-Sebtaoui,Morocco,DF,DF (FB),FCV Dender EH,21,2005,180cm,tm_748808,11,189,2.1,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alouis Diriken,Belgium,MF,MF (DM),Sint-Truidense VV,22,2004,186cm,tm_751989,6,56,0.62,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mukhammadali Urinboev,Uzbekistan,FW,FW (WM),Royal Antwerp FC,21,2005,170cm,tm_763090,5,127,1.41,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arthur Piedfort,Belgium,MF,MF (DM),KVC Westerlo,21,2005,186cm,tm_775981,27,2246,24.96,2,3,5,2,0,0.08,0.12,0.2,transfermarkt_datasets,False,2026-11-09
+Aleksandar Stanković,Serbia,MF,MF (DM),Club Brugge KV,21,2005,185cm,tm_780136,29,2291,25.46,4,2,6,2,0,0.16,0.08,0.24,transfermarkt_datasets,False,2026-11-09
+Rafiki Saïd,Comoros,FW,FW (WM),Standard Liège,26,2000,180cm,tm_780147,27,2000,22.22,5,3,8,3,0,0.23,0.14,0.36,transfermarkt_datasets,False,2026-11-09
+Omri Gandelman,Israel,MF,MF (AM),KAA Gent,26,2000,188cm,tm_780548,18,1428,15.87,7,1,8,1,0,0.44,0.06,0.5,transfermarkt_datasets,False,2026-11-09
+Matties Volckaert,Belgium,DF,DF (CB),KAA Gent,24,2002,,tm_781812,17,1505,16.72,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bo De Kerf,Belgium,DF,DF (CB),FCV Dender EH,23,2003,191cm,tm_790238,3,85,0.94,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hatim Es-Saoubi,Morocco,DF,DF (CB),KAA Gent,26,2000,189cm,tm_800364,9,194,2.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jan-Carlo Simić,Serbia,DF,DF (CB),RSC Anderlecht,21,2005,186cm,tm_800948,2,178,1.98,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Roggerio Nyakossi,Switzerland,DF,DF (CB),Oud-Heverlee Leuven,22,2004,194cm,tm_805484,19,1530,17.0,3,0,3,3,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Max Dean,England,FW,FW (AM),KAA Gent,22,2004,178cm,tm_805889,15,680,7.56,6,1,7,1,0,0.79,0.13,0.93,transfermarkt_datasets,False,2026-11-09
+Matthis Riou,France,DF,DF (CB),RAAL La Louvière,25,2001,181cm,tm_806043,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nolan Gillot,France,DF,DF (FB),RAAL La Louvière,24,2002,183cm,tm_808128,16,849,9.43,2,4,6,0,0,0.21,0.42,0.64,transfermarkt_datasets,False,2026-11-09
+Mateo Biondic,Germany,FW,FW (AM),Union Saint-Gilloise,23,2003,190cm,tm_810285,7,172,1.91,1,1,2,0,0,0.52,0.52,1.05,transfermarkt_datasets,False,2026-11-09
+Isaac Babadi,Netherlands,MF,MF (AM),Royal Antwerp FC,21,2005,179cm,tm_813437,17,470,5.22,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Isa Sakamoto,Japan,MF,MF (AM),KVC Westerlo,23,2003,173cm,tm_814491,30,2395,26.61,4,4,8,1,0,0.15,0.15,0.3,transfermarkt_datasets,False,2026-11-09
+Check Keita,Mali,DF,DF (CB),Royal Charleroi Sporting Club,23,2003,185cm,tm_820146,30,2541,28.23,3,0,3,4,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Zakaria El Ouahdi,Morocco,DF,DF (FB),KRC Genk,25,2001,171cm,tm_820474,24,2105,23.39,7,2,9,3,0,0.3,0.09,0.38,transfermarkt_datasets,False,2026-11-09
+Matija Frigan,Croatia,FW,FW (AM),KVC Westerlo,23,2003,185cm,tm_840149,3,175,1.94,1,0,1,0,0,0.52,0.0,0.52,transfermarkt_datasets,False,2026-11-09
+Malcolm Viltard,France,MF,MF (DM),FCV Dender EH,24,2002,176cm,tm_840688,28,2109,23.43,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hélio Varela,Cape Verde,FW,FW (WM),KAA Gent,24,2002,176cm,tm_840836,3,163,1.81,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nathan-Dylan Saliba,Canada,MF,MF (CM),RSC Anderlecht,22,2004,174cm,tm_842420,27,1751,19.46,2,1,3,10,0,0.1,0.05,0.15,transfermarkt_datasets,False,2026-11-09
+Luis Vázquez,Argentina,FW,FW (AM),RSC Anderlecht,25,2001,190cm,tm_844516,14,693,7.7,2,1,3,2,0,0.26,0.13,0.39,transfermarkt_datasets,False,2026-11-09
+Mihajlo Ilić,Serbia,DF,DF (CB),RSC Anderlecht,23,2003,192cm,tm_845566,9,708,7.87,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bouke Boersma,Netherlands,FW,FW (AM),KV Mechelen,21,2005,,tm_846826,7,622,6.91,0,2,2,1,0,0.0,0.29,0.29,transfermarkt_datasets,False,2026-11-09
+Oumar Diakité,Cote d'Ivoire,FW,FW (AM),Cercle Brugge,23,2003,182cm,tm_847279,19,1105,12.28,3,2,5,4,0,0.24,0.16,0.41,transfermarkt_datasets,False,2026-11-09
+Jusef Erabi,Sweden,FW,FW (AM),KRC Genk,23,2003,183cm,tm_851699,12,395,4.39,1,0,1,2,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Ilias Sebaoui,Morocco,FW,FW (WM),Sint-Truidense VV,25,2001,180cm,tm_852953,30,2504,27.82,4,3,7,3,0,0.14,0.11,0.25,transfermarkt_datasets,False,2026-11-09
+Étienne Camara,France,MF,MF (DM),Royal Charleroi Sporting Club,23,2003,190cm,tm_854325,29,2353,26.14,1,3,4,8,0,0.04,0.11,0.15,transfermarkt_datasets,False,2026-11-09
+Fernand Goure,Cote d'Ivoire,FW,FW (AM),KVC Westerlo,24,2002,189cm,tm_858772,7,122,1.36,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Oucasse Mendy,France,FW,FW (WM),RAAL La Louvière,25,2001,182cm,tm_859536,17,929,10.32,1,1,2,4,0,0.1,0.1,0.19,transfermarkt_datasets,False,2026-11-09
+Mehdi Boukamir,Morocco,DF,DF (CB),Royal Charleroi Sporting Club,22,2004,188cm,tm_860048,12,256,2.84,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Samuel Kotto,Cameroon,DF,DF (CB),KAA Gent,23,2003,190cm,tm_863900,8,489,5.43,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rafik Belghali,Algeria,DF,DF (FB),KV Mechelen,24,2002,180cm,tm_864306,3,240,2.67,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nacho Ferri,Spain,FW,FW (AM),KVC Westerlo,22,2004,192cm,tm_867357,28,2238,24.87,7,4,11,5,0,0.28,0.16,0.44,transfermarkt_datasets,False,2026-11-09
+Yassine Khalifi,Morocco,MF,MF (CM),Royal Charleroi Sporting Club,21,2005,173cm,tm_869462,10,288,3.2,0,1,1,2,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Rosen Bozhinov,Bulgaria,DF,DF (CB),Royal Antwerp FC,21,2005,193cm,tm_877124,16,1279,14.21,1,0,1,1,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Moïse Sahi Dion,Cote d'Ivoire,FW,FW (AM),FCV Dender EH,25,2001,175cm,tm_880330,5,78,0.87,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Charles Herrmann,Germany,FW,FW (WM),Cercle Brugge,20,2006,180cm,tm_884822,3,70,0.78,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Promise David,Canada,FW,FW (AM),Union Saint-Gilloise,25,2001,195cm,tm_888785,24,1498,16.64,9,2,11,1,0,0.54,0.12,0.66,transfermarkt_datasets,False,2026-11-09
+Yaimar Medina,Ecuador,DF,DF (FB),KRC Genk,22,2004,173cm,tm_893659,21,1136,12.62,0,1,1,2,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Joel Ordóñez,Ecuador,DF,DF (CB),Club Brugge KV,22,2004,188cm,tm_893661,23,1822,20.24,3,0,3,3,0,0.15,0.0,0.15,transfermarkt_datasets,False,2026-11-09
+Mohamed Berte,Belgium,FW,FW (AM),FCV Dender EH,24,2002,175cm,tm_895402,23,654,7.27,1,0,1,1,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Alan Minda,Ecuador,FW,FW (WM),Cercle Brugge,23,2003,174cm,tm_897051,17,969,10.77,3,3,6,0,0,0.28,0.28,0.56,transfermarkt_datasets,False,2026-11-09
+Mihajlo Cvetkovic,Serbia,FW,FW (AM),RSC Anderlecht,19,2007,178cm,tm_897510,22,1130,12.56,5,2,7,2,0,0.4,0.16,0.56,transfermarkt_datasets,False,2026-11-09
+Jakob Napoleon Romsaas,Norway,MF,MF (AM),Royal Charleroi Sporting Club,22,2004,187cm,tm_902401,28,1499,16.66,1,4,5,1,0,0.06,0.24,0.3,transfermarkt_datasets,False,2026-11-09
+Tristan Degreef,Belgium,FW,FW (WM),RSC Anderlecht,21,2005,177cm,tm_903513,24,1070,11.89,3,2,5,3,0,0.25,0.17,0.42,transfermarkt_datasets,False,2026-11-09
+Nilson Angulo,Ecuador,FW,FW (WM),RSC Anderlecht,23,2003,184cm,tm_903611,22,1902,21.13,6,7,13,2,0,0.28,0.33,0.62,transfermarkt_datasets,False,2026-11-09
+Eliot Bujupi,Kosovo,FW,FW (AM),KVC Westerlo,20,2006,187cm,tm_907483,5,11,0.12,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Clinton Nsiala,France,DF,DF (CB),KVC Westerlo,22,2004,189cm,tm_910175,3,185,2.06,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Thérence Koudou,France,DF,DF (FB),KV Mechelen,22,2004,178cm,tm_910176,27,2229,24.77,4,1,5,5,0,0.16,0.04,0.2,transfermarkt_datasets,False,2026-11-09
+Noah Adedeji-Sternberg,Belgium,FW,FW (WM),KRC Genk,21,2005,180cm,tm_912436,19,738,8.2,1,0,1,0,0,0.12,0.0,0.12,transfermarkt_datasets,False,2026-11-09
+Emran Soglo,England,DF,DF (FB),Zulte Waregem,21,2005,178cm,tm_913495,18,1038,11.53,0,3,3,2,0,0.0,0.26,0.26,transfermarkt_datasets,False,2026-11-09
+Redouane Halhal,Morocco,DF,DF (CB),KV Mechelen,23,2003,189cm,tm_913660,24,2039,22.66,1,2,3,7,0,0.04,0.09,0.13,transfermarkt_datasets,False,2026-11-09
+Keisuke Goto,Japan,FW,FW (AM),Sint-Truidense VV,21,2005,191cm,tm_916623,28,2081,23.12,10,5,15,4,0,0.43,0.22,0.65,transfermarkt_datasets,False,2026-11-09
+Yoann Cissé,France,MF,MF (WM),Royal Charleroi Sporting Club,22,2004,,tm_918251,2,5,0.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahim Diakité,Guinea,DF,DF (FB),Cercle Brugge,23,2003,180cm,tm_919173,13,492,5.47,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Krzysztof Koton,Poland,MF,MF (DM),FCV Dender EH,23,2003,175cm,tm_920209,9,160,1.78,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tochukwu Nnadi,Nigeria,MF,MF (DM),Zulte Waregem,23,2003,176cm,tm_920470,18,1418,15.76,0,1,1,7,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Ali Maamar,Morocco,DF,DF (FB),RSC Anderlecht,21,2005,182cm,tm_920585,18,896,9.96,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luc De Fougerolles,Canada,DF,DF (CB),FCV Dender EH,21,2005,183cm,tm_921995,23,1460,16.22,0,1,1,3,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Steve Ngoura,France,FW,FW (AM),Cercle Brugge,21,2005,193cm,tm_923838,29,1831,20.34,4,5,9,2,0,0.2,0.25,0.44,transfermarkt_datasets,False,2026-11-09
+Chukwubuikem Ikwuemesi,Nigeria,FW,FW (AM),Oud-Heverlee Leuven,25,2001,195cm,tm_929494,25,1630,18.11,4,0,4,2,0,0.22,0.0,0.22,transfermarkt_datasets,False,2026-11-09
+Momodou Sonko,Sweden,FW,FW (WM),KAA Gent,21,2005,176cm,tm_929876,21,588,6.53,0,2,2,0,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Massimo Decoene,Belgium,MF,MF (DM),KV Mechelen,22,2004,184cm,tm_931712,3,21,0.23,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Mbamba,Belgium,DF,DF (FB),KVC Westerlo,20,2006,,tm_937111,7,394,4.38,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bradley Nam James,Belgium,,,Standard Liège,20,2006,,tm_937115,1,3,0.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gerard Vandeplas,Belgium,FW,FW (AM),Royal Antwerp FC,20,2006,,tm_937117,14,414,4.6,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Bretelle,France,MF,MF (DM),RAAL La Louvière,24,2002,172cm,tm_941561,1,13,0.14,0,1,1,0,0,0.0,7.14,7.14,transfermarkt_datasets,False,2026-11-09
+Anan Khalaili,Israel,MF,MF (WM),Union Saint-Gilloise,22,2004,183cm,tm_945021,28,2272,25.24,2,1,3,5,0,0.08,0.04,0.12,transfermarkt_datasets,False,2026-11-09
+Djibril Lamego,France,DF,DF (CB),RAAL La Louvière,23,2003,183cm,tm_947363,25,2148,23.87,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Guilherme Smith,Brazil,FW,FW (WM),Union Saint-Gilloise,23,2003,184cm,tm_949337,12,830,9.22,2,2,4,3,0,0.22,0.22,0.43,transfermarkt_datasets,False,2026-11-09
+Heriberto Jurado,Mexico,FW,FW (WM),Cercle Brugge,21,2005,173cm,tm_950874,5,44,0.49,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amine Daali,Belgium,MF,MF (CM),FCV Dender EH,22,2004,178cm,tm_951960,2,33,0.37,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Robin Mirisola,Belgium,FW,FW (AM),KRC Genk,20,2006,184cm,tm_952439,20,828,9.2,3,3,6,2,0,0.33,0.33,0.65,transfermarkt_datasets,False,2026-11-09
+Bill Antonio,Zimbabwe,FW,FW (WM),KV Mechelen,24,2002,177cm,tm_956050,23,619,6.88,0,1,1,1,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Massamba Sow,France,DF,DF (CB),Royal Charleroi Sporting Club,22,2004,180cm,tm_959576,4,156,1.73,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amine Boukamir,Morocco,MF,MF (DM),Royal Charleroi Sporting Club,20,2006,172cm,tm_961051,3,225,2.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Andrés Ferrari,Uruguay,FW,FW (AM),Sint-Truidense VV,23,2003,190cm,tm_973805,20,864,9.6,3,1,4,4,0,0.31,0.1,0.42,transfermarkt_datasets,False,2026-11-09
+Anthony Valencia,Ecuador,FW,FW (WM),Royal Antwerp FC,23,2003,173cm,tm_974374,14,672,7.47,4,0,4,1,0,0.54,0.0,0.54,transfermarkt_datasets,False,2026-11-09
+Dalangunypole Gomis,France,DF,DF (CB),Cercle Brugge,22,2004,191cm,tm_974995,1,70,0.78,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohammed Fuseini,Ghana,FW,FW (AM),Union Saint-Gilloise,24,2002,169cm,tm_979410,11,435,4.83,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joaquin Seys,Belgium,DF,DF (FB),Club Brugge KV,21,2005,178cm,tm_981196,29,2115,23.5,1,3,4,3,0,0.04,0.13,0.17,transfermarkt_datasets,False,2026-11-09
+Oluwaseun Adewumi,Austria,MF,MF (AM),Cercle Brugge,21,2005,182cm,tm_982081,26,1433,15.92,4,0,4,2,0,0.25,0.0,0.25,transfermarkt_datasets,False,2026-11-09
+Freddy Mbemba,France,FW,FW (WM),Royal Charleroi Sporting Club,24,2002,175cm,tm_983364,2,17,0.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Halil Özdemir,Türkiye,FW,FW (AM),KV Mechelen,21,2005,177cm,tm_988711,7,179,1.99,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Konstantinos Karetsas,Greece,MF,MF (AM),KRC Genk,19,2007,173cm,tm_990148,28,1940,21.56,0,11,11,3,0,0.0,0.51,0.51,transfermarkt_datasets,False,2026-11-09
+Hakim Sahabo,Rwanda,MF,MF (DM),Standard Liège,21,2005,185cm,tm_990731,14,575,6.39,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Josué Kongolo,Belgium,DF,DF (CB),KRC Genk,20,2006,186cm,tm_997474,8,445,4.94,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gilles De Meyer,Belgium,DF,DF (FB),KAA Gent,20,2006,179cm,tm_1005835,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Afonso Patrão,Portugal,FW,FW (AM),KVC Westerlo,19,2007,182cm,tm_1006449,3,73,0.81,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dylan Ourega,France,DF,DF (FB),KVC Westerlo,22,2004,183cm,tm_1010044,5,305,3.39,0,1,1,0,0,0.0,0.29,0.29,transfermarkt_datasets,False,2026-11-09
+Kaye Furo,Belgium,FW,FW (AM),Club Brugge KV,19,2007,190cm,tm_1011936,5,84,0.93,1,0,1,0,0,1.08,0.0,1.08,transfermarkt_datasets,False,2026-11-09
+Tibe De Vlieger,Belgium,MF,MF (CM),KAA Gent,21,2005,184cm,tm_1019173,15,786,8.73,0,1,1,3,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Matte Smets,Belgium,DF,DF (CB),KRC Genk,22,2004,185cm,tm_1019174,30,2700,30.0,0,1,1,2,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Geoffrey Kondo,France,DF,DF (CB),Cercle Brugge,24,2002,187cm,tm_1027253,4,360,4.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amando Lapage,Belgium,DF,DF (CB),KVC Westerlo,22,2004,188cm,tm_1029619,11,945,10.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yuto Tsunashima,Japan,DF,DF (CB),Royal Antwerp FC,26,2000,188cm,tm_1030663,24,1864,20.71,1,0,1,4,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Coba da Costa,Guinea-Bissau,FW,FW (WM),RSC Anderlecht,24,2002,182cm,tm_1033005,1,45,0.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mahamadou Doumbia,Mali,MF,MF (CM),Royal Antwerp FC,22,2004,186cm,tm_1033919,6,529,5.88,2,1,3,2,0,0.34,0.17,0.51,transfermarkt_datasets,False,2026-11-09
+Ibrahima Sory Bangoura,Guinea,MF,MF (DM),KRC Genk,22,2004,190cm,tm_1038348,18,644,7.16,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Adrián Palacios,Venezuela,DF,DF (CB),KRC Genk,22,2004,187cm,tm_1041316,10,220,2.44,0,1,1,0,0,0.0,0.41,0.41,transfermarkt_datasets,False,2026-11-09
+Yasin Özcan,Türkiye,DF,DF (CB),RSC Anderlecht,20,2006,185cm,tm_1043003,4,132,1.47,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gora Diouf,Senegal,DF,DF (CB),KV Mechelen,23,2003,185cm,tm_1049965,15,898,9.98,1,1,2,5,0,0.1,0.1,0.2,transfermarkt_datasets,False,2026-11-09
+Raymond Asante,Ghana,FW,FW (AM),Royal Charleroi Sporting Club,22,2004,172cm,tm_1051609,2,17,0.19,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mahamadou Diawara,France,MF,MF (CM),Royal Antwerp FC,21,2005,187cm,tm_1053147,8,400,4.44,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahima Diaby,France,MF,MF (DM),Cercle Brugge,19,2007,189cm,tm_1053160,20,647,7.19,0,1,1,4,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Mamadou Diakhon,Senegal,FW,FW (WM),Club Brugge KV,21,2005,180cm,tm_1054839,20,777,8.63,0,7,7,1,0,0.0,0.81,0.81,transfermarkt_datasets,False,2026-11-09
+Mauricio Benítez,Argentina,MF,MF (DM),Royal Antwerp FC,22,2004,185cm,tm_1055055,19,1096,12.18,3,0,3,4,0,0.25,0.0,0.25,transfermarkt_datasets,False,2026-11-09
+Marwan Al-Sahafi,Saudi Arabia,FW,FW (WM),Royal Antwerp FC,22,2004,188cm,tm_1057857,21,1196,13.29,1,0,1,2,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Bilal Bafdili,Belgium,MF,MF (AM),KV Mechelen,22,2004,180cm,tm_1063263,17,849,9.43,1,3,4,2,0,0.11,0.32,0.42,transfermarkt_datasets,False,2026-11-09
+Abdoulaye Traoré,Cote d'Ivoire,FW,FW (WM),Zulte Waregem,23,2003,176cm,tm_1063856,3,147,1.63,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Benjamin Fredrick,Nigeria,DF,DF (CB),FCV Dender EH,21,2005,187cm,tm_1071138,14,861,9.57,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Erick Nunes,Brazil,MF,MF (WM),Cercle Brugge,22,2004,180cm,tm_1086381,15,295,3.28,0,1,1,0,0,0.0,0.3,0.3,transfermarkt_datasets,False,2026-11-09
+Nathan De Cat,Belgium,MF,MF (CM),RSC Anderlecht,18,2008,192cm,tm_1105541,29,2262,25.13,2,4,6,6,0,0.08,0.16,0.24,transfermarkt_datasets,False,2026-11-09
+Mohammed El Âdfaoui,Belgium,MF,MF (DM),KAA Gent,18,2008,182cm,tm_1105542,4,65,0.72,0,1,1,0,0,0.0,1.39,1.39,transfermarkt_datasets,False,2026-11-09
+Youssef Hamdaoui,Morocco,MF,MF (CM),Royal Antwerp FC,18,2008,184cm,tm_1112904,15,434,4.82,0,1,1,1,0,0.0,0.21,0.21,transfermarkt_datasets,False,2026-11-09
+Anas Tajaouart,Morocco,MF,MF (CM),RSC Anderlecht,21,2005,167cm,tm_1113308,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Valy Konaté,Cote d'Ivoire,DF,DF (FB),Cercle Brugge,20,2006,182cm,tm_1120020,7,313,3.48,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aaron Bibout,Cameroon,FW,FW (AM),KRC Genk,22,2004,193cm,tm_1122196,10,445,4.94,3,0,3,0,0,0.61,0.0,0.61,transfermarkt_datasets,False,2026-11-09
+Alama Bayo,Belgium,FW,FW (WM),Cercle Brugge,20,2006,181cm,tm_1123952,5,14,0.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kaito Matsuzawa,Japan,FW,FW (WM),Sint-Truidense VV,25,2001,176cm,tm_1124661,22,334,3.71,2,0,2,1,0,0.54,0.0,0.54,transfermarkt_datasets,False,2026-11-09
+Andreas Verstraeten,Belgium,DF,DF (CB),Royal Antwerp FC,20,2006,178cm,tm_1124880,16,921,10.23,0,1,1,3,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Moctar Diop,Senegal,FW,FW (AM),KAA Gent,21,2005,193cm,tm_1125610,3,30,0.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Eran Tuypens,Belgium,DF,DF (FB),Royal Antwerp FC,21,2005,,tm_1130961,2,28,0.31,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahim Kanaté,Mali,FW,FW (WM),RSC Anderlecht,20,2006,172cm,tm_1132628,15,250,2.78,1,0,1,0,0,0.36,0.0,0.36,transfermarkt_datasets,False,2026-11-09
+Oumar Diouf,Senegal,FW,FW (AM),Sint-Truidense VV,23,2003,180cm,tm_1137664,8,80,0.89,2,0,2,0,0,2.25,0.0,2.25,transfermarkt_datasets,False,2026-11-09
+Shandre Campbell,South Africa,FW,FW (WM),Club Brugge KV,21,2005,178cm,tm_1159786,10,91,1.01,1,0,1,1,0,0.99,0.0,0.99,transfermarkt_datasets,False,2026-11-09
+Abdoul Ayinde,Burkina Faso,DF,DF (FB),KAA Gent,21,2005,,tm_1160184,2,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Steeven Assengue,Belgium,DF,DF (FB),Standard Liège,21,2005,175cm,tm_1165893,4,73,0.81,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pape Moussa Fall,Senegal,FW,FW (AM),RAAL La Louvière,22,2004,203cm,tm_1176295,21,1311,14.57,8,1,9,3,0,0.55,0.07,0.62,transfermarkt_datasets,False,2026-11-09
+Abdoul Kader Ouattara,Burkina Faso,FW,FW (AM),Cercle Brugge,21,2005,171cm,tm_1176433,3,91,1.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Antoñito Cordero,Spain,FW,FW (WM),KVC Westerlo,20,2006,178cm,tm_1178393,7,87,0.97,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sebastian Murru,Belgium,MF,MF (CM),Oud-Heverlee Leuven,19,2007,,tm_1179829,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Semm Renders,Belgium,DF,DF (FB),Royal Antwerp FC,19,2007,179cm,tm_1186563,11,606,6.73,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nikoloz Chikovani,Georgia,FW,FW (WM),Royal Charleroi Sporting Club,19,2007,188cm,tm_1193797,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Shunsuke Saito,Japan,FW,FW (WM),KVC Westerlo,21,2005,174cm,tm_1194136,7,311,3.46,0,1,1,1,0,0.0,0.29,0.29,transfermarkt_datasets,False,2026-11-09
+Basile Vroninks,Belgium,DF,DF (FB),RSC Anderlecht,20,2006,,tm_1194331,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Davis Opoku,Belgium,DF,DF (FB),Oud-Heverlee Leuven,19,2007,180cm,tm_1200400,17,499,5.54,0,1,1,2,0,0.0,0.18,0.18,transfermarkt_datasets,False,2026-11-09
+Krys Kouassi,France,FW,FW (WM),Cercle Brugge,19,2007,175cm,tm_1208836,10,91,1.01,0,1,1,1,0,0.0,0.99,0.99,transfermarkt_datasets,False,2026-11-09
+Sekou Keita,Belgium,FW,FW (AM),Union Saint-Gilloise,20,2006,,tm_1229890,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Emmanuel Kakou,Cote d'Ivoire,DF,DF (CB),Cercle Brugge,21,2005,,tm_1233680,20,1428,15.87,2,1,3,1,0,0.13,0.06,0.19,transfermarkt_datasets,False,2026-11-09
+René Mitongo,Belgium,FW,FW (AM),Standard Liège,18,2008,187cm,tm_1241698,6,125,1.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mamadou Thierno Barry,Senegal,DF,DF (CB),Union Saint-Gilloise,21,2005,195cm,tm_1250976,2,67,0.74,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Moncef Zekri,Morocco,DF,DF (FB),KV Mechelen,18,2008,172cm,tm_1263687,16,830,9.22,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Xander Dierckx,Belgium,MF,MF (CM),Royal Antwerp FC,17,2009,,tm_1264666,11,758,8.42,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ian Struyf,Belgium,DF,DF (CB),KV Mechelen,19,2007,191cm,tm_1269454,11,426,4.73,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abdoul Karim Traoré,Guinea,FW,FW (AM),Oud-Heverlee Leuven,19,2007,178cm,tm_1284784,19,603,6.7,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hyllarion Goore,Cote d'Ivoire,FW,FW (AM),KAA Gent,21,2005,183cm,tm_1285174,25,1132,12.58,5,3,8,2,0,0.4,0.24,0.64,transfermarkt_datasets,False,2026-11-09
+Vince Osuji,Nigeria,DF,DF (CB),Club Brugge KV,20,2006,188cm,tm_1285176,1,15,0.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Farouck Adekami,Cote d'Ivoire,MF,MF (AM),Royal Antwerp FC,20,2006,,tm_1293796,13,703,7.81,2,2,4,4,0,0.26,0.26,0.51,transfermarkt_datasets,False,2026-11-09
+Jay-David Mbalanda,Belgium,,,Sint-Truidense VV,19,2007,,tm_1309326,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Joseph Opoku,Ghana,FW,FW (WM),Zulte Waregem,21,2005,172cm,tm_1310437,27,2033,22.59,5,5,10,2,0,0.22,0.22,0.44,transfermarkt_datasets,False,2026-11-09
+Bernard Nguene,Cameroon,FW,FW (AM),Standard Liège,20,2006,178cm,tm_1314671,5,133,1.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Naoufal Bohamdi-Kamoni,Morocco,FW,FW (WM),KVC Westerlo,19,2007,,tm_1318194,5,51,0.57,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luca Schelfhout,Belgium,DF,DF (CB),Royal Antwerp FC,19,2007,,tm_1318279,2,30,0.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Charli Spoden,Belgium,MF,MF (CM),Standard Liège,18,2008,,tm_1318702,1,23,0.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jerry Afriyie,Ghana,FW,FW (AM),RAAL La Louvière,20,2006,180cm,tm_1332184,25,2049,22.77,5,1,6,5,0,0.22,0.04,0.26,transfermarkt_datasets,False,2026-11-09
+Orseer Achihi,Nigeria,FW,FW (WM),Royal Antwerp FC,20,2006,170cm,tm_1378362,2,13,0.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gabriel Jesus David,Nigeria,FW,FW (AM),Royal Antwerp FC,19,2007,,tm_1380876,8,111,1.23,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ryan Adewusi,Belgium,FW,FW (AM),FCV Dender EH,21,2005,183cm,tm_1430787,1,24,0.27,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahima Cissé,Senegal,FW,FW (AM),KAA Gent,19,2007,196cm,tm_1473866,3,80,0.89,1,0,1,0,0,1.12,0.0,1.12,transfermarkt_datasets,False,2026-11-09
