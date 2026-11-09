@@ -1,0 +1,40 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at,gk_games,gk_minutes
+Wojciech Szczesny,Poland,GK,GK,FC Barcelona,36,1990,195cm,tm_44058,8,720,8.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,8,720
+Adrián San Miguel,Spain,GK,GK,Real Betis Balompié,39,1987,190cm,tm_71271,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Ørjan Nyland,Norway,GK,GK,Sevilla FC,36,1990,192cm,tm_73517,5,450,5.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,5,450
+Marc-André ter Stegen,Germany,GK,GK,Girona FC,34,1992,187cm,tm_74857,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180
+Marko Dmitrovic,Serbia,GK,GK,RCD Espanyol Barcelona,34,1992,189cm,tm_94308,37,3330,37.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,37,3330
+Thibaut Courtois,Belgium,GK,GK,Real Madrid,34,1992,199cm,tm_108390,32,2880,32.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,32,2880
+Aitor Fernández,Spain,GK,GK,CA Osasuna,35,1991,182cm,tm_118997,2,135,1.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,135
+Jan Oblak,Slovenia,GK,GK,Atlético de Madrid,33,1993,188cm,tm_121483,30,2700,30.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2700
+Odysseas Vlachodimos,Greece,GK,GK,Sevilla FC,32,1994,191cm,tm_124419,33,2970,33.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,33,2970
+Mathew Ryan,Australia,GK,GK,Levante UD,34,1992,184cm,tm_128969,36,3240,36.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,36,3240
+Matías Dituro,Argentina,GK,GK,Elche CF,39,1987,191cm,tm_144128,22,1980,22.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,22,1980
+Stole Dimitrievski,North Macedonia,GK,GK,Valencia CF,33,1993,188cm,tm_165467,20,1800,20.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,20,1800
+Paulo Gazzaniga,Argentina,GK,GK,Girona FC,34,1992,195cm,tm_195488,35,3103,34.48,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,35,3103
+Álex Remiro,Spain,GK,GK,Real Sociedad,31,1995,192cm,tm_212862,37,3330,37.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,37,3330
+David Soria,Spain,GK,GK,Getafe CF,33,1993,192cm,tm_226012,38,3420,38.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,38,3420
+Juan Musso,Argentina,GK,GK,Atlético de Madrid,32,1994,193cm,tm_242359,8,720,8.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,8,720
+Sergio Herrera,Spain,GK,GK,CA Osasuna,33,1993,192cm,tm_248738,37,3285,36.5,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,37,3285
+Unai Simón,Spain,GK,GK,Athletic Bilbao,29,1997,190cm,tm_262396,37,3330,37.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,37,3330
+Augusto Batalla,Argentina,GK,GK,Rayo Vallecano,30,1996,185cm,tm_275218,34,3060,34.0,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,34,3060
+Iñaki Peña,Spain,GK,GK,Elche CF,27,1999,184cm,tm_283170,16,1440,16.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,16,1440
+Aarón Escandell,Spain,GK,GK,Real Oviedo,31,1995,186cm,tm_284430,36,3240,36.0,0,1,1,3,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,36,3240
+Pau López,Spain,GK,GK,Real Betis Balompié,32,1994,189cm,tm_286415,9,810,9.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,9,810
+Antonio Sivera,Spain,GK,GK,Deportivo Alavés,30,1996,185cm,tm_298197,38,3420,38.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,38,3420
+Ionuț Radu,Romania,GK,GK,Celta de Vigo,29,1997,188cm,tm_303657,38,3420,38.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,38,3420
+Dani Cárdenas,Spain,GK,GK,Rayo Vallecano,29,1997,186cm,tm_397676,4,360,4.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,4,360
+Andriy Lunin,Ukraine,GK,GK,Real Madrid,27,1999,191cm,tm_404839,6,540,6.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,6,540
+Álvaro Valles,Spain,GK,GK,Real Betis Balompié,29,1997,191cm,tm_417913,28,2520,28.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,28,2520
+Arnau Tenas,Spain,GK,GK,Villarreal CF,25,2001,185cm,tm_466783,10,900,10.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,900
+Lucas Bergström,Finland,GK,GK,RCD Mallorca,24,2002,205cm,tm_490606,5,450,5.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,5,450
+Horațiu Moldovan,Romania,GK,GK,Real Oviedo,28,1998,193cm,tm_525438,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180
+Joan García,Spain,GK,GK,FC Barcelona,25,2001,194cm,tm_561613,30,2700,30.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2700
+Leo Román,Spain,GK,GK,RCD Mallorca,26,2000,189cm,tm_562742,33,2970,33.0,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,33,2970
+Pablo Campos,Spain,GK,GK,Levante UD,24,2002,188cm,tm_617059,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180
+Julen Agirrezabala,Spain,GK,GK,Valencia CF,26,2000,187cm,tm_625014,18,1620,18.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,18,1620
+Unai Marrero,Spain,GK,GK,Real Sociedad,25,2001,189cm,tm_625657,1,90,1.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Ángel Fortuño,Spain,GK,GK,RCD Espanyol Barcelona,25,2001,183cm,tm_628487,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Luiz Júnior,Brazil,GK,GK,Villarreal CF,25,2001,192cm,tm_712107,28,2520,28.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,28,2520
+Álex Padilla,Mexico,GK,GK,Athletic Bilbao,23,2003,190cm,tm_834483,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Vladyslav Krapyvtsov,Ukraine,GK,GK,Girona FC,21,2005,188cm,tm_1169436,2,137,1.52,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,137

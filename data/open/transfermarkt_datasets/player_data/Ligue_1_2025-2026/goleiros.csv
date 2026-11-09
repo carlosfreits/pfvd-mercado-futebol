@@ -1,0 +1,40 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at,gk_games,gk_minutes
+Kevin Trapp,Germany,GK,GK,Paris FC,36,1990,189cm,tm_45672,22,1980,22.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,22,1980
+Lukas Hradecky,Finland,GK,GK,AS Monaco,37,1989,192cm,tm_48015,17,1441,16.01,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,17,1441
+Mathieu Gorgelin,France,GK,GK,RC Lens,36,1990,187cm,tm_60543,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Anthony Lopes,Portugal,GK,GK,FC Nantes,36,1990,184cm,tm_60561,31,2789,30.99,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,31,2789
+Karl-Johan Johnsson,Sweden,GK,GK,RC Strasbourg Alsace,36,1990,188cm,tm_112822,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Maxime Dupé,France,GK,GK,OGC Nice,33,1993,188cm,tm_127188,8,720,8.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,8,720
+Yvon Mvogo,Switzerland,GK,GK,FC Lorient,32,1994,190cm,tm_147051,31,2790,31.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,31,2790
+Mory Diaw,Senegal,GK,GK,Le Havre AC,33,1993,197cm,tm_164904,30,2655,29.5,0,1,1,1,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,30,2655
+Lionel Mpasi-Nzau,DR Congo,GK,GK,Le Havre AC,32,1994,182cm,tm_164915,4,315,3.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,4,315
+Donovan Léon,French Guiana,GK,GK,AJ Auxerre,34,1992,187cm,tm_170911,29,2463,27.37,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,29,2463
+Patrik Carlgren,Sweden,GK,GK,FC Nantes,34,1992,189cm,tm_190280,3,181,2.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,181
+Brice Samba,France,GK,GK,Stade Rennais FC,32,1994,187cm,tm_191056,32,2880,32.0,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,32,2880
+Gerónimo Rulli,Argentina,GK,GK,Olympique Marseille,34,1992,189cm,tm_229604,29,2610,29.0,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,29,2610
+Philipp Köhn,Switzerland,GK,GK,AS Monaco,28,1998,190cm,tm_251322,19,1619,17.99,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,19,1619
+Rémy Descamps,France,GK,GK,Olympique Lyon,30,1996,196cm,tm_282028,5,450,5.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,5,450
+Jeffrey de Lange,Netherlands,GK,GK,Olympique Marseille,28,1998,190cm,tm_315253,5,450,5.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,5,450
+Dominik Greif,Slovakia,GK,GK,Olympique Lyon,29,1997,197cm,tm_316884,29,2610,29.0,0,1,1,1,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,29,2610
+Matvey Safonov,Russia,GK,GK,Paris Saint-Germain,27,1999,192cm,tm_318470,15,1350,15.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,15,1350
+Kjetil Haug,Norway,GK,GK,FC Toulouse,28,1998,191cm,tm_328770,1,30,0.33,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,30
+Bingourou Kamara,Senegal,GK,GK,FC Lorient,30,1996,195cm,tm_333175,3,270,3.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,270
+Radoslaw Majecki,Poland,GK,GK,Stade Brestois 29,27,1999,193cm,tm_346546,10,865,9.61,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,10,865
+Berke Özer,Türkiye,GK,GK,LOSC Lille,26,2000,191cm,tm_361256,32,2835,31.5,0,1,1,4,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,32,2835
+Hervé Koffi,Burkina Faso,GK,GK,Angers SCO,30,1996,186cm,tm_415383,30,2659,29.54,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,30,2659
+Arnaud Bodart,Belgium,GK,GK,LOSC Lille,28,1998,186cm,tm_417278,3,225,2.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,225
+Yehvann Diouf,Senegal,GK,GK,OGC Nice,27,1999,188cm,tm_448632,26,2340,26.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,26,2340
+Lucas Chevalier,France,GK,GK,Paris Saint-Germain,25,2001,189cm,tm_463600,17,1530,17.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,17,1530
+Grégoire Coudert,France,GK,GK,Stade Brestois 29,27,1999,192cm,tm_525155,25,2191,24.34,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,25,2191
+Jonathan Fischer,Denmark,GK,GK,FC Metz,25,2001,198cm,tm_542452,27,2353,26.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,27,2353
+Melvin Zinga,France,GK,GK,Angers SCO,24,2002,187cm,tm_548347,3,221,2.46,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,3,221
+Pape Sy,Senegal,GK,GK,FC Metz,29,1997,206cm,tm_568728,8,707,7.86,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,8,707
+Théo De Percin,France,GK,GK,AJ Auxerre,25,2001,185cm,tm_695422,8,595,6.61,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,8,595
+Robin Risser,France,GK,GK,RC Lens,22,2004,193cm,tm_743515,33,2970,33.0,0,1,1,2,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09,33,2970
+Obed Nkambadio,France,GK,GK,Paris FC,23,2003,190cm,tm_750878,12,1080,12.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,12,1080
+Mike Penders,Belgium,GK,GK,RC Strasbourg Alsace,21,2005,200cm,tm_834397,33,2970,33.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,33,2970
+Guillaume Restes,France,GK,GK,FC Toulouse,21,2005,188cm,tm_912902,33,2940,32.67,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,33,2940
+Mathys Silistrie,France,GK,GK,Stade Rennais FC,21,2005,188cm,tm_979761,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180
+Paul Argney,France,GK,GK,Le Havre AC,20,2006,186cm,tm_988275,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,1,90
+Renato Marin,Italy,GK,GK,Paris Saint-Germain,20,2006,190cm,tm_1041614,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180
+Oumar Pona,Mali,GK,GK,Angers SCO,20,2006,195cm,tm_1073176,2,180,2.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09,2,180

@@ -1,0 +1,519 @@
+Player,Nation,Pos,position,Squad,Age,Born,height,player_id,games,minutes,minutes_90s,goals,assists,goals_assists,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,data_source,is_partial,collected_at
+Dante,Brazil,DF,DF (CB),OGC Nice,43,1983,188cm,tm_16136,12,852,9.47,0,1,1,1,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Pierre-Emerick Aubameyang,Gabon,FW,FW (AM),Olympique Marseille,37,1989,187cm,tm_58864,30,2047,22.74,10,6,16,1,0,0.44,0.26,0.7,transfermarkt_datasets,False,2026-11-09
+Abdoulaye Bamba,Cote d'Ivoire,DF,DF (CB),Angers SCO,36,1990,182cm,tm_62351,6,255,2.83,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Francis Coquelin,France,MF,MF (DM),FC Nantes,35,1991,177cm,tm_74869,16,655,7.28,0,1,1,2,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Aïssa Mandi,Algeria,DF,DF (CB),LOSC Lille,35,1991,184cm,tm_80293,29,2427,26.97,1,0,1,8,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Olivier Giroud,France,FW,FW (AM),LOSC Lille,40,1986,192cm,tm_82442,30,1610,17.89,7,1,8,2,0,0.39,0.06,0.45,transfermarkt_datasets,False,2026-11-09
+Timothée Kolodziejczak,France,DF,DF (CB),Paris FC,35,1991,183cm,tm_84085,11,660,7.33,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Benjamin André,France,MF,MF (DM),LOSC Lille,36,1990,180cm,tm_84301,27,2334,25.93,2,2,4,9,0,0.08,0.08,0.15,transfermarkt_datasets,False,2026-11-09
+Youssef El Arabi,Morocco,FW,FW (AM),FC Nantes,39,1987,183cm,tm_96533,25,938,10.42,3,1,4,0,0,0.29,0.1,0.38,transfermarkt_datasets,False,2026-11-09
+Thomas Meunier,Belgium,DF,DF (FB),LOSC Lille,35,1991,190cm,tm_100986,25,1910,21.22,2,2,4,3,0,0.09,0.09,0.19,transfermarkt_datasets,False,2026-11-09
+Ciro Immobile,Italy,FW,FW (AM),Paris FC,36,1990,185cm,tm_105521,12,711,7.9,2,2,4,2,0,0.25,0.25,0.51,transfermarkt_datasets,False,2026-11-09
+Florent Hanin,France,DF,DF (FB),Angers SCO,36,1990,177cm,tm_111811,25,861,9.57,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rémy Cabella,France,MF,MF (AM),FC Nantes,36,1990,172cm,tm_113707,11,569,6.32,2,0,2,1,0,0.32,0.0,0.32,transfermarkt_datasets,False,2026-11-09
+Rachid Ghezzal,Algeria,FW,FW (WM),Olympique Lyon,34,1992,182cm,tm_118287,10,219,2.43,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Paul Pogba,France,MF,MF (CM),AS Monaco,33,1993,191cm,tm_122153,6,115,1.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Loïc Nego,Hungary,DF,DF (FB),Le Havre AC,35,1991,181cm,tm_122840,30,2340,26.0,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jonathan Gradit,France,DF,DF (CB),RC Lens,34,1992,180cm,tm_126557,10,809,8.99,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Benjamin Stambouli,France,MF,MF (DM),FC Metz,36,1990,180cm,tm_127160,19,960,10.67,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Geoffrey Kondogbia,Central African Republic,MF,MF (DM),Olympique Marseille,33,1993,188cm,tm_127189,10,593,6.59,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nicolás Tagliafico,Argentina,DF,DF (FB),Olympique Lyon,34,1992,172cm,tm_131225,20,1310,14.56,0,3,3,4,0,0.0,0.21,0.21,transfermarkt_datasets,False,2026-11-09
+Haris Belkebla,Algeria,MF,MF (CM),Angers SCO,32,1994,177cm,tm_138055,33,2880,32.0,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maxime Colin,France,DF,DF (FB),FC Metz,35,1991,180cm,tm_156618,22,1692,18.8,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Djibril Sidibé,France,DF,DF (FB),FC Toulouse,34,1992,183cm,tm_161869,32,2147,23.86,3,4,7,1,0,0.13,0.17,0.29,transfermarkt_datasets,False,2026-11-09
+Takumi Minamino,Japan,FW,FW (WM),AS Monaco,31,1995,172cm,tm_165793,15,950,10.56,3,2,5,4,0,0.28,0.19,0.47,transfermarkt_datasets,False,2026-11-09
+Pierre-Emile Højbjerg,Denmark,MF,MF (DM),Olympique Marseille,31,1995,185cm,tm_167799,32,2715,30.17,4,5,9,4,0,0.13,0.17,0.3,transfermarkt_datasets,False,2026-11-09
+Uros Radakovic,Serbia,DF,DF (CB),FC Nantes,32,1994,194cm,tm_169511,6,98,1.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Julien Lopez,Algeria,FW,FW (WM),Paris FC,34,1992,173cm,tm_170506,5,41,0.46,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Thomas Delaine,France,DF,DF (FB),Le Havre AC,34,1992,180cm,tm_170961,5,200,2.22,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nouha Dicko,Mali,FW,FW (AM),Paris FC,34,1992,173cm,tm_173750,8,66,0.73,1,1,2,0,0,1.37,1.37,2.74,transfermarkt_datasets,False,2026-11-09
+Morgan Sanson,France,MF,MF (CM),OGC Nice,32,1994,180cm,tm_174094,31,1773,19.7,0,2,2,4,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Kenny Lala,France,DF,DF (FB),Stade Brestois 29,35,1991,178cm,tm_174196,32,2792,31.02,0,3,3,4,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Jonathan Clauss,France,DF,DF (FB),OGC Nice,34,1992,178cm,tm_175639,30,2531,28.12,1,7,8,0,0,0.04,0.25,0.28,transfermarkt_datasets,False,2026-11-09
+Eric Dier,England,DF,DF (CB),AS Monaco,32,1994,191cm,tm_175722,9,687,7.63,1,0,1,0,0,0.13,0.0,0.13,transfermarkt_datasets,False,2026-11-09
+Arthur Masuaku,DR Congo,DF,DF (FB),RC Lens,33,1993,179cm,tm_181380,4,229,2.54,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abdoulaye Touré,Guinea,MF,MF (DM),Le Havre AC,32,1994,188cm,tm_181382,11,741,8.23,2,0,2,2,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Marquinhos,Brazil,DF,DF (CB),Paris Saint-Germain,32,1994,183cm,tm_181767,14,1049,11.66,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Emerson,Italy,DF,DF (FB),Olympique Marseille,32,1994,176cm,tm_181778,28,2113,23.48,0,3,3,3,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Ally Samatta,Tanzania,FW,FW (AM),Le Havre AC,34,1992,183cm,tm_182201,27,1545,17.17,2,1,3,4,0,0.12,0.06,0.17,transfermarkt_datasets,False,2026-11-09
+Seko Fofana,Cote d'Ivoire,MF,MF (CM),Stade Rennais FC,31,1995,185cm,tm_182893,12,654,7.27,1,0,1,0,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Jean-Philippe Gbamin,Cote d'Ivoire,DF,DF (CB),FC Metz,31,1995,186cm,tm_182894,31,2489,27.66,1,1,2,2,0,0.04,0.04,0.07,transfermarkt_datasets,False,2026-11-09
+Adrien Rabiot,France,MF,MF (CM),Olympique Marseille,31,1995,191cm,tm_182913,1,90,1.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Wesley Saïd,France,FW,FW (AM),RC Lens,31,1995,171cm,tm_182916,29,2013,22.37,12,2,14,2,0,0.54,0.09,0.63,transfermarkt_datasets,False,2026-11-09
+Florian Thauvin,France,FW,FW (WM),RC Lens,33,1993,181cm,tm_184892,33,2462,27.36,11,6,17,6,0,0.4,0.22,0.62,transfermarkt_datasets,False,2026-11-09
+Giorgi Kvilitaia,Georgia,FW,FW (AM),FC Metz,33,1993,193cm,tm_186233,10,495,5.5,2,0,2,1,0,0.36,0.0,0.36,transfermarkt_datasets,False,2026-11-09
+Clinton Mata,Angola,DF,DF (CB),Olympique Lyon,34,1992,180cm,tm_187718,32,2836,31.51,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Corentin Tolisso,France,MF,MF (CM),Olympique Lyon,32,1994,181cm,tm_190393,30,2307,25.63,11,4,15,5,0,0.43,0.16,0.59,transfermarkt_datasets,False,2026-11-09
+Bouna Sarr,Senegal,DF,DF (FB),FC Metz,34,1992,178cm,tm_190685,12,897,9.97,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jordan Lefort,Mauritania,DF,DF (CB),Angers SCO,33,1993,184cm,tm_192492,34,3060,34.0,0,2,2,2,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Ulisses Garcia,Switzerland,DF,DF (FB),Olympique Marseille,30,1996,182cm,tm_192616,4,212,2.36,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Chancel Mbemba,DR Congo,DF,DF (CB),LOSC Lille,32,1994,182cm,tm_203348,13,952,10.58,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pierre-Yves Hamel,France,FW,FW (AM),Paris FC,32,1994,189cm,tm_203504,2,78,0.87,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ruben Aguilar,France,DF,DF (FB),RC Lens,33,1993,172cm,tm_203746,26,1731,19.23,2,2,4,4,0,0.1,0.1,0.21,transfermarkt_datasets,False,2026-11-09
+Branco van den Boomen,Netherlands,MF,MF (CM),Angers SCO,31,1995,188cm,tm_203938,15,1242,13.8,0,1,1,3,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Ali Abdi,Tunisia,DF,DF (FB),OGC Nice,33,1993,177cm,tm_211474,22,1165,12.94,3,0,3,2,0,0.23,0.0,0.23,transfermarkt_datasets,False,2026-11-09
+Pierrick Capelle,France,MF,MF (CM),Angers SCO,39,1987,181cm,tm_214532,16,649,7.21,0,1,1,2,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Adrien Thomasson,France,MF,MF (CM),RC Lens,33,1993,175cm,tm_215977,32,2691,29.9,3,10,13,11,0,0.1,0.33,0.43,transfermarkt_datasets,False,2026-11-09
+Jérémie Boga,Cote d'Ivoire,FW,FW (WM),OGC Nice,29,1997,172cm,tm_216569,14,645,7.17,2,2,4,0,0,0.28,0.28,0.56,transfermarkt_datasets,False,2026-11-09
+Neal Maupay,France,FW,FW (AM),Olympique Marseille,30,1996,171cm,tm_217115,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+André Gomes,Portugal,MF,MF (CM),LOSC Lille,33,1993,190cm,tm_221025,2,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Roman Yaremchuk,Ukraine,FW,FW (AM),Olympique Lyon,31,1995,191cm,tm_221958,11,561,6.23,4,1,5,1,0,0.64,0.16,0.8,transfermarkt_datasets,False,2026-11-09
+Younes Namli,Denmark,FW,FW (WM),Le Havre AC,32,1994,180cm,tm_227039,12,321,3.57,0,1,1,2,0,0.0,0.28,0.28,transfermarkt_datasets,False,2026-11-09
+Thilo Kehrer,Germany,DF,DF (CB),AS Monaco,30,1996,186cm,tm_228948,28,2358,26.2,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sofiane Boufal,Morocco,MF,MF (AM),Le Havre AC,33,1993,175cm,tm_232271,17,1028,11.42,1,4,5,2,0,0.09,0.35,0.44,transfermarkt_datasets,False,2026-11-09
+Breel Embolo,Switzerland,FW,FW (AM),Stade Rennais FC,29,1997,184cm,tm_237662,31,1873,20.81,8,3,11,2,0,0.38,0.14,0.53,transfermarkt_datasets,False,2026-11-09
+Laurent Abergel,France,MF,MF (DM),FC Lorient,33,1993,170cm,tm_238626,28,2325,25.83,1,0,1,7,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Aiyegun Tosin,Benin,FW,FW (AM),FC Lorient,28,1998,179cm,tm_239647,27,1068,11.87,5,0,5,1,0,0.42,0.0,0.42,transfermarkt_datasets,False,2026-11-09
+Przemyslaw Frankowski,Poland,DF,DF (FB),Stade Rennais FC,31,1995,175cm,tm_239743,19,1217,13.52,1,2,3,5,0,0.07,0.15,0.22,transfermarkt_datasets,False,2026-11-09
+Glen Kamara,Finland,MF,MF (CM),Stade Rennais FC,31,1995,178cm,tm_242632,4,57,0.63,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nabil Bentaleb,Algeria,MF,MF (DM),LOSC Lille,32,1994,189cm,tm_245537,26,1278,14.2,2,2,4,3,0,0.14,0.14,0.28,transfermarkt_datasets,False,2026-11-09
+Gautier Lloris,France,DF,DF (CB),Le Havre AC,31,1995,191cm,tm_249636,29,2400,26.67,1,1,2,1,0,0.04,0.04,0.07,transfermarkt_datasets,False,2026-11-09
+Brendan Chardonnet,France,DF,DF (CB),Stade Brestois 29,32,1994,181cm,tm_250779,29,2547,28.3,1,4,5,6,0,0.04,0.14,0.18,transfermarkt_datasets,False,2026-11-09
+Calvin Verdonk,Indonesia,DF,DF (FB),LOSC Lille,29,1997,174cm,tm_258364,18,786,8.73,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aleksandr Golovin,Russia,MF,MF (AM),AS Monaco,30,1996,178cm,tm_263918,25,1661,18.46,5,5,10,2,0,0.27,0.27,0.54,transfermarkt_datasets,False,2026-11-09
+Allan Saint-Maximin,France,FW,FW (WM),RC Lens,29,1997,173cm,tm_272642,10,403,4.48,3,3,6,1,0,0.67,0.67,1.34,transfermarkt_datasets,False,2026-11-09
+Moses Simon,Nigeria,FW,FW (WM),Paris FC,31,1995,168cm,tm_274862,29,2021,22.46,3,3,6,1,0,0.13,0.13,0.27,transfermarkt_datasets,False,2026-11-09
+Hans Hateboer,Netherlands,DF,DF (FB),Stade Rennais FC,32,1994,187cm,tm_275303,1,21,0.23,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hans Hateboer,Netherlands,DF,DF (FB),Olympique Lyon,32,1994,187cm,tm_275303,15,741,8.23,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Hernández,France,DF,DF (FB),Paris Saint-Germain,30,1996,184cm,tm_281963,25,1746,19.4,0,3,3,4,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Rasmus Nicolaisen,Denmark,DF,DF (CB),FC Toulouse,29,1997,191cm,tm_283227,32,2568,28.53,1,0,1,3,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Ludovic Ajorque,France,FW,FW (AM),Stade Brestois 29,32,1994,196cm,tm_283994,32,2824,31.38,8,10,18,9,0,0.25,0.32,0.57,transfermarkt_datasets,False,2026-11-09
+Ainsley Maitland-Niles,England,DF,DF (FB),Olympique Lyon,29,1997,180cm,tm_285845,30,2486,27.62,1,4,5,5,0,0.04,0.14,0.18,transfermarkt_datasets,False,2026-11-09
+Assane Dioussé,Senegal,MF,MF (DM),AJ Auxerre,29,1997,175cm,tm_287635,15,208,2.31,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ludovic Blas,France,MF,MF (WM),Stade Rennais FC,29,1997,180cm,tm_288225,32,1542,17.13,5,4,9,1,0,0.29,0.23,0.53,transfermarkt_datasets,False,2026-11-09
+Ousmane Dembélé,France,FW,FW (AM),Paris Saint-Germain,29,1997,179cm,tm_288230,22,1063,11.81,10,7,17,0,0,0.85,0.59,1.44,transfermarkt_datasets,False,2026-11-09
+Orel Mangala,Belgium,MF,MF (DM),Olympique Lyon,28,1998,178cm,tm_289592,9,416,4.62,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maxime Lopez,France,MF,MF (DM),Paris FC,29,1997,167cm,tm_290862,26,1960,21.78,0,3,3,9,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Moussa Niakhaté,Senegal,DF,DF (CB),Olympique Lyon,30,1996,190cm,tm_291200,32,2758,30.64,0,2,2,3,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Wout Faes,Belgium,DF,DF (CB),AS Monaco,28,1998,187cm,tm_292808,14,1141,12.68,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fodé Ballo-Touré,Senegal,DF,DF (FB),FC Metz,29,1997,182cm,tm_296422,13,843,9.37,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hamari Traoré,Mali,DF,DF (FB),Paris FC,34,1992,175cm,tm_297070,18,1154,12.82,0,1,1,4,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Pol Lirola,Spain,DF,DF (FB),Olympique Marseille,29,1997,183cm,tm_298975,3,31,0.34,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ben Chilwell,England,DF,DF (FB),RC Strasbourg Alsace,30,1996,180cm,tm_316125,20,1602,17.8,0,2,2,4,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Romain Perraud,France,DF,DF (FB),LOSC Lille,29,1997,173cm,tm_318523,30,2250,25.0,3,5,8,4,0,0.12,0.2,0.32,transfermarkt_datasets,False,2026-11-09
+Sebastian Szymanski,Poland,MF,MF (AM),Stade Rennais FC,27,1999,174cm,tm_320748,16,777,8.63,1,3,4,2,0,0.12,0.35,0.46,transfermarkt_datasets,False,2026-11-09
+Jean-Victor Makengo,France,MF,MF (AM),FC Lorient,28,1998,177cm,tm_322305,31,1815,20.17,4,2,6,2,0,0.2,0.1,0.3,transfermarkt_datasets,False,2026-11-09
+Jonathan Ikoné,France,FW,FW (WM),Paris FC,28,1998,175cm,tm_324690,23,1101,12.23,3,1,4,2,0,0.25,0.08,0.33,transfermarkt_datasets,False,2026-11-09
+Mahdi Camara,France,MF,MF (CM),Stade Rennais FC,28,1998,176cm,tm_324795,32,2661,29.57,3,2,5,5,0,0.1,0.07,0.17,transfermarkt_datasets,False,2026-11-09
+Arnaud Nordin,France,FW,FW (WM),Stade Rennais FC,28,1998,170cm,tm_324811,10,574,6.38,1,2,3,1,0,0.16,0.31,0.47,transfermarkt_datasets,False,2026-11-09
+Mama Baldé,Guinea-Bissau,FW,FW (AM),Stade Brestois 29,31,1995,176cm,tm_325223,18,712,7.91,2,2,4,0,0,0.25,0.25,0.51,transfermarkt_datasets,False,2026-11-09
+Derek Cornelius,Canada,DF,DF (CB),Olympique Marseille,29,1997,186cm,tm_328609,2,57,0.63,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Deiver Machado,Colombia,DF,DF (FB),RC Lens,33,1993,173cm,tm_332560,5,275,3.06,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Deiver Machado,Colombia,DF,DF (FB),FC Nantes,33,1993,173cm,tm_332560,14,911,10.12,0,1,1,2,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Valentin Rongier,France,MF,MF (CM),Stade Rennais FC,32,1994,173cm,tm_332889,31,2745,30.5,2,5,7,6,0,0.07,0.16,0.23,transfermarkt_datasets,False,2026-11-09
+Denis Zakaria,Switzerland,MF,MF (DM),AS Monaco,30,1996,189cm,tm_334526,24,2034,22.6,2,1,3,4,0,0.09,0.04,0.13,transfermarkt_datasets,False,2026-11-09
+Thibault De Smet,Belgium,DF,DF (FB),Paris FC,28,1998,183cm,tm_340177,17,1148,12.76,0,1,1,2,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Kelvin Amian,France,DF,DF (FB),FC Nantes,28,1998,180cm,tm_344072,23,1962,21.8,0,1,1,3,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Odsonne Édouard,France,FW,FW (AM),RC Lens,28,1998,187cm,tm_344152,29,1819,20.21,12,3,15,1,0,0.59,0.15,0.74,transfermarkt_datasets,False,2026-11-09
+Malang Sarr,France,DF,DF (CB),RC Lens,27,1999,183cm,tm_344596,33,2925,32.5,0,1,1,4,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Matthieu Udol,France,DF,DF (FB),RC Lens,30,1996,178cm,tm_344886,34,3005,33.39,1,7,8,2,0,0.03,0.21,0.24,transfermarkt_datasets,False,2026-11-09
+Habib Diallo,Senegal,FW,FW (AM),FC Metz,31,1995,186cm,tm_344888,25,1911,21.23,4,2,6,0,0,0.19,0.09,0.28,transfermarkt_datasets,False,2026-11-09
+Gauthier Hein,France,FW,FW (WM),FC Metz,30,1996,170cm,tm_344892,29,2355,26.17,8,7,15,1,0,0.31,0.27,0.57,transfermarkt_datasets,False,2026-11-09
+Fabián Ruiz,Spain,MF,MF (CM),Paris Saint-Germain,30,1996,188cm,tm_350219,20,1129,12.54,1,4,5,1,0,0.08,0.32,0.4,transfermarkt_datasets,False,2026-11-09
+Benjamin Pavard,France,DF,DF (CB),Olympique Marseille,30,1996,186cm,tm_353366,27,1929,21.43,1,2,3,6,0,0.05,0.09,0.14,transfermarkt_datasets,False,2026-11-09
+Romain Del Castillo,France,FW,FW (WM),Stade Brestois 29,30,1996,172cm,tm_353399,32,2646,29.4,9,3,12,2,0,0.31,0.1,0.41,transfermarkt_datasets,False,2026-11-09
+Gaëtan Perrin,France,FW,FW (WM),LOSC Lille,30,1996,169cm,tm_353404,12,334,3.71,1,0,1,2,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Lucas Tousart,France,MF,MF (CM),Stade Brestois 29,29,1997,184cm,tm_353948,24,827,9.19,1,1,2,0,0,0.11,0.11,0.22,transfermarkt_datasets,False,2026-11-09
+Frédéric Guilbert,France,DF,DF (FB),FC Nantes,32,1994,178cm,tm_354352,8,610,6.78,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amir Murillo,Panama,DF,DF (FB),Olympique Marseille,30,1996,185cm,tm_354482,16,988,10.98,2,2,4,4,0,0.18,0.18,0.36,transfermarkt_datasets,False,2026-11-09
+Florian Sotoca,France,FW,FW (AM),RC Lens,36,1990,187cm,tm_354726,26,494,5.49,1,0,1,1,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Chidozie Awaziem,Nigeria,DF,DF (CB),FC Nantes,29,1997,189cm,tm_358143,26,2232,24.8,1,2,3,7,0,0.04,0.08,0.12,transfermarkt_datasets,False,2026-11-09
+Jean-Philippe Krasso,Cote d'Ivoire,FW,FW (AM),Paris FC,29,1997,187cm,tm_358515,25,1089,12.1,2,2,4,0,0,0.17,0.17,0.33,transfermarkt_datasets,False,2026-11-09
+Nayef Aguerd,Morocco,DF,DF (CB),Olympique Marseille,30,1996,190cm,tm_361914,16,1399,15.54,1,0,1,4,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Jordan Teze,Netherlands,DF,DF (FB),AS Monaco,27,1999,183cm,tm_364245,33,2494,27.71,1,2,3,7,0,0.04,0.07,0.11,transfermarkt_datasets,False,2026-11-09
+Gabriel Osho,Nigeria,DF,DF (CB),AJ Auxerre,28,1998,185cm,tm_364409,2,135,1.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pablo Rosario,Dominican Republic,MF,MF (DM),OGC Nice,29,1997,188cm,tm_370791,1,27,0.3,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Timothy Weah,United States,MF,MF (WM),Olympique Marseille,26,2000,183cm,tm_370846,29,2263,25.14,2,2,4,5,0,0.08,0.08,0.16,transfermarkt_datasets,False,2026-11-09
+Francisco Sierralta,Chile,DF,DF (CB),AJ Auxerre,29,1997,192cm,tm_371436,10,862,9.58,1,0,1,2,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Carlens Arcus,Haiti,DF,DF (FB),Angers SCO,30,1996,180cm,tm_371686,26,2045,22.72,0,3,3,7,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Ibrahima Sissoko,Mali,MF,MF (DM),FC Nantes,29,1997,193cm,tm_372712,13,804,8.93,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vincent Marchetti,France,MF,MF (CM),Paris FC,29,1997,178cm,tm_374040,23,819,9.1,2,1,3,1,0,0.22,0.11,0.33,transfermarkt_datasets,False,2026-11-09
+Joel Asoro,Sweden,FW,FW (WM),FC Metz,27,1999,176cm,tm_375391,8,223,2.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pierre Lees-Melou,France,MF,MF (DM),Stade Brestois 29,33,1993,185cm,tm_377393,2,180,2.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Pierre Lees-Melou,France,MF,MF (DM),Paris FC,33,1993,185cm,tm_377393,22,1786,19.84,1,3,4,5,0,0.05,0.15,0.2,transfermarkt_datasets,False,2026-11-09
+Fabien Centonze,France,DF,DF (FB),FC Nantes,30,1996,182cm,tm_384859,15,733,8.14,3,0,3,4,0,0.37,0.0,0.37,transfermarkt_datasets,False,2026-11-09
+Hamed Traoré,Cote d'Ivoire,FW,FW (WM),Olympique Marseille,26,2000,177cm,tm_391065,13,620,6.89,2,1,3,1,0,0.29,0.15,0.44,transfermarkt_datasets,False,2026-11-09
+Igor Silva,Brazil,DF,DF (FB),FC Lorient,30,1996,173cm,tm_391720,17,1213,13.48,1,0,1,1,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Danny Namaso,Cameroon,FW,FW (WM),AJ Auxerre,26,2000,182cm,tm_392767,30,2528,28.09,3,3,6,9,0,0.11,0.11,0.21,transfermarkt_datasets,False,2026-11-09
+Angel Gomes,England,MF,MF (AM),Olympique Marseille,26,2000,168cm,tm_392770,14,892,9.91,3,0,3,4,0,0.3,0.0,0.3,transfermarkt_datasets,False,2026-11-09
+Elisha Owusu,Ghana,MF,MF (DM),AJ Auxerre,29,1997,182cm,tm_395695,29,2349,26.1,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gideon Mensah,Ghana,DF,DF (FB),AJ Auxerre,28,1998,178cm,tm_397171,30,2334,25.93,0,1,1,8,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Achraf Hakimi,Morocco,DF,DF (FB),Paris Saint-Germain,28,1998,180cm,tm_398073,18,1374,15.27,2,2,4,3,0,0.13,0.13,0.26,transfermarkt_datasets,False,2026-11-09
+Mathieu Cafaro,France,FW,FW (WM),Paris FC,29,1997,175cm,tm_399383,10,146,1.62,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amadou Haidara,Mali,MF,MF (CM),RC Lens,28,1998,178cm,tm_402008,7,257,2.86,1,1,2,0,0,0.35,0.35,0.7,transfermarkt_datasets,False,2026-11-09
+Ayumu Seko,Japan,DF,DF (CB),Le Havre AC,26,2000,186cm,tm_405389,30,2625,29.17,0,0,0,6,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Reda Khadra,Germany,MF,MF (AM),Le Havre AC,25,2001,175cm,tm_405686,8,223,2.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Matt O'Riley,Denmark,MF,MF (CM),Olympique Marseille,26,2000,189cm,tm_406634,15,739,8.21,1,2,3,2,0,0.12,0.24,0.37,transfermarkt_datasets,False,2026-11-09
+Marshall Munetsi,Zimbabwe,MF,MF (CM),Paris FC,30,1996,188cm,tm_414908,15,978,10.87,4,2,6,0,0,0.37,0.18,0.55,transfermarkt_datasets,False,2026-11-09
+Amine Gouiri,Algeria,FW,FW (AM),Olympique Marseille,26,2000,180cm,tm_418659,22,1331,14.79,8,3,11,1,0,0.54,0.2,0.74,transfermarkt_datasets,False,2026-11-09
+Giorgi Tsitaishvili,Georgia,FW,FW (WM),FC Metz,26,2000,171cm,tm_419067,33,2459,27.32,3,2,5,3,0,0.11,0.07,0.18,transfermarkt_datasets,False,2026-11-09
+Caio Henrique,Brazil,DF,DF (FB),AS Monaco,29,1997,178cm,tm_420064,22,1533,17.03,0,2,2,2,0,0.0,0.12,0.12,transfermarkt_datasets,False,2026-11-09
+Quinten Timber,Netherlands,MF,MF (CM),Olympique Marseille,25,2001,176cm,tm_420213,15,1112,12.36,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mark McKenzie,United States,DF,DF (CB),FC Toulouse,27,1999,186cm,tm_429259,29,2405,26.72,0,2,2,7,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Tuomas Ollila,Finland,DF,DF (FB),Paris FC,26,2000,174cm,tm_433887,10,305,3.39,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alimami Gory,France,FW,FW (WM),Paris FC,30,1996,182cm,tm_435492,24,978,10.87,5,2,7,3,0,0.46,0.18,0.64,transfermarkt_datasets,False,2026-11-09
+Tanguy Ndombélé,France,MF,MF (CM),OGC Nice,30,1996,181cm,tm_450936,8,272,3.02,0,1,1,0,0,0.0,0.33,0.33,transfermarkt_datasets,False,2026-11-09
+Estéban Lepaul,France,FW,FW (AM),Stade Rennais FC,26,2000,181cm,tm_461607,32,2530,28.11,20,5,25,3,0,0.71,0.18,0.89,transfermarkt_datasets,False,2026-11-09
+Estéban Lepaul,France,FW,FW (AM),Angers SCO,26,2000,181cm,tm_461607,2,175,1.94,1,0,1,0,0,0.52,0.0,0.52,transfermarkt_datasets,False,2026-11-09
+Mostafa Mohamed,Egypt,FW,FW (AM),FC Nantes,29,1997,185cm,tm_462348,24,1151,12.79,4,0,4,1,0,0.31,0.0,0.31,transfermarkt_datasets,False,2026-11-09
+Yann Gboho,France,FW,FW (WM),FC Toulouse,25,2001,178cm,tm_463613,31,2610,29.0,8,3,11,1,0,0.28,0.1,0.38,transfermarkt_datasets,False,2026-11-09
+Willem Geubbels,France,FW,FW (AM),Paris FC,25,2001,186cm,tm_463620,24,1012,11.24,5,0,5,0,0,0.44,0.0,0.44,transfermarkt_datasets,False,2026-11-09
+Ansu Fati,Spain,FW,FW (WM),AS Monaco,24,2002,178cm,tm_466810,25,1085,12.06,11,0,11,1,0,0.91,0.0,0.91,transfermarkt_datasets,False,2026-11-09
+Cristian Cásseres Jr.,Venezuela,MF,MF (CM),FC Toulouse,26,2000,176cm,tm_467632,30,2498,27.76,2,4,6,6,0,0.07,0.14,0.22,transfermarkt_datasets,False,2026-11-09
+Hugo Magnetti,France,MF,MF (CM),Stade Brestois 29,28,1998,180cm,tm_474662,33,2697,29.97,1,2,3,3,0,0.03,0.07,0.1,transfermarkt_datasets,False,2026-11-09
+Facundo Medina,Argentina,DF,DF (CB),Olympique Marseille,27,1999,184cm,tm_474800,17,1366,15.18,0,1,1,7,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Aron Dønnum,Norway,MF,MF (WM),FC Toulouse,28,1998,178cm,tm_476836,28,2424,26.93,4,4,8,8,0,0.15,0.15,0.3,transfermarkt_datasets,False,2026-11-09
+Tiago Gouveia,Portugal,FW,FW (WM),OGC Nice,25,2001,176cm,tm_479638,15,526,5.84,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Félix Correia,Portugal,FW,FW (WM),LOSC Lille,25,2001,178cm,tm_479648,34,2067,22.97,4,5,9,2,0,0.17,0.22,0.39,transfermarkt_datasets,False,2026-11-09
+Koffi Kouao,Cote d'Ivoire,DF,DF (FB),FC Metz,28,1998,173cm,tm_481513,27,2274,25.27,2,2,4,10,0,0.08,0.08,0.16,transfermarkt_datasets,False,2026-11-09
+Lilian Brassier,France,DF,DF (CB),Stade Rennais FC,27,1999,186cm,tm_485960,27,2252,25.02,0,1,1,2,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Nicolas Cozza,France,DF,DF (CB),FC Nantes,27,1999,181cm,tm_485965,29,2303,25.59,0,1,1,2,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Vitinha,Portugal,MF,MF (DM),Paris Saint-Germain,26,2000,170cm,tm_487469,29,2121,23.57,1,7,8,2,0,0.04,0.3,0.34,transfermarkt_datasets,False,2026-11-09
+Krépin Diatta,Senegal,MF,MF (WM),AS Monaco,27,1999,173cm,tm_490426,18,1011,11.23,0,1,1,2,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+Montassar Talbi,Tunisia,DF,DF (CB),FC Lorient,28,1998,190cm,tm_496706,29,2610,29.0,0,1,1,3,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Pavel Sulc,Czech Republic,MF,MF (AM),Olympique Lyon,26,2000,177cm,tm_500053,27,1569,17.43,11,3,14,3,0,0.63,0.17,0.8,transfermarkt_datasets,False,2026-11-09
+Theo Bair,Canada,FW,FW (AM),AJ Auxerre,27,1999,194cm,tm_501709,2,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Khvicha Kvaratskhelia,Georgia,FW,FW (WM),Paris Saint-Germain,25,2001,183cm,tm_502670,28,1482,16.47,8,4,12,1,0,0.49,0.24,0.73,transfermarkt_datasets,False,2026-11-09
+Folarin Balogun,United States,FW,FW (AM),AS Monaco,25,2001,179cm,tm_503770,30,2247,24.97,13,5,18,4,0,0.52,0.2,0.72,transfermarkt_datasets,False,2026-11-09
+Fabian Rieder,Switzerland,MF,MF (AM),Stade Rennais FC,24,2002,181cm,tm_507341,3,134,1.49,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Felix Mambimbi,Switzerland,FW,FW (WM),Le Havre AC,25,2001,171cm,tm_507496,17,529,5.88,1,0,1,1,0,0.17,0.0,0.17,transfermarkt_datasets,False,2026-11-09
+Goduine Koyalipou,Central African Republic,FW,FW (AM),Angers SCO,26,2000,184cm,tm_525140,13,669,7.43,2,1,3,0,0,0.27,0.13,0.4,transfermarkt_datasets,False,2026-11-09
+Oussama El Azzouzi,Morocco,MF,MF (DM),AJ Auxerre,25,2001,189cm,tm_531065,11,814,9.04,1,0,1,1,0,0.11,0.0,0.11,transfermarkt_datasets,False,2026-11-09
+Ignatius Ganago,Cameroon,FW,FW (AM),FC Nantes,27,1999,176cm,tm_531949,13,842,9.36,3,1,4,1,0,0.32,0.11,0.43,transfermarkt_datasets,False,2026-11-09
+Melvin Bard,France,DF,DF (FB),OGC Nice,26,2000,173cm,tm_532775,29,2396,26.62,2,1,3,4,0,0.08,0.04,0.11,transfermarkt_datasets,False,2026-11-09
+Mason Greenwood,England,FW,FW (WM),Olympique Marseille,25,2001,181cm,tm_532826,32,2471,27.46,16,7,23,4,0,0.58,0.25,0.84,transfermarkt_datasets,False,2026-11-09
+Isak Jansson,Sweden,FW,FW (WM),OGC Nice,24,2002,175cm,tm_535820,22,634,7.04,1,0,1,3,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Junior Dina Ebimbe,Cameroon,MF,MF (WM),Stade Brestois 29,26,2000,184cm,tm_536482,27,1167,12.97,5,0,5,3,0,0.39,0.0,0.39,transfermarkt_datasets,False,2026-11-09
+Terem Moffi,Nigeria,FW,FW (AM),OGC Nice,27,1999,188cm,tm_538874,10,489,5.43,2,0,2,0,0,0.37,0.0,0.37,transfermarkt_datasets,False,2026-11-09
+Naouirou Ahamada,France,MF,MF (CM),AJ Auxerre,24,2002,183cm,tm_538971,15,679,7.54,0,1,1,0,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Timothée Pembélé,France,DF,DF (FB),Le Havre AC,24,2002,183cm,tm_538998,14,374,4.16,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jessy Deminguet,France,MF,MF (CM),FC Metz,28,1998,178cm,tm_539232,31,2013,22.37,2,1,3,4,0,0.09,0.04,0.13,transfermarkt_datasets,False,2026-11-09
+Fredrik Oppegård,Norway,DF,DF (FB),AJ Auxerre,24,2002,175cm,tm_539665,23,1248,13.87,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bryan Okoh,Switzerland,DF,DF (CB),AJ Auxerre,23,2003,191cm,tm_539795,13,1006,11.18,3,0,3,2,0,0.27,0.0,0.27,transfermarkt_datasets,False,2026-11-09
+Dilane Bakwa,France,FW,FW (WM),RC Strasbourg Alsace,24,2002,180cm,tm_540664,3,105,1.17,1,3,4,0,0,0.85,2.56,3.42,transfermarkt_datasets,False,2026-11-09
+Billal Brahimi,Algeria,FW,FW (WM),OGC Nice,26,2000,183cm,tm_543051,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nathan Ngoy,Belgium,DF,DF (CB),LOSC Lille,23,2003,183cm,tm_548254,29,2404,26.71,1,2,3,10,0,0.04,0.07,0.11,transfermarkt_datasets,False,2026-11-09
+Gonçalo Ramos,Portugal,FW,FW (AM),Paris Saint-Germain,25,2001,185cm,tm_550550,30,1309,14.54,6,1,7,2,0,0.41,0.07,0.48,transfermarkt_datasets,False,2026-11-09
+Hyeok-kyu Kwon,"Korea, South",MF,MF (DM),FC Nantes,25,2001,192cm,tm_550957,12,758,8.42,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mousa Tamari,Jordan,FW,FW (WM),Stade Rennais FC,29,1997,176cm,tm_551505,33,2228,24.76,6,9,15,4,0,0.24,0.36,0.61,transfermarkt_datasets,False,2026-11-09
+Romain Faivre,France,MF,MF (AM),AJ Auxerre,28,1998,180cm,tm_555076,10,583,6.48,0,2,2,0,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Kang-in Lee,"Korea, South",MF,MF (AM),Paris Saint-Germain,25,2001,174cm,tm_557149,27,1522,16.91,3,4,7,3,0,0.18,0.24,0.41,transfermarkt_datasets,False,2026-11-09
+Sékou Mara,France,FW,FW (AM),AJ Auxerre,24,2002,183cm,tm_557612,27,1229,13.66,3,2,5,0,0,0.22,0.15,0.37,transfermarkt_datasets,False,2026-11-09
+Quentin Merlin,France,DF,DF (FB),Stade Rennais FC,24,2002,174cm,tm_557613,33,2532,28.13,1,6,7,2,0,0.04,0.21,0.25,transfermarkt_datasets,False,2026-11-09
+Emmanuel Emegha,Netherlands,FW,FW (AM),RC Strasbourg Alsace,23,2003,196cm,tm_559328,10,440,4.89,4,2,6,3,0,0.82,0.41,1.23,transfermarkt_datasets,False,2026-11-09
+Hicham Boudaoui,Algeria,MF,MF (CM),OGC Nice,27,1999,175cm,tm_560593,25,1694,18.82,1,2,3,5,0,0.05,0.11,0.16,transfermarkt_datasets,False,2026-11-09
+Hyun-seok Hong,"Korea, South",MF,MF (AM),FC Nantes,27,1999,177cm,tm_562948,6,284,3.16,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohammed Salisu,Ghana,DF,DF (CB),AS Monaco,27,1999,188cm,tm_563963,12,1080,12.0,1,0,1,3,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Mika Biereth,Denmark,FW,FW (AM),AS Monaco,23,2003,187cm,tm_565821,32,1063,11.81,2,2,4,0,0,0.17,0.17,0.34,transfermarkt_datasets,False,2026-11-09
+Cheikh Sabaly,Senegal,FW,FW (WM),FC Metz,27,1999,168cm,tm_568696,14,971,10.79,0,2,2,2,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Issa Soumaré,Senegal,FW,FW (WM),Le Havre AC,26,2000,184cm,tm_568698,34,2949,32.77,8,5,13,3,0,0.24,0.15,0.4,transfermarkt_datasets,False,2026-11-09
+Lassine Sinayoko,Mali,FW,FW (AM),AJ Auxerre,27,1999,186cm,tm_569140,32,2781,30.9,12,4,16,8,0,0.39,0.13,0.52,transfermarkt_datasets,False,2026-11-09
+Sofiane Diop,Morocco,FW,FW (WM),OGC Nice,26,2000,175cm,tm_569389,33,2145,23.83,8,2,10,5,0,0.34,0.08,0.42,transfermarkt_datasets,False,2026-11-09
+Charles Vanhoutte,Belgium,MF,MF (DM),OGC Nice,28,1998,182cm,tm_569845,26,1779,19.77,0,2,2,7,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Christopher Wooh,Cameroon,DF,DF (CB),Stade Rennais FC,25,2001,191cm,tm_572326,2,64,0.71,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Leonardo Balerdi,Argentina,DF,DF (CB),Olympique Marseille,27,1999,188cm,tm_575998,26,1998,22.2,0,1,1,5,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Ruben Kluivert,Netherlands,DF,DF (CB),Olympique Lyon,25,2001,187cm,tm_578421,16,768,8.53,1,2,3,4,0,0.12,0.23,0.35,transfermarkt_datasets,False,2026-11-09
+Sebastian Nanasi,Sweden,FW,FW (WM),RC Strasbourg Alsace,24,2002,178cm,tm_579928,19,1047,11.63,7,2,9,0,0,0.6,0.17,0.77,transfermarkt_datasets,False,2026-11-09
+Osame Sahraoui,Morocco,FW,FW (WM),LOSC Lille,25,2001,170cm,tm_580657,18,495,5.5,1,2,3,0,0,0.18,0.36,0.55,transfermarkt_datasets,False,2026-11-09
+CJ Egan-Riley,England,DF,DF (CB),Olympique Marseille,23,2003,183cm,tm_581669,11,626,6.96,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Johann Lepenant,France,MF,MF (DM),FC Nantes,24,2002,176cm,tm_585973,27,2175,24.17,0,1,1,4,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Himad Abdelli,Algeria,MF,MF (AM),Olympique Marseille,27,1999,185cm,tm_592979,8,133,1.48,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Himad Abdelli,Algeria,MF,MF (AM),Angers SCO,27,1999,185cm,tm_592979,13,948,10.53,2,0,2,1,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Charlie Cresswell,England,DF,DF (CB),FC Toulouse,24,2002,190cm,tm_597659,29,2533,28.14,3,2,5,8,0,0.11,0.07,0.18,transfermarkt_datasets,False,2026-11-09
+Nuno Mendes,Portugal,DF,DF (FB),Paris Saint-Germain,24,2002,177cm,tm_616341,20,1250,13.89,4,5,9,1,0,0.29,0.36,0.65,transfermarkt_datasets,False,2026-11-09
+Tyler Morton,England,MF,MF (DM),Olympique Lyon,24,2002,185cm,tm_618494,29,2524,28.04,2,2,4,6,0,0.07,0.07,0.14,transfermarkt_datasets,False,2026-11-09
+Mohamed Bamba,Cote d'Ivoire,FW,FW (AM),FC Lorient,25,2001,185cm,tm_619461,18,677,7.52,1,2,3,3,0,0.13,0.27,0.4,transfermarkt_datasets,False,2026-11-09
+Lucas Gourna-Douath,France,MF,MF (DM),Le Havre AC,23,2003,185cm,tm_620313,15,1276,14.18,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Andrew Omobamidele,Ireland,DF,DF (CB),RC Strasbourg Alsace,24,2002,188cm,tm_621993,25,1352,15.02,1,0,1,4,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+Joris Chotard,France,MF,MF (DM),Stade Brestois 29,25,2001,179cm,tm_624037,33,2777,30.86,2,1,3,2,0,0.06,0.03,0.1,transfermarkt_datasets,False,2026-11-09
+Saud Abdulhamid,Saudi Arabia,DF,DF (FB),RC Lens,27,1999,172cm,tm_631927,25,1345,14.94,2,5,7,4,0,0.13,0.33,0.47,transfermarkt_datasets,False,2026-11-09
+Rafael Luís,Portugal,MF,MF (DM),RC Strasbourg Alsace,21,2005,188cm,tm_637803,12,585,6.5,0,2,2,0,0,0.0,0.31,0.31,transfermarkt_datasets,False,2026-11-09
+Étienne Youté Kinkoué,France,DF,DF (CB),Le Havre AC,24,2002,196cm,tm_639712,9,416,4.62,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Martín Satriano,Uruguay,FW,FW (AM),Olympique Lyon,25,2001,187cm,tm_640109,11,694,7.71,2,1,3,0,0,0.26,0.13,0.39,transfermarkt_datasets,False,2026-11-09
+Abner,Brazil,DF,DF (FB),Olympique Lyon,26,2000,181cm,tm_646402,26,2157,23.97,3,2,5,4,0,0.13,0.08,0.21,transfermarkt_datasets,False,2026-11-09
+Jim Allevinah,Gabon,FW,FW (WM),Angers SCO,31,1995,172cm,tm_646733,6,127,1.41,1,0,1,0,0,0.71,0.0,0.71,transfermarkt_datasets,False,2026-11-09
+Nathaniel Adjei,Ghana,DF,DF (CB),FC Lorient,24,2002,191cm,tm_646829,15,833,9.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alexsandro,Brazil,DF,DF (CB),LOSC Lille,27,1999,191cm,tm_648020,9,510,5.67,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Boubacar Traoré,Mali,MF,MF (DM),FC Metz,25,2001,183cm,tm_649020,20,1392,15.47,1,0,1,4,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Formose Mendy,Senegal,DF,DF (CB),FC Lorient,25,2001,191cm,tm_649023,2,135,1.5,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Moustapha Mbow,Senegal,DF,DF (CB),Paris FC,26,2000,192cm,tm_649026,31,2716,30.18,0,1,1,5,0,0.0,0.03,0.03,transfermarkt_datasets,False,2026-11-09
+Godson Kyeremeh,France,FW,FW (WM),Le Havre AC,26,2000,177cm,tm_651973,13,374,4.16,1,1,2,0,0,0.24,0.24,0.48,transfermarkt_datasets,False,2026-11-09
+Adam Karabec,Czech Republic,MF,MF (AM),Olympique Lyon,23,2003,187cm,tm_652061,21,925,10.28,1,0,1,3,0,0.1,0.0,0.1,transfermarkt_datasets,False,2026-11-09
+Hákon Arnar Haraldsson,Iceland,MF,MF (AM),LOSC Lille,23,2003,178cm,tm_652275,32,2477,27.52,8,3,11,6,0,0.29,0.11,0.4,transfermarkt_datasets,False,2026-11-09
+Igor Paixão,Brazil,FW,FW (WM),Olympique Marseille,26,2000,168cm,tm_653610,30,1985,22.06,6,6,12,3,0,0.27,0.27,0.54,transfermarkt_datasets,False,2026-11-09
+Diego Moreira,Belgium,MF,MF (WM),RC Strasbourg Alsace,22,2004,179cm,tm_655006,27,2045,22.72,4,7,11,4,0,0.18,0.31,0.48,transfermarkt_datasets,False,2026-11-09
+Samson Baidoo,Austria,DF,DF (CB),RC Lens,22,2004,190cm,tm_655217,23,1827,20.3,2,1,3,2,0,0.1,0.05,0.15,transfermarkt_datasets,False,2026-11-09
+Abu Francis,Ghana,MF,MF (CM),FC Toulouse,25,2001,182cm,tm_658533,8,532,5.91,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lasso Coulibaly,Cote d'Ivoire,FW,FW (WM),AJ Auxerre,24,2002,176cm,tm_658534,17,308,3.42,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Simon Adingra,Cote d'Ivoire,FW,FW (WM),AS Monaco,24,2002,175cm,tm_658536,14,862,9.58,3,2,5,0,0,0.31,0.21,0.52,transfermarkt_datasets,False,2026-11-09
+Ilya Zabarnyi,Ukraine,DF,DF (CB),Paris Saint-Germain,24,2002,189cm,tm_659089,28,2387,26.52,1,0,1,6,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Soumaïla Coulibaly,France,DF,DF (CB),Stade Brestois 29,23,2003,191cm,tm_659513,16,1339,14.88,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Félix Lemaréchal,France,MF,MF (AM),RC Strasbourg Alsace,23,2003,180cm,tm_659518,11,555,6.17,0,2,2,1,0,0.0,0.32,0.32,transfermarkt_datasets,False,2026-11-09
+Bilal Nadir,Morocco,MF,MF (CM),Olympique Marseille,23,2003,179cm,tm_659520,20,588,6.53,0,4,4,4,0,0.0,0.61,0.61,transfermarkt_datasets,False,2026-11-09
+Elye Wahi,Cote d'Ivoire,FW,FW (AM),OGC Nice,23,2003,181cm,tm_659542,14,929,10.32,5,1,6,5,0,0.48,0.1,0.58,transfermarkt_datasets,False,2026-11-09
+Matthis Abline,France,FW,FW (AM),FC Nantes,23,2003,182cm,tm_659543,32,2497,27.74,6,5,11,6,0,0.22,0.18,0.4,transfermarkt_datasets,False,2026-11-09
+Diego Coppola,Italy,DF,DF (CB),Paris FC,23,2003,193cm,tm_660860,13,1170,13.0,0,2,2,1,0,0.0,0.15,0.15,transfermarkt_datasets,False,2026-11-09
+Julio Enciso,Paraguay,MF,MF (AM),RC Strasbourg Alsace,22,2004,173cm,tm_660867,27,1893,21.03,3,6,9,2,0,0.14,0.29,0.43,transfermarkt_datasets,False,2026-11-09
+Willian Pacho,Ecuador,DF,DF (CB),Paris Saint-Germain,25,2001,188cm,tm_661171,23,1915,21.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rassoul Ndiaye,Senegal,MF,MF (CM),Le Havre AC,25,2001,179cm,tm_662242,33,2577,28.63,4,4,8,2,0,0.14,0.14,0.28,transfermarkt_datasets,False,2026-11-09
+Mikayil Faye,Senegal,DF,DF (CB),Stade Rennais FC,22,2004,183cm,tm_666974,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yassine Kechta,Morocco,MF,MF (CM),Le Havre AC,24,2002,174cm,tm_667967,30,1330,14.78,2,1,3,3,0,0.14,0.07,0.2,transfermarkt_datasets,False,2026-11-09
+Samir Chergui,Algeria,DF,DF (CB),Paris FC,27,1999,185cm,tm_668167,15,1155,12.83,1,0,1,1,0,0.08,0.0,0.08,transfermarkt_datasets,False,2026-11-09
+Tanner Tessmann,United States,MF,MF (DM),Olympique Lyon,25,2001,188cm,tm_670096,29,1954,21.71,1,0,1,2,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+João Neves,Portugal,MF,MF (CM),Paris Saint-Germain,22,2004,171cm,tm_670681,21,1286,14.29,5,1,6,0,0,0.35,0.07,0.42,transfermarkt_datasets,False,2026-11-09
+Mohamed-Ali Cho,France,FW,FW (WM),OGC Nice,22,2004,182cm,tm_670847,24,1681,18.68,4,3,7,1,0,0.21,0.16,0.37,transfermarkt_datasets,False,2026-11-09
+Daouda Guindo,Mali,DF,DF (FB),Stade Brestois 29,24,2002,183cm,tm_671590,25,1687,18.74,1,1,2,4,0,0.05,0.05,0.11,transfermarkt_datasets,False,2026-11-09
+Kamory Doumbia,Mali,MF,MF (AM),Stade Brestois 29,23,2003,170cm,tm_671594,24,1766,19.62,5,4,9,6,0,0.25,0.2,0.46,transfermarkt_datasets,False,2026-11-09
+Jonathan Rowe,England,FW,FW (WM),Olympique Marseille,23,2003,173cm,tm_672381,1,63,0.7,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bertuğ Yıldırım,Türkiye,FW,FW (AM),Stade Rennais FC,24,2002,191cm,tm_672803,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Youssouf Ndayishimiye,Burundi,DF,DF (CB),OGC Nice,28,1998,183cm,tm_674612,2,72,0.8,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Giorgi Abuashvili,Georgia,FW,FW (WM),FC Metz,23,2003,175cm,tm_677057,23,687,7.63,2,0,2,1,0,0.26,0.0,0.26,transfermarkt_datasets,False,2026-11-09
+Jacen Russell-Rowe,Canada,FW,FW (AM),FC Toulouse,24,2002,183cm,tm_683625,13,469,5.21,1,0,1,0,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Salis Abdul Samed,Ghana,MF,MF (DM),OGC Nice,26,2000,179cm,tm_688707,18,913,10.14,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Anthony Rouault,France,DF,DF (CB),Stade Rennais FC,25,2001,186cm,tm_690799,21,1723,19.14,1,0,1,5,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Morgan Guilavogui,Guinea,FW,FW (WM),RC Lens,28,1998,189cm,tm_691786,16,481,5.34,1,0,1,3,0,0.19,0.0,0.19,transfermarkt_datasets,False,2026-11-09
+Yanis Zouaoui,France,DF,DF (FB),Le Havre AC,28,1998,183cm,tm_691841,30,2350,26.11,1,1,2,7,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Noah Cadiou,Guadeloupe,MF,MF (CM),FC Lorient,28,1998,191cm,tm_691958,28,1873,20.81,3,2,5,2,0,0.14,0.1,0.24,transfermarkt_datasets,False,2026-11-09
+Joel Mvuka,Norway,MF,MF (WM),FC Lorient,24,2002,176cm,tm_700078,15,556,6.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Sinaly Diomandé,Cote d'Ivoire,DF,DF (CB),AJ Auxerre,25,2001,184cm,tm_702441,24,2134,23.71,2,2,4,2,0,0.08,0.08,0.17,transfermarkt_datasets,False,2026-11-09
+Sambou Soumano,Senegal,FW,FW (AM),FC Lorient,25,2001,182cm,tm_704270,31,928,10.31,4,2,6,2,0,0.39,0.19,0.58,transfermarkt_datasets,False,2026-11-09
+Malick Mbaye,Senegal,FW,FW (WM),FC Metz,22,2004,173cm,tm_707063,5,300,3.33,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ugo Raghouber,France,MF,MF (DM),LOSC Lille,23,2003,188cm,tm_707230,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Badredine Bouanani,Algeria,FW,FW (WM),OGC Nice,22,2004,177cm,tm_707242,2,93,1.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bradley Barcola,France,FW,FW (WM),Paris Saint-Germain,24,2002,187cm,tm_708265,29,1750,19.44,11,2,13,2,0,0.57,0.1,0.67,transfermarkt_datasets,False,2026-11-09
+Isaak Touré,France,DF,DF (CB),FC Lorient,23,2003,206cm,tm_708678,1,28,0.31,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mario Sauer,Slovakia,MF,MF (CM),FC Toulouse,22,2004,180cm,tm_710885,25,638,7.09,1,0,1,4,0,0.14,0.0,0.14,transfermarkt_datasets,False,2026-11-09
+Andy Diouf,France,MF,MF (CM),RC Lens,23,2003,187cm,tm_711976,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Guéla Doué,Cote d'Ivoire,DF,DF (FB),RC Strasbourg Alsace,24,2002,187cm,tm_711980,24,2064,22.93,2,6,8,3,0,0.09,0.26,0.35,transfermarkt_datasets,False,2026-11-09
+Darlin Yongwa,Cameroon,DF,DF (FB),FC Lorient,26,2000,177cm,tm_717118,23,1305,14.5,0,1,1,4,0,0.0,0.07,0.07,transfermarkt_datasets,False,2026-11-09
+Kevin Carlos,Spain,FW,FW (AM),OGC Nice,25,2001,186cm,tm_718201,23,874,9.71,0,1,1,3,0,0.0,0.1,0.1,transfermarkt_datasets,False,2026-11-09
+Matias Fernandez-Pardo,Belgium,FW,FW (AM),LOSC Lille,21,2005,188cm,tm_724129,29,2382,26.47,8,5,13,5,0,0.3,0.19,0.49,transfermarkt_datasets,False,2026-11-09
+Georges Mikautadze,Georgia,FW,FW (AM),Olympique Lyon,26,2000,176cm,tm_729814,2,180,2.0,1,0,1,0,0,0.5,0.0,0.5,transfermarkt_datasets,False,2026-11-09
+Ilan Kebbal,Algeria,FW,FW (WM),Paris FC,28,1998,169cm,tm_739769,29,2232,24.8,9,4,13,7,0,0.36,0.16,0.52,transfermarkt_datasets,False,2026-11-09
+Malick Fofana,Belgium,FW,FW (WM),Olympique Lyon,21,2005,169cm,tm_743386,12,754,8.38,2,1,3,1,0,0.24,0.12,0.36,transfermarkt_datasets,False,2026-11-09
+Stanis Idumbo,Belgium,MF,MF (AM),AS Monaco,21,2005,171cm,tm_743387,8,164,1.82,1,1,2,0,0,0.55,0.55,1.1,transfermarkt_datasets,False,2026-11-09
+Kévin Danois,France,MF,MF (CM),AJ Auxerre,22,2004,183cm,tm_743496,33,2839,31.54,3,1,4,3,0,0.1,0.03,0.13,transfermarkt_datasets,False,2026-11-09
+Emersonn,Brazil,FW,FW (AM),FC Toulouse,22,2004,193cm,tm_743599,27,1504,16.71,6,2,8,5,0,0.36,0.12,0.48,transfermarkt_datasets,False,2026-11-09
+Mamadou Coulibaly,France,MF,MF (CM),AS Monaco,22,2004,179cm,tm_745173,25,1382,15.36,3,3,6,7,0,0.2,0.2,0.39,transfermarkt_datasets,False,2026-11-09
+Maghnes Akliouche,France,FW,FW (WM),AS Monaco,24,2002,183cm,tm_745200,31,2410,26.78,6,7,13,3,0,0.22,0.26,0.49,transfermarkt_datasets,False,2026-11-09
+Luca Koleosho,Italy,FW,FW (WM),Paris FC,22,2004,175cm,tm_745461,16,543,6.03,3,1,4,0,0,0.5,0.17,0.66,transfermarkt_datasets,False,2026-11-09
+Tom Louchet,France,MF,MF (WM),OGC Nice,23,2003,178cm,tm_750904,27,1365,15.17,3,2,5,1,0,0.2,0.13,0.33,transfermarkt_datasets,False,2026-11-09
+Josué Casimir,Haiti,FW,FW (WM),AJ Auxerre,25,2001,178cm,tm_763182,31,1521,16.9,1,0,1,4,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Théo Le Bris,France,MF,MF (WM),FC Lorient,24,2002,170cm,tm_766412,28,1902,21.13,2,2,4,0,0,0.09,0.09,0.19,transfermarkt_datasets,False,2026-11-09
+Arouna Sangante,Senegal,DF,DF (CB),Le Havre AC,24,2002,189cm,tm_768380,28,2335,25.94,1,1,2,4,0,0.04,0.04,0.08,transfermarkt_datasets,False,2026-11-09
+Simon Ebonog,France,MF,MF (CM),Le Havre AC,22,2004,186cm,tm_770436,30,1764,19.6,1,0,1,8,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Abdallah Sima,Senegal,FW,FW (WM),RC Lens,25,2001,188cm,tm_776798,21,711,7.9,2,2,4,3,0,0.25,0.25,0.51,transfermarkt_datasets,False,2026-11-09
+Ismaël Doukouré,France,DF,DF (CB),RC Strasbourg Alsace,23,2003,183cm,tm_786436,25,2077,23.08,0,2,2,4,0,0.0,0.09,0.09,transfermarkt_datasets,False,2026-11-09
+David Datro Fofana,Cote d'Ivoire,FW,FW (AM),RC Strasbourg Alsace,24,2002,182cm,tm_787232,5,170,1.89,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Vanderson,Brazil,DF,DF (FB),AS Monaco,25,2001,173cm,tm_789082,14,613,6.81,0,2,2,4,0,0.0,0.29,0.29,transfermarkt_datasets,False,2026-11-09
+Julien Le Cardinal,France,DF,DF (CB),Stade Brestois 29,29,1997,184cm,tm_794349,5,327,3.63,1,0,1,1,0,0.28,0.0,0.28,transfermarkt_datasets,False,2026-11-09
+Warren Kamanzi,Norway,DF,DF (FB),FC Toulouse,26,2000,177cm,tm_794758,24,856,9.51,1,2,3,1,0,0.11,0.21,0.32,transfermarkt_datasets,False,2026-11-09
+Mayckel Lahdo,Sweden,FW,FW (WM),FC Nantes,24,2002,179cm,tm_795274,8,417,4.63,1,1,2,0,0,0.22,0.22,0.43,transfermarkt_datasets,False,2026-11-09
+Yassine Benhattab,France,FW,FW (WM),FC Nantes,24,2002,170cm,tm_796589,10,477,5.3,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lamine Sy,France,DF,DF (FB),AJ Auxerre,24,2002,171cm,tm_796865,24,1532,17.02,0,1,1,1,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Alidu Seidu,Ghana,DF,DF (CB),Stade Rennais FC,26,2000,173cm,tm_798404,21,1185,13.17,0,1,1,1,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Fodé Doucouré,Mali,DF,DF (FB),Le Havre AC,25,2001,172cm,tm_798925,26,1242,13.8,3,1,4,2,0,0.22,0.07,0.29,transfermarkt_datasets,False,2026-11-09
+Noah Nartey,Denmark,MF,MF (AM),Olympique Lyon,21,2005,180cm,tm_802515,11,540,6.0,2,0,2,0,0,0.33,0.0,0.33,transfermarkt_datasets,False,2026-11-09
+Ousmane Camara,Mali,DF,DF (CB),Angers SCO,23,2003,197cm,tm_804711,32,2719,30.21,1,0,1,3,0,0.03,0.0,0.03,transfermarkt_datasets,False,2026-11-09
+Bradley Locko,France,DF,DF (FB),Stade Brestois 29,24,2002,180cm,tm_805908,21,1285,14.28,0,2,2,0,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Clément Akpa,Cote d'Ivoire,DF,DF (CB),AJ Auxerre,25,2001,181cm,tm_806793,26,1941,21.57,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bamo Meïté,Cote d'Ivoire,DF,DF (CB),FC Lorient,25,2001,184cm,tm_807165,25,1980,22.0,0,3,3,5,0,0.0,0.14,0.14,transfermarkt_datasets,False,2026-11-09
+Yassin Belkhdim,Morocco,MF,MF (CM),Angers SCO,24,2002,175cm,tm_807688,27,2149,23.88,2,2,4,5,0,0.08,0.08,0.17,transfermarkt_datasets,False,2026-11-09
+Frank Magri,Cameroon,FW,FW (AM),FC Toulouse,27,1999,178cm,tm_807689,17,1264,14.04,5,1,6,3,0,0.36,0.07,0.43,transfermarkt_datasets,False,2026-11-09
+Mamadou Sangaré,Mali,MF,MF (CM),RC Lens,24,2002,181cm,tm_808348,29,2327,25.86,3,4,7,5,0,0.12,0.15,0.27,transfermarkt_datasets,False,2026-11-09
+Warren Zaïre-Emery,France,MF,MF (CM),Paris Saint-Germain,20,2006,176cm,tm_810092,32,2454,27.27,3,4,7,3,0,0.11,0.15,0.26,transfermarkt_datasets,False,2026-11-09
+Pablo Pagis,France,FW,FW (WM),FC Lorient,24,2002,180cm,tm_810411,28,1772,19.69,10,5,15,1,0,0.51,0.25,0.76,transfermarkt_datasets,False,2026-11-09
+Eliesse Ben Seghir,Morocco,FW,FW (WM),AS Monaco,21,2005,178cm,tm_810895,2,43,0.48,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Michal,France,FW,FW (WM),AS Monaco,21,2005,185cm,tm_810909,2,58,0.64,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Michal,France,FW,FW (WM),FC Metz,21,2005,185cm,tm_810909,9,207,2.3,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Panos Katseris,Greece,MF,MF (WM),FC Lorient,25,2001,187cm,tm_816308,16,746,8.29,1,2,3,3,0,0.12,0.24,0.36,transfermarkt_datasets,False,2026-11-09
+Tiago Santos,Portugal,DF,DF (FB),LOSC Lille,24,2002,175cm,tm_816580,15,709,7.88,0,1,1,0,0,0.0,0.13,0.13,transfermarkt_datasets,False,2026-11-09
+Otávio,Brazil,DF,DF (CB),Paris FC,24,2002,188cm,tm_818495,23,1904,21.16,1,0,1,6,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Nidal Celik,Bosnia-Herzegovina,DF,DF (CB),RC Lens,20,2006,192cm,tm_819566,8,618,6.87,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bamba Dieng,Senegal,FW,FW (AM),FC Lorient,26,2000,178cm,tm_822458,22,1219,13.54,10,1,11,2,0,0.74,0.07,0.81,transfermarkt_datasets,False,2026-11-09
+Sékou Doucouré,Mali,DF,DF (CB),FC Nantes,21,2005,187cm,tm_825438,1,45,0.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lilian Raolisoa,France,DF,DF (FB),Angers SCO,26,2000,178cm,tm_829874,32,1969,21.88,2,4,6,3,0,0.09,0.18,0.27,transfermarkt_datasets,False,2026-11-09
+Lohann Doucet,Burkina Faso,MF,MF (DM),Paris FC,24,2002,180cm,tm_830265,5,119,1.32,1,0,1,2,0,0.76,0.0,0.76,transfermarkt_datasets,False,2026-11-09
+Marvin Senaya,Ghana,DF,DF (FB),AJ Auxerre,25,2001,181cm,tm_830890,25,1785,19.83,1,0,1,6,0,0.05,0.0,0.05,transfermarkt_datasets,False,2026-11-09
+Morgan Bokele,Cameroon,FW,FW (WM),FC Metz,22,2004,175cm,tm_838562,10,221,2.46,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Valentín Barco,Argentina,MF,MF (CM),RC Strasbourg Alsace,22,2004,172cm,tm_849410,27,2171,24.12,2,4,6,5,0,0.08,0.17,0.25,transfermarkt_datasets,False,2026-11-09
+Amine Sbaï,Morocco,FW,FW (WM),Angers SCO,26,2000,175cm,tm_851220,25,1834,20.38,3,1,4,1,0,0.15,0.05,0.2,transfermarkt_datasets,False,2026-11-09
+Ismaël Guerti,Morocco,MF,MF (AM),FC Metz,22,2004,178cm,tm_860053,3,25,0.28,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maxi Oyedele,Poland,MF,MF (DM),RC Strasbourg Alsace,22,2004,183cm,tm_863204,8,447,4.97,1,0,1,3,0,0.2,0.0,0.2,transfermarkt_datasets,False,2026-11-09
+Lucas Beraldo,Brazil,DF,DF (CB),Paris Saint-Germain,23,2003,186cm,tm_872171,20,1571,17.46,2,1,3,2,0,0.11,0.06,0.17,transfermarkt_datasets,False,2026-11-09
+Rafik Messali,Algeria,DF,DF (FB),FC Toulouse,23,2003,177cm,tm_883865,12,501,5.57,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hamza Igamane,Morocco,FW,FW (AM),LOSC Lille,24,2002,181cm,tm_885445,13,428,4.76,5,1,6,2,0,1.05,0.21,1.26,transfermarkt_datasets,False,2026-11-09
+Ethan Nwaneri,England,MF,MF (AM),Olympique Marseille,19,2007,176cm,tm_890719,9,322,3.58,2,1,3,1,0,0.56,0.28,0.84,transfermarkt_datasets,False,2026-11-09
+Antoine Mendy,Senegal,DF,DF (CB),OGC Nice,22,2004,187cm,tm_891998,25,2098,23.31,1,0,1,5,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Marius Broholm,Norway,FW,FW (WM),LOSC Lille,22,2004,176cm,tm_903359,11,272,3.02,1,1,2,0,0,0.33,0.33,0.66,transfermarkt_datasets,False,2026-11-09
+Ethan Mbappé,France,FW,FW (WM),LOSC Lille,20,2006,180cm,tm_903666,18,559,6.21,3,1,4,1,0,0.48,0.16,0.64,transfermarkt_datasets,False,2026-11-09
+Senny Mayulu,France,MF,MF (CM),Paris Saint-Germain,20,2006,183cm,tm_903693,26,1682,18.69,4,4,8,2,0,0.21,0.21,0.43,transfermarkt_datasets,False,2026-11-09
+Louis Mouton,France,MF,MF (AM),Angers SCO,24,2002,180cm,tm_904662,32,1905,21.17,2,1,3,2,0,0.09,0.05,0.14,transfermarkt_datasets,False,2026-11-09
+Mamadou Sarr,Senegal,DF,DF (CB),RC Strasbourg Alsace,21,2005,194cm,tm_910905,15,1305,14.5,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohamed Kaba,Guinea,MF,MF (CM),FC Nantes,25,2001,185cm,tm_911328,12,925,10.28,0,2,2,2,0,0.0,0.19,0.19,transfermarkt_datasets,False,2026-11-09
+Désiré Doué,France,FW,FW (WM),Paris Saint-Germain,21,2005,181cm,tm_914562,23,1356,15.07,7,6,13,0,0,0.46,0.4,0.86,transfermarkt_datasets,False,2026-11-09
+Rémy Labeau Lascary,France,FW,FW (AM),Stade Brestois 29,23,2003,184cm,tm_917778,27,1195,13.28,5,1,6,2,0,0.38,0.08,0.45,transfermarkt_datasets,False,2026-11-09
+Paris Brunner,Germany,FW,FW (AM),AS Monaco,20,2006,186cm,tm_918414,7,127,1.41,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lamine Camara,Senegal,MF,MF (CM),AS Monaco,22,2004,174cm,tm_918969,24,1851,20.57,3,4,7,6,0,0.15,0.19,0.34,transfermarkt_datasets,False,2026-11-09
+Tochukwu Nnadi,Nigeria,MF,MF (DM),Olympique Marseille,23,2003,176cm,tm_920470,8,353,3.92,0,1,1,1,0,0.0,0.26,0.26,transfermarkt_datasets,False,2026-11-09
+Vincent Burlet,Belgium,MF,MF (WM),LOSC Lille,21,2005,180cm,tm_920939,1,18,0.2,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Axel Camblan,France,FW,FW (WM),Stade Brestois 29,23,2003,174cm,tm_924800,1,11,0.12,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arthur Vermeeren,Belgium,MF,MF (DM),Olympique Marseille,21,2005,180cm,tm_926694,20,823,9.14,0,1,1,1,0,0.0,0.11,0.11,transfermarkt_datasets,False,2026-11-09
+Lucas Høgsberg,Denmark,DF,DF (CB),RC Strasbourg Alsace,20,2006,187cm,tm_926978,24,1798,19.98,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahim Salah,Morocco,FW,FW (WM),Stade Rennais FC,25,2001,186cm,tm_928323,2,33,0.37,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Djaoui Cissé,France,MF,MF (CM),Stade Rennais FC,22,2004,188cm,tm_931160,24,982,10.91,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Samuel Amo-Ameyaw,England,FW,FW (WM),RC Strasbourg Alsace,20,2006,174cm,tm_933900,24,1041,11.57,2,2,4,2,0,0.17,0.17,0.35,transfermarkt_datasets,False,2026-11-09
+Mathieu Acapandié,Madagascar,DF,DF (FB),FC Nantes,22,2004,182cm,tm_944355,6,259,2.88,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ali Youssif,Libya,DF,DF (CB),FC Nantes,25,2001,188cm,tm_944724,13,968,10.76,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kassoum Ouattara,France,DF,DF (FB),AS Monaco,22,2004,184cm,tm_947360,15,970,10.78,0,3,3,3,0,0.0,0.28,0.28,transfermarkt_datasets,False,2026-11-09
+Pape Demba Diop,Senegal,MF,MF (CM),FC Toulouse,23,2003,182cm,tm_949113,15,1187,13.19,1,2,3,2,0,0.08,0.15,0.23,transfermarkt_datasets,False,2026-11-09
+Damián Pizarro,Chile,FW,FW (AM),Le Havre AC,21,2005,187cm,tm_950593,2,26,0.29,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Saël Kumbedi,France,DF,DF (FB),Olympique Lyon,21,2005,175cm,tm_951579,1,66,0.73,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Afonso Moreira,Portugal,FW,FW (WM),Olympique Lyon,21,2005,176cm,tm_952282,27,1719,19.1,4,8,12,3,0,0.21,0.42,0.63,transfermarkt_datasets,False,2026-11-09
+Ernest Nuamah,Ghana,FW,FW (WM),Olympique Lyon,23,2003,178cm,tm_955070,3,32,0.36,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Nhoa Sangui,France,DF,DF (FB),Paris FC,20,2006,178cm,tm_955281,26,1734,19.27,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dan Sinaté,Mali,DF,DF (FB),Angers SCO,20,2006,181cm,tm_955354,3,31,0.34,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Fodé Sylla,France,MF,MF (DM),RC Lens,20,2006,182cm,tm_955359,4,97,1.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abakar Sylla,Cote d'Ivoire,DF,DF (CB),RC Strasbourg Alsace,24,2002,188cm,tm_962555,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abakar Sylla,Cote d'Ivoire,DF,DF (CB),FC Nantes,24,2002,188cm,tm_962555,2,64,0.71,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dermane Karim,Togo,MF,MF (AM),FC Lorient,23,2003,178cm,tm_969447,30,1361,15.12,1,2,3,3,0,0.07,0.13,0.2,transfermarkt_datasets,False,2026-11-09
+Jacques Ekomié,Gabon,DF,DF (FB),Angers SCO,23,2003,179cm,tm_970279,32,2240,24.89,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Endrick,Brazil,FW,FW (AM),Olympique Lyon,20,2006,172cm,tm_971570,16,1224,13.6,5,7,12,3,0,0.37,0.51,0.88,transfermarkt_datasets,False,2026-11-09
+Adama Camara,France,MF,MF (DM),Paris FC,30,1996,180cm,tm_973949,29,2172,24.13,1,0,1,8,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Aladji Bamba,France,MF,MF (DM),AS Monaco,20,2006,181cm,tm_975347,18,815,9.06,0,2,2,2,0,0.0,0.22,0.22,transfermarkt_datasets,False,2026-11-09
+Pathé Mboup,Senegal,FW,FW (WM),Stade Brestois 29,23,2003,175cm,tm_979551,28,1048,11.64,1,0,1,6,0,0.09,0.0,0.09,transfermarkt_datasets,False,2026-11-09
+Nordan Mukiele,France,FW,FW (WM),Stade Rennais FC,20,2006,184cm,tm_986285,8,90,1.0,1,0,1,0,0,1.0,0.0,1.0,transfermarkt_datasets,False,2026-11-09
+Sidiki Chérif,Guinea,FW,FW (AM),Angers SCO,20,2006,188cm,tm_986288,19,1164,12.93,4,0,4,3,0,0.31,0.0,0.31,transfermarkt_datasets,False,2026-11-09
+Andrija Bulatovic,Montenegro,MF,MF (CM),RC Lens,20,2006,180cm,tm_986291,19,753,8.37,0,4,4,2,0,0.0,0.48,0.48,transfermarkt_datasets,False,2026-11-09
+Mathis Saka,France,MF,MF (AM),FC Toulouse,20,2006,172cm,tm_986310,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Santiago Hidalgo,Argentina,FW,FW (AM),FC Toulouse,21,2005,174cm,tm_989574,28,1303,14.48,4,6,10,4,0,0.28,0.41,0.69,transfermarkt_datasets,False,2026-11-09
+Ousmane Touré,France,DF,DF (CB),LOSC Lille,21,2005,187cm,tm_990732,1,52,0.58,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Terry Yegbe,Ghana,DF,DF (CB),FC Metz,25,2001,195cm,tm_991054,24,1966,21.84,0,1,1,3,0,0.0,0.05,0.05,transfermarkt_datasets,False,2026-11-09
+Abdoul Ouattara,Cote d'Ivoire,DF,DF (FB),RC Strasbourg Alsace,21,2005,180cm,tm_991487,28,1764,19.6,2,1,3,2,0,0.1,0.05,0.15,transfermarkt_datasets,False,2026-11-09
+Martial Godo,Cote d'Ivoire,FW,FW (WM),RC Strasbourg Alsace,23,2003,177cm,tm_992686,28,1587,17.63,10,2,12,2,0,0.57,0.11,0.68,transfermarkt_datasets,False,2026-11-09
+Jérémy Jacquet,France,DF,DF (CB),Stade Rennais FC,21,2005,190cm,tm_1004301,19,1673,18.59,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Zoumana Diallo,France,FW,FW (AM),OGC Nice,21,2005,185cm,tm_1004479,1,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mathys de Carvalho,Portugal,MF,MF (DM),Olympique Lyon,21,2005,183cm,tm_1004486,11,290,3.22,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dehmaine Tabibou,France,MF,MF (CM),FC Nantes,21,2005,183cm,tm_1004619,27,1251,13.9,1,0,1,4,0,0.07,0.0,0.07,transfermarkt_datasets,False,2026-11-09
+George Ilenikhena,Nigeria,FW,FW (AM),AS Monaco,20,2006,185cm,tm_1004834,15,376,4.18,2,0,2,0,0,0.48,0.0,0.48,transfermarkt_datasets,False,2026-11-09
+Christian Mawissa,France,DF,DF (CB),AS Monaco,21,2005,184cm,tm_1005240,18,1191,13.23,0,0,0,4,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jaydee Canvot,France,DF,DF (CB),FC Toulouse,20,2006,188cm,tm_1006411,2,180,2.0,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Junior Diaz,Cote d'Ivoire,DF,DF (CB),Stade Brestois 29,23,2003,193cm,tm_1009596,20,1560,17.33,0,1,1,4,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Mathis Amougou,France,MF,MF (CM),RC Strasbourg Alsace,20,2006,177cm,tm_1010854,12,406,4.51,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ryan Rodin,France,FW,FW (AM),AJ Auxerre,20,2006,194cm,tm_1010856,3,23,0.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Junior Mwanga,France,MF,MF (DM),RC Strasbourg Alsace,23,2003,184cm,tm_1011200,5,379,4.21,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Junior Mwanga,France,MF,MF (DM),FC Nantes,23,2003,184cm,tm_1011200,15,1263,14.03,1,1,2,2,0,0.07,0.07,0.14,transfermarkt_datasets,False,2026-11-09
+Ngal'ayel Mukau,DR Congo,MF,MF (DM),LOSC Lille,22,2004,186cm,tm_1016015,30,1540,17.11,1,0,1,3,0,0.06,0.0,0.06,transfermarkt_datasets,False,2026-11-09
+Ismaëlo Ganiou,France,DF,DF (CB),RC Lens,21,2005,182cm,tm_1020191,23,2014,22.38,3,0,3,2,0,0.13,0.0,0.13,transfermarkt_datasets,False,2026-11-09
+Justin Bourgault,France,DF,DF (FB),Stade Brestois 29,21,2005,185cm,tm_1030153,1,15,0.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Michel Mboula,Gabon,DF,DF (CB),FC Metz,23,2003,185cm,tm_1038308,14,746,8.29,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kendry Páez,Ecuador,MF,MF (AM),RC Strasbourg Alsace,19,2007,178cm,tm_1052439,15,420,4.67,1,0,1,0,0,0.21,0.0,0.21,transfermarkt_datasets,False,2026-11-09
+Quentin Ndjantou,France,FW,FW (WM),Paris Saint-Germain,19,2007,182cm,tm_1053208,10,354,3.93,1,1,2,1,0,0.25,0.25,0.51,transfermarkt_datasets,False,2026-11-09
+Joaquín Panichelli,Argentina,FW,FW (AM),RC Strasbourg Alsace,24,2002,190cm,tm_1064871,27,2196,24.4,16,1,17,3,0,0.66,0.04,0.7,transfermarkt_datasets,False,2026-11-09
+Rabby Nzingoula,France,MF,MF (DM),RC Strasbourg Alsace,21,2005,183cm,tm_1068110,4,49,0.54,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hilan Hamzaoui Slimani,Algeria,DF,DF (CB),Olympique Marseille,20,2006,187cm,tm_1070591,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dro Fernández,Spain,MF,MF (AM),Paris Saint-Germain,18,2008,180cm,tm_1071596,12,682,7.58,1,0,1,0,0,0.13,0.0,0.13,transfermarkt_datasets,False,2026-11-09
+Emmanuel Biumla,France,DF,DF (CB),Angers SCO,21,2005,185cm,tm_1071956,9,383,4.26,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arthur Avom,Cameroon,MF,MF (CM),FC Lorient,22,2004,173cm,tm_1074628,31,2115,23.5,2,1,3,3,0,0.09,0.04,0.13,transfermarkt_datasets,False,2026-11-09
+Marius Courcoul,France,MF,MF (DM),Angers SCO,19,2007,182cm,tm_1075575,18,362,4.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Seny Koumbassa,France,DF,DF (CB),FC Toulouse,19,2007,194cm,tm_1075583,9,441,4.9,1,0,1,0,0,0.2,0.0,0.2,transfermarkt_datasets,False,2026-11-09
+Noah Nsoki,France,FW,FW (WM),Paris Saint-Germain,19,2007,185cm,tm_1077674,1,7,0.08,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Noah Edjouma,France,FW,FW (WM),FC Toulouse,21,2005,182cm,tm_1078326,12,248,2.76,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Noah Edjouma,France,FW,FW (WM),LOSC Lille,21,2005,182cm,tm_1078326,3,91,1.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Anthony Bermont,France,FW,FW (WM),RC Lens,21,2005,187cm,tm_1088110,10,95,1.06,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Arsène Kouassi,Burkina Faso,DF,DF (FB),FC Lorient,22,2004,178cm,tm_1088199,31,2612,29.02,2,8,10,4,0,0.07,0.28,0.34,transfermarkt_datasets,False,2026-11-09
+Moïse Bombito,Canada,DF,DF (CB),OGC Nice,26,2000,190cm,tm_1089202,2,146,1.62,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Telli Siwe,France,DF,DF (CB),AJ Auxerre,22,2004,185cm,tm_1091353,4,315,3.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lanroy Machine,France,FW,FW (AM),Angers SCO,21,2005,183cm,tm_1096744,22,505,5.61,1,0,1,1,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Kaïl Boudache,Algeria,FW,FW (WM),OGC Nice,20,2006,,tm_1097113,13,528,5.87,1,0,1,1,0,0.17,0.0,0.17,transfermarkt_datasets,False,2026-11-09
+Ayyoub Bouaddi,Morocco,MF,MF (CM),LOSC Lille,19,2007,185cm,tm_1097139,30,2328,25.87,0,1,1,7,0,0.0,0.04,0.04,transfermarkt_datasets,False,2026-11-09
+Cléo Mélières,France,DF,DF (FB),FC Metz,21,2005,175cm,tm_1099860,2,30,0.33,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Justin Kalumba,France,FW,FW (WM),Angers SCO,22,2004,171cm,tm_1101641,4,225,2.5,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Marius Louër,France,DF,DF (FB),Angers SCO,19,2007,181cm,tm_1103652,9,541,6.01,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Prosper Peter,France,FW,FW (AM),Angers SCO,19,2007,188cm,tm_1103958,29,1266,14.07,5,0,5,0,0,0.36,0.0,0.36,transfermarkt_datasets,False,2026-11-09
+Enzo Molebe,France,FW,FW (AM),Olympique Lyon,19,2007,178cm,tm_1106860,1,9,0.1,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahim Osman,Ghana,FW,FW (WM),AJ Auxerre,22,2004,179cm,tm_1110406,14,623,6.92,0,2,2,0,0,0.0,0.29,0.29,transfermarkt_datasets,False,2026-11-09
+Ibou Sané,Senegal,FW,FW (AM),FC Metz,21,2005,179cm,tm_1111776,16,536,5.96,1,2,3,2,0,0.17,0.34,0.5,transfermarkt_datasets,False,2026-11-09
+Sadibou Sané,Senegal,DF,DF (CB),FC Metz,22,2004,184cm,tm_1111777,23,1941,21.57,2,1,3,5,0,0.09,0.05,0.14,transfermarkt_datasets,False,2026-11-09
+Kojo Peprah Oppong,Ghana,DF,DF (CB),OGC Nice,22,2004,185cm,tm_1113451,29,2429,26.99,1,0,1,4,0,0.04,0.0,0.04,transfermarkt_datasets,False,2026-11-09
+Ange Lago,Cote d'Ivoire,FW,FW (AM),Olympique Marseille,22,2004,183cm,tm_1117771,2,48,0.53,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Steeve Kango,France,DF,DF (FB),Olympique Lyon,20,2006,181cm,tm_1119391,4,77,0.86,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Herba Guirassy,France,FW,FW (WM),FC Nantes,20,2006,186cm,tm_1119453,20,819,9.1,2,1,3,2,0,0.22,0.11,0.33,transfermarkt_datasets,False,2026-11-09
+Louis Leroux,France,MF,MF (AM),FC Nantes,20,2006,184cm,tm_1119456,23,1444,16.04,1,1,2,2,0,0.06,0.06,0.12,transfermarkt_datasets,False,2026-11-09
+Daren Mosengo,France,MF,MF (DM),Le Havre AC,20,2006,188cm,tm_1119880,7,103,1.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Enzo Koffi,France,DF,DF (FB),Le Havre AC,20,2006,183cm,tm_1119881,14,380,4.22,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Juma Bah,Sierra Leone,DF,DF (CB),OGC Nice,20,2006,195cm,tm_1121298,26,1954,21.71,0,0,0,7,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Samir El Mourabet,Morocco,MF,MF (CM),RC Strasbourg Alsace,21,2005,187cm,tm_1130514,33,2137,23.74,1,3,4,4,0,0.04,0.13,0.17,transfermarkt_datasets,False,2026-11-09
+Ibrahim Yayiya Kanté,France,FW,FW (WM),Stade Brestois 29,19,2007,,tm_1131159,1,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Robinio Vaz,France,FW,FW (AM),Olympique Marseille,19,2007,185cm,tm_1131161,14,373,4.14,4,2,6,2,0,0.97,0.48,1.45,transfermarkt_datasets,False,2026-11-09
+Yaya Diémé,Senegal,FW,FW (WM),RC Strasbourg Alsace,19,2007,180cm,tm_1133733,3,155,1.72,0,1,1,2,0,0.0,0.58,0.58,transfermarkt_datasets,False,2026-11-09
+Harouna Djibirin,Cameroon,FW,FW (WM),Angers SCO,20,2006,175cm,tm_1133929,15,323,3.59,2,1,3,2,0,0.56,0.28,0.84,transfermarkt_datasets,False,2026-11-09
+Brad-Hamilton Mantsounga,Congo,DF,DF (CB),OGC Nice,19,2007,182cm,tm_1134110,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hamza Koutoune,Morocco,DF,DF (FB),OGC Nice,20,2006,177cm,tm_1134250,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Abdelhamid Ait Boudlal,Morocco,DF,DF (CB),Stade Rennais FC,20,2006,190cm,tm_1134251,20,1402,15.58,2,1,3,3,0,0.13,0.06,0.19,transfermarkt_datasets,False,2026-11-09
+Kader Meïté,Cote d'Ivoire,FW,FW (AM),Stade Rennais FC,19,2007,193cm,tm_1141560,17,530,5.89,3,2,5,0,0,0.51,0.34,0.85,transfermarkt_datasets,False,2026-11-09
+Daniel Semedo,Portugal,MF,MF (CM),FC Lorient,23,2003,177cm,tm_1144121,1,10,0.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Luck Zogbé,Cote d'Ivoire,DF,DF (FB),Stade Brestois 29,21,2005,178cm,tm_1144999,9,285,3.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Aarón Anselmino,Argentina,DF,DF (CB),RC Strasbourg Alsace,21,2005,186cm,tm_1145504,3,15,0.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Gessime Yassine,Morocco,FW,FW (WM),RC Strasbourg Alsace,21,2005,172cm,tm_1151929,12,510,5.67,0,2,2,0,0,0.0,0.35,0.35,transfermarkt_datasets,False,2026-11-09
+Yassir Zabiri,Morocco,FW,FW (AM),Stade Rennais FC,21,2005,182cm,tm_1153105,6,42,0.47,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Amady Camara,Mali,FW,FW (AM),FC Nantes,21,2005,180cm,tm_1155608,10,162,1.8,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rayan Fofana,France,FW,FW (AM),RC Lens,20,2006,187cm,tm_1160814,25,785,8.72,5,1,6,0,0,0.57,0.11,0.69,transfermarkt_datasets,False,2026-11-09
+Noam Obougou,France,FW,FW (AM),Le Havre AC,20,2006,,tm_1162654,5,99,1.1,1,0,1,0,0,0.91,0.0,0.91,transfermarkt_datasets,False,2026-11-09
+Nouhoum Kamissoko,Mali,MF,MF (DM),Olympique Marseille,22,2004,183cm,tm_1164662,3,20,0.22,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Raphaël Le Guen,France,DF,DF (CB),Stade Brestois 29,20,2006,198cm,tm_1166473,6,373,4.14,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Henrick Do Marcolino,France,MF,MF (AM),Stade Rennais FC,20,2006,,tm_1170001,1,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Darryl Bakola,France,MF,MF (AM),Olympique Marseille,19,2007,178cm,tm_1170286,8,68,0.76,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Lucas Rosier,France,FW,FW (WM),Stade Rennais FC,19,2007,171cm,tm_1170313,2,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tyrese Noubissie,France,MF,MF (CM),RC Strasbourg Alsace,17,2009,188cm,tm_1170718,4,55,0.61,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Martin Bley,Burkina Faso,MF,MF (AM),FC Lorient,20,2006,,tm_1173050,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mohamed Dao,Cote d'Ivoire,FW,FW (AM),Paris FC,19,2007,175cm,tm_1173868,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tidiane Devernois,France,MF,MF (CM),AJ Auxerre,19,2007,187cm,tm_1174032,2,8,0.09,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bahmed Deuff,Mauritania,MF,MF (DM),FC Nantes,20,2006,194cm,tm_1176215,11,241,2.68,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Erawan Garnier,Thailand,FW,FW (WM),RC Lens,20,2006,180cm,tm_1176271,1,6,0.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mahamadou Nagida,Cameroon,DF,DF (FB),Stade Rennais FC,21,2005,176cm,tm_1176345,19,798,8.87,0,0,0,2,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Idrissa Gueye,Senegal,FW,FW (AM),FC Metz,20,2006,185cm,tm_1178488,3,131,1.46,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Alpha Touré,Senegal,MF,MF (DM),FC Metz,20,2006,180cm,tm_1178489,30,1602,17.8,0,1,1,5,0,0.0,0.06,0.06,transfermarkt_datasets,False,2026-11-09
+Kenny Quetant,France,FW,FW (AM),Le Havre AC,20,2006,189cm,tm_1178695,9,373,4.14,1,0,1,1,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Abdoulaye Faye,Senegal,DF,DF (CB),FC Lorient,22,2004,191cm,tm_1182738,17,1446,16.07,0,0,0,8,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Soriba Diaoune,France,FW,FW (WM),LOSC Lille,19,2007,174cm,tm_1184007,10,178,1.98,1,1,2,0,0,0.51,0.51,1.01,transfermarkt_datasets,False,2026-11-09
+Mathis Jangéal,France,MF,MF (AM),Paris Saint-Germain,18,2008,180cm,tm_1185887,1,10,0.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ibrahim Mbaye,Senegal,FW,FW (WM),Paris Saint-Germain,18,2008,175cm,tm_1185888,24,998,11.09,3,2,5,0,0,0.27,0.18,0.45,transfermarkt_datasets,False,2026-11-09
+Pierre Mounguengue,France,FW,FW (AM),Paris Saint-Germain,18,2008,182cm,tm_1185913,1,15,0.17,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Kyllian Antonio,France,DF,DF (CB),RC Lens,18,2008,183cm,tm_1186789,4,189,2.1,0,1,1,1,0,0.0,0.48,0.48,transfermarkt_datasets,False,2026-11-09
+Khalis Merah,France,MF,MF (CM),Olympique Lyon,19,2007,178cm,tm_1187942,22,1139,12.66,0,1,1,2,0,0.0,0.08,0.08,transfermarkt_datasets,False,2026-11-09
+Amadou Cissé,Guinea,DF,DF (CB),RC Strasbourg Alsace,20,2006,183cm,tm_1189317,1,90,1.0,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dayann Methalie,France,DF,DF (FB),FC Toulouse,20,2006,188cm,tm_1191444,27,1884,20.93,2,2,4,9,0,0.1,0.1,0.19,transfermarkt_datasets,False,2026-11-09
+Everton,France,MF,MF (DM),OGC Nice,19,2007,181cm,tm_1191473,3,137,1.52,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Hamidou Makalou,Mali,MF,MF (DM),Stade Brestois 29,20,2006,164cm,tm_1200289,17,329,3.66,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ilyas Azizi,France,FW,FW (WM),FC Toulouse,18,2008,173cm,tm_1200417,3,26,0.29,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rémi Himbert,France,FW,FW (WM),Olympique Lyon,18,2008,178cm,tm_1200423,6,129,1.43,1,0,1,0,0,0.7,0.0,0.7,transfermarkt_datasets,False,2026-11-09
+Alexis Vossah,France,MF,MF (CM),FC Toulouse,18,2008,181cm,tm_1200427,23,1093,12.14,1,1,2,5,0,0.08,0.08,0.16,transfermarkt_datasets,False,2026-11-09
+Tadjidine Mmadi,France,FW,FW (WM),Olympique Marseille,19,2007,180cm,tm_1206824,3,42,0.47,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Djibril Coulibaly,France,MF,MF (CM),OGC Nice,18,2008,178cm,tm_1208968,2,11,0.12,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Brian Madjo,England,FW,FW (AM),FC Metz,17,2009,193cm,tm_1226357,5,157,1.74,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Elías Legendre Quiñónez,Ecuador,FW,FW (WM),Stade Rennais FC,18,2008,179cm,tm_1227106,6,41,0.46,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Stephan Zagadou,France,DF,DF (CB),Le Havre AC,18,2008,186cm,tm_1228317,8,498,5.53,1,0,1,0,0,0.18,0.0,0.18,transfermarkt_datasets,False,2026-11-09
+Julián Vignolo,Argentina,FW,FW (AM),FC Toulouse,20,2006,185cm,tm_1234988,13,184,2.04,2,0,2,0,0,0.98,0.0,0.98,transfermarkt_datasets,False,2026-11-09
+Saliou Diop,Senegal,FW,FW (AM),Stade Brestois 29,21,2005,187cm,tm_1237907,2,10,0.11,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Tylel Tati,France,DF,DF (CB),FC Nantes,18,2008,192cm,tm_1241207,20,1724,19.16,0,0,0,5,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rudy Matondo,France,MF,MF (CM),AJ Auxerre,18,2008,180cm,tm_1241211,16,607,6.74,0,0,0,3,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Rudy Matondo,France,MF,MF (CM),Paris FC,18,2008,180cm,tm_1241211,11,745,8.28,2,0,2,1,0,0.24,0.0,0.24,transfermarkt_datasets,False,2026-11-09
+Gabin Bernardeau,France,MF,MF (AM),OGC Nice,20,2006,181cm,tm_1254786,4,93,1.03,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Idrissa Sabaly,France,MF,MF (DM),RC Strasbourg Alsace,19,2007,190cm,tm_1262768,1,57,0.63,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Noham Kamara,France,DF,DF (CB),Olympique Lyon,19,2007,185cm,tm_1275040,2,6,0.07,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Yvan Zaddy,Cote d'Ivoire,MF,MF (DM),AJ Auxerre,20,2006,180cm,tm_1291929,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Believe Munongo,France,MF,MF (CM),FC Metz,17,2009,191cm,tm_1297673,11,428,4.76,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mezian Mesloub,Portugal,MF,MF (CM),RC Lens,17,2009,,tm_1297674,1,11,0.12,1,0,1,0,0,8.33,0.0,8.33,transfermarkt_datasets,False,2026-11-09
+Adil Hamdani,France,FW,FW (WM),Olympique Lyon,17,2009,174cm,tm_1301102,4,24,0.27,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Maxima Goffi,France,DF,DF (CB),LOSC Lille,18,2008,,tm_1306455,1,38,0.42,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jahyann Pandore,France,MF,MF (CM),FC Metz,19,2007,178cm,tm_1306999,4,85,0.94,1,0,1,0,0,1.06,0.0,1.06,transfermarkt_datasets,False,2026-11-09
+Nathan Mbala,DR Congo,FW,FW (AM),FC Metz,18,2008,179cm,tm_1307004,13,435,4.83,2,2,4,0,0,0.41,0.41,0.83,transfermarkt_datasets,False,2026-11-09
+Georges Gomis,Senegal,DF,DF (CB),Le Havre AC,18,2008,184cm,tm_1307109,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Dimitri Lucea,France,DF,DF (CB),Paris Saint-Germain,19,2007,189cm,tm_1314562,2,59,0.66,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bernard Nguene,Cameroon,FW,FW (AM),OGC Nice,20,2006,178cm,tm_1314671,6,133,1.48,0,0,0,1,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Ugo Kadmiri,Morocco,FW,FW (AM),Olympique Marseille,19,2007,194cm,tm_1318474,3,16,0.18,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Jean-Baptiste Bosey,France,FW,FW (AM),RC Strasbourg Alsace,18,2008,,tm_1353609,1,1,0.01,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Mamoudou Cissokho,France,FW,FW (WM),AJ Auxerre,19,2007,181cm,tm_1367596,2,2,0.02,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09
+Bané Diatta,France,MF,MF (DM),Angers SCO,18,2008,,tm_1382453,1,4,0.04,0,0,0,0,0,0.0,0.0,0.0,transfermarkt_datasets,False,2026-11-09

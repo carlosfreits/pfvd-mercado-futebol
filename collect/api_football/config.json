@@ -1,0 +1,18 @@
+{
+  "calendar_seasons": ["2026"],
+  "split_seasons": ["2025-2026", "2026-2027"],
+  "leagues": [
+    {"id": "Belgian_Pro_League", "api_id": 144, "country": "Belgium", "api_names": ["Jupiler Pro League"], "format": "split"},
+    {"id": "Bundesliga", "api_id": 78, "country": "Germany", "api_names": ["Bundesliga"], "format": "split"},
+    {"id": "La_Liga", "api_id": 140, "country": "Spain", "api_names": ["La Liga"], "format": "split"},
+    {"id": "Liga_MX", "api_id": 262, "country": "Mexico", "api_names": ["Liga MX"], "format": "split"},
+    {"id": "Ligue_1", "api_id": 61, "country": "France", "api_names": ["Ligue 1"], "format": "split"},
+    {"id": "Premier_League", "api_id": 39, "country": "England", "api_names": ["Premier League"], "format": "split"},
+    {"id": "Primeira_Liga", "api_id": 94, "country": "Portugal", "api_names": ["Primeira Liga", "Liga Portugal"], "format": "split"},
+    {"id": "Serie_A_TIM", "api_id": 135, "country": "Italy", "api_names": ["Serie A"], "format": "split"},
+    {"id": "Brasileirao_A", "api_id": 71, "country": "Brazil", "api_names": ["Serie A"], "format": "calendar"},
+    {"id": "Brasileirao_B", "api_id": 72, "country": "Brazil", "api_names": ["Serie B"], "format": "calendar"},
+    {"id": "LPF", "api_id": 128, "country": "Argentina", "api_names": ["Liga Profesional Argentina"], "format": "calendar"},
+    {"id": "MLS", "api_id": 253, "country": "USA", "api_names": ["Major League Soccer"], "format": "calendar"}
+  ]
+}
