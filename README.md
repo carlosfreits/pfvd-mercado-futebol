@@ -50,6 +50,11 @@ uv run python -m src.export_figures   # gera article/figures/ e article/facts.js
 | `.streamlit/config.toml` | Tema visual do dashboard |
 | `static/`, `assets/` | Fontes Barlow (licença OFL), desenho do campo e emblema próprio |
 | `src/export_figures.py` | Exportação das figuras e dos números do artigo |
+| `src/build_seasons.py` | Base única de temporadas para novos gráficos |
+| `collect/` | Coleta de dados novos (API-Football e dataset aberto) |
+| `data/open/` | Dados de licença aberta, versionados |
+| `docs/dados.md` | Dicionário de dados, cobertura e limites de cada fonte |
+| `CLAUDE.md` | Instruções do projeto, incluindo como puxar mais dados |
 | `app.py` | Dashboard em Streamlit |
 | `article/figures/` | Figuras geradas por `src/export_figures.py` |
 
@@ -71,7 +76,19 @@ uv run python -m src.export_figures   # gera article/figures/ e article/facts.js
 
 As indicações são um ponto de partida para o scouting, e não recomendações finais.
 
+## Dados mais recentes
+
+O dashboard continua usando o estudo de caso de 2024-25. Para novos gráficos, `uv run python -m src.build_seasons` gera `data/processed/seasons.csv`, com as temporadas abaixo:
+
+| Temporada | Fonte | Onde fica | Limite |
+|---|---|---|---|
+| 2025-2026, 7 ligas europeias | `transfermarkt-datasets` (CC0) | `data/open/` | Só minutos, gols, assistências e cartões, além de posição, idade e valor |
+| 2026 e 2026-2027, em andamento | API-Football, plano Free | Drive (`api_football_dados.zip`) | Só as partidas coletadas desde 08/11/2026 |
+
+O plano Free só libera partidas de ontem a amanhã, então a coleta precisa rodar todos os dias. O passo a passo está em [`CLAUDE.md`](CLAUDE.md), e o que cada recorte permite concluir, em [`docs/dados.md`](docs/dados.md).
+
 ## Fontes e créditos
 
+- **Dados recentes:** [`transfermarkt-datasets`](https://github.com/dcaribou/transfermarkt-datasets), licença CC0 1.0, e [API-Football](https://www.api-football.com/), cujos termos de redistribuição não foram verificados.
 - **Dados:** FBref e Transfermarkt, copiados do repositório [TailUFPB/Esportes-2025](https://github.com/TailUFPB/Esportes-2025), commit `be2711a`. Esse repositório é privado, então o link exige acesso. Os termos de uso das fontes ainda precisam ser verificados.
 - **Pesos e escala da nota:** classe `FootballRating` do mesmo projeto, da Diretoria de Esportes da TAIL.
