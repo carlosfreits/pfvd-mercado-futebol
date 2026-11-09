@@ -32,7 +32,7 @@ from dotenv import load_dotenv
 from mapping import SeasonContext, map_players
 
 SCRAPER_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRAPER_DIR.parents[2]
+REPO_ROOT = SCRAPER_DIR.parents[1]
 DATA_DIR = REPO_ROOT / "data" / "raw" / "api_football"
 ENV_FILE = REPO_ROOT / ".env"
 
