@@ -274,6 +274,42 @@ def market_chart(
     )
 
 
+def market_value_by_league_chart(
+    seasons: pd.DataFrame, season: str, theme: ChartTheme = ARTICLE_THEME
+) -> go.Figure:
+    """Exemplo sobre `data/processed/seasons.csv`: soma do valor de mercado por liga."""
+    rows = seasons[(seasons["season"] == season) & seasons["value_eur_m"].notna()]
+    if rows.empty:
+        raise ValueError(f"A temporada {season} não tem valor de mercado.")
+    # O valor é do jogador, não da passagem: quem trocou de clube conta uma vez, onde mais jogou.
+    players = rows.sort_values("minutes", ascending=False).drop_duplicates("player_id")
+    totals = players.groupby("league")["value_eur_m"].sum().sort_values()
+    labels = [league.replace("_", " ") for league in totals.index]
+    figure = go.Figure(
+        go.Bar(
+            x=totals.tolist(),
+            y=labels,
+            orientation="h",
+            marker={"color": theme.context, "cornerradius": 4},
+            text=[f"€ {_decimal(total / 1000)} bi" for total in totals],
+            textposition="outside",
+            cliponaxis=False,
+            hovertemplate="%{y}: € %{x:,.0f} milhões<extra></extra>",
+        )
+    )
+    figure.update_layout(showlegend=False)
+    # Folga à direita para o rótulo da maior barra não encostar na borda.
+    figure.update_xaxes(title="Soma dos valores de mercado (milhões de euros)", range=[0, totals.max() * 1.15])
+    figure.update_yaxes(showgrid=False)
+    return _apply_layout(
+        figure,
+        f"{labels[-1]} tem o maior valor de mercado em {season}",
+        "Jogadores que atuaram na temporada, cada um contado uma vez. Valor é estimativa, não custo real.",
+        height=max(460, 60 * len(labels) + 270),
+        theme=theme,
+    )
+
+
 def comparison_chart(
     profile: pd.DataFrame, candidate: str, incumbent: str, theme: ChartTheme = ARTICLE_THEME
 ) -> go.Figure:
