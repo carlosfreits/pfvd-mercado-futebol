@@ -76,7 +76,7 @@ def legend_html(theme: ChartTheme) -> str:
         (theme.club, "◆", "Clube analisado"),
         (theme.pick, "●", "Indicados pelas regras"),
         (theme.context, "●", "Outros jogadores"),
-        (theme.focus, "▪", "Jogador em foco no radar"),
+        (theme.focus, "■", "Outro jogador da posição"),
     )
     return "".join(LEGEND_ROW.format(color=color, symbol=symbol, label=label) for color, symbol, label in rows)
 

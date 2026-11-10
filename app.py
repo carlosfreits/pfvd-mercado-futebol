@@ -42,7 +42,7 @@ CHART_TOP_MARGIN = 28
 CHART_RIGHT_MARGIN = 32
 CLUB_SYMBOL = ":blue[◆]"
 PICK_SYMBOL = ":orange[●]"
-FOCUS_SYMBOL = ":primary[▪]"
+FOCUS_SYMBOL = ":green[■]"
 NO_COMPARISON = "Só a mediana da posição"
 HIGHLIGHT_COUNT = 3
 TABLE_COLUMNS = {
@@ -64,13 +64,16 @@ def load_data() -> tuple[pd.DataFrame, dict[str, object]]:
     return load_processed()
 
 
-def show_chart(figure: go.Figure) -> None:
-    """Mostra o título fora do Plotly, que não quebra linha em telas estreitas."""
+def show_chart(figure: go.Figure, key: str) -> None:
+    """Mostra o título fora do Plotly, que não quebra linha em telas estreitas.
+
+    A quebra no meio da frase só serve à figura exportada; no Markdown vira espaço.
+    """
     with st.container(border=True):
         st.subheader(figure.layout.meta["headline"])
-        st.markdown(figure.layout.meta["subtitle"])
+        st.markdown(figure.layout.meta["subtitle"].replace(" <br>", " ").replace("<br>", "  \n"))
         figure.update_layout(title=None, margin={"t": CHART_TOP_MARGIN, "r": CHART_RIGHT_MARGIN})
-        st.plotly_chart(figure, width="stretch", theme=None)
+        st.plotly_chart(figure, width="stretch", theme=None, key=key)
 
 
 def show_diagnosis(players: pd.DataFrame, diagnosis: pd.DataFrame, club: str) -> None:
@@ -82,7 +85,7 @@ def show_diagnosis(players: pd.DataFrame, diagnosis: pd.DataFrame, club: str) ->
             "Mediana da liga": format_number(worst["league_median"]),
         }
     )
-    show_chart(diagnosis_chart(players, diagnosis, club, theme=NIGHT_THEME))
+    show_chart(diagnosis_chart(players, diagnosis, club, theme=NIGHT_THEME), "diagnosis")
     st.caption(
         f"A nota da posição é a média ponderada por minutos e usa {worst['club_players']} jogador(es) nesta posição."
     )
@@ -114,7 +117,7 @@ def show_market(
             "Clubes no mercado": f"{len(report['covered_clubs'])} de {report['clubs_total']}",
         }
     )
-    show_chart(market_chart(players, picks, club, position, budget, theme=NIGHT_THEME))
+    show_chart(market_chart(players, picks, club, position, budget, theme=NIGHT_THEME), "market")
     st.caption(
         "Indicado é quem tem nota acima da média do elenco, cabe no orçamento e custa menos que o "
         "preço esperado por uma diferença maior que o erro típico do modelo."
@@ -150,7 +153,7 @@ def show_decision(players: pd.DataFrame, picks: pd.DataFrame, club: str, positio
     with incumbent_column:
         player_card(group.loc[incumbent].to_dict(), CLUB_SYMBOL, f"Titular do {club}: mais minutos na posição")
 
-    show_chart(comparison_chart(profile, candidate, incumbent, theme=NIGHT_THEME))
+    show_chart(comparison_chart(profile, candidate, incumbent, theme=NIGHT_THEME), "decision")
     with st.expander("Ver como tabela", icon=":material/table_chart:"):
         summary = group.loc[[candidate, incumbent], list(TABLE_COLUMNS)].rename(columns=TABLE_COLUMNS)
         st.dataframe(styled_table(summary, TABLE_DIGITS), hide_index=True, width="stretch")
@@ -200,13 +203,13 @@ def show_players(players: pd.DataFrame, picks: pd.DataFrame, club: str, position
     role = _player_role(group.loc[name], picks, club)
     comparison_role = _player_role(group.loc[comparison], picks, club) if comparison else RadarRole.CLUB
 
-    show_chart(
-        radar_chart(profile, name, position, role, comparison, comparison_role, theme=NIGHT_THEME)
-    )
+    show_chart(radar_chart(profile, name, position, role, theme=NIGHT_THEME), "radar")
     st.caption(
-        "O número em cada eixo é o percentil do jogador em foco. A área do radar muda com a ordem dos eixos, "
-        "então compare eixo por eixo, e não a forma. Em métricas negativas, muitos jogadores empatam no topo."
+        "O número em cada eixo é o percentil do jogador. Leia eixo por eixo: a forma do radar muda com a "
+        "ordem dos eixos. Eventos raros, como cartões vermelhos, aparecem em contagem no subtítulo."
     )
+    if comparison is not None:
+        show_chart(comparison_chart(profile, name, comparison, NIGHT_THEME, role, comparison_role), "players")
 
     card_column, strengths_column = st.columns(2)
     symbol, label = _card_identity(role, club)
