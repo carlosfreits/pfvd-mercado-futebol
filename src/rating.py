@@ -95,6 +95,9 @@ POSITION_WEIGHTS: dict[str, dict[str, float]] = {
 RATE_METRICS = frozenset(
     {"aerials_won_pct", "passes_pct", "gk_save_pct", "gk_passes_pct_launched", "gk_crosses_stopped_pct"}
 )
+# Eventos que quase ninguém tem na temporada. Em percentil, um único cartão derruba o
+# jogador para perto de zero, então os gráficos mostram a contagem em vez do percentil.
+RARE_EVENT_METRICS = frozenset({"cards_red", "own_goals", "errors"})
 GENERAL_POSITION_FALLBACK = {"DF": "CB", "MF": "CM", "FW": "AM"}
 REFERENCE_AGE = 25.0
 
@@ -299,6 +302,7 @@ def percentile_profile(players: pd.DataFrame, position: str, names: list[str]) -
             "weight": abs(weights[metric]),
             "percentile": round(float(ranks.loc[index, metric]), 0),
             "per_90": round(float(values.loc[index, metric]), 2),
+            "season_total": float(group.loc[index, metric]) if pd.notna(group.loc[index, metric]) else 0.0,
         }
         for name in names
         for index in group.index[group["Player"] == name][:1]
@@ -319,20 +323,25 @@ def rank_player_metrics(profile: pd.DataFrame, player: str, position: str) -> pd
 
 
 def lowest_player_metrics(profile: pd.DataFrame, player: str) -> pd.DataFrame:
-    """Ordena todas as métricas do menor percentil para o maior.
+    """Ordena as métricas do menor percentil para o maior.
 
-    Aqui as métricas negativas contam: percentil baixo em cartões é um alerta real, ao
-    contrário do percentil alto, que costuma ser um empate entre quem não recebeu cartão.
+    Eventos raros ficam de fora: um único cartão vermelho vira percentil 3, o que
+    exagera a diferença para quem não recebeu nenhum. Eles aparecem como contagem.
     """
-    rows = profile[profile["Player"] == player]
+    rows = profile[(profile["Player"] == player) & ~profile["metric"].isin(RARE_EVENT_METRICS)]
     return rows.sort_values(["percentile", "weight"], ascending=[True, False]).reset_index(drop=True)
+
+
+def squad_floor(players: pd.DataFrame, club: str, position: str) -> float:
+    """Nota média do elenco na posição, ponderada por minutos; é a nota que um reforço precisa superar."""
+    squad = players[(players["position_group"] == position) & (players["Squad"] == club)]
+    return float(np.average(squad["score"], weights=squad["minutes"])) if len(squad) else 0.0
 
 
 def shortlist(players: pd.DataFrame, club: str, position: str, budget_eur_m: float) -> pd.DataFrame:
     """Lista reforços: melhores que o elenco, dentro do orçamento e baratos além do erro."""
     group = players[players["position_group"] == position]
-    squad = group[group["Squad"] == club]
-    floor = float(np.average(squad["score"], weights=squad["minutes"])) if len(squad) else 0.0
+    floor = squad_floor(players, club, position)
     selected = group[
         group["in_market"]
         & group["undervalued"]
